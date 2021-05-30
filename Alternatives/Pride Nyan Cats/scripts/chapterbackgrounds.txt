@@ -1,0 +1,23 @@
+    "chapters"
+    {
+            1       "background_upward"
+            2       "background_2fort"
+            3       "background_gravelpit"
+            4       "background_mvm"
+			5       "background_xmas2011"
+            6       "title_fullmoon"
+            7       "title_scream_fortress_2017"
+            8       "background_upward"
+    }
+    "BackgroundMaps"
+    {
+           1       "background_upward"
+            2       "background_2fort"
+            3       "background_gravelpit"
+            4       "background_mvm"
+            5       "background_xmas2011"
+            6       "title_fullmoon"
+            7       "title_scream_fortress_2017"
+            8       "background_upward"
+    }
+
