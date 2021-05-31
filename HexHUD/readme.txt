@@ -8,3 +8,4 @@ special thanks to Millie, Peaches, Sammy, Kynsume, huds.tf discord, & more for t
 Patch Notes:
 hex_huda2 
 Fixed background (weird clipping in Loading screen)
+Fixed & added more to "Fat Kitten Edition"
