@@ -588,9 +588,9 @@
 			"defaultFgColor_override" 		"WhiteTransparent"
 			"armedFgColor_override" 		"WhiteTransparent"
 			
-			"BgColor_override" 				"70 151 108 255"
-			"defaultBgColor_override" 		"70 151 108 255"
-			"armedBgColor_override" 		"OrangeLight"
+			"BgColor_override" 				"PictonPurple"
+			"defaultBgColor_override" 		"PictonPurple"
+			"armedBgColor_override" 		"Pink"
 			
 			"pin_to_sibling" 				"DashboardAnchor"
 			"pin_corner_to_sibling" 		"PIN_TOPRIGHT"

@@ -28,8 +28,8 @@
 		"textAlignment"					"center"
 		"wrap"							"1"
 		"centerwrap"					"1"
-		"font"							"Size 24"
-		"fgcolor_override"				"White"
+		"font"							"Nyan18"
+		"fgcolor_override"				"PictonPurple"
 		"AllCaps"						"1"
 		
 		"mouseinputenabled"				"0"
@@ -44,7 +44,7 @@
 		"zpos"							"99"
 		"wide"							"1"
 		"tall"							"40"
-		"bgcolor_override"				"White"
+		"bgcolor_override"				"Pink"
 		
 		"pin_to_sibling"				"Title"
 		"pin_corner_to_sibling"			"PIN_CENTER_LEFT"

@@ -139,94 +139,123 @@
 			"centerwrap"			"1"
 		}
 	}
+	
+	/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////// RIGHT SIDE FRIEND PANEL //////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 	"FriendsContainer"
 	{
-		"ControlName"					"EditablePanel"
-		"fieldname"						"FriendsContainer"
-		"xpos"							"176"
-		"ypos"							"0"
-		"zpos"							"20000"
-		"wide"							"170"
-		"tall"							"28"
-		"visible"						"1"
+		"ControlName"	"EditablePanel"
+		"fieldname"		"FriendsContainer"
+		"xpos"			"r117"
+		"ypos"			"90"
+		"zpos"			"11"
+		"wide"			"130"
+		"tall"			"300"
+		"visible"		"1"
+
+		"bgcolor_override"		"0 0 0 0"
 
 		"TitleLabel"
 		{
-			"ControlName"				"CExLabel"
-			"fieldName"					"TitleLabel"
-			"font"						"Symbols 28"
-			"labelText"					""		//Y
-			"textAlignment"				"center"
-			"xpos"						"0"
-			"ypos"						"0"
-			"wide"						"37"
-			"tall"						"28"
-			"autoResize"				"0"
-			"pinCorner"					"0"
-			"visible"					"1"
-			"enabled"					"1"
-			"fgcolor_override"			"WhiteTransparent"
+			"ControlName"	"CExLabel"
+			"fieldName"		"TitleLabel"
+			"font"			"Nyan18"
+			"labelText"		"#TF_Competitive_Friends"
+			"textAlignment"	"west"
+			"xpos"			"5"
+			"ypos"			"5"
+			"wide"			"f0"
+			"tall"			"30"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"textinsetx"	"0"
+			"fgcolor_override"	"255 255 255 255"
 		}
 
-		"PartySeparationLine"
+		"InnerShadow"
 		{
-			"ControlName"				"EditablePanel"
-			"fieldname"					"PartySeparationLine"
-			"xpos"						"0"
-			"ypos"						"2"
-			"zpos"						"501"
-			"wide"						"1"
-			"tall"						"21"
-			"visible"					"1"
-			"proportionaltoparent"		"1"
-			"mouseinputenabled"			"0"
-
-			"bgcolor_override" 			"WhiteTransparent"
+			"ControlName"	"EditablePanel"
+			"fieldname"		"InnerShadow"
+			"xpos"			"9999"
 		}
 
 		"SteamFriendsList"
 		{
-			"ControlName"				"CSteamFriendsListPanel"
-			"fieldname"					"SteamFriendsList"
-			"xpos"						"0"
-			"ypos"						"2"
-			"zpos"						"20000"
-			"wide"						"165"
-			"tall"						"21"
-			"visible"					"1"
-			"proportionaltoparent"		"1"
-			"bgcolor_override"			"Blank"
+			"ControlName"	"CSteamFriendsListPanel"
+			"fieldname"		"SteamFriendsList"
+			"xpos"			"0"
+			"ypos"			"30"
+			"zpos"			"500"
+			"wide"			"130"
+			"tall"			"265"
+			"visible"		"1"
+			"proportionaltoparent"	"1"
 
-			"columns_count"				"7"
-			"inset_x"					"6"
-			"inset_y"					"0"
-			"row_gap"					"1"
-			"column_gap"				"1"
-			"restrict_width"			"0"
+			"columns_count"	"1"
+			"inset_x"		"10"
+			"inset_y"		"5"
+			"row_gap"		"5"
+			"column_gap"	"20"
+			"restrict_width"	"0"
 
 			"friendpanel_kv"
 			{
-				"wide"					"21"
-				"tall"					"21"
+				"wide"		"100"
+				"tall"		"25"
 			}
 
 			"ScrollBar"
 			{
-				"ControlName"			"ScrollBar"
-				"FieldName"				"ScrollBar"
-				"xpos"					"163"
-				"ypos"					"-3"
-				"zpos"					"21000"
-				"wide"					"2"
-				"tall"					"27"
-				"visible"				"1"
+				"ControlName"	"ScrollBar"
+				"FieldName"		"ScrollBar"
+				"xpos"			"115"
+				"ypos"			"0"
+				"tall"			"f0"
+				"wide"			"3"
+				"zpos"			"1000"
+				"nobuttons"		"1"
 				"proportionaltoparent"	"1"
-				
+
 				"Slider"
 				{
-					"fgcolor_override"	"WhiteTransparent"
+					"fgcolor_override"	"GrayTransparent"
+				}
+		
+				"UpButton"
+				{
+					"ControlName"	"Button"
+					"FieldName"		"UpButton"
+					"visible"		"0"
+				}
+		
+				"DownButton"
+				{
+					"ControlName"	"Button"
+					"FieldName"		"DownButton"
+					"visible"		"0"
 				}
 			}
+		}
+
+		"BelowDarken"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldname"		"BelowDarken"
+			"xpos"			"5"
+			"ypos"			"30"
+			"zpos"			"499"
+			"wide"			"112"
+			"tall"			"280"
+			"visible"		"1"	
+			"PaintBackgroundType"	"0"
+			"proportionaltoparent"	"1"
+			"mouseinputenabled"	"0"
+
+			"bgcolor_override"	"0 0 0 100"
 		}
 	}
 	

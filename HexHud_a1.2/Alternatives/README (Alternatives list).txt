@@ -13,5 +13,5 @@ fullmoon: Pansexual
 scream_fortress: Lesbian
 
 CatEnjoyer Edits - resource\ui\hudammoweapons
-**Moves ammo below the crosshair**
+**Moves ammo & HP towards the crosshair, changes some fonts**
 To implement properly, take the folders out of 'FatKitten Edition' & drag them into your main 'hexhud' folder. It will ask if you want to replace files, say Yes!

@@ -27,6 +27,7 @@ Scheme
 		
 		"Blue"									"100 170 225 255"
 		"BlueLight"								"150 200 220 255"
+
 		"Teal"										"0 128 128 255"
 		
 		"RedSolid"								"220 30 30 255"
@@ -48,12 +49,13 @@ Scheme
 		"MayaInverse"							"170 50 3 255"
 		
 		"Pink" 											"248 139 194 255"
-		"PinkInverse"									"7 116 61 255"
-		
+		"PinkInverse"								"7 116 61 255"
+		"PinkTransp" 								"248 139 194 80"
+			
 		"PictonPurple"								"71 169 250 255"
 		"PurpleInverse"								"184 86 5 255"
 		
-		"PastelViolet"								"202 147 202 255" 
+		"PastelViolet"								"202 147 202 80" 
 		"VioletInverse"								"53 108 53 255"
 		
 		
@@ -529,5 +531,37 @@ Scheme
 		"Main.BottomBorder"									"32"
 		
 		"VguiScreenCursor"									"OrangeLight"
+		
+		///////////////////////////////////////////
+//////////////////CORE COLORS//////////////////
+///////////////////////////////////////////
+        
+        "Flavor"			"73 123 163 255"    //chosen team
+		"FlavorBG"			"0 0 0 0"			//0 0 0 0 for custom BG, same as Flavor for FLV solid BG
+		"FlavorSelect"		"73 123 163 255"	//Same as Flavor for custom BG otherwise 0 0 0 255
+		"FlavorBackpack"	"73 123 163 255"	//Backpack Selections GrayBGDark otherwise
+		
+		"ButtonBG"				"50 50 50 255"			//Standard Button Color
+		"ButtonArmed"		    "73 123 163 255"		//Armed color
+		"ButtonSelect"          "107 107 107 255"
+		
+        "White"				"227 227 227 255"
+        "Black"				"18 17 17 255"
+        
+        "DarkGray"          "57 54 54 255"
+		"DarkGraySolid"     "36 36 36 255"
+        "Gray"              "154 142 142 255"
+        "BrightGray"        "210 200 200 255"  
+        
+		"Red" 			    "245 54 64 255"         //Red team  
+		"Blue"			    "18 127 220 255"        //Blue team
+        "Green"			    "22 182 71 255"         //HP pickup
+
+		"GrayBG"               "74 74 74 255"   //Game menu colors
+		"GrayBGDark"           "57 57 57 255"				
+		"GrayBGDarkest"        "27 27 27 255"	
+		"GrayText"             "127 127 127 255"			
+		"FrameGray"            "170 160 154 255"
+		"BlackBorder"          "27 27 27 255"
 	}
 }

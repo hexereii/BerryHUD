@@ -30,7 +30,7 @@
 	
 	"VersionNumber"
 	{
-		"label" 		"hexhud"
+		"label" 		"HexHud"
 		"command" 		"echo https://www.youtube.com/watch?v=QH2-TGUlwu4"
 		"OnlyAtMenu" 	"1"
 	}

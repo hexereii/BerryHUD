@@ -7,5 +7,6 @@
 //////////////////////////////////////////////////////////////////////////////////////////////
 
 
-//#base "../resource/ui/alternatives/FriendsList_Off.res"		// MAIN MENU FRIENDSLIST DISABLED
-#base "../resource/ui/alternatives/FriendsList_On.res"		// MAIN MENU FRIENDSLIST ENABLED
+//#base "../resource/ui/alternatives/Damage_Center.res"			// DAMAGE UNDER CROSSHAIR ENABLED
+//#base "../resource/ui/alternatives/Damage_Health.res"			// DAMAGE ABOVE HEALTH ENABLED
+#base "../resource/ui/alternatives/Damage_Off.res"			// DAMAGE DISABLED
