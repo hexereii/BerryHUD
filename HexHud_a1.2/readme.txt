@@ -2,8 +2,8 @@
 Welcome to HexHUD!!
 made by Hexereii
 special thanks to Millie, Peaches, Sammy, huds.tf discord, & more for the help in making this possible <3
-https://www.youtube.com/watch?v=QH2-TGUlwu4
-
+also check out my Medic Config;
+https://drive.google.com/file/d/1tKeyJ1UHd_uLR4baXADWk_Rh_VlM06qa/view
 
 Patch Notes:
 hex_huda1.2
