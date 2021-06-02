@@ -20,7 +20,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"AmmoInClip"
-		"font"						"Ammo Regular"
+		"font"						"Aero40"
 		"font_minmode"				"Ammo Minmode"
 		"fgcolor"					"Ammo In Clip"
 		"xpos"						"0"
@@ -44,7 +44,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"AmmoInClipShadow"
-		"font"						"Ammo Regular"
+		"font"						"Aero40"
 		"font_minmode"				"Ammo Minmode"
 		"fgcolor"					"Shadows"
 		"xpos"						"-1"

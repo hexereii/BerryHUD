@@ -67,7 +67,7 @@
 		"enabled"					"1"
 		"labelText"					"%Health%"
 		"textAlignment"				"center"	
-		"font"						"Health Regular"
+		"font"						"Aero40"
 		"font_minmode"				"Health Minmode"
 		"fgcolor"					"Health"
 		
@@ -91,7 +91,7 @@
 		"enabled"					"1"
 		"labelText"					"%Health%"
 		"textAlignment"				"center"	
-		"font"						"Health Regular"
+		"font"						"Aero40"
 		"font_minmode"				"Health Minmode"
 		"fgcolor"					"Shadows"
 		

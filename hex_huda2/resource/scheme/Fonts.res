@@ -621,7 +621,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero"
+				"name"		"HandelGothic BT"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -632,7 +632,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"Aero"
+				"name"	"HandelGothic BT"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -643,7 +643,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"Aero"
+				"name"	"HandelGothic BT"
 				"tall"	"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -654,7 +654,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero"
+				"name"		"HandelGothic BT"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -665,7 +665,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero"
+				"name"		"HandelGothic BT"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -676,7 +676,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero"
+				"name"		"HandelGothic BT"
 				"tall"		"40"
 				"additive"	"0"
 				"antialias" "1"
@@ -687,7 +687,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero"
+				"name"		"HandelGothic BT"
 				"tall"		"42"
 				"additive"	"0"
 				"antialias" "1"
@@ -698,7 +698,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero"
+				"name"		"HandelGothic BT"
 				"tall"		"50"
 				"additive"	"0"
 				"antialias" "1"
@@ -4975,8 +4975,8 @@ Scheme
 		}
 			"15"
 		{
-			"font" "resource/scheme/fonts/Aero.ttf"
-			"name" "Aero"
+			"font" "resource/scheme/fonts/HandelGo.ttf"
+			"name" "HandelGothic BT"
 		}
 			"16"
 		{
