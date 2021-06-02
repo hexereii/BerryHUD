@@ -1,7 +1,8 @@
 
 Welcome to HexHUD!!
 made by Hexereii
-special thanks to Millie, Peaches, Sammy, FlipFTW, Sirc, huds.tf discord, & more for the help in making this possible <3also check out my Medic Config;
+special thanks to Millie, Peaches, Sammy, FlipFTW, Sirc, huds.tf discord, & probably more for the help in making this possible <3
+also, check out my Medic Config;
 https://drive.google.com/file/d/1tKeyJ1UHd_uLR4baXADWk_Rh_VlM06qa/view
 
 TODO LIST;
