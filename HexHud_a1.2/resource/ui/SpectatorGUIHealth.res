@@ -2,17 +2,17 @@
 {
 	"PlayerStatusHealthBonusImage"
 	{
-		"ControlName"				"ImagePanel"
-		"fieldName"					"PlayerStatusHealthBonusImage"
-		"xpos"						"9999"
-		"ypos"						"9999"
-		"zpos"						"-1"
-		"wide"						"15"
-		"tall"						"15"
-		"visible"					"0"
-		"enabled"					"1"
-		"image"						"../hud/health_over_bg"
-		"scaleImage"				"1"	
+		"ControlName"								"ImagePanel"
+		"fieldName"									"PlayerStatusHealthBonusImage"
+		"xpos"										"10"
+		"ypos"										"5"
+		"zpos"										"-10"
+		"wide"										"15"
+		"tall"										"15"
+		"visible"									"0"
+		"enabled"									"1"
+		"image"										"../hud/health_over_bg"
+		"scaleImage"								"1"	
 	}
 	
 	"PlayerStatusHealthValueTarget"
@@ -47,7 +47,6 @@
 		"labeltext"					"%Health%"
 		"font"						"Size 16"
 		"fgcolor_override"			"Shadows"
-		
 		"pin_to_sibling"			"PlayerStatusHealthValueTarget"
 	}
 	
@@ -57,6 +56,7 @@
 		"fieldName"					"PlayerStatusHealthImage"
 		"xpos"						"9999"
 		"tall"						"0"
+		
 	}
 	"PlayerStatusHealthImageBG"
 	{

@@ -2,13 +2,13 @@
 
 event HudHealthBonusPulse
 {
-	Animate	PlayerStatusHealthBonusImage 		Alpha		"235"								Linear	0.0 	0.0
+	Animate	PlayerStatusHealthBonusImage 		Alpha		"235"									Linear	0.0 	0.0
 	
-	Animate PlayerStatusHealthValue				FgColor 	"Health Buff" 						Accel 	0.0		0.0
+	Animate PlayerStatusHealthValue				FgColor 	"WhiteTransparent" 										Accel 	0.0		0.0
 	
-	Animate PlayerStatusHealthValueTarget		FgColor 	"Health Buff Target" 				Accel 	0.0		0.0
+	Animate PlayerStatusHealthValueTarget		FgColor 	"WhiteTransparent" 				Accel 	0.0		0.0
 	
-	Animate PlayerStatusHealthValueSpectator	FgColor 	"Health Buff Spec" 					Accel 	0.0		0.0
+	Animate PlayerStatusHealthValueSpectator	FgColor 	"WhiteTransparent" 					Accel 	0.0		0.0
 	
 	RunEvent HudHealthBonusPulseLoop			0.7
 }
@@ -38,9 +38,9 @@ event HudHealthDyingPulse
 	
 	Animate PlayerStatusHealthBonusImage   Alpha    "50"   Linear   0.2   0.2
 
-	Animate PlayerStatusHealthValueTarget		FgColor 	"Health Hurt Target" 				Linear 	0.0		0.0
+	Animate PlayerStatusHealthValueTarget		FgColor 	"WhiteTransparent" 				Linear 	0.0		0.0
 	
-	Animate PlayerStatusHealthValueSpectator	FgColor 	"Health Hurt Spec" 					Linear 	0.0		0.0
+	Animate PlayerStatusHealthValueSpectator	FgColor 	"WhiteTransparent" 					Linear 	0.0		0.0
 
 	RunEvent HudHealthDyingPulseLoop			0.4
 }

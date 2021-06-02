@@ -10,3 +10,6 @@ hex_huda1.2
 Fixed background (weird clipping in Loading screen)
 Moved friends list to right side of the screen [mainmenuoverride.res, steamfriendpanel.res)
 Changed colour & font of "Find Game" (matchmakingdashboard.res)
+
+hex_huda2
+Changed targetid health to have a transparent cross (spectatorguihealth.res)

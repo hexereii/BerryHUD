@@ -15,15 +15,15 @@ Scheme
 {
 	Colors
 	{
-		"Health"								"255 182 193 255"
+		"Health"								"235 235 235 255"
 
-		"Health Buff"                            "200 162 200 255"
+		"Health Buff"                            "150 200 220 255"
         "Health Buff Target"                    "150 200 220 255"
         "Health Buff Spec"                        "150 200 220 255"
 		
 		"Health Hurt"							"235 235 235 255"
-		"Health Hurt Target"					"0 128 128 255"
-		"Health Hurt Spec"						"0 128 128 255"
+		"Health Hurt Target"					"255 0  0 255"
+		"Health Hurt Spec"						"255 0  0 255"
 		
 		
 		"Ammo In Clip"							"235 235 235 255"
@@ -44,6 +44,10 @@ Scheme
 		
 		"Heal Numbers"							"40 200 110 255"
 		"Last Damage Done"						"235 235 235 255"
+		
+		//Custom for Red Tornado
+		
+		"RTornado" 					"38 12 222 255"
 	}
 }
 
