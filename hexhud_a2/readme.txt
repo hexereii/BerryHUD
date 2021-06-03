@@ -37,4 +37,4 @@ hexhud_a2
 Changed targetid health to have a transparent cross (spectatorguihealth.res)
 Changed some fonts (fonts.res)
 Changed size of damage numbers (Resource/UI/HudDamageAccount.res)
->>>>>>> ea4690f0b7c119c30eaff0351513e184588b1cef:hex_huda2/readme.txt
+Changed it so that when you're being healed, you can see your Medic's Medigun name (chat_english.txt)
