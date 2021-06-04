@@ -6,7 +6,7 @@ special thanks to Millie, Peaches, Sammy, huds.tf discord, & more for the help i
 also check out my Medic Config;
 https://tinyurl.com/hexmedcfg
 
-CURRENT TODO LIST;
+TODO LIST;
 - HexHUD; Highlander version/Prolander/Casual version 
 -Edit scoreboards (9v9/7v7/12v12)
 -Edit Class Select (HL; Make combo & flank class disinction/PL; Change main class & off class distinction/Casual Offense/Defence/Support)
@@ -17,6 +17,10 @@ CURRENT TODO LIST;
 
 Eventually..
 - Get image buttons working & put them on main menu, keep the coloured text-buttons for the in-game pause screen only
+
+
+
+
 
 Patch Notes:
 
@@ -31,3 +35,7 @@ Changed targetid health to have a transparent cross (spectatorguihealth.res)
 Changed some fonts (fonts.res)
 Changed size of damage numbers (Resource/UI/HudDamageAccount.res)
 Changed it so that when you're being healed, you can see your Medic's Medigun name (chat_english.txt)
+
+hexhud_a3
+Changed HP so that the shadow changes colours when you're buffed [may be updated further] (hudanimations_peach.txt)
+Changed default background & fonts on main menu (fonts.res, MainMenuOverride.res, GameMenu.res)
