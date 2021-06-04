@@ -111,13 +111,13 @@
 		{
 			"textinsetx"					"10"
 			"textinsety"					"2"
-			"font"							"Size 14"
+			"font"							"Astral14"
 			"selectedcolor"					"White"
 			"unselectedcolor"				"White"	
-			"defaultBgColor_override"		"Blank"
+			"defaultBgColor_override"		"BlackTransparent"
 			"paintbackground"				"0"
-			"activeborder_override"			"BlueTransparent70"
-			"normalborder_override" 		"BlueTransparent70"
+			"activeborder_override"			"GrayTransparent70"
+			"normalborder_override" 		"GrayTransparent"
 		}
 	}
 	
@@ -135,8 +135,8 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"tabPosition"						"0"
-		"labelText"							"Back (&Q)"
-		"font"								"Size 14"
+		"labelText"							"BACK (&Q)"
+		"font"								"Astral14"
 		"textAlignment"						"center"
 		"AllCaps"							"1"
 		"dulltext"							"0"
@@ -149,8 +149,8 @@
 		
 		"paintbackground" 					"0"
 		
-		"border_default"					"BlueTransparent70"
-		"border_armed"						"OrangeTransparent70"
+		"border_default"					"BlackTransparent70"
+		"border_armed"						"WhiteTransparent"
 	}
 	
 	"CloseButton"
@@ -167,8 +167,8 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"tabPosition"						"0"
-		"labelText"							"Close (&E)"
-		"font"								"Size 14"
+		"labelText"							"CLOSE (&E)"
+		"font"								"Astral14"
 		"textAlignment"						"center"
 		"AllCaps"							"1"
 		"dulltext"							"0"
@@ -181,8 +181,8 @@
 		
 		"paintbackground" 					"0"
 		
-		"border_default"					"BlueTransparent70"
-		"border_armed"						"OrangeTransparent70"
+		"border_default"					"BlackTransparent70"
+		"border_armed"						"WhiteTransparent"
 	}
 	
 	"NotificationsPresentPanel"
