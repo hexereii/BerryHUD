@@ -14,7 +14,7 @@
 		"labelText"								"%button_token%"
 		"textinsetx"							"0"
 		"use_proportional_insets" 				"1"
-		"font"									"Nyan18"
+		"font"									"Astral18"
 		"textAlignment"							"center"
 		"wrap"									"1"
 		"centerwrap"							"1"
@@ -29,11 +29,11 @@
 		"paintbackground"						"0"
 		
 		"defaultFgColor_override"				"White"
-		"armedFgColor_override"					"White"
-		"depressedFgColor_override"				"White"
+		"armedFgColor_override"					"GrayTransparent"
+		"depressedFgColor_override"				"WhiteTransparent"
 		
-		"border_default"						"BlueTransparent70"
-		"border_armed"							"OrangeTransparent70"
+		"border_default"						"0 0 0 0"
+		"border_armed"							"WhiteTransparent"
 	}
 	
 	"MatchmakingBanPanel"

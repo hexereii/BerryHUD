@@ -31,7 +31,13 @@
 	"VersionNumber"
 	{
 		"label" 		"HEXHUD"
-		"command" 		"echo https://www.youtube.com/watch?v=QH2-TGUlwu4"
+		"command" 		"engine echo; echo; echo ---------;
+				echo HexHUD | Current release: June 4, 2021;
+				echo HexHUD | First release: May 30, 2021;
+				echo Made by Hexereii;
+				echo Support | twitter.com/hexereiitf2;
+				echo Updates | github.com/hexereii/HexHUD;
+				echo ---------"
 		"OnlyAtMenu" 	"1"
 	}
 	"Create"

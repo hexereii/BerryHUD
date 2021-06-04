@@ -1,14 +1,10 @@
-
 Welcome to HexHUD!!
 made by Hexereii
-<<<<<<< HEAD:hexhud_a2/readme.txt
-special thanks to Millie, Peaches, Sammy, huds.tf discord, & more for the help in making this possible <3
+
+special thanks to Millie, Peaches, Sammy, Kynsum, Sirc, huds.tf discord, & more for the help in making this possible <3
 also check out my Medic Config;
-=======
-special thanks to Millie, Peaches, Sammy, FlipFTW, Sirc, huds.tf discord, & probably more for the help in making this possible <3
-also, check out my Medic Config;
->>>>>>> ea4690f0b7c119c30eaff0351513e184588b1cef:hex_huda2/readme.txt
-https://drive.google.com/file/d/1tKeyJ1UHd_uLR4baXADWk_Rh_VlM06qa/view
+tinyurl.com/hexmedcfg
+
 
 TODO LIST;
 - HexHUD; Highlander version/Prolander/Casual version 
@@ -24,17 +20,24 @@ Eventually..
 - Get image buttons working & put them on main menu, keep the coloured text-buttons for the in-game pause screen only
 
 Patch Notes:
+
 hexhud_a1.2
 Fixed background (weird clipping in Loading screen)
 Moved friends list to right side of the screen [mainmenuoverride.res, steamfriendpanel.res)
 Changed colour & font of "Find Game" (matchmakingdashboard.res)
 
-<<<<<<< HEAD:hexhud_a2/readme.txt
 hex_huda2
 Changed targetid health to have a transparent cross (spectatorguihealth.res)
-=======
+
 hexhud_a2
 Changed targetid health to have a transparent cross (spectatorguihealth.res)
 Changed some fonts (fonts.res)
 Changed size of damage numbers (Resource/UI/HudDamageAccount.res)
->>>>>>> ea4690f0b7c119c30eaff0351513e184588b1cef:hex_huda2/readme.txt
+
+hexhud_a3
+Changed HP so that the shadow changes colours when you're buffed [may be updated further] (hudanimations_peach.txt)
+Changed default background & fonts on main menu (fonts.res, MainMenuOverride.res, GameMenu.res)
+
+hexhud_a3.1
+Changed "Find a Game" (matchmakingplaylist.res)
+Changed Find a Game menu (mainmenuplaylistentry_sun)

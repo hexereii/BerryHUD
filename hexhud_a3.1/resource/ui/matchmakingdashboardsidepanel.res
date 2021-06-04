@@ -167,6 +167,6 @@
 		"tall"							"410"
 		"visible"						"1"
 		"proportionaltoparent"			"1"
-		"border"						"GrayBlueBorder"
+		"border"						"0 0 0 80"
 	}
 }

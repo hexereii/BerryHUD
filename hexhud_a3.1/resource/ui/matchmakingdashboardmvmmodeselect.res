@@ -246,7 +246,7 @@
 			"enabled"						"1"
 			"PaintBackground"				"1"
 			"PaintBackgroundType"			"3"
-			"bgcolor_override"				"WhiteGray"
+			"bgcolor_override"				"0 0 0 0"
 		}
 
 		"PlayOnCommunityServerExplanation"
