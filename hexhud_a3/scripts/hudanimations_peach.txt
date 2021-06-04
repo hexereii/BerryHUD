@@ -3,14 +3,29 @@
 event HudHealthBonusPulse
 {
 	Animate	PlayerStatusHealthBonusImage 		Alpha		"235"									Linear	0.0 	0.0
-	
-	Animate PlayerStatusHealthValue				FgColor 	"WhiteTransparent" 										Accel 	0.0		0.0
-	
-	Animate PlayerStatusHealthValueTarget		FgColor 	"WhiteTransparent" 				Accel 	0.0		0.0
-	
-	Animate PlayerStatusHealthValueSpectator	FgColor 	"WhiteTransparent" 					Accel 	0.0		0.0
-	
-	RunEvent HudHealthBonusPulseLoop			0.7
+
+    Animate PlayerStatusHealthValueShadow             FgColor        "255 0 0 255"                    Linear     0.0        0.4
+    Animate PlayerStatusHealthValueShadow             FgColor        "255 128 0 255"                    Linear     0.4        0.4
+    Animate PlayerStatusHealthValueShadow             FgColor        "255 255 0 255"                    Linear     0.8        0.4
+    Animate PlayerStatusHealthValueShadow             FgColor        "0 255 0 255"                    Linear     1.2        0.4
+    Animate PlayerStatusHealthValueShadow             FgColor        "0 174 239 255"                    Linear     1.6        0.4
+    Animate PlayerStatusHealthValueShadow             FgColor        "172 59 255 255"                    Linear     2.0        0.4
+	Animate PlayerStatusHealthValueShadow             FgColor        "238 130 238 255"                    Linear     2.4        0.4
+    Animate PlayerStatusHealthValueShadowExtra       Alpha         "255"                               			  Accel     0.0     0.0
+
+    Animate PlayerStatusHealthValueTarget             FgColor     "WhiteTransparent"                 Linear     0.0     0.0
+
+    Animate PlayerStatusHealthValueSpecgui             FgColor     "WhiteTransparent"                     Accel     0.0     0.0
+
+    Animate PlayerStatusHealthValueShadowKiller     FgColor     "WhiteTransparent                 Accel     0.0     0.0
+
+    RunEvent HudHealthBonusPulseLoop                2.8
+}
+
+event HudHealthBonusPulseLoop
+{
+    RunEvent HudHealthBonusPulse                    0.0
+}
 }
 
 event HudHealthBonusPulseLoop

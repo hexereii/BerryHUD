@@ -273,7 +273,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-	Nyan12
+		Nyan12
 		{
 			"1"
 			{
@@ -295,7 +295,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-				Nyan14
+		Nyan14
 		{
 			"1"
 			{
@@ -306,7 +306,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-				Nyan15
+		Nyan15
 		{
 			"1"
 			{
@@ -416,7 +416,106 @@ Scheme
 				"outline"	"0"
 			}
 		}
-
+		Astral
+		{
+			"1"
+			{
+				"name"		"Astral Delight Upright"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}
+		Astral11
+		{
+			"1"
+			{
+				"name"		"Astral Delight Upright"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}
+		Astral12
+		{
+			"1"
+			{
+				"name"		"Astral Delight Upright"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}
+		Astral13
+		{
+			"1"
+			{
+				"name"		"Astral Delight Upright"
+				"tall"		"13"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}
+			Astral14
+		{
+			"1"
+			{
+				"name"		"Astral Delight Upright"
+				"tall"		"13"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}	
+			Astral15
+		{
+			"1"
+			{
+				"name"		"Astral Delight Upright"
+				"tall"		"15"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}	
+					Astral18
+		{
+			"1"
+			{
+				"name"		"Astral Delight Upright"
+				"tall"		"18"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}	
+					Astral24
+		{
+			"1"
+			{
+				"name"		"Astral Delight Upright"
+				"tall"		"15"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}	
+			Astral36
+		{
+			"1"
+			{
+				"name"		"Astral Delight Upright"
+				"tall"		"15"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}	
+		
 	////////////////////// Deli Fonts //////////////////////
 		
 		"MatchPlayerName"
@@ -4992,5 +5091,10 @@ Scheme
 		{
 			"font" "resource/scheme/fonts/Cabin-Regular.ttf"
 			"name" "Cabin Regular"
+		}
+		"19"
+		{
+		"font"  "resource/scheme/fonts/Astral Delight Upright.ttf"
+		"name" "Astral Delight Upright"
+		}
 	}
-}

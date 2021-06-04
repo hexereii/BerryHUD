@@ -30,47 +30,48 @@
 	
 	"VersionNumber"
 	{
-		"label" 		"HexHud"
+		"label" 		"HEXHUD"
 		"command" 		"echo https://www.youtube.com/watch?v=QH2-TGUlwu4"
 		"OnlyAtMenu" 	"1"
 	}
 	"Create"
 	{
-		"label" 		"Resonance"
+		"label" 		"RESONANCE"
 		"command" 		"engine strawberry"
 		"OnlyInGame" "0"
+		"OnlyAtMenu" 	"1"	
 	}
 	"Servers"
 	{
-		"label" 		"Servers" 
+		"label" 		"SERVERS" 
 		"command" 	"OpenServerBrowser"
 	} 
 
 	"Items"
 	{
-		"label" 		"Loadouts"
+		"label" 		"LOADOUTS"
 		"command" 		"engine open_charinfo"
 	}
 	"Store"
 	{
-		"label" 		"Store"
+		"label" 		"STORE"
 		"command" 		"engine open_store"
 	}
 	"Settings"
 	{
-		"label" 		"Settings"
+		"label" 		"SETTINGS"
 		"command" 		"OpenOptionsDialog"
 	}
 
 	"Demoui"
 	{
-		"label" 		"Demoui"
+		"label" 		"DEMOUI"
 		"command" 		"engine demoui"
 		"OnlyAtMenu" 	"1"
 	}
 	"Quit"
 	{
-		"label"	 		"Quit"
+		"label"	 		"QUIT"
 		"command" 		"engine quit"
 	}
 	"Stream"
@@ -116,7 +117,7 @@
 	}
 	"Disconnect"
 	{
-		"label" 		"Disconnect"
+		"label" 		"DISCONNECT"
 		"command" 		"engine disconnect"
 		"OnlyInGame" 	"1"
 	}
