@@ -1,13 +1,13 @@
 
 Welcome to HexHUD!!
 made by Hexereii
-<<<<<<< HEAD:hexhud_a2/readme.txt
+
 special thanks to Millie, Peaches, Sammy, huds.tf discord, & more for the help in making this possible <3
 also check out my Medic Config;
-=======
+
 special thanks to Millie, Peaches, Sammy, FlipFTW, Sirc, huds.tf discord, & probably more for the help in making this possible <3
+
 also, check out my Medic Config;
->>>>>>> ea4690f0b7c119c30eaff0351513e184588b1cef:hex_huda2/readme.txt
 https://drive.google.com/file/d/1tKeyJ1UHd_uLR4baXADWk_Rh_VlM06qa/view
 
 TODO LIST;
