@@ -5,13 +5,11 @@ made by Hexereii
 special thanks to Millie, Peaches, Sammy, huds.tf discord, & more for the help in making this possible <3
 also check out my Medic Config;
 
-special thanks to Millie, Peaches, Sammy, FlipFTW, Sirc, huds.tf discord, & probably more for the help in making this possible <3
+https://tinyurl.com/hexmedcfg
 
-also, check out my Medic Config;
-https://drive.google.com/file/d/1tKeyJ1UHd_uLR4baXADWk_Rh_VlM06qa/view
 
-TODO LIST;
-- HexHUD; Highlander version/Prolander/Casual version 
+CURRENT TODO LIST;
+- HexHUD; Highlander version/Prolander/Casual version
 -Edit scoreboards (9v9/7v7/12v12)
 -Edit Class Select (HL; Make combo & flank class disinction/PL; Change main class & off class distinction/Casual Offense/Defence/Support)
 
@@ -23,6 +21,7 @@ Eventually..
 - Get image buttons working & put them on main menu, keep the coloured text-buttons for the in-game pause screen only
 
 Patch Notes:
+
 hexhud_a1.2
 Fixed background (weird clipping in Loading screen)
 Moved friends list to right side of the screen [mainmenuoverride.res, steamfriendpanel.res)
