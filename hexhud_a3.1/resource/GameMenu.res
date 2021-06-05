@@ -40,13 +40,6 @@
 				echo ---------"
 		"OnlyAtMenu" 	"1"
 	}
-	"Create"
-	{
-		"label" 		"RESONANCE"
-		"command" 		"engine strawberry"
-		"OnlyInGame" "0"
-		"OnlyAtMenu" 	"1"	
-	}
 	"Servers"
 	{
 		"label" 		"SERVERS" 
