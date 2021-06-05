@@ -10,7 +10,7 @@
 		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"	
-		"TFFont"		"HudFontSmall"
+		"TFFont"		"Aero"
 		"TextColor"		"HudOffWhite"
 		"autoResize"	"1"
 	}
@@ -24,7 +24,7 @@
 		"tall"			"128"
 		"visible"		"1"
 		"enabled"		"1"	
-		"TFFont"		"HudFontSmall"
+		"TFFont"		"Aero"
 		"TextColor"		"HudOffWhite"
 		"autoResize"	"1"
 	}	

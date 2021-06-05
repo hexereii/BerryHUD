@@ -40,6 +40,12 @@
 				echo ---------"
 		"OnlyAtMenu" 	"1"
 	}
+	"Create"
+	{
+		"label" 		"RESONANCE"
+		"command" 		"engine strawberry"
+		"OnlyAtMenu" 	"1"	
+	}
 	"Servers"
 	{
 		"label" 		"SERVERS" 
@@ -77,7 +83,7 @@
 	{
 		"label"			"`"
 		"command"		"watch_stream"
-		"tooltip"		"Streams"
+		"tooltip"		"STREAMS"
 		"OnlyAtMenu"	"1"
 	}
 	
@@ -85,7 +91,7 @@
 	{
 		"label"			"1"
 		"command"		"questlog"
-		"tooltip"		"Contracker"
+		"tooltip"		"CONTRACKER"
 		"OnlyAtMenu"	"1"
 	}
 	
@@ -93,7 +99,7 @@
 	{
 		"label"			"}"
 		"command"		"engine con_enable 1;toggleconsole"
-		"tooltip"		"Open Console"
+		"tooltip"		"OPEN CONSOLE"
 		"OnlyAtMenu"	"1"
 	}
 	
@@ -101,7 +107,7 @@
 	{
 		"label"			"I"
 		"command"		"opentf2options"
-		"tooltip"		"Advanced Options"
+		"tooltip"		"ADVANCED OPTIONS"
 		"OnlyAtMenu"	"1"
 	}
 

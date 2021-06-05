@@ -62,6 +62,52 @@
       "bgcolor_override"      "0 0 0 150"
       "border"       "base00border"
    }  
+   "SurfBG"
+   {
+      "ControlName"  "EditablePanel"
+      "fieldName"    "SurfBG"
+      "xpos_minmode" "c-50" //so no double border
+      "xpos"         "99999"  
+      "ypos"         "c"
+      "zpos"         "-1"     
+      "wide"         "100"
+      "tall"         "80"
+      "visible"      "1"
+      "enabled"      "1"
+      "bgcolor_override"      "base3"
+      "border"       "base00border"
+   }  
+   "BhopBG"
+   {
+      "ControlName"  "EditablePanel"
+      "fieldName"    "BhopBG"
+      "xpos_minmode" "c-149" //so no double border
+      "xpos"         "99999"  
+      "ypos"         "c0"
+      "zpos"         "-2"     
+      "wide"         "100"
+      "tall"         "60"
+      "visible"      "1"
+      "enabled"      "1"
+      "bgcolor_override"      "base3"
+      "border"       "base00border"
+   }  
+   "JumpBG"
+   {
+      "ControlName"  "EditablePanel"
+      "fieldName"    "JumpBG"
+      "xpos_minmode" "c+49" //so no double border
+      "xpos"         "99999"  
+      "ypos"         "c0"
+      "zpos"         "-2"     
+      "wide"         "100"
+      "tall"         "60"
+      "visible"      "1"
+      "enabled"      "1"
+      "bgcolor_override"      "base3"
+      "border"       "base00border"
+   }  
+
    "MainLabel"
    {
       "ControlName"  "CExLabel"
@@ -97,6 +143,40 @@
       "textAlignment"   "center"
       "font"         "Aero"
       "fgcolor"      "White"
+   }
+   "BhopLabel"
+   {
+      "ControlName"  "CExLabel"
+      "fieldName"    "BhopLabel"
+      "xpos"         "99999"
+      "xpos_minmode" "c-150"
+      "ypos"         "c"
+      "zpos"         "2"
+      "wide"         "100"
+      "tall"         "20"
+      "visible"      "1"
+      "enabled"      "1"
+      "labelText"    "Bhop"
+      "textAlignment"   "center"
+      "font"         "Aero"
+      "fgcolor"      "base00"
+   }
+   "JumpLabel"
+   {
+      "ControlName"  "CExLabel"
+      "fieldName"    "BhopLabel"
+      "xpos"         "99999"
+      "xpos_minmode" "c+50"
+      "ypos"         "c"
+      "zpos"         "2"
+      "wide"         "100"
+      "tall"         "20"
+      "visible"      "1"
+      "enabled"      "1"
+      "labelText"    "Jump"
+      "textAlignment"   "center"
+      "font"         "Aero"
+      "fgcolor"      "base00"
    }
 
    "scout"
