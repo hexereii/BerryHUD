@@ -41,3 +41,8 @@ Changed default background & fonts on main menu (fonts.res, MainMenuOverride.res
 hexhud_a3.1
 Changed "Find a Game" (matchmakingplaylist.res)
 Changed Find a Game menu (mainmenuplaylistentry_sun)
+Fixed fonts on loadout menu to fit the theme (charinfopanel.res)
+
+hexhud_a3.2
+Removed other class select options besides 'Main' & 'Offclass' (classselection.res)
+Removed "Resonance" button (GameMenu.res & MainMenuOverride.res)
