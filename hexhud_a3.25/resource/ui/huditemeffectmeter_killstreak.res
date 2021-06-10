@@ -43,7 +43,7 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		"visible"				"0"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"#TF_KillStreak"
@@ -53,7 +53,27 @@
 		"font"					"Size 12"
 		"fgcolor_override"      "255 255 255 255"
 	}
-	
+		"ItemEffectMeterLabelnew"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"ItemEffectMeterLabelnew"
+		"xpos"					"25"
+		"ypos"					"27"
+		"zpos"					"2"
+		"wide"					"60"
+		"tall"					"15"
+		"autoResize"			"1"
+		"pinCorner"				"2"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"labelText"				"Frags"
+		"textAlignment"			"center"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"font"					"Aero14"
+		"fgcolor_override"      "255 255 255 255"
+	}
 	
 	"ItemEffectMeter"
 	{	
@@ -114,26 +134,6 @@
 		"font"					"Size 12 Shadow"
 		"fgcolor"				"Shadows"
 		"pin_to_sibling"		"ItemEffectMeterCount1"
-	}
-	"ItemEffectMeterLabel2"
-	{
-		"ControlName"			"CExLabel"
-		"xpos"					"-12"
-		"ypos"					"5"
-		"zpos"					"1"
-		"wide"					"60"
-		"tall"					"25"
-		"pinCorner"				"2"
-		"visible"				"1"
-		"enabled"				"1"
-		"tabPosition"			"0"
-		"labelText"				"#TF_KillStreak"
-		"textAlignment"			"west"
-		"dulltext"				"0"
-		"brighttext"			"0"
-		"font"					"Size 12 Shadow"
-		"fgcolor"				"Shadows"
-		"pin_to_sibling"		"ItemEffectMeterLabel"
 	}
 	
 }
