@@ -11,16 +11,16 @@
 		"delta_item_end_y"		"0"
 		"delta_lifetime"	  	"1.6"
 		"delta_item_font"	  	"Aero"
-		"delta_item_font_big"	"Aero"
+		"delta_item_font_big"	"Aero20"
 	}
 	"DamageAccountValue"
 	{
-		"fgcolor"		"255 0 114 255"
+		"fgcolor"		"255 255 0 255"
 		
 		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValue"
-		"xpos"			"c-73"
-		"ypos"			"c40"
+		"xpos"			"c-200"
+		"ypos"			"c80"
 		"zpos"			"2"
 		"wide"			"150"
 		"tall"			"26"
@@ -28,7 +28,7 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"font"			"Aero"
+		"font"			"Aero20"
 	}
 	"DamageAccountValueShadow"
 	{
@@ -36,8 +36,8 @@
 		
 		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValueShadow"
-		"xpos"			"c-72"
-		"ypos"			"c41"
+		"xpos"			"c-200"
+		"ypos"			"c80"
 		"zpos"			"2"
 		"wide"			"150"
 		"tall"			"26"
@@ -45,6 +45,6 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"font"			"Aero"
+		"font"			"Aero20"
 	}
 }

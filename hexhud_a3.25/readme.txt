@@ -49,3 +49,6 @@ Removed "Resonance" button (GameMenu.res & MainMenuOverride.res)
 
 hexhud_a3.25
 Changed "Killstreak" to "Frags" (huditemeffectmeter_killstreak.res)
+
+hexhud_a3.5
+Modified damage number, moved it above the HP, and changed the colour (HudDamageAccount.res)
