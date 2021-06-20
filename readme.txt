@@ -14,7 +14,9 @@ TODO LIST;
 - Change colours under 'Find Game' menu
 - Maybe add mat_antialias button?
 - Add customizable colour buttons for different things (maybe make a button to make visible/enable these buttons?)
-- Add medigun name to targetid
+- Fix MvM money is alignment
+- Fix Sandman meter
+- Center the current-on-wearer atributes label is not centetred
 
 Eventually..
 - Get image buttons working & put them on main menu, keep the coloured text-buttons for the in-game pause screen only
