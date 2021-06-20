@@ -3,14 +3,14 @@
 	"Custom1"
 	{
 		"label"			"1"
-		"command"		"engine strawberry"	//REPLACE command1 WITH DESIRED COMMAND, **DO NOT REPLACE engine**
+		"command"		"engine "	//REPLACE command1 WITH DESIRED COMMAND, **DO NOT REPLACE engine**
 		"OnlyAtMenu"	"0"					//1=MAIN MENU ONLY		0=ALWAYS SHOW
 	}
 	
 	"Custom2"
 	{
 		"label"			"2"
-		"command"		"engine champ"	//REPLACE command2 WITH DESIRED COMMAND, **DO NOT REPLACE engine**
+		"command"		"engine "	//REPLACE command2 WITH DESIRED COMMAND, **DO NOT REPLACE engine**
 		"OnlyAtMenu"	"0"					//1=MAIN MENU ONLY		0=ALWAYS SHOW
 	}
 	
@@ -31,21 +31,18 @@
 	"VersionNumber"
 	{
 		"label" 		"HEXHUD"
-		"command" 		"engine echo; echo; echo ---------;
+		"command" 		"engine clear
+				echo; echo; echo ---------;
 				echo HexHUD | Current release: June 4, 2021;
 				echo HexHUD | First release: May 30, 2021;
 				echo Made by Hexereii;
 				echo Support | twitter.com/hexereiitf2;
 				echo Updates | github.com/hexereii/HexHUD;
-				echo ---------"
+				echo ---------
+				showconsole"
 		"OnlyAtMenu" 	"1"
 	}
-	"Create"
-	{
-		"label" 		"RESONANCE"
-		"command" 		"engine strawberry"
-		"OnlyAtMenu" 	"1"	
-	}
+
 	"Servers"
 	{
 		"label" 		"SERVERS" 
@@ -116,9 +113,9 @@
 	
 	"Scoreboard"
 	{
-		"label" 		"Resonance"
+		"label" 		"BOMBING BALCONY"
 		"command" 		"engine strawberry"
-		"OnlyInGame" 	"1"
+		"OnlyInGame" 	"0"
 	}
 	"Disconnect"
 	{
@@ -342,7 +339,7 @@
 	{
 		"label"			"`"
 		"command"		"watch_stream"
-		"tooltip"		"Streams"
+		"tooltip"		"STREAMS"
 		"OnlyInGame"	"1"
 	}
 	
@@ -350,7 +347,7 @@
 	{
 		"label"			"1"
 		"command"		"questlog"
-		"tooltip"		"Contracker"
+		"tooltip"		"CONTRACKER"
 		"OnlyInGame"	"1"
 	}
 	
@@ -358,7 +355,7 @@
 	{
 		"label"			"}"
 		"command"		"engine con_enable 1; toggleconsole"
-		"tooltip"		"Open Console"
+		"tooltip"		"OPEN CONSOLE"
 		"OnlyInGame"	"1"
 	}
 	
@@ -366,7 +363,7 @@
 	{
 		"label"			"I"
 		"command"		"opentf2options"
-		"tooltip"		"Advanced Options"
+		"tooltip"		"ADVANCED OPTIONS"
 		"OnlyInGame"	"1"
 	}
 }
