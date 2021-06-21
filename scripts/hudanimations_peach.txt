@@ -26,12 +26,6 @@ event HudHealthBonusPulseLoop
 {
     RunEvent HudHealthBonusPulse                    0.0
 }
-}
-
-event HudHealthBonusPulseLoop
-{
-	RunEvent HudHealthBonusPulse				0.0
-}
 
 event HudHealthBonusPulseStop
 {
