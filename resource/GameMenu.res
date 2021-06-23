@@ -111,12 +111,7 @@
 	
 	// These buttons are only shown while in-game
 	
-	"Scoreboard"
-	{
-		"label" 		"BOMBING BALCONY"
-		"command" 		"engine strawberry"
-		"OnlyInGame" 	"0"
-	}
+
 	"Disconnect"
 	{
 		"label" 		"DISCONNECT"

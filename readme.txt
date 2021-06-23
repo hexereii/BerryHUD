@@ -54,3 +54,6 @@ Changed "Killstreak" to "Frags" (huditemeffectmeter_killstreak.res)
 
 hexhud_a3.5
 Modified damage number, moved it above the HP, and changed the colour (HudDamageAccount.res)
+
+hexhud_a4
+Moved Closed Captionings towards HP (hudlayout_peach.res)
