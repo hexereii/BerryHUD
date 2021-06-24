@@ -9,248 +9,6 @@ Scheme
 	Fonts
 	{
 	////////////////////// Faith Fonts /////////////////////
-	Witch_Outline10
-		{
-			"1"
-			{
-				"name"		"Witches Magic"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
-			Witch10
-		{
-			"1"
-			{
-				"name"		"Witches Magic"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-			Witch12
-		{
-			"1"
-			{
-				"name"		"Witches Magic"
-				"tall"		"12"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		Witch22
-		{
-			"1"
-			{
-				"name"		"Witches Magic"
-				"tall"		"22"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		Faithfont10_outline
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
-		Faithfont10
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"0"
-			}
-		}
-		Faithfont12
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"12"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		Faithfont14_outline
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"14"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
-		Faithfont15
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"15"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		Faithfont16
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"16"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		Faithfont16o
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"16"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
-		Faithfont18
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"18"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		Faithfont18Outline
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"18"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
-		Faithfont20
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"20"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		Faithfont22
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"22"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		Faithfont24
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"24"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		Faithfont24Outline
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"24"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
-		Faithfont28
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"28"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"0"
-			}
-		}
-		Faithfont36
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"36"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		Faithfont36Outline
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"36"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
-		Faithfont48
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"48"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		Faithfont72
-		{
-			"1"
-			{
-				"name"		"Game Over Regular"
-				"tall"		"72"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}	
 		Nyan8
 		{
 			"1"
@@ -713,6 +471,17 @@ Scheme
 				"tall"		"72"
 				"additive"	"0"
 				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}
+		Aero11
+		{
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" "1"
 				"outline"	"0"
 			}
 		}
@@ -3291,7 +3060,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"  "Renogare Soft"
+				"name"  "HandelGothic BT"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -3302,7 +3071,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"HandelGothic BT""
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3313,7 +3082,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"HandelGothic BT""
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3324,7 +3093,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"HandelGothic BT""
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3335,7 +3104,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"HandelGothic BT""
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3346,7 +3115,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"HandelGothic BT"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -4928,171 +4697,39 @@ Scheme
 		}
 	}
 	
-	CustomFontFiles
-	{
-		"1" "resource/tf.ttf"
-		"2" "resource/tfd.ttf"
-		"3"
-		{
-			"font" "resource/TF2.ttf"
-			"name" "TF2"
-			"russian"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"polish"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-		}
-		"4" 
-		{
-			"font" "resource/TF2Secondary.ttf"
-			"name" "TF2 Secondary"
-			"russian"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"polish"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-		}
-		"5" 
-		{
-			"font" "resource/TF2Professor.ttf"
-			"name" "TF2 Professor"
-			"russian"
-			{
-				"range" "0x0000 0x00FF"
-			}
-			"polish"
-			{
-				"range" "0x0000 0x00FF"
-			}
-		}	
-		"6" 
-		{
-			"font" "resource/TF2Build.ttf"
-			"name" "TF2 Build"
-			"russian"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"polish"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"turkish"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-		}			
-		"7"
-		{
-			"font"	"resource/ocra.ttf"
-			"name" "ocra"
-			"turkish"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"swedish"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"spanish"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"romanian"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"polish"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"norwegian"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"danish"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"hungarian"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"german"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"french"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"finnish"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"czech"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"bulgarian"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"russian"
-			{
-				"range" "0x0000 0x007E"
-			}
-		}
-		
-		"10"
+		"1"
 		{
 			"font" "resource/scheme/fonts/Renogare.ttf" [$WINDOWS]
 			"font" "resource/scheme/fonts/linux/Renogare Linux.otf" [$POSIX]
 			"name" "Renogare Soft"
 		}
-		"11" "resource/ocra.ttf"
-		"12" 
+		"2" "resource/ocra.ttf"
+		"3" 
 		{
 			"font" "resource/scheme/fonts/AlternateGothic.TTF"
 			"name" "AlternateGothicEF-NoThree"
 		} 	
-		"13"
+		"4"
 		{
 			"font" "resource/scheme/fonts/Cerbetica_edited.ttf"
-			"name" "Cerbetica_edited"
-		}		
-		"14"
-		{
-			"font" "resource/scheme/fonts/game_over.ttf"
-			"name" "Game Over Regular"
+			"name" "Cerbetica_edited"		
 		}
-			"15"
+			"5"
 		{
 			"font" "resource/scheme/fonts/HandelGo.ttf"
 			"name" "HandelGothic BT"
 		}
-			"16"
-		{
-			"font" "resource/scheme/fonts/Witches Magic.ttf"
-			"name" "Witches Magic"
-		}
-				"17"
+			"6"
 		{
 			"font" "resource/scheme/fonts/visitor1.ttf"
 			"name" "Visitor TT1 BRK"
 		}
-				"18"
+				"7"
 		{
 			"font" "resource/scheme/fonts/Cabin-Regular.ttf"
 			"name" "Cabin Regular"
 		}
-		"19"
+		"8"
 		{
 		"font"  "resource/scheme/fonts/Astral Delight Upright.ttf"
 		"name" "Astral Delight Upright"

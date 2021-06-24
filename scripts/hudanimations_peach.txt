@@ -2,41 +2,25 @@
 
 event HudHealthBonusPulse
 {
-	Animate	PlayerStatusHealthBonusImage 		Alpha		"235"									Linear	0.0 	0.0
+	Animate PlayerStatusHealthValueShadow             FgColor        "Blue"           				Linear      0.0        0.4
+    Animate PlayerStatusHealthValueShadow             FgColor        "RedSolid"                   	Linear      0.4        0.4
+    Animate PlayerStatusHealthValueShadow             FgColor        "Blue"                   				 Linear      0.8        0.4
+    Animate PlayerStatusHealthValueShadow             FgColor        "GreenSolid"                    Linear      1.2        0.4
+    Animate PlayerStatusHealthValueShadowExtra       Alpha         "255"                               	 Accel     0.0     0.0
 
-    Animate PlayerStatusHealthValueShadow             FgColor        "255 0 0 255"                    Linear     0.0        0.4
-    Animate PlayerStatusHealthValueShadow             FgColor        "255 128 0 255"                    Linear     0.4        0.4
-    Animate PlayerStatusHealthValueShadow             FgColor        "255 255 0 255"                    Linear     0.8        0.4
-    Animate PlayerStatusHealthValueShadow             FgColor        "0 255 0 255"                    Linear     1.2        0.4
-    Animate PlayerStatusHealthValueShadow             FgColor        "0 174 239 255"                    Linear     1.6        0.4
-    Animate PlayerStatusHealthValueShadow             FgColor        "172 59 255 255"                    Linear     2.0        0.4
-	Animate PlayerStatusHealthValueShadow             FgColor        "238 130 238 255"                    Linear     2.4        0.4
-    Animate PlayerStatusHealthValueShadowExtra       Alpha         "255"                               			  Accel     0.0     0.0
-
-    Animate PlayerStatusHealthValueTarget             FgColor     "WhiteTransparent"                 Linear     0.0     0.0
-
-    Animate PlayerStatusHealthValueSpecgui             FgColor     "WhiteTransparent"                     Accel     0.0     0.0
-
-    Animate PlayerStatusHealthValueShadowKiller     FgColor     "WhiteTransparent                 Accel     0.0     0.0
-
-    RunEvent HudHealthBonusPulseLoop                2.8
+	RunEvent HudHealthBonusPulseLoop	1.2
 }
 
+// call to loop HudHealthBonusPulse
 event HudHealthBonusPulseLoop
 {
-    RunEvent HudHealthBonusPulse                    0.0
+	RunEvent HudHealthBonusPulse 0.0
 }
 
 event HudHealthBonusPulseStop
 {
-	StopEvent HudHealthBonusPulse 				0.0
-	StopEvent HudHealthBonusPulseLoop			0.0
-	
-	Animate PlayerStatusHealthValue 			FgColor 	"Health" 							Linear 	0.0 	0.0
-	
-	Animate PlayerStatusHealthValueTarget 		FgColor 	"Health" 							Linear 	0.0 	0.0
-	
-	Animate PlayerStatusHealthValueSpectator 	FgColor 	"Health" 							Linear 	0.0 	0.0
+	StopEvent HudHealthBonusPulse 0.0
+	StopEvent HudHealthBonusPulseLoop 0.0
 }
 
 //====================================================================================================================
@@ -75,18 +59,21 @@ event HudHealthDyingPulseStop
 
 event HudLowAmmoPulse
 {
-	Animate AmmoInClip 							FgColor 	"Ammo In Clip Low" 					Linear 	0.0 	0.0
+	Animate AmmoInClip     				FgColor     "WhiteTransparent"     				Linear 0.0 0.3
+	Animate AmmoInClip    					FgColor     "RedLight"									Linear 0.3 0.6
 	
-	Animate AmmoInReserve						FgColor 	"Ammo In Reserve Low" 				Linear 	0.0 	0.0
+	Animate AmmoInReserve     				FgColor     "WhiteTransparent"     				Linear 0.0 0.3
+	Animate AmmoInReserve    					FgColor     "RedLight"									Linear 0.3 0.6
 	
-	Animate AmmoNoClip 							FgColor 	"Ammo No Clip Low" 					Linear 	0.0 	0.0
+	Animate AmmoNoClip 							FgColor 	"Ammo No Clip Low" 					Linear 	0.0 	0.1
+
 	
-	RunEvent HudLowAmmoPulseLoop				0.4
+	RunEvent HudLowAmmoPulseLoop				0.9
 }	
 
 event HudLowAmmoPulseLoop
 {
-	RunEvent HudLowAmmoPulse					0.0
+	RunEvent HudLowAmmoPulse					0.1
 }
 
 event HudLowAmmoPulseStop
@@ -96,7 +83,7 @@ event HudLowAmmoPulseStop
 	
 	Animate AmmoInClip 							FgColor 	"Ammo In Clip" 						Linear 	0.0 	0.0
 	
-	Animate AmmoInReserve 						FgColor 	"Ammo In Reserve" 					Linear 	0.0 	0.0
+	Animate AmmoInReserve 					FgColor 	"Ammo In Reserve" 					Linear 	0.0 	0.0
 	
 	Animate AmmoNoClip 							FgColor 	"Ammo No Clip" 						Linear 	0.0 	0.0
 }

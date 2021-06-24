@@ -56,4 +56,7 @@ hexhud_a3.5
 Modified damage number, moved it above the HP, and changed the colour (HudDamageAccount.res)
 
 hexhud_a4
-Moved Closed Captionings towards HP (hudlayout_peach.res)
+Moved Close Captionings towards HP (hudlayout_peach.res)
+Edited fonts on Close Captioning (fonts.res)
+Fixed health overheal/buff animation colour changes (hudanimations_peach.txt)
+Made it so that ammo flashes when low (hudanimations_peach.txt)
