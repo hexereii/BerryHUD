@@ -11,7 +11,7 @@
 		"tall"			"26"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"BlackTransparent70"
+		"border"		"BlueLight"
 	}
 
 	"TextLabel"

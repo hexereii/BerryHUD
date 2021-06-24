@@ -12,8 +12,8 @@
 		"visible"						"1"
 		"enabled"						"1"
 		"PaintBackgroundType"			"2"
-		"paintbackground"				"0"
-		"paintborder"					"0"
+		"paintbackground"				"1"
+		"paintborder"					"1"
 
 		"TitleLabel"
 		{

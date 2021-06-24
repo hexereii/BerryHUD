@@ -30,7 +30,7 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"wrap"						"0"
-		"font"						"Size 12"
+		"font"						"Aero"
 		"fgcolor"					"White"
 		
 		"pin_to_sibling"			"TimePanelBG"
@@ -61,7 +61,7 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"wrap"						"0"
-		"font"						"Size 10"
+		"font"						"Aero"
 		"fgcolor"					"White"
 		
 		"pin_to_sibling"			"TimePanelBG"
@@ -85,7 +85,7 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"wrap"						"0"
-		"font"						"Size 10"
+		"font"						"Aero"
 		"fgcolor"					"White"
 		
 		"pin_to_sibling"			"TimePanelBG"
@@ -109,7 +109,7 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"wrap"						"0"
-		"font"						"Size 10"
+		"font"						"Aero"
 		"fgcolor"					"White"
 		
 		"pin_to_sibling"			"TimePanelBG"
@@ -133,7 +133,7 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"wrap"						"0"
-		"font"						"Size 10"
+		"font"						"Aero"
 		"fgcolor"					"White"
 		
 		"pin_to_sibling"			"TimePanelBG"

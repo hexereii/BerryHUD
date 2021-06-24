@@ -252,7 +252,7 @@
 		"tall"									"20"
 		"visible"								"1"
 		"enabled"								"1"
-		"border"								"BlueTransparent70"
+		"border"								"BlackTransparent70"
 		
 		"pin_to_sibling" 						"SortByComboBox"
 	}
@@ -303,7 +303,7 @@
 		"tall"									"20"
 		"visible"								"1"
 		"enabled"								"1"
-		"border"								"BlueTransparent70"
+		"border"								"BlackTransparent70"
 		
 		"pin_to_sibling" 						"ShowRarityComboBox"
 	}
@@ -354,7 +354,7 @@
 		"labeltext"								"Q"
 		"fgcolor_override"						"White"
 		
-		"border"								"BlueTransparent70"
+		"border"								"BlackTransparent70"
 		
 		"pin_to_sibling" 						"NameFilterTextEntry"
 	}
@@ -390,7 +390,7 @@
 		"armedFgColor_override"					"White"
 		"depressedFgColor_override"				"White"
 		
-		"border_default"						"BlueTransparent70"
+		"border_default"						"BlackTransparent70"
 		"border_armed"							"OrangeTransparent70"
 		
 		"pin_to_sibling" 						"BackpackBG"
@@ -439,7 +439,7 @@
 		"armedFgColor_override"					"White"
 		"depressedFgColor_override"				"White"
 		
-		"border_default"						"BlueTransparent70"
+		"border_default"						"BlackTransparent70"
 		"border_armed"							"OrangeTransparent70"
 		
 		"pin_to_sibling" 						"BackpackBG"
@@ -599,7 +599,7 @@
 		
 		"paintbackground" 						"0"
 		
-		"border_default"						"BlueTransparent70"
+		"border_default"						"BlackTransparent70"
 		"border_armed"							"OrangeTransparent70"
 		
 		"pin_to_sibling" 						"SortByBG"
@@ -634,7 +634,7 @@
 		
 		"paintbackground" 						"0"
 		
-		"border_default"						"BlueTransparent70"
+		"border_default"						"BlackTransparent70"
 		"border_armed"							"OrangeTransparent70"
 	}
 	

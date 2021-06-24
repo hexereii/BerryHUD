@@ -109,7 +109,7 @@
 	{	
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter1"
-		"font"						"Default"
+		"font"						"Aero42"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"2"
@@ -158,7 +158,7 @@
 	{	
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter3"
-		"font"						"Default"
+		"font"						"Aero42"
 		"xpos"						"2"
 		"ypos"						"0"
 		"zpos"						"2"
@@ -184,7 +184,7 @@
 	{	
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter4"
-		"font"						"Default"
+		"font"						"Aero42"
 		"xpos"						"2"
 		"ypos"						"0"
 		"zpos"						"2"

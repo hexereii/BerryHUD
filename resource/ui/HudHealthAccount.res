@@ -6,9 +6,9 @@
 		"delta_item_x"			"60"
 		"delta_item_start_y"	"57"
 		"delta_item_end_y"		"47"
-		"PositiveColor"			"delibuff"
-		"NegativeColor"			"delidiein"
+		"PositiveColor"			"Blue"
+		"NegativeColor"			"Red"
 		"delta_lifetime"		"0"
-		"delta_item_font"		"M0refont72"
+		"delta_item_font"		"Aero72"
 	}
 }

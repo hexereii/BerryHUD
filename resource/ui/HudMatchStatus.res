@@ -13,7 +13,7 @@
 	{	
 		"ControlName"							"CExLabel"
 		"fieldName"								"CountdownLabel"
-		"font"									"Size 24 Shadow"
+		"font"									"Aero"
 		"xpos"									"cs-0.5"
 		"ypos"									"cs-0.1"
 		"wide"									"40"
@@ -135,13 +135,13 @@
 		"PositiveColor"							"GreenLight"
 		"NegativeColor"							"RedLight"
 		"delta_lifetime"						"1.5"
-		"delta_item_font"						"Size 16"
+		"delta_item_font"						"Aero"
 		
 		"TimePanelValue"
 		{
 			"ControlName"						"CExLabel"
 			"fieldName"							"TimePanelValue"
-			"font"								"Size 16"
+			"font"								"Aero"
 			"fgcolor"							"White"
 			"xpos"								"30"
 			"ypos"								"0"
@@ -208,7 +208,7 @@
 		{
 			"ControlName"						"CExLabel"
 			"fieldName"							"BlueTeamLabel"
-			"font"								"CompMatchStartTeamNames"
+			"font"								"Aero"
 			"labelText"							"%blueteamname%"
 			"textAlignment"						"center"
 			"xpos"								"48"
@@ -352,7 +352,7 @@
 		{
 			"ControlName"						"CExLabel"
 			"fieldName"							"RedTeamLabel"
-			"font"								"CompMatchStartTeamNames"
+			"font"								"Aero"
 			"labelText"							"%redteamname%"
 			"textAlignment"						"center"
 			"xpos"								"5"
@@ -573,11 +573,11 @@
 			"color_portrait_blend_dead_red"		"255 255 255 255"
 			"color_portrait_blend_dead_blue" 	"255 255 255 255"
 			
-			"playername"
+		"playername"
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"			"MatchPlayerName"
+				"font"			"Aero8"
 				"xpos"			"1"
 				"ypos"			"12"
 				"zpos"			"8"
@@ -622,7 +622,7 @@
 			{	
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"healthbar"
-				"font"			"Default"																		
+				"font"			"Aero"																		
 				"xpos"			"0"
 				"ypos"			"2"
 				"zpos"			"5"
@@ -642,7 +642,7 @@
 			{	
 				"ControlName"			"ContinuousProgressBar"
 				"fieldName"				"overhealbar"
-				"font"					"Default"																		
+				"font"					"Aero"																		
 				"xpos"					"0"
 				"ypos"					"2"
 				"zpos"					"6"
@@ -656,14 +656,14 @@
 				"dulltext"				"0"
 				"brighttext"			"0"
 				"bgcolor_override"	   	"0 0 0 0"
-				"fgcolor_override"	   	"255 255 255 100"
+				"fgcolor_override"	   	"255 255 255 80"
 				"proportionaltoparent"	"1"
 			}
 			"respawntime"
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"MatchPlayerDeath"
+				"font"			"Aero"
 				"xpos"			"cs-.5"
 				"ypos"			"0"
 				"zpos"			"10"
@@ -732,7 +732,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
-				"font"			"DefaultSmall"
+				"font"			"Aero"
 				"xpos"			"cs-0.5"
 				"ypos"			"14"
 				"zpos"			"9"
@@ -749,7 +749,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"specindex"
-				"font"			"DefaultVerySmall"
+				"font"			"Aero"
 				"xpos"			"4"
 				"ypos"			"2"
 				"zpos"			"5"

@@ -60,3 +60,7 @@ Moved Close Captionings towards HP (hudlayout_peach.res)
 Edited fonts on Close Captioning (fonts.res)
 Fixed health overheal/buff animation colour changes (hudanimations_peach.txt)
 Made it so that ammo flashes when low (hudanimations_peach.txt)
+
+hexhud_a4.1
+Moved Close Captionings so that it will never clip in with HP (hudlayout_peach.res)
+Edited fonts (fonts.res, HudMatchStatus.res, HudObjectiveKothTimerPanel.res)

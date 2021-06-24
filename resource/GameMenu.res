@@ -3,14 +3,14 @@
 	"Custom1"
 	{
 		"label"			"1"
-		"command"		"engine "	//REPLACE command1 WITH DESIRED COMMAND, **DO NOT REPLACE engine**
+		"command"		"engine strawberry"	//REPLACE command1 WITH DESIRED COMMAND, **DO NOT REPLACE engine**
 		"OnlyAtMenu"	"0"					//1=MAIN MENU ONLY		0=ALWAYS SHOW
 	}
 	
 	"Custom2"
 	{
 		"label"			"2"
-		"command"		"engine "	//REPLACE command2 WITH DESIRED COMMAND, **DO NOT REPLACE engine**
+		"command"		"engine champ"	//REPLACE command2 WITH DESIRED COMMAND, **DO NOT REPLACE engine**
 		"OnlyAtMenu"	"0"					//1=MAIN MENU ONLY		0=ALWAYS SHOW
 	}
 	
@@ -42,7 +42,12 @@
 				showconsole"
 		"OnlyAtMenu" 	"1"
 	}
-
+	"Create"
+	{
+		"label" 		"BOMBING BALCONY"
+		"command" 		"engine copper"
+		"OnlyAtMenu" 	"1"	
+	}
 	"Servers"
 	{
 		"label" 		"SERVERS" 
@@ -111,7 +116,12 @@
 	
 	// These buttons are only shown while in-game
 	
-
+	"Scoreboard"
+	{
+		"label" 		"BOMBING BALCONY"
+		"command" 		"engine strawberry"
+		"OnlyInGame" 	"0"
+	}
 	"Disconnect"
 	{
 		"label" 		"DISCONNECT"

@@ -31,7 +31,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"centerwrap"	"1"
-		"fgcolor_override"	"BlueLight"
+		"fgcolor_override"	"BlackTransparent"
 	}
 
 	"preview_model"

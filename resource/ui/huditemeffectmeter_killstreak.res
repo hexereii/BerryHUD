@@ -112,7 +112,7 @@
 		"textAlignment"			"left"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 12"
+		"font"					"Aero14"
 		"fgcolor_override"      "255 255 255 255"
 	}
 		"ItemEffectMeterCount2"
@@ -131,7 +131,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 12 Shadow"
+		"font"					"Aero14"
 		"fgcolor"				"Shadows"
 		"pin_to_sibling"		"ItemEffectMeterCount1"
 	}

@@ -975,7 +975,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"Normal"
+			"color"					"BlackTransparent70"
 			
 			"image"					"replay/thumbnails/panels/Material_Generic"
 			"src_corner_height"		"32"
@@ -1051,7 +1051,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"Normal"
+			"color"					"BlackTransparent70"
 			
 			"image"					"replay/thumbnails/panels/Material_Generic"
 			"src_corner_height"		"32"

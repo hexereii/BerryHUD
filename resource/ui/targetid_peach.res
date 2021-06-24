@@ -63,7 +63,7 @@
 		"ControlName"				"Label"
 		"fieldName"					"TargetNameLabel"
 		"font"						"Size 11"
-		"xpos"						"8"
+		"xpos"						"15"
 		"ypos"						"5"
 		"zpos"						"1"
 		"wide"						"640"

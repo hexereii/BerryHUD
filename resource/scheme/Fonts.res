@@ -474,6 +474,17 @@ Scheme
 				"outline"	"0"
 			}
 		}
+			Aero8
+		{
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"0"
+			}
+		}
 		Aero11
 		{
 			"1"
@@ -3060,7 +3071,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"  "HandelGothic BT"
+				"name"  "Renogare Soft"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -3071,7 +3082,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT""
+				"name"		"Aero22"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3082,7 +3093,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT""
+				"name"		"Aero22"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3093,7 +3104,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT""
+				"name"		"Aero22"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3104,7 +3115,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT""
+				"name"		"Aero22"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3115,7 +3126,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"Aero22"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -3463,7 +3474,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Aero"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -3474,7 +3485,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Aero"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -3485,7 +3496,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
+				"name"		"Aero"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"

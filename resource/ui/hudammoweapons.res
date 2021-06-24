@@ -184,4 +184,18 @@
 		"teambg_2"					"../hud/ammo_red_bg"
 		"teambg_3"					"../hud/ammo_blue_bg"
 	}
+	    "HudWeaponAmmoBG"
+    {
+        "ControlName"    "CTFImagePanel"
+        "fieldName"      "HudWeaponAmmoBG"
+        "xpos"           "-9999"
+        "ypos"           "-9999"
+    }
+    "HudWeaponLowAmmoImage"
+    {
+        "ControlName"    "ImagePanel"
+        "fieldName"      "HudWeaponLowAmmoImage"
+        "xpos"           "-9999"
+        "ypos"           "-9999"
+    }
 }
