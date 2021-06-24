@@ -119,7 +119,7 @@
 	"Scoreboard"
 	{
 		"label" 		"BOMBING BALCONY"
-		"command" 		"engine strawberry"
+		"command" 		"engine copper"
 		"OnlyInGame" 	"0"
 	}
 	"Disconnect"

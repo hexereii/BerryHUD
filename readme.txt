@@ -14,9 +14,8 @@ TODO LIST;
 - Change colours under 'Find Game' menu
 - Maybe add mat_antialias button?
 - Add customizable colour buttons for different things (maybe make a button to make visible/enable these buttons?)
-- Fix MvM money is alignment
 - Fix Sandman meter
-- Center the current-on-wearer atributes label is not centetred
+- Center the current-on-wearer atributes label
 
 Eventually..
 - Get image buttons working & put them on main menu, keep the coloured text-buttons for the in-game pause screen only
@@ -64,3 +63,9 @@ Made it so that ammo flashes when low (hudanimations_peach.txt)
 hexhud_a4.1
 Moved Close Captionings so that it will never clip in with HP (hudlayout_peach.res)
 Edited fonts (fonts.res, HudMatchStatus.res, HudObjectiveKothTimerPanel.res)
+Changed a main menu button (GameMenu.res, MainMenuOverride.res)
+
+hexhud_a4.5
+Fixed up the customization buttons on in-game menu to fit the theme a bit cleaner (MainMenuOverride.res, GameMenu.res)
+Added number shortcut to Class Select (ClassSelection.res)
+Deleted all custom MvM files 

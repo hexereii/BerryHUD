@@ -720,47 +720,6 @@
 		"ControlName"		"EditablePanel"
 		"fieldname"			"VersionNumber"
 		"xpos"				"c-417"
-		"ypos"				"85"
-		"zpos"				"15"
-		"wide"				"150"
-		"tall"				"14"
-		"visible"			"1"
-		
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"SubButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"150"
-			"tall"			"14"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"use_proportional_insets"	"1"
-			"font"			"Astral18"
-			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-			
-			"paintbackground"			"0"
-			
-			"defaultFgColor_override" 	"255 255 255 255"
-			"armedFgColor_override" 	"0 255 144 255"
-			"depressedFgColor_override" "0 255 144 255"
-		}
-	}
-		
-	"Create"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldname"			"Create"
-		"xpos"				"c-417"
 		"ypos"				"102"
 		"zpos"				"15"
 		"wide"				"150"
@@ -778,7 +737,7 @@
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			"enabled"		"0"
 			"tabPosition"	"0"
 			"use_proportional_insets"	"1"
 			"font"			"Astral12"
@@ -791,11 +750,12 @@
 			
 			"paintbackground"			"0"
 			
-			"defaultFgColor_override" 	"255 0 0 255" //Red
-			"armedFgColor_override" 	"0 255 255 255"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"0 255 144 255"
 			"depressedFgColor_override" "0 255 144 255"
 		}
 	}
+	
 	"Servers"
 	{
 		"ControlName"		"EditablePanel"

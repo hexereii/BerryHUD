@@ -1497,7 +1497,7 @@
 			"fgcolor"					"WhiteTransparent"
 		}
 		
-		"Separator"
+	"Separator"
 		{
 			"ControlName"				"EditablePanel"
 			"fieldname"					"Separator"
@@ -1506,9 +1506,9 @@
 			"zpos"						"50"
 			"wide"						"1"
 			"tall"						"18"
-			"visible"					"1"
-			"enabled"					"1"
-			"bgcolor_override"			"WhiteTransparent"
+			"visible"					"0"
+			"enabled"					"0"
+			"bgcolor_override"			"None"
 		}
 	}
 	
@@ -1851,9 +1851,9 @@
 			"zpos"						"50"
 			"wide"						"1"
 			"tall"						"18"
-			"visible"					"1"
-			"enabled"					"1"
-			"bgcolor_override"			"WhiteTransparent"
+			"visible"					"0"
+			"enabled"					"0"
+			"bgcolor_override"			"None"
 		}
 	}
 	
@@ -1901,8 +1901,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
@@ -1952,8 +1952,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
@@ -2001,7 +2001,7 @@
 			"fgcolor"					"WhiteTransparent"
 		}
 		
-		"Separator"
+	"Separator"
 		{
 			"ControlName"				"EditablePanel"
 			"fieldname"					"Separator"
@@ -2010,9 +2010,9 @@
 			"zpos"						"50"
 			"wide"						"1"
 			"tall"						"18"
-			"visible"					"1"
-			"enabled"					"1"
-			"bgcolor_override"			"WhiteTransparent"
+			"visible"					"0"
+			"enabled"					"0"
+			"bgcolor_override"			"None"
 		}
 	}
 	
@@ -2060,8 +2060,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
@@ -2111,8 +2111,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
@@ -2160,7 +2160,7 @@
 			"fgcolor"					"WhiteTransparent"
 		}
 		
-		"Separator"
+	"Separator"
 		{
 			"ControlName"				"EditablePanel"
 			"fieldname"					"Separator"
@@ -2169,9 +2169,9 @@
 			"zpos"						"50"
 			"wide"						"1"
 			"tall"						"18"
-			"visible"					"1"
-			"enabled"					"1"
-			"bgcolor_override"			"WhiteTransparent"
+			"visible"					"0"
+			"enabled"					"0"
+			"bgcolor_override"			"None"
 		}
 	}
 	
@@ -2219,8 +2219,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
@@ -2270,8 +2270,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
@@ -2319,7 +2319,7 @@
 			"fgcolor"					"WhiteTransparent"
 		}
 		
-		"Separator"
+	"Separator"
 		{
 			"ControlName"				"EditablePanel"
 			"fieldname"					"Separator"
@@ -2328,9 +2328,9 @@
 			"zpos"						"50"
 			"wide"						"1"
 			"tall"						"18"
-			"visible"					"1"
-			"enabled"					"1"
-			"bgcolor_override"			"WhiteTransparent"
+			"visible"					"0"
+			"enabled"					"0"
+			"bgcolor_override"			"None"
 		}
 	}
 	
@@ -2378,8 +2378,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
@@ -2429,8 +2429,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
@@ -2478,7 +2478,7 @@
 			"fgcolor"					"WhiteTransparent"
 		}
 		
-		"Separator"
+	"Separator"
 		{
 			"ControlName"				"EditablePanel"
 			"fieldname"					"Separator"
@@ -2487,9 +2487,9 @@
 			"zpos"						"50"
 			"wide"						"1"
 			"tall"						"18"
-			"visible"					"1"
-			"enabled"					"1"
-			"bgcolor_override"			"WhiteTransparent"
+			"visible"					"0"
+			"enabled"					"0"
+			"bgcolor_override"			"None"
 		}
 	}
 	
@@ -2537,8 +2537,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
@@ -2588,8 +2588,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
@@ -2637,7 +2637,7 @@
 			"fgcolor"					"WhiteTransparent"
 		}
 		
-		"Separator"
+	"Separator"
 		{
 			"ControlName"				"EditablePanel"
 			"fieldname"					"Separator"
@@ -2646,9 +2646,9 @@
 			"zpos"						"50"
 			"wide"						"1"
 			"tall"						"18"
-			"visible"					"1"
-			"enabled"					"1"
-			"bgcolor_override"			"WhiteTransparent"
+			"visible"					"0"
+			"enabled"					"0"
+			"bgcolor_override"			"None"
 		}
 	}
 	
@@ -2697,8 +2697,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
@@ -2755,10 +2755,10 @@
 			"zpos"						"50"
 			"wide"						"1"
 			"tall"						"18"
-			"visible"					"1"
-			"enabled"					"1"
-			"bgcolor_override"			"WhiteTransparent"
+			"visible"					"0"
+			"enabled"					"0"
 		}
+			"bgcolor_override"			"None"
 	}
 	
 	"BrokenSoundFix"
@@ -2806,8 +2806,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
@@ -2855,7 +2855,7 @@
 			"fgcolor"					"WhiteTransparent"
 		}
 		
-		"Separator"
+	"Separator"
 		{
 			"ControlName"				"EditablePanel"
 			"fieldname"					"Separator"
@@ -2864,9 +2864,9 @@
 			"zpos"						"50"
 			"wide"						"1"
 			"tall"						"18"
-			"visible"					"1"
-			"enabled"					"1"
-			"bgcolor_override"			"WhiteTransparent"
+			"visible"					"0"
+			"enabled"					"0"
+			"bgcolor_override"			"None"
 		}
 	}
 	
@@ -2915,8 +2915,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"WhiteTransparent50"
 			
 			"proportionaltoparent"		"1"
 		}
