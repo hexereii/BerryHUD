@@ -16,7 +16,8 @@ CatEnjoyer Edits - resource\ui\hudammoweapons
 **Moves ammo & HP towards the crosshair, changes some fonts, moves Player model to the right side of the screen rather than left****
 To implement properly, take the folders out of 'FatKitten Edition' & drag them into your main 'hexhud' folder. It will ask if you want to replace files, say Yes!
 
-6s version - customizations, resource/ui/alternative/Scoreboard_12v12, resource/ui/classselection
-**Changes scoreboard to 6v6 mode, makes class selection "Main Class/Off Class" 
-
 HL version - customizations, resource/ui/alternative/Scoreboard_12v12
+
+4 by 3 version 
+**If you don't use widescreen, this is for you!!**
+Just drag the resource folder into your main directory to the main folder & it will fix the main menu for you!!
