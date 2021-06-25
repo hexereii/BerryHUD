@@ -62,52 +62,7 @@
       "bgcolor_override"      "0 0 0 150"
       "border"       "base00border"
    }  
-   "SurfBG"
-   {
-      "ControlName"  "EditablePanel"
-      "fieldName"    "SurfBG"
-      "xpos_minmode" "c-50" //so no double border
-      "xpos"         "99999"  
-      "ypos"         "c"
-      "zpos"         "-1"     
-      "wide"         "100"
-      "tall"         "80"
-      "visible"      "1"
-      "enabled"      "1"
-      "bgcolor_override"      "base3"
-      "border"       "base00border"
-   }  
-   "BhopBG"
-   {
-      "ControlName"  "EditablePanel"
-      "fieldName"    "BhopBG"
-      "xpos_minmode" "c-149" //so no double border
-      "xpos"         "99999"  
-      "ypos"         "c0"
-      "zpos"         "-2"     
-      "wide"         "100"
-      "tall"         "60"
-      "visible"      "1"
-      "enabled"      "1"
-      "bgcolor_override"      "base3"
-      "border"       "base00border"
-   }  
-   "JumpBG"
-   {
-      "ControlName"  "EditablePanel"
-      "fieldName"    "JumpBG"
-      "xpos_minmode" "c+49" //so no double border
-      "xpos"         "99999"  
-      "ypos"         "c0"
-      "zpos"         "-2"     
-      "wide"         "100"
-      "tall"         "60"
-      "visible"      "1"
-      "enabled"      "1"
-      "bgcolor_override"      "base3"
-      "border"       "base00border"
-   }  
-
+  
    "MainLabel"
    {
       "ControlName"  "CExLabel"
@@ -144,41 +99,7 @@
       "font"         "Aero"
       "fgcolor"      "White"
    }
-   "BhopLabel"
-   {
-      "ControlName"  "CExLabel"
-      "fieldName"    "BhopLabel"
-      "xpos"         "99999"
-      "xpos_minmode" "c-150"
-      "ypos"         "c"
-      "zpos"         "2"
-      "wide"         "100"
-      "tall"         "20"
-      "visible"      "1"
-      "enabled"      "1"
-      "labelText"    "Bhop"
-      "textAlignment"   "center"
-      "font"         "Aero"
-      "fgcolor"      "base00"
-   }
-   "JumpLabel"
-   {
-      "ControlName"  "CExLabel"
-      "fieldName"    "BhopLabel"
-      "xpos"         "99999"
-      "xpos_minmode" "c+50"
-      "ypos"         "c"
-      "zpos"         "2"
-      "wide"         "100"
-      "tall"         "20"
-      "visible"      "1"
-      "enabled"      "1"
-      "labelText"    "Jump"
-      "textAlignment"   "center"
-      "font"         "Aero"
-      "fgcolor"      "base00"
-   }
-
+ 
    "scout"
    {
       "ControlName"     "CExImageButton"
@@ -194,7 +115,7 @@
       "visible"         "1"
       "enabled"         "1"
       "tabPosition"     "0"
-      "labelText"       "Scout"
+      "labelText"       "1. Scout"
       "textAlignment"      "west"
       "Command"         "select 1"
       "Default"         "0"
@@ -259,7 +180,7 @@
       "visible"         "1"
       "enabled"         "1"
       "tabPosition"     "0"
-      "labelText"       "Soldier"   
+      "labelText"       "2. Soldier"   
       "textAlignment"      "west"
       "Command"         "select 3"
       "Default"         "0"
@@ -324,7 +245,7 @@
       "pinCorner"       "2"
       "visible"         "1"
       "enabled"         "1"
-      "labelText"       "Pyro"
+      "labelText"       "3. Pyro"
       "textAlignment"      "west"
       "Command"         "select 7"
       "Default"         "0"
@@ -388,7 +309,7 @@
       "visible"         "1"
       "enabled"         "1"
       "tabPosition"     "0"
-      "labelText"       "Demoman"
+      "labelText"       "4. Demoman"
       "textAlignment"      "west"
       "Command"         "select 4"
       "Default"         "0"
@@ -436,69 +357,6 @@
       }           
    }  
    
-   "demoman2"     //this does not trigger any of the sounds/class image when mouseover, but does work as a button
-   {
-      "ControlName"     "CExImageButton"
-      "fieldName"       "demoman2"
-      "xpos"            "c"
-      "xpos_minmode"    "c+50"
-      "ypos"            "c60"
-      "ypos_minmode"    "c40"
-      "zpos"            "6"
-      "wide"            "100"
-      "tall"            "20"
-      "autoResize"      "0"
-      "pinCorner"       "2"
-      "visible"         "1"
-      "enabled"         "1"
-      "tabPosition"     "0"
-      "labelText"       "Demoman"
-      "textAlignment"      "west"
-      "Command"         "select 4"
-      "Default"         "0"
-      "font"            "Aero"
-      "scaleImage"      "1"
-      
-      "image_default"      "class_sel_sm_demo_inactive"
-      "image_armed"     "class_sel_sm_demo_inactive"
-      
-      "fgcolor"         "255 255 255 255"             //basecolor
-      "defaultFgColor_override" "255 255 255 255"     //rolloff color
-      "armedFgColor_override" "255 255 0 255"       //doesn't appear
-      "depressedFgColor_override" "255 255 0 255"   //doesn't appear
-      "selectedFgColor_override" "255 255 0 255" 
-      
-      "paintborder"  "0"
-      "border_default" "NoBorder"
-      "sound_depressed" "UI/buttonclick.wav"
-      "sound_released"  "UI/buttonclickrelease.wav"
-      "sound_armed"     "UI/buttonrollover.wav"
-      
-      "paintbackground" "0"
-      
-      "image_drawcolor"    "255 255 255 180"
-      "image_armedcolor"      "255 255 255 255"
-      "image_selectedcolor"   "255 255 255 255"
-      
-      "stayselectedonclick"   "1"
-      "selectonhover"         "1"
-      "keyboardinputenabled"  "0"
-      
-      "SubImage"
-      {
-         "ControlName"  "ImagePanel"
-         "fieldName"    "SubImage"
-         "xpos"         "999990"
-         "ypos"         "0"
-         "zpos"         "7"
-         "wide"         "50"
-         "tall"         "100"
-         "visible"      "1"
-         "enabled"      "1"
-         "image"        "class_sel_sm_demo_inactive"
-         "scaleImage"   "1"
-      }           
-   }  
    "heavyweapons"
    {
       "ControlName"     "CExImageButton"
@@ -511,7 +369,7 @@
       "tall"            "12"
       "visible"         "1"
       "enabled"         "1"
-      "labelText"       "Heavy"  
+      "labelText"       "5. Heavy"  
       "textAlignment"      "west"
       "Command"         "select 6"
       "Default"         "0"
@@ -574,7 +432,7 @@
       "tall_minmode"    "16"
       "visible"         "1"
       "enabled"         "1"
-      "labelText"       "Engineer"
+      "labelText"       "6. Engineer"
       "textAlignment"      "west"
       "Command"         "select 9"
       "Default"         "0"
@@ -637,7 +495,7 @@
       "pinCorner"       "2"
       "visible"         "1"
       "enabled"         "1"
-      "labelText"       "Medic"  
+      "labelText"       "7. Medic"  
       "textAlignment"      "west"
       "Command"         "select 5"
       "Default"         "0"
@@ -699,7 +557,7 @@
       "tall_minmode"    "16"
       "visible"         "1"
       "enabled"         "1"
-      "labelText"       "Sniper"
+      "labelText"       "8. Sniper"
       "textAlignment"      "west"
       "Command"         "select 2"
       "Default"         "0"
@@ -762,7 +620,7 @@
       "tall_minmode"    "16"
       "visible"         "1"
       "enabled"         "1"
-      "labelText"       "Spy" 
+      "labelText"       "9. Spy" 
       "textAlignment"      "west"
       "Command"         "select 8"
       "Default"         "0"

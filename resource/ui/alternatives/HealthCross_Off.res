@@ -12,7 +12,7 @@
 		"visible"					"1"
 		"enabled"					"1"	
 		"HealthBonusPosAdj"			"35"
-		"HealthDeathWarning"		"0.49"
+		"HealthDeathWarning"		"0.5"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 	}
 	
@@ -85,7 +85,7 @@
 		"zpos"						"5"
 		"wide"						"100"
 		"wide_minmode"				"120"
-		"tall"						"50"
+		"tall"						"53"
 		"tall_minmode"				"60"
 		"visible"					"1"
 		"enabled"					"1"

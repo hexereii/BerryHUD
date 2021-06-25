@@ -44,8 +44,8 @@
 	}
 	"Create"
 	{
-		"label" 		"BOMBING BALCONY"
-		"command" 		"engine copper"
+		"label" 		"MGE"
+		"command" 		"engine connect 45.35.1.186:27075"
 		"OnlyAtMenu" 	"1"	
 	}
 	"Servers"
@@ -118,9 +118,9 @@
 	
 	"Scoreboard"
 	{
-		"label" 		"BOMBING BALCONY"
-		"command" 		"engine copper"
-		"OnlyInGame" 	"0"
+		"label" 		"MGE"
+		"command" 		"engine connect 45.35.1.186:27075"
+		"OnlyInGame" 	"1"
 	}
 	"Disconnect"
 	{

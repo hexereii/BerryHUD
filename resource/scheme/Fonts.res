@@ -441,17 +441,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		M0refont36Outline
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"36"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
+	
 		M0refont48
 		{
 			"1"
@@ -546,6 +536,17 @@ Scheme
 			{
 				"name"		"HandelGothic BT"
 				"tall"		"28"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"0"
+			}
+		}
+			Aero36
+		{
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
 				"outline"	"0"

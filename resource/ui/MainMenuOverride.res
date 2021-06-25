@@ -258,7 +258,7 @@
 			"bgcolor_override"	"0 0 0 100"
 		}
 	}
-	
+	// RANK & LEVELS
 	"RankModelPanel"
 	{
 		"ControlName"	"CPvPRankPanel"

@@ -70,3 +70,4 @@ Fixed up the customization buttons on in-game menu to fit the theme a bit cleane
 Added number shortcut to Class Select (ClassSelection.res)
 Deleted all custom MvM files 
 Made overheal colour rainbow (hudanimations_tf.txt) & changed the shadow size briefly (healthcross_off.res)
+Added 4:3 customization option (Alternatives)

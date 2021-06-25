@@ -2,25 +2,27 @@
 
 event HudHealthBonusPulse
 {
-	Animate PlayerStatusHealthValueShadow             FgColor        "Blue"           				Linear      0.0        0.2
-    Animate PlayerStatusHealthValueShadow             FgColor        "RedSolid"                   	Linear      0.4        0.4
-    Animate PlayerStatusHealthValueShadow             FgColor        "Blue"                   				 Linear      0.6        0.4
-    Animate PlayerStatusHealthValueShadow             FgColor        "GreenSolid"                    Linear      0.8        0.4
-    Animate PlayerStatusHealthValueShadowExtra       Alpha         "255"                               	 Accel     0.0     0.0
+    Animate PlayerStatusHealthValueShadow             FgColor        "RedSolid"                       Linear      0.0        0.4
+    Animate PlayerStatusHealthValueShadow             FgColor        "Greene"                              Linear      0.4        0.4
+    Animate PlayerStatusHealthValueShadow             FgColor        "Blu"                          Linear      0.8        0.4
+    Animate PlayerStatusHealthValueShadow             FgColor        "Indigo"                                 Linear      1.2        0.4
+    Animate PlayerStatusHealthValueShadow             FgColor        "Purple"                                 Linear      1.6        0.4
+    Animate PlayerStatusHealthValueShadowExtra       Alpha         "255"                                Accel     0.0     0.0
 
-	RunEvent HudHealthBonusPulseLoop	0.8
+    RunEvent HudHealthBonusPulseLoop    1.6
 }
 
 // call to loop HudHealthBonusPulse
 event HudHealthBonusPulseLoop
 {
-	RunEvent HudHealthBonusPulse 0.0
+    RunEvent HudHealthBonusPulse 0.0
 }
 
 event HudHealthBonusPulseStop
 {
-	StopEvent HudHealthBonusPulse 0.0
-	StopEvent HudHealthBonusPulseLoop 0.0
+    Animate PlayerStatusHealthValueShadow             FgColor        "0 0 0 0"                     Linear      0.0        0.0
+    StopEvent HudHealthBonusPulse 0.0
+    StopEvent HudHealthBonusPulseLoop 0.0
 }
 
 //====================================================================================================================

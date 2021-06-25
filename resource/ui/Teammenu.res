@@ -62,14 +62,14 @@
 		"font"			"M0refont24"
 		"fgcolor"		"255 255 255 255"
 	}
-	
+
 	"teambutton0"
 	{
 		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton0"
 		"xpos"			"c-125"
 		"ypos"			"c-6"
-		"zpos"			"3"		
+		"zpos"			"3"
 		"wide"			"124"
 		"tall"			"12"
 		"autoResize"	"0"
@@ -96,7 +96,7 @@
 		"fieldName"		"teambutton1"
 		"xpos"			"c1"
 		"ypos"			"c-6"
-		"zpos"			"3"		
+		"zpos"			"3"
 		"wide"			"124"
 		"tall"			"12"
 		"autoResize"	"0"
@@ -111,7 +111,7 @@
 		"paintborder"	"0"
 		"command"		"jointeam red"
 		"team"				"2"		// team red
-		"associated_model"	"redbutton"	
+		"associated_model"	"redbutton"
 		"hover"				"2.0"
 		"font"			"invisiblelolol"
 		"fgcolor"		"255 255 255 0"
@@ -124,7 +124,7 @@
 		"xpos"			"c-30"
 		"ypos"			"c-40"
 		"zpos"			"2"
-		"wide"			"60" 
+		"wide"			"60"
 		"tall"			"12"
 		"autoResize"	"0"
 		"pinCorner"		"2"
@@ -141,7 +141,7 @@
 		"font"			"invisiblelolol"
 		"fgcolor"		"255 255 255 0"
 	}
-	
+
 	"teambutton3"
 	{
 		"ControlName"	"CTFTeamButton"
@@ -149,7 +149,7 @@
 		"xpos"			"c-30"
 		"ypos"			"c28"
 		"zpos"			"2"
-		"wide"			"60" 
+		"wide"			"60"
 		"tall"			"12"
 		"autoResize"	"0"
 		"pinCorner"		"2"
@@ -162,11 +162,11 @@
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam spectate"
-		"associated_model"	"SpectateFrame"	
+		"associated_model"	"SpectateFrame"
 		"font"			"invisiblelolol"
 		"fgcolor"		"255 255 255 0"
 	}
-	
+
 	"CancelButton"
 	{
 		"ControlName"	"CExButton"
@@ -191,7 +191,7 @@
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
 	}
-	
+
 	"TeamMenuSelect"
 	{
 		"ControlName"	"CExLabel"
@@ -217,7 +217,7 @@
 		"font"			"MenuMainTitle"
 		"fgcolor"		"HudOffWhite"
 	}
-	
+
 	"TeamMenuAuto"
 	{
 		"ControlName"	"CExLabel"
@@ -225,7 +225,7 @@
 		"xpos"			"c-30"
 		"ypos"			"c-40"
 		"zpos"			"2"
-		"wide"			"60" 
+		"wide"			"60"
 		"tall"			"12"
 		"visible"		"1"
 		"enabled"		"1"
@@ -234,7 +234,7 @@
 		"font"			"Default"
 		"fgcolor"		"255 255 255 255"
 	}
-	
+
 	"TeamMenuSpectate"
 	{
 		"ControlName"	"CExLabel"
@@ -242,7 +242,7 @@
 		"xpos"			"c-30"
 		"ypos"			"c28"
 		"zpos"			"2"
-		"wide"			"60" 
+		"wide"			"60"
 		"tall"			"12"
 		"visible"		"1"
 		"enabled"		"1"
@@ -265,15 +265,15 @@
 		"enabled"		"0 "
 		"image"			"../hud/color_panel_clear"
 		"scaleImage"	"1"
-		
+
 		"src_corner_height"		"50"		// pixels inside the image
 		"src_corner_width"		"50"
-		
+
 		"draw_corner_width"		"10"		// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"10"
-	}	
+	}
 	"Tournamenttransbar"
-	{	
+	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldname"     "tournamenttransbar"
 		"xpos"		    	"c-6"
@@ -287,7 +287,7 @@
 		"enabled"		    "1"
 		"fillcolor"     "255 255 255 255"
 	}
-	
+
 	"ShadedBar"
 	{
 		"ControlName"	"ImagePanel"
@@ -303,11 +303,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"	"0"	
+		"tabPosition"	"0"
 		"fillcolor"		"0 0 0 0"
 		"PaintBackgroundType"	"0"
-	}		
-	
+	}
+
 	"BlueCount"
 	{
 		"ControlName"	"CExLabel"
@@ -325,8 +325,8 @@
 		"textAlignment"	"east"
 		"font"			"M0refont36"
 		"fgcolor"		"255 255 255 255"
-	}		
-	
+	}
+
 	"RedCount"
 	{
 		"ControlName"	"CExLabel"
@@ -342,7 +342,7 @@
 		"textAlignment"	"west"
 		"font"			"M0refont36"
 		"fgcolor"		"255 255 255 255"
-	}	
+	}
 
 	"blueframe"
 	{
@@ -350,7 +350,7 @@
 		"fieldName"	        	"blueframe"
 		"xpos"			          "c-125"
 		"ypos"		          	"c-6"
-		"zpos"		          	"1"		
+		"zpos"		          	"1"
 		"wide"			          "124"
 		"tall"			          "12"
 		"autoResize"        	"0"
@@ -360,18 +360,18 @@
 		"image"		          	"../HUD/tournament_panel_blu"
 		"src_corner_height"	  "15"
 		"src_corner_width"	  "15"
-		"draw_corner_width"	  "0"	
-		"draw_corner_height"  "0"	
+		"draw_corner_width"	  "0"
+		"draw_corner_height"  "0"
 
 	}
-	
+
 	"redframe"
 	{
 		"ControlName"		      "ScalableImagePanel"
-		"fieldName"	        	"redframe"		
+		"fieldName"	        	"redframe"
 		"xpos"		          	"c1"
 		"ypos"		          	"c-6"
-		"zpos"		          	"1"		
+		"zpos"		          	"1"
 		"wide"		          	"124"
 		"tall"		          	"12"
 		"autoResize"	        "0"
@@ -381,10 +381,10 @@
 		"image"		           	"../HUD/tournament_panel_red"
 		"src_corner_height" 	"15"
 		"src_corner_width"  	"15"
-		"draw_corner_width" 	"0"	
-		"draw_corner_height" 	"0"	
-	}	
-	
+		"draw_corner_width" 	"0"
+		"draw_corner_height" 	"0"
+	}
+
 	"BlueLabel"
 	{
 		"ControlName"	"CTFLabel"
@@ -404,8 +404,8 @@
 		"pinCorner"		"0"
 		"dulltext"		"0"
 		"brighttext"	"1"
-	}		
-	
+	}
+
 	"RedLabel"
 	{
 		"ControlName"	"CTFLabel"
@@ -421,14 +421,14 @@
 		"textAlignment"	"east"
 		"font"			"Default"
 		"fgcolor"		"255 255 255 255"
-	}	
+	}
 	"RandomFrame"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"RandomFrame"
 		"xpos"			"c-30"
 		"ypos"			"c-14"
-		"zpos"			"1"		
+		"zpos"			"1"
 		"wide"			"60"
 		"tall"			"12"
 		"visible"		"1"
@@ -436,11 +436,11 @@
 		"image"			"../hud/color_panel_clear"
 		"src_corner_height"	"60"
 		"src_corner_width"	"60"
-		
+
 		"draw_corner_width"	"0"
-		"draw_corner_height" 	"0"		
-	}		
-	
+		"draw_corner_height" 	"0"
+	}
+
 	"SpectateFrame"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -458,12 +458,12 @@
 		"image"			"../hud/color_panel_brown"
 		"src_corner_height"	"23"
 		"src_corner_width"	"23"
-		
+
 		"draw_corner_width"	"3"
-		"draw_corner_height" 	"3"	
-		
-	}			
-	
+		"draw_corner_height" 	"3"
+
+	}
+
 	"Footer"
 	{
 		"ControlName"		"CTFFooter"
@@ -484,28 +484,27 @@
 		"button_pin_right_lodef"	"55"
 		"fonttext"			"MatchmakingDialogMenuLarge"
 		"fonttext_lodef"			"MatchmakingDialogMenuSmall"
-		"fgcolor"			"HudOffWhite" 	
-		
+		"fgcolor"			"HudOffWhite"
+
 		"button"
 		{
 			"name"		"cancel"
 			"text"		"#GameUI_Cancel"
-			"icon"		"#GameUI_Icons_B_BUTTON"	
+			"icon"		"#GameUI_Icons_B_BUTTON"
 		}
-		
+
 		"button"
 		{
 			"name"		"nextprev"
 			"text"		"#TF_NextPrev"
-			"icon"		"#GameUI_Icons_DPAD"	
+			"icon"		"#GameUI_Icons_DPAD"
 		}
-		
+
 		"button"
 		{
 			"name"		"select"
 			"text"		"#GameUI_Select"
-			"icon"		"#GameUI_Icons_A_BUTTON"	
+			"icon"		"#GameUI_Icons_A_BUTTON"
 		}
-	}	
+	}
 }
-

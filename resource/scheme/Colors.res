@@ -11,6 +11,10 @@ Scheme
 		"WhiteTransparent"						"235 235 235 180"
 		"WhiteMoreTransparent"					"235 235 235 150"
 		
+		"Indigo"										"75 0 130 255"
+		
+		"None" 										"0 0 0 0"
+		
 		"WhiteGray"								"185 185 185 255"
 		
 		"Black"									"35 35 35 255"
@@ -27,7 +31,8 @@ Scheme
 		
 		"Blue"											"100 170 225 255"
 		"BlueLight"								"150 200 220 255"
-
+		"Blu"											"0 0 255 255"
+		
 		"Teal"										"0 128 128 255"
 		
 		"RedSolid"								"220 30 30 255"
@@ -156,6 +161,7 @@ Scheme
 		"TransparentYellow"						"235 235 235 255"
 		"BrightYellow"							"251 235 0 255"
 		"GreenSolid"		 					"76 107 34 255"
+		"Greene" 								"0 255 0 255"
 		
 		"TransparentBlack"						"0 0 0 200"
 		"TransparentLightBlack"					"0 0 0 50"
