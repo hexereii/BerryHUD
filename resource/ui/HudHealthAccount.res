@@ -9,6 +9,6 @@
 		"PositiveColor"			"Blue"
 		"NegativeColor"			"Red"
 		"delta_lifetime"		"0"
-		"delta_item_font"		"Aero72"
+		"delta_item_font"		"Quake72"
 	}
 }

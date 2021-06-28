@@ -10,8 +10,8 @@
 		"text_y"			      	"0"
 		"delta_item_end_y"		"0"
 		"delta_lifetime"	  	"1.6"
-		"delta_item_font"	  	"Aero"
-		"delta_item_font_big"	"Aero20"
+		"delta_item_font"	  	"Quake"
+		"delta_item_font_big"	"Quake20"
 	}
 	"DamageAccountValue"
 	{
@@ -28,7 +28,7 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"font"			"Aero20"
+		"font"			"Quake20"
 	}
 	"DamageAccountValueShadow"
 	{
@@ -45,6 +45,6 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"font"			"Aero20"
+		"font"			"Quake20"
 	}
 }

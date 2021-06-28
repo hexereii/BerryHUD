@@ -71,7 +71,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Aero14"
+		"font"					"Quake14"
 		"fgcolor_override"      "255 255 255 255"
 	}
 	
@@ -112,7 +112,7 @@
 		"textAlignment"			"left"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Aero14"
+		"font"					"Quake14"
 		"fgcolor_override"      "255 255 255 255"
 	}
 		"ItemEffectMeterCount2"
@@ -131,7 +131,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Aero14"
+		"font"					"Quake14"
 		"fgcolor"				"Shadows"
 		"pin_to_sibling"		"ItemEffectMeterCount1"
 	}

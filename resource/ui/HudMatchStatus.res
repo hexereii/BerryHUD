@@ -13,7 +13,7 @@
 	{	
 		"ControlName"							"CExLabel"
 		"fieldName"								"CountdownLabel"
-		"font"									"Aero"
+		"font"									"Quake"
 		"xpos"									"cs-0.5"
 		"ypos"									"cs-0.1"
 		"wide"									"40"
@@ -135,13 +135,13 @@
 		"PositiveColor"							"GreenLight"
 		"NegativeColor"							"RedLight"
 		"delta_lifetime"						"1.5"
-		"delta_item_font"						"Aero"
+		"delta_item_font"						"Quake"
 		
 		"TimePanelValue"
 		{
 			"ControlName"						"CExLabel"
 			"fieldName"							"TimePanelValue"
-			"font"								"Aero"
+			"font"								"Quake"
 			"fgcolor"							"White"
 			"xpos"								"30"
 			"ypos"								"0"
@@ -208,7 +208,7 @@
 		{
 			"ControlName"						"CExLabel"
 			"fieldName"							"BlueTeamLabel"
-			"font"								"Aero"
+			"font"								"Quake"
 			"labelText"							"%blueteamname%"
 			"textAlignment"						"center"
 			"xpos"								"48"
@@ -352,7 +352,7 @@
 		{
 			"ControlName"						"CExLabel"
 			"fieldName"							"RedTeamLabel"
-			"font"								"Aero"
+			"font"								"Quake"
 			"labelText"							"%redteamname%"
 			"textAlignment"						"center"
 			"xpos"								"5"
@@ -577,7 +577,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"			"Aero8"
+				"font"			"Quake8"
 				"xpos"			"1"
 				"ypos"			"12"
 				"zpos"			"8"
@@ -622,7 +622,7 @@
 			{	
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"healthbar"
-				"font"			"Aero"																		
+				"font"			"Quake"																		
 				"xpos"			"0"
 				"ypos"			"2"
 				"zpos"			"5"
@@ -642,7 +642,7 @@
 			{	
 				"ControlName"			"ContinuousProgressBar"
 				"fieldName"				"overhealbar"
-				"font"					"Aero"																		
+				"font"					"Quake"																		
 				"xpos"					"0"
 				"ypos"					"2"
 				"zpos"					"6"
@@ -663,7 +663,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"Aero"
+				"font"			"Quake"
 				"xpos"			"cs-.5"
 				"ypos"			"0"
 				"zpos"			"10"
@@ -732,7 +732,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
-				"font"			"Aero"
+				"font"			"Quake"
 				"xpos"			"cs-0.5"
 				"ypos"			"14"
 				"zpos"			"9"
@@ -749,7 +749,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"specindex"
-				"font"			"Aero"
+				"font"			"Quake"
 				"xpos"			"4"
 				"ypos"			"2"
 				"zpos"			"5"

@@ -74,3 +74,6 @@ Added 4:3 customization option (Alternatives)
 
 hexhud a5
 Modified the ubercharge bar colour changes (hudanimations_peach.txt)
+Modified the shadow of the HP without buff (hudanimations_peach.txt)
+Changed file name of 'Aero' to 'Quake' for less confusion, as the font used is no longer Aero (a lot of files)
+Replaced the scoreboard with an edit of PhouHUD's (ScoreBoard_12v12.res)

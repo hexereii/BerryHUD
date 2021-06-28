@@ -23,7 +23,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Aero"
+				"name"			"Quake"
 				"tall"			"40"		//DEFAULT=40
 				"additive"  	"0"
 				"antialias"		"1"
@@ -34,7 +34,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Aero"
+				"name"			"Quake"
 				"tall"			"50"		//DEFAULT=50
 				"additive"  	"0"
 				"antialias"		"1"
@@ -49,7 +49,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Aero"
+				"name"			"Quake"
 				"tall"			"40"		//DEFAULT=40
 				"additive"  	"0"
 				"antialias"		"1"
@@ -60,7 +60,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Aero"
+				"name"			"Quake"
 				"tall"			"50"		//DEFAULT=50
 				"additive"  	"0"
 				"antialias"		"1"
@@ -71,7 +71,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Aero"
+				"name"			"Quake"
 				"tall"			"20"		//DEFAULT=20
 				"additive"  	"0"
 				"antialias"		"1"
@@ -82,7 +82,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Aero"
+				"name"			"Quake"
 				"tall"			"24"		//DEFAULT=24
 				"additive"  	"0"
 				"antialias"		"1"
@@ -93,7 +93,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Aero"
+				"name"			"Quake"
 				"tall"			"40"		//DEFAULT=40
 				"additive"  	"0"
 				"antialias"		"1"
@@ -105,7 +105,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Aero"
+				"name"			"Quake"
 				"tall"			"50"		//DEFAULT=50
 				"additive"  	"0"
 				"antialias"		"1"
@@ -121,7 +121,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero"
+				"name"		"Quake"
 				"tall"			"26"		//DEFAULT=22
 				"additive"  	"0"
 				"antialias"		"1"
@@ -134,7 +134,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Aero"
+				"name"			"Quake"
 				"tall"			"26"		//DEFAULT=22
 				"additive"  	"0"
 				"antialias"		"1"

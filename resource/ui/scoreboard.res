@@ -1,2 +1,2 @@
-#base "../../customizations/Scoreboards_6v6.res"
+#base "../../customizations/ScoreBoard_12v12.res"
 #base "../../customizations/Scoreboards.res"

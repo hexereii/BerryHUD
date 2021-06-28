@@ -78,7 +78,7 @@
       "labelText"    "Main"
       "labelText_minmode"  "Surf"
       "textAlignment"   "center"
-      "font"         "Aero"
+      "font"         "Quake"
       "fgcolor"      "White"
    }
 
@@ -96,7 +96,7 @@
       "labelText"    "Offclass"
       "labelText_minmode"     ""    //if adding back other classes then this must be changed
       "textAlignment"   "center"
-      "font"         "Aero"
+      "font"         "Quake"
       "fgcolor"      "White"
    }
  
@@ -119,7 +119,7 @@
       "textAlignment"      "west"
       "Command"         "select 1"
       "Default"         "0"
-      "font"            "Aero"
+      "font"            "Quake"
       "scaleImage"      "1"
       
       "image_default"      "class_sel_sm_scout_inactive"
@@ -184,7 +184,7 @@
       "textAlignment"      "west"
       "Command"         "select 3"
       "Default"         "0"
-      "font"            "Aero"
+      "font"            "Quake"
       "scaleImage"      "1"
       
       "image_default"      "class_sel_sm_soldier_inactive"
@@ -249,8 +249,8 @@
       "textAlignment"      "west"
       "Command"         "select 7"
       "Default"         "0"
-      "font"            "Aero"
-      "font_minmode"    "Aero"
+      "font"            "Quake"
+      "font_minmode"    "Quake"
       "scaleImage"      "1"
       
       "image_default"      "class_sel_sm_pyro_inactive"
@@ -313,7 +313,7 @@
       "textAlignment"      "west"
       "Command"         "select 4"
       "Default"         "0"
-      "font"            "Aero"
+      "font"            "Quake"
       "scaleImage"      "1"
       
       "image_default"      "class_sel_sm_demo_inactive"
@@ -373,7 +373,7 @@
       "textAlignment"      "west"
       "Command"         "select 6"
       "Default"         "0"
-      "font"            "Aero"
+      "font"            "Quake"
       "scaleImage"      "1"
       
       "image_default"      "class_sel_sm_heavy_inactive"
@@ -436,8 +436,8 @@
       "textAlignment"      "west"
       "Command"         "select 9"
       "Default"         "0"
-      "font"            "Aero"
-      "font_minmode"    "Aero"
+      "font"            "Quake"
+      "font_minmode"    "Quake"
       "scaleImage"      "1"
       
       "image_default"      "class_sel_sm_engineer_inactive"
@@ -499,7 +499,7 @@
       "textAlignment"      "west"
       "Command"         "select 5"
       "Default"         "0"
-      "font"            "Aero"
+      "font"            "Quake"
       "scaleImage"      "1"
       
       "image_default"      "class_sel_sm_medic_inactive"
@@ -561,8 +561,8 @@
       "textAlignment"      "west"
       "Command"         "select 2"
       "Default"         "0"
-      "font"            "Aero"
-      "font_minmode"            "Aero"
+      "font"            "Quake"
+      "font_minmode"            "Quake"
       "scaleImage"      "1"
       
       "image_default"      "class_sel_sm_sniper_inactive"
@@ -624,8 +624,8 @@
       "textAlignment"      "west"
       "Command"         "select 8"
       "Default"         "0"
-      "font"            "Aero"
-      "font_minmode"    "Aero"
+      "font"            "Quake"
+      "font_minmode"    "Quake"
       "scaleImage"      "1"
       
       "image_default"      "class_sel_sm_spy_inactive"
@@ -691,7 +691,7 @@
       "textAlignment"      "south-west"
       "Command"         "select 12"
       "Default"         "1"
-      "font"            "Aero"
+      "font"            "Quake"
       "scaleImage"      "1"
       
       "image_default"      "class_sel_sm_random_inactive"
@@ -750,7 +750,7 @@
       "labelText"    "#TF_ClassMenu_Cancel"
       "textAlignment"   "center"
       "Command"      "vguicancel"
-      "font"         "Aero"
+      "font"         "Quake"
       "fgcolor_override" "200 80 60 255"
    }
    
@@ -773,7 +773,7 @@
       "labelText"    "#EditLoadout"
       "textAlignment"   "center"
       "Command"      "openloadout"
-      "font"         "Aero"
+      "font"         "Quake"
       
       "border_default"  "Black"
       "border_armed"    "BlackTransparent"
@@ -804,7 +804,7 @@
       "labelText"    "#TF_ClassMenu_Reset"
       "textAlignment"   "center"
       "Command"      "resetclass"
-      "font"         "Aero"
+      "font"         "Quake"
    }
 
    "ClassMenuSelect"
@@ -827,7 +827,7 @@
       "enabled"      "1"
       "labelText"    "#TF_SelectAClass"
       "textAlignment"   "west"
-      "font"         "Aero"
+      "font"         "Quake"
       "fgcolor"      "HudOffWhite"
    }
    
@@ -1051,7 +1051,7 @@
       "enabled"      "1"
       "labelText"    "%numScout%"
       "textAlignment"   "east"
-      "font"         "Aeroclass"
+      "font"         "Quakeclass"
       "fgcolor"      "base00"
    }  
    
@@ -1070,7 +1070,7 @@
       "enabled"      "1"
       "labelText"    "%numSoldier%"
       "textAlignment"   "east"
-      "font"         "Aeroclass"
+      "font"         "Quakeclass"
       "fgcolor"      "base00"
    }     
    
@@ -1091,8 +1091,8 @@
       "enabled"      "1"
       "labelText"    "%numPyro%"
       "textAlignment"   "east"
-      "font"         "Aeroclass"
-      "font_minmode" "Aero"
+      "font"         "Quakeclass"
+      "font_minmode" "Quake"
       "fgcolor"      "base00"
    }        
    
@@ -1111,7 +1111,7 @@
       "enabled"      "1"
       "labelText"    "%numDemoman%"
       "textAlignment"   "east"
-      "font"         "Aeroclass"
+      "font"         "Quakeclass"
       "fgcolor"      "base00"
    }           
    "numDemoman2" 
@@ -1129,7 +1129,7 @@
       "enabled"      "1"
       "labelText"    "%numDemoman%"
       "textAlignment"   "east"
-      "font"         "Aeroclass"
+      "font"         "Quakeclass"
       "fgcolor"      "base00"
    }           
    
@@ -1147,7 +1147,7 @@
       "enabled"      "1"
       "labelText"    "%numHeavy%"
       "textAlignment"   "east"
-      "font"         "Aeroclass"
+      "font"         "Quakeclass"
       "fgcolor"      "base00"
    }              
    
@@ -1168,8 +1168,8 @@
       "enabled"      "1"
       "labelText"    "%numEngineer%"
       "textAlignment"   "east"
-      "font"         "Aeroclass"
-      "font_minmode" "Aero"
+      "font"         "Quakeclass"
+      "font_minmode" "Quake"
       "fgcolor"      "base00"
    }                 
    
@@ -1187,7 +1187,7 @@
       "enabled"      "1"
       "labelText"    "%numMedic%"
       "textAlignment"   "east"
-      "font"         "Aeroclass"
+      "font"         "Quakeclass"
       "fgcolor"      "base00"
    }                    
    
@@ -1208,8 +1208,8 @@
       "enabled"      "1"
       "labelText"    "%numSniper%"
       "textAlignment"   "east"
-      "font"         "Aeroclass"
-      "font_minmode" "Aero"
+      "font"         "Quakeclass"
+      "font_minmode" "Quake"
       "fgcolor"      "base00"
    }                 
    
@@ -1230,8 +1230,8 @@
       "enabled"      "1"
       "labelText"    "%numSpy%"
       "textAlignment"   "east"
-      "font"         "Aeroclass"
-      "font_minmode" "Aero"
+      "font"         "Quakeclass"
+      "font_minmode" "Quake"
       "fgcolor"      "base00"
    }                       
    
@@ -1397,7 +1397,7 @@
       {
          "ControlName"  "CExLabel"
          "fieldName"    "TitleLabel"
-         "font"         "AeroBold"
+         "font"         "QuakeBold"
          "labelText"    "#TF_MvM_UpgradeExplanation_Title"
          "textAlignment"   "north"
          "xpos"         "20"
@@ -1416,7 +1416,7 @@
       {
          "ControlName"  "CExLabel"
          "fieldName"    "TextLabel"
-         "font"         "Aero"
+         "font"         "Quake"
          "labelText"    "#TF_MvM_UpgradeExplanation_Text"
          "textAlignment"   "north-west"
          "xpos"         "20"
@@ -1446,7 +1446,7 @@
          "enabled"      "1"
          "tabPosition"  "0"
          "labeltext"    ""
-         "font"         "AeroBold"
+         "font"         "QuakeBold"
          "textAlignment"   "center"
          "dulltext"     "0"
          "brighttext"   "0"
@@ -1611,7 +1611,7 @@
       {
          "ControlName"  "CExLabel"
          "fieldName"    "TitleLabel"
-         "font"         "AeroBold"
+         "font"         "QuakeBold"
          "labelText"    "#CMenu_ClassHighlightPanel_Title"
          "textAlignment"   "north-west"
          "xpos"         "10"
@@ -1630,7 +1630,7 @@
       {
          "ControlName"  "CExLabel"
          "fieldName"    "ClassHighlightText"
-         "font"         "Aero"
+         "font"         "Quake"
          "labelText"    "%ClassHighlightText%"
          "textAlignment"   "north-west"
          "xpos"         "20"
@@ -1660,7 +1660,7 @@
          "enabled"      "1"
          "tabPosition"  "0"
          "labeltext"    ""
-         "font"         "AeroBold"
+         "font"         "QuakeBold"
          "textAlignment"   "center"
          "dulltext"     "0"
          "brighttext"   "0"

@@ -17,13 +17,13 @@
 		"PositiveColor"				"0 255 0 255"
 		"NegativeColor"				"255 0 0 255"
 		"delta_lifetime"			"1.5"
-		"delta_item_font"			"Aero"
+		"delta_item_font"			"Quake"
 		
 		"TimePanelValue"
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"TimePanelValue"
-			"font"					"Aero"
+			"font"					"Quake"
 			"fgcolor"				"WhiteTransparent"
 			"xpos"					"30"
 			"ypos"					"1"
@@ -70,13 +70,13 @@
 		"PositiveColor"				"0 255 0 255"
 		"NegativeColor"				"255 0 0 255"
 		"delta_lifetime"			"1.5"
-		"delta_item_font"			"Aero"
+		"delta_item_font"			"Quake"
 		
 		"TimePanelValue"
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"TimePanelValue"
-			"font"					"Aero"
+			"font"					"Quake"
 			"fgcolor"				"WhiteTransparent"
 			"xpos"					"30"
 			"ypos"					"1"

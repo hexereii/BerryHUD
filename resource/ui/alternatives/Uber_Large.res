@@ -43,7 +43,7 @@
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		"font"						"Aero42"
+		"font"						"Quake42"
 		"font_minmode"				"Uber Minmode"
 		"fgcolor"					"Ubercharge"
 		
@@ -109,7 +109,7 @@
 	{	
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter1"
-		"font"						"Aero42"
+		"font"						"Quake42"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"2"
@@ -158,7 +158,7 @@
 	{	
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter3"
-		"font"						"Aero42"
+		"font"						"Quake42"
 		"xpos"						"2"
 		"ypos"						"0"
 		"zpos"						"2"
@@ -184,7 +184,7 @@
 	{	
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter4"
-		"font"						"Aero42"
+		"font"						"Quake42"
 		"xpos"						"2"
 		"ypos"						"0"
 		"zpos"						"2"

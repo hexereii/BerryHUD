@@ -464,7 +464,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-			Aero8
+			Quake8
 		{
 			"1"
 			{
@@ -475,18 +475,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		Aero11
-		{
-			"1"
-			{
-				"name"		"HandelGothic BT"
-				"tall"		"11"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"0"
-			}
-		}
-		Aero
+		Quake
 		{
 			"1"
 			{
@@ -497,7 +486,18 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		Aero14
+			Quake11
+		{
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"0"
+			}
+		}
+		Quake14
 		{
 			"1"
 			{
@@ -508,7 +508,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		Aero20
+		Quake20
 		{
 			"1"
 			{
@@ -519,7 +519,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		Aero22
+		Quake22
 		{
 			"1"
 			{
@@ -530,7 +530,18 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		Aero28
+		Quake24
+		{
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"22"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"0"
+			}
+		}
+		Quake28
 		{
 			"1"
 			{
@@ -541,7 +552,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-			Aero36
+			Quake36
 		{
 			"1"
 			{
@@ -552,7 +563,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		Aero40
+		Quake40
 		{
 			"1"
 			{
@@ -563,7 +574,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		Aero42
+		Quake42
 		{
 			"1"
 			{
@@ -574,7 +585,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-			Aero50
+			Quake50
 		{
 			"1"
 			{
@@ -3083,7 +3094,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero22"
+				"name"		"Quake22"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3094,7 +3105,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero22"
+				"name"		"Quake22"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3105,7 +3116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero22"
+				"name"		"Quake22"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3116,7 +3127,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero22"
+				"name"		"Quake22"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3127,7 +3138,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero22"
+				"name"		"Quake22"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -3475,7 +3486,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero"
+				"name"		"Quake"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -3486,7 +3497,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero"
+				"name"		"Quake"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -3497,7 +3508,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Aero"
+				"name"		"Quake"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
