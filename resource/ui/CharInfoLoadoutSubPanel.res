@@ -70,7 +70,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 		
 		"pin_to_sibling" 				"SoldierCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -146,7 +146,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 		
 		"pin_to_sibling" 				"PyroCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -222,7 +222,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 		
 		"pin_to_sibling" 				"DemomanCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -298,7 +298,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 
 		"pin_to_sibling" 				"CustomHeavy"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -374,7 +374,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 	}
 	
 	"HeavyShadow"
@@ -446,7 +446,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 		
 		"pin_to_sibling" 				"CustomHeavy"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -522,7 +522,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 		
 		"pin_to_sibling" 				"EngineerCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -598,7 +598,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 		
 		"pin_to_sibling" 				"MedicCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -674,7 +674,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 		
 		"pin_to_sibling" 				"SniperCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -766,7 +766,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 		
 		"pin_to_sibling" 				"Crafting"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -837,7 +837,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 		
 		"pin_to_sibling" 				"Armory"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -908,7 +908,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 	}
 	
 	"ArmoryShadow"
@@ -975,7 +975,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 		
 		"pin_to_sibling" 				"Armory"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -1046,7 +1046,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"OrangeTransparent50"
+		"border_armed"					"WhiteTransparent"
 		
 		"pin_to_sibling" 				"Trade"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
