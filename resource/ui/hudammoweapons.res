@@ -110,7 +110,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"AmmoNoClip"
-		"font"						"Ammo Regular"
+		"font"						"Quake40"
 		"font_minmode"				"Ammo Minmode"
 		"fgcolor"					"Ammo No Clip"
 		"xpos"						"0"
@@ -134,7 +134,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"AmmoNoClipShadow"
-		"font"						"Ammo Regular"
+		"font"						"Quake40"
 		"font_minmode"				"Ammo Minmode"
 		"fgcolor"					"Shadows"
 		"xpos"						"-1"
