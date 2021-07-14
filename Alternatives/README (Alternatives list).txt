@@ -21,3 +21,7 @@ HL version - customizations, resource/ui/alternative/Scoreboard_12v12
 4 by 3 version 
 **If you don't use widescreen, this is for you!!**
 Just drag the resource folder into your main directory to the main folder & it will fix the main menu for you!!
+
+Galaxy backgrounds
+***Drag the folders out of Galaxy Backgrounds!!***
+Credits to Ellie (@address.astro on insta)

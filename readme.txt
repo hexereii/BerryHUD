@@ -77,3 +77,7 @@ Modified the ubercharge bar colour changes (hudanimations_peach.txt)
 Modified the shadow of the HP without buff (hudanimations_peach.txt)
 Changed file name of 'Aero' to 'Quake' for less confusion, as the font used is no longer Aero (a lot of files)
 Replaced the scoreboard with an edit of PhouHUD's (ScoreBoard_12v12.res)
+
+hexhud a6 
+Revamped the backgrounds in the main menu + loadout, alternative for old version still accessible in alternatives folder
+
