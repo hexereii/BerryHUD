@@ -791,8 +791,8 @@
 			
 			"paintbackground"			"0"
 			
-			"defaultFgColor_override" 	"255 0 0 255" //Red
-			"armedFgColor_override" 	"0 255 255 255"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"0 255 144 255"
 			"depressedFgColor_override" "0 255 144 255"
 		}
 	}
@@ -831,8 +831,8 @@
 			
 			"paintbackground"			"0"
 			
-			"defaultFgColor_override" 	"255 128 0 255" //Orange
-			"armedFgColor_override" 	"0 128 255 255"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"0 255 144 255"
 			"depressedFgColor_override" "0 255 144 255"
 		}
 	}
@@ -872,8 +872,8 @@
 			
 			"paintbackground"			"0"
 			
-			"defaultFgColor_override" 	"255 255 0 255" //Yellow
-			"armedFgColor_override" 	"0 0 255 255"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"0 255 144 255"
 			"depressedFgColor_override" "0 255 144 255"
 		}
 	}
@@ -913,8 +913,8 @@
 			
 			"paintbackground"			"0"
 			
-			"defaultFgColor_override" 	"0 255 0 255" //Green
-			"armedFgColor_override" 	"255 0  255 255"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"0 255 144 255"
 			"depressedFgColor_override" "0 255 144 255"
 		}
 	}
@@ -954,9 +954,9 @@
 			
 			"paintbackground"			"0"
 			
-			"defaultFgColor_override" 	"0 174 239 255" //Blue
-			"armedFgColor_override" 	"255 255 0 255"
-			"depressedFgColor_override" "128 128 128 255"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"0 255 144 255"
+			"depressedFgColor_override" "0 255 144 255"
 		}
 	}
 
@@ -996,8 +996,8 @@
 			
 			"paintbackground"			"0"
 			
-			"defaultFgColor_override" 	"172 59 255 255" //Indigo
-			"armedFgColor_override" 	"54 130 0 255"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"0 255 144 255"
 			"depressedFgColor_override" "0 255 144 255"
 		}
 	}
@@ -1037,8 +1037,8 @@
 			
 			"paintbackground"			"0"
 			
-			"defaultFgColor_override" 	"238 130 238 255" //Violet
-			"armedFgColor_override" 	"130 238 130 255"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"0 255 144 255"
 			"depressedFgColor_override" "0 255 144 255"
 		}
 	}
@@ -1119,8 +1119,8 @@
 			
 			"paintbackground"			"0"
 						
-			"defaultFgColor_override" 	"75 0 130 255" //Indigo
-			"armedFgColor_override" 	"54 130 0 255"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"0 255 144 255"
 			"depressedFgColor_override" "0 255 144 255"
 		}
 	}

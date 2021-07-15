@@ -33,7 +33,7 @@
 		"label" 		"HEXHUD"
 		"command" 		"engine clear
 				echo; echo; echo ---------;
-				echo HexHUD | Current release: June 28, 2021;
+				echo HexHUD | Current release: July 15, 2021;
 				echo HexHUD | First release: May 30, 2021;
 				echo Made by Hexereii;
 				echo Support | twitter.com/hexereiitf2;
@@ -45,7 +45,7 @@
 	"Create"
 	{
 		"label" 		"MGE"
-		"command" 		"engine connect 45.35.1.186:27075"
+		"command" 		"engine connect 103.214.111.90:27015"
 		"OnlyAtMenu" 	"1"	
 	}
 	"Servers"
@@ -53,6 +53,7 @@
 		"label" 		"SERVERS" 
 		"command" 	"OpenServerBrowser"
 	} 
+
 	"Items"
 	{
 		"label" 		"LOADOUTS"
@@ -117,8 +118,8 @@
 	
 	"Scoreboard"
 	{
-		"label" 		"MGE"
-		"command" 		"engine connect 45.35.1.186:27075"
+		"label" 		"BOMBING BALCONY"
+		"command" 		"engine copper"
 		"OnlyInGame" 	"1"
 	}
 	"Disconnect"
@@ -158,7 +159,7 @@
 		"command"		"OpenAchievementsDialog"
 		"subimage"		"glyph_achievements"
 		"OnlyInGame"	"1"
-		"tooltip"		"Achievements"
+		"tooltip"		"ACHIEVEMENTS"
 	}
 	
 	///////////////////////////////////////////////////////////////////

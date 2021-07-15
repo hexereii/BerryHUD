@@ -17,6 +17,7 @@ CatEnjoyer Edits - resource\ui\hudammoweapons
 To implement properly, take the folders out of 'FatKitten Edition' & drag them into your main 'hexhud' folder. It will ask if you want to replace files, say Yes!
 
 HL version - customizations, resource/ui/alternative/Scoreboard_12v12
+STILL WIP, NOT FUNCTIONAL IN THIS VERSION!
 
 4 by 3 version 
 **If you don't use widescreen, this is for you!!**

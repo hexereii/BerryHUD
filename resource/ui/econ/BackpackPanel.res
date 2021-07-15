@@ -600,7 +600,7 @@
 		"paintbackground" 						"0"
 		
 		"border_default"						"BlackTransparent70"
-		"border_armed"							"OrangeTransparent70"
+		"border_armed"							"WhiteTransparent"
 		
 		"pin_to_sibling" 						"SortByBG"
 		"pin_corner_to_sibling" 				"PIN_BOTTOMLEFT"
@@ -635,7 +635,7 @@
 		"paintbackground" 						"0"
 		
 		"border_default"						"BlackTransparent70"
-		"border_armed"							"OrangeTransparent70"
+		"border_armed"							"WhiteTransparent"
 	}
 	
 	"StartExplanation"

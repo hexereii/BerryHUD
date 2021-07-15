@@ -4720,6 +4720,8 @@ Scheme
 		}
 	}
 	
+	CustomFontFiles 
+	}
 		"1"
 		{
 			"font" "resource/scheme/fonts/Renogare.ttf" [$WINDOWS]

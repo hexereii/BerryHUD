@@ -22,6 +22,8 @@ Eventually..
 
 Patch Notes:
 
+Patch Notes:
+
 hexhud_a1.2
 Fixed background (weird clipping in Loading screen)
 Moved friends list to right side of the screen [mainmenuoverride.res, steamfriendpanel.res)
@@ -78,6 +80,7 @@ Modified the shadow of the HP without buff (hudanimations_peach.txt)
 Changed file name of 'Aero' to 'Quake' for less confusion, as the font used is no longer Aero (a lot of files)
 Replaced the scoreboard with an edit of PhouHUD's (ScoreBoard_12v12.res)
 
-hexhud a6 
-Revamped the backgrounds in the main menu + loadout, alternative for old version still accessible in alternatives folder
-
+hexhud a6
+Updated the backgrounds/base thematic of the Main Menu background (background_upward) & backpack (MountainBlur)
+Changed colours of overheal/buff to be a bit more consistent & less chaotic-feeling (hudanimations_tf.txt)
+Fixed so fonts are loaded properly with the HUD (Fonts.res)
