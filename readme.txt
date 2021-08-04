@@ -8,7 +8,6 @@ tinyurl.com/hexmedcfg
 
 TODO LIST;
 - HexHUD; Highlander version/Prolander/Casual version 
--Edit scoreboards (9v9/7v7/12v12)
 -Edit Class Select (HL; Make combo & flank class disinction/PL; Change main class & off class distinction/Casual Offense/Defence/Support)
 
 - Change colours under 'Find Game' menu
