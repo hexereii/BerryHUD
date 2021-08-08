@@ -28,7 +28,7 @@
 			"bgcolor_override"		"59 54 48 0"
 			"PaintBackgroundType"	"0"
 			"paintborder"	"0"
-			"text_forcesize" "2"
+			"text_forceQuake" "2"
 			
 			"model_xpos"	"25"
 			"model_ypos"	"3"

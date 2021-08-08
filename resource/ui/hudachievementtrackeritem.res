@@ -26,7 +26,7 @@
 		"tall"			"10"
 		"zpos"			"4"
 		"textinsetx"	"5"
-		"font"			"Size 10"
+		"font"			"Quake11"
 		"AllCaps"			"1"
 		"textAlignment"		"north-west"
 	}
@@ -41,7 +41,7 @@
 		"tall"			"10"
 		"zpos"			"4"
 		"fgcolor_override"		"White"
-		"font"			"Size 10"
+		"font"			"Quake11"
 		"AllCaps"			"1"
 		"textinsetx"	"5"
 		"textAlignment"		"north-west"

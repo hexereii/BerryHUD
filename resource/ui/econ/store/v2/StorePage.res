@@ -142,7 +142,7 @@
 		
 		"cart_labels_kv"
 		{
-			"font"							"Size 11"
+			"font"							"Quake11"
 			"textAlignment"					"north-east"
 			"xpos"							"9999"
 			"ypos"							"9999"
@@ -263,7 +263,7 @@
 		"armedFgColor_override"				"White"
 		"depressedFgColor_override"			"White"
 		
-		"border_default"					"BlueTransparent70"
+		"border_default"					"BlackTransparent70"
 		"border_armed"						"OrangeTransparent70"
 		
 		"pin_to_sibling" 					"ItemsBG"
@@ -285,7 +285,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"CurPageLabel"
-		"font"								"Size 24"
+		"font"								"Quake24"
 		"labelText"							"%backpackpage%"
 		"textAlignment"						"east"
 		"xpos"								"-8"
@@ -335,7 +335,7 @@
 		"armedFgColor_override"				"White"
 		"depressedFgColor_override"			"White"
 		
-		"border_default"					"BlueTransparent70"
+		"border_default"					"BlackTransparent70"
 		"border_armed"						"OrangeTransparent70"
 		
 		"pin_to_sibling" 					"ItemsBG"
@@ -580,7 +580,7 @@
 		"fgcolor_override"					"White"
 		"bgcolor_override"					"Blank"
 		"paintbackgroundtype" 				"2"
-		"font"								"Size 12"
+		"font"								"Quake12"
 		
 		"pin_to_sibling" 					"ClassFilterNavPanel"
 		"pin_corner_to_sibling" 			"PIN_CENTER_LEFT"
@@ -606,7 +606,7 @@
 		"labeltext"							"Q"
 		"fgcolor_override"					"White"
 		
-		"border"							"BlueTransparent70"
+		"border"							"BlackTransparent70"
 		
 		"pin_to_sibling" 					"NameFilterTextEntry"
 	}
@@ -615,7 +615,7 @@
 	{
 		"ControlName"						"ComboBox"
 		"fieldName"							"SubcategoryFilterComboBox"
-		"Font"								"Size 11"
+		"Font"								"Quake11"
 		"xpos"								"5"
 		"ypos"								"0"
 		"zpos"								"1"
@@ -667,7 +667,7 @@
 		"tall"								"20"
 		"visible"							"1"
 		"enabled"							"1"
-		"border"							"BlueTransparent70"
+		"border"							"BlackTransparent70"
 		
 		"pin_to_sibling" 					"SubcategoryFilterComboBox"
 	}
@@ -676,7 +676,7 @@
 	{
 		"ControlName"						"ComboBox"
 		"fieldName"							"SortFilterComboBox"
-		"Font"								"Size 11"
+		"Font"								"Quake11"
 		"xpos"								"3"
 		"ypos"								"0"
 		"zpos"								"1"
@@ -728,7 +728,7 @@
 		"tall"								"20"
 		"visible"							"1"
 		"enabled"							"1"
-		"border"							"BlueTransparent70"
+		"border"							"BlackTransparent70"
 		
 		"pin_to_sibling" 					"SortFilterComboBox"
 	}
@@ -737,7 +737,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"ClassFilterTooltipLabel"
-		"font"								"Size 12"
+		"font"								"Quake12"
 		"textAlignment"						"center"
 		"xpos"								"36"
 		"ypos"								"170"
@@ -782,7 +782,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"BackpackSpaceLabel"
-		"font"								"Size 15"
+		"font"								"Quake16"
 		"labelText"							"%freebackpackspace%"
 		"textAlignment"						"center"
 		"xpos"								"0"
@@ -806,7 +806,7 @@
 	{
 		"ControlName"						"CExButton"
 		"fieldName"							"CartButton"
-		"font"								"Size 15"
+		"font"								"Quake16"
 		"labelText"							"%storecart%"
 		"textAlignment"						"east"
 		"xpos"								"-4"
@@ -820,7 +820,7 @@
 		"textinsetx"						"15"
 		
 		"Command"							"viewcart"
-		"font"								"Size 15"
+		"font"								"Quake16"
 		
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -831,7 +831,7 @@
 		"armedFgColor_override"				"White"
 		"depressedFgColor_override"			"White"
 		
-		"border_default"					"BlueTransparent50"
+		"border_default"					"BlackTransparent50"
 		"border_armed"						"OrangeTransparent50"
 		
 		"pin_to_sibling" 					"CartBG"
@@ -885,7 +885,7 @@
 		
 		"paintbackground" 					"0"
 		
-		"border_default"					"BlueTransparent70"
+		"border_default"					"BlackTransparent70"
 		"border_armed"						"OrangeTransparent70"
 	}
 

@@ -269,7 +269,7 @@
 		"src_corner_height"		"50"		// pixels inside the image
 		"src_corner_width"		"50"
 
-		"draw_corner_width"		"10"		// screen size of the corners ( and sides ), proportional
+		"draw_corner_width"		"10"		// screen Quakeof the corners ( and sides ), proportional
 		"draw_corner_height" 	"10"
 	}
 	"Tournamenttransbar"

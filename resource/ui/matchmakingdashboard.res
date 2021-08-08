@@ -355,15 +355,15 @@
 				{
 					"0"
 					{
-						"font"				"Size 10" // TF2 Build 11
+						"font"				"Quake11" // TF2 Build 11
 					}
 					"1"
 					{
-						"font"				"Size 9" // TF2 Build 10
+						"font"				"Quake9" // TF2 Build 10
 					}
 					"2"
 					{
-						"font"				"Size 8" // TF2 Build 9
+						"font"				"Quake8" // TF2 Build 9
 					}
 				}
 			}
@@ -400,7 +400,7 @@
 				"armedFgColor_override"		"White"
 				"depressedFgColor_override"	"White"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}		
 
@@ -436,7 +436,7 @@
 				"armedFgColor_override"		"White"
 				"depressedFgColor_override"	"White"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}		
 		}

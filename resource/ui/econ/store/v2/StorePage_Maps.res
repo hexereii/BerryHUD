@@ -72,7 +72,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"TitleLabel"
-		"font"							"Size 15"
+		"font"							"Quake16"
 		"labelText"						"#Store_Maps_Title"
 		"textAlignment"					"north-west"
 		"xpos"							"c-290"
@@ -92,7 +92,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"SubTitleLabel"
-		"font"							"Size 10"
+		"font"							"Quake11"
 		"labelText"						"#Store_Maps_SubTitle"
 		"textAlignment"					"south-west"
 		"xpos"							"c-290"
@@ -123,7 +123,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#Store_LearnMore"
-		"font"							"Size 15"
+		"font"							"Quake16"
 		"textAlignment"					"center"
 		"dulltext"						"0"
 		"brighttext"					"0"
@@ -137,7 +137,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}
 

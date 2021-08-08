@@ -61,7 +61,7 @@
 				"text_ypos"						"24"
 				"text_wide"						"250"
 				"text_center"					"0"
-				"text_forcesize" 				"1"
+				"text_forceQuake" 				"1"
 				
 				"name_only"						"1"
 				
@@ -77,7 +77,7 @@
 			{
 				"ControlName"					"Label"
 				"fieldname"						"quantitylabel"
-				"font"							"Size 14"
+				"font"							"Quake14"
 				"textAlignment"					"north-east"
 				"xpos"							"70"
 				"ypos"							"36"
@@ -114,7 +114,7 @@
 				"enabled"						"1"
 				"tabPosition"					"0"
 				"labelText"						"#Store_Remove"
-				"font"							"Size 18"
+				"font"							"Quake18"
 				"textAlignment"					"center"
 				"dulltext"						"0"
 				"brighttext"					"0"
@@ -130,7 +130,7 @@
 				"armedFgColor_override"			"White"
 				"depressedFgColor_override"		"White"
 				
-				"border_default"				"BlueTransparent70"
+				"border_default"				"BlackTransparent70"
 				"border_armed"					"OrangeTransparent70"
 			}	
 			
@@ -138,7 +138,7 @@
 			{
 				"ControlName"					"Label"
 				"fieldname"						"PriceLabel"
-				"font"							"Size 24"
+				"font"							"Quake24"
 				"textAlignment"					"east"
 				"xpos"							"475"
 				"ypos"							"0"
@@ -158,7 +158,7 @@
 			{
 				"ControlName"					"Label"
 				"fieldname"						"PreviewItemLabel"
-				"font"							"Size 11"
+				"font"							"Quake11"
 				"textAlignment"					"center"
 				"xpos"							"110"
 				"ypos"							"36"
@@ -255,7 +255,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"CartItemsLabel"
-			"font"							"Size 30"
+			"font"							"Quake28"
 			"labelText"						"%storecart%"
 			"textAlignment"					"west"
 			"xpos"							"c-303"
@@ -282,7 +282,7 @@
 		{
 			"ControlName"					"Label"
 			"fieldName"						"EmptyCartLabel"
-			"font"							"Size 24"
+			"font"							"Quake24"
 			"labelText"						"#Store_CartIsEmpty"
 			"textAlignment"					"center"
 			"xpos"							"c-300"
@@ -384,7 +384,7 @@
 					{
 						"ControlName"		"CExLabel"
 						"fieldName"			"EstimatedTotalLabel"
-						"font"				"Size 15"
+						"font"				"Quake16"
 						"labelText"			"#Store_EstimatedTotal"
 						"textAlignment"		"south-east"
 						"xpos"				"0"
@@ -403,7 +403,7 @@
 					{
 						"ControlName"		"CExLabel"
 						"fieldName"			"WashingtonStateSalesTaxLabel"
-						"font"				"Size 11"
+						"font"				"Quake11"
 						"labelText"			"#Store_WAStateSalesTax"
 						"textAlignment"		"north-east"
 						"xpos"				"0"
@@ -422,7 +422,7 @@
 					{
 						"ControlName"		"CExLabel"
 						"fieldName"			"TotalSubtextLabelB"
-						"font"				"Size 11"
+						"font"				"Quake11"
 						"labelText"			"#Store_TotalSubtextB"
 						"textAlignment"		"north-east"
 						"xpos"				"0"
@@ -442,7 +442,7 @@
 					{
 						"ControlName"		"Label"
 						"fieldname"			"TotalPriceLabel"
-						"font"				"Size 24"
+						"font"				"Quake24"
 						"textAlignment"		"east"
 						"xpos"				"475"
 						"ypos"				"0"
@@ -477,7 +477,7 @@
 		"enabled"							"1"
 		"tabPosition"						"0"
 		"labelText"							"Back (&Q)"
-		"font"								"Size 14"
+		"font"								"Quake14"
 		"textAlignment"						"center"
 		"AllCaps"							"1"
 		"dulltext"							"0"
@@ -490,7 +490,7 @@
 		
 		"paintbackground" 					"0"
 		
-		"border_default"					"BlueTransparent70"
+		"border_default"					"BlackTransparent70"
 		"border_armed"						"OrangeTransparent70"
 	}	
 	
@@ -509,7 +509,7 @@
 		"enabled"							"1"
 		"tabPosition"						"0"
 		"labelText"							"Checkout (&E)"
-		"font"								"Size 14"
+		"font"								"Quake14"
 		"textAlignment"						"center"
 		"dulltext"							"0"
 		"brighttext"						"0"
@@ -520,7 +520,7 @@
 		
 		"paintbackground" 					"0"
 		
-		"border_default"					"BlueTransparent70"
+		"border_default"					"BlackTransparent70"
 		"border_armed"						"OrangeTransparent70"
 	}
 	"BackgroundHeader"

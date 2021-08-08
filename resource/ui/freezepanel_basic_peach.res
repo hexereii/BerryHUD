@@ -40,7 +40,7 @@
 		{	
 			"ControlName"					"CExLabel"
 			"fieldName"						"FreezeLabelKiller"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"xpos"							"0"
 			"ypos"							"32"
 			"zpos"							"5"
@@ -70,7 +70,7 @@
 			"enabled"						"1"
 			"textAlignment"					"center"	
 			"labeltext"						"%killername%"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"fgcolor_override"				"Shadows"
 		
 			"pin_to_sibling"				"FreezeLabelKiller"
@@ -159,7 +159,7 @@
 		"max_text_height"					"100"
 		"padding_height"					"10"
 		"resize_to_text"					"1"
-		"text_forcesize"					"2"
+		"text_forceQuake"					"2"
 		
 		"itemmodelpanel"
 		{

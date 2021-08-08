@@ -13,7 +13,7 @@
 		"pinCorner"					"0"
 		"visible"					"0"
 		"enabled"					"1"
-		"image"						"replay/thumbnails/panels/Material_Transparent_Blue_70"
+		"image"						"replay/thumbnails/panels/Material_Transparent_Black_70"
 		
 		"src_corner_height"			"32"
 		"src_corner_width"			"32"
@@ -62,7 +62,7 @@
 	{
 		"ControlName"				"Label"
 		"fieldName"					"TargetNameLabel"
-		"font"						"Size 11"
+		"font"						"Quake11"
 		"xpos"						"8"
 		"ypos"						"5"
 		"zpos"						"1"
@@ -82,7 +82,7 @@
 	{
 		"ControlName"				"Label"
 		"fieldName"					"TargetDataLabel"
-		"font"						"Size 10"
+		"font"						"Quake11"
 		"xpos"						"8"
 		"ypos"						"16"
 		"zpos"						"1"

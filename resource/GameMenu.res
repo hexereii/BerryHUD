@@ -6,37 +6,37 @@
 		"command"		"engine strawberry"	//REPLACE command1 WITH DESIRED COMMAND, **DO NOT REPLACE engine**
 		"OnlyAtMenu"	"0"					//1=MAIN MENU ONLY		0=ALWAYS SHOW
 	}
-	
+
 	"Custom2"
 	{
 		"label"			"2"
 		"command"		"engine champ"	//REPLACE command2 WITH DESIRED COMMAND, **DO NOT REPLACE engine**
 		"OnlyAtMenu"	"0"					//1=MAIN MENU ONLY		0=ALWAYS SHOW
 	}
-	
+
 	"Custom3"
 	{
 		"label"			"3"
 		"command"		"engine command3"	//REPLACE command3 WITH DESIRED COMMAND, **DO NOT REPLACE engine**
 		"OnlyAtMenu"	"1"					//1=MAIN MENU ONLY		0=ALWAYS SHOW
 	}
-	
+
 	"Custom4"
 	{
 		"label"			"4"
 		"command"		"engine command4"	//REPLACE command4 WITH DESIRED COMMAND, **DO NOT REPLACE engine**
 		"OnlyAtMenu"	"1"					//1=MAIN MENU ONLY		0=ALWAYS SHOW
 	}
-	
+
 	"VersionNumber"
 	{
 		"label" 		"HEXHUD"
 		"command" 		"engine clear
 				echo; echo; echo ---------;
-				echo HexHUD | Current release: July 15, 2021;
+				echo HexHUD | Current release: August 8, 2021;
 				echo HexHUD | First release: May 30, 2021;
 				echo Made by Hexereii;
-				echo Support | twitter.com/hexereiitf2;
+				echo Twitter	   | twitter.com/hexereiitf2;
 				echo Updates | github.com/hexereii/HexHUD;
 				echo ---------
 				showconsole"
@@ -45,14 +45,14 @@
 	"Create"
 	{
 		"label" 		"MGE"
-		"command" 		"engine connect 103.214.111.90:27015"
-		"OnlyAtMenu" 	"1"	
+		"command" 		"engine connect 45.141.52.45:27015"
+		"OnlyAtMenu" 	"1"
 	}
 	"Servers"
 	{
-		"label" 		"SERVERS" 
+		"label" 		"SERVERS"
 		"command" 	"OpenServerBrowser"
-	} 
+	}
 
 	"Items"
 	{
@@ -88,7 +88,7 @@
 		"tooltip"		"STREAMS"
 		"OnlyAtMenu"	"1"
 	}
-	
+
 	"Contracker"
 	{
 		"label"			"1"
@@ -96,7 +96,7 @@
 		"tooltip"		"CONTRACKER"
 		"OnlyAtMenu"	"1"
 	}
-	
+
 	"Console"
 	{
 		"label"			"}"
@@ -104,7 +104,7 @@
 		"tooltip"		"OPEN CONSOLE"
 		"OnlyAtMenu"	"1"
 	}
-	
+
 	"AdvancedOptions"
 	{
 		"label"			"I"
@@ -113,9 +113,9 @@
 		"OnlyAtMenu"	"1"
 	}
 
-	
+
 	// These buttons are only shown while in-game
-	
+
 	"Scoreboard"
 	{
 		"label" 		"BOMBING BALCONY"
@@ -128,14 +128,14 @@
 		"command" 		"engine disconnect"
 		"OnlyInGame" 	"1"
 	}
-	
+
 	"CallVoteButton"
 	{
 		"label"			""
 		"command"		"callvote"
 		"subimage" 		"icon_checkbox"
 		"OnlyInGame"	"1"
-		"tooltip" 		"#MMenu_CallVote"
+		"tooltip" 		"CALL VOTE"
 	}
 	"MutePlayersButton"
 	{
@@ -143,7 +143,7 @@
 		"command"		"OpenPlayerListDialog"
 		"subimage" 		"glyph_muted"
 		"OnlyInGame" 	"1"
-		"tooltip" 		"#MMenu_MutePlayers"
+		"tooltip" 		"MUTE PLAYERS"
 	}
 	"RequestCoachButton"
 	{
@@ -151,7 +151,7 @@
 		"command"		"engine cl_coach_find_coach"
 		"subimage" 		"icon_whistle"
 		"OnlyInGame" 	"1"
-		"tooltip" 		"#MMenu_RequestCoach"
+		"tooltip" 		"REQUEST COACH"
 	}
 	"AchievementsButton"
 	{
@@ -161,11 +161,11 @@
 		"OnlyInGame"	"1"
 		"tooltip"		"ACHIEVEMENTS"
 	}
-	
+
 	///////////////////////////////////////////////////////////////////
 	///////////////////////////TOOLS SECTION///////////////////////////
 	///////////////////////////////////////////////////////////////////
-	
+
 	"DamageColorsPanel"
 	{
 		"command"		"engine"
@@ -207,7 +207,7 @@
 		"command"		"engine hud_combattext 1; hud_combattext_red 40; hud_combattext_green 200; hud_combattext_blue 110"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"MinmodePanel"
 	{
 		"command"		"engine"
@@ -225,7 +225,7 @@
 		"command"		"engine cl_hud_minmode 0"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"MatchHudPanel"
 	{
 		"command"		"engine"
@@ -243,7 +243,7 @@
 		"command"		"engine tf_use_match_hud  0"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"ChatPanel"
 	{
 		"command"		"engine"
@@ -261,7 +261,7 @@
 		"command"		"engine hud_saytext_time 0"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"CaptionsPanel"
 	{
 		"command"		"engine"
@@ -279,7 +279,7 @@
 		"command"		"engine closecaption 0; cc_predisplay_time 0"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"NetGraphPanel"
 	{
 		"command"		"engine"
@@ -297,7 +297,7 @@
 		"command"		"engine net_graph 0"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"InvisiblePlayersPanel"
 	{
 		"command"		"engine"
@@ -309,7 +309,7 @@
 		"command"		"engine stop; record fix"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"BrokenSoundPanel"
 	{
 		"command"		"engine"
@@ -321,7 +321,7 @@
 		"command"		"engine snd_restart"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"ReloadHudPanel"
 	{
 		"command"		"engine"
@@ -333,13 +333,13 @@
 		"command"		"engine hud_reloadscheme"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"BottomButtonsPanel"
 	{
 		"command"		"engine"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"StreamINGAME"
 	{
 		"label"			"`"
@@ -347,7 +347,7 @@
 		"tooltip"		"STREAMS"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"ContrackerINGAME"
 	{
 		"label"			"1"
@@ -355,7 +355,7 @@
 		"tooltip"		"CONTRACKER"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"ConsoleINGAME"
 	{
 		"label"			"}"
@@ -363,7 +363,7 @@
 		"tooltip"		"OPEN CONSOLE"
 		"OnlyInGame"	"1"
 	}
-	
+
 	"AdvancedOptionsINGAME"
 	{
 		"label"			"I"
@@ -372,4 +372,3 @@
 		"OnlyInGame"	"1"
 	}
 }
-	

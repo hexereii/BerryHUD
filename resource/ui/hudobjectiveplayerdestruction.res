@@ -39,8 +39,8 @@
 			"bgcolor_override"						"Blank"
 			"PaintBackgroundType"					"0"
 			"paintborder"							"0"
-			"AutoResize"							"0"
-			"skip_autoresize" 						"1"
+			"autoResize"							"0"
+			"skip_autoResize" 						"1"
 		}
 	}
 	
@@ -74,7 +74,7 @@
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"AllCaps"									"1"
-		"font"										"Size 10"
+		"font"										"Quake11"
 		"fgcolor"									"WhiteTransparent"
 		
 		"pin_to_sibling"							"WhiteBackground"
@@ -109,7 +109,7 @@
 		"tall"										"6"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"BlueTransparent70"
+		"border"									"BlackTransparent70"
 		
 		"pin_to_sibling"							"BlueScoreBG"
 	}
@@ -204,7 +204,7 @@
 			"enabled"								"1"
 			"textAlignment"							"center"	
 			"labelText"								"%flagvalue%"
-			"font"									"Size 14"
+			"font"									"Quake14"
 			"fgcolor"								"White"	
 			"proportionalToParent"					"1"	
 		}	
@@ -222,7 +222,7 @@
 			"enabled"								"1"
 			"textAlignment"							"center"	
 			"labelText"								"%flagvalue%"
-			"font"									"Size 14"
+			"font"									"Quake14"
 			"fgcolor"								"Shadows"	
 			"proportionalToParent"					"1"
 			
@@ -342,7 +342,7 @@
 				"enabled"							"1"
 				"textAlignment"						"east"	
 				"labelText"							"%blue_escrow%"
-				"font"								"Size 20"
+				"font"								"Quake20"
 				"fgcolor"							"White"		
 				"proportionalToParent"				"1"
 				
@@ -364,7 +364,7 @@
 				"enabled"							"1"
 				"textAlignment"						"east"	
 				"labelText"							"%blue_escrow%"
-				"font"								"Size 20"
+				"font"								"Quake20"
 				"fgcolor"							"Shadows"		
 				"proportionalToParent"				"1"
 				
@@ -402,7 +402,7 @@
 				"enabled"							"1"
 				"textAlignment"						"west"	
 				"labelText"							"%red_escrow%"
-				"font"								"Size 20"
+				"font"								"Quake20"
 				"fgcolor"							"White"		
 				"proportionalToParent"				"1"
 				
@@ -424,7 +424,7 @@
 				"enabled"							"1"
 				"textAlignment"						"west"	
 				"labelText"							"%red_escrow%"
-				"font"								"Size 20"
+				"font"								"Quake20"
 				"fgcolor"							"Shadows"		
 				"proportionalToParent"				"1"
 				
@@ -459,7 +459,7 @@
 					"enabled"						"1"
 					"textAlignment"					"center"	
 					"labelText"						"%victorytime%"
-					"font"							"Size 22"
+					"font"							"Quake22"
 					"fgcolor"						"255 115 115 255"		
 					"proportionalToParent"			"1"
 				}
@@ -528,7 +528,7 @@
 					"enabled"						"1"
 					"textAlignment"					"center"	
 					"labelText"						"%victorytime%"
-					"font"							"Size 22"
+					"font"							"Quake22"
 					"fgcolor"						"255 115 115 255"		
 					"proportionalToParent"			"1"
 				}
@@ -598,7 +598,7 @@
 				"enabled"							"1"
 				"textAlignment"						"center"	
 				"labelText"							"%score%"
-				"font"								"Size 22"
+				"font"								"Quake22"
 				"fgcolor"							"WhiteTransparent"		
 				"proportionalToParent"				"1"
 			}	
@@ -651,7 +651,7 @@
 				"enabled"							"1"
 				"textAlignment"						"center"	
 				"labelText"							"%score%"
-				"font"								"Size 22"
+				"font"								"Quake22"
 				"fgcolor"							"WhiteTransparent"	
 				"proportionalToParent"				"1"	
 			}	
@@ -750,7 +750,7 @@
 				"enabled"							"1"
 				"textAlignment"						"center"	
 				"labelText"							"%intelvalue%"
-				"font"								"Size 16"
+				"font"								"Quake16"
 				"fgcolor"							"White"		
 				"bgcolor_override"					"Blank"
 				"proportionalToParent"				"1"
@@ -769,7 +769,7 @@
 				"enabled"							"1"
 				"textAlignment"						"center"	
 				"labelText"							"%intelvalue%"
-				"font"								"Size 16"	
+				"font"								"Quake16"	
 				"fgcolor"							"Shadows"
 				"proportionalToParent"				"1"
 				
@@ -854,7 +854,7 @@
 				"enabled"							"1"
 				"textAlignment"						"center"	
 				"labelText"							"%intelvalue%"
-				"font"								"Size 16"
+				"font"								"Quake16"
 				"fgcolor"							"White"		
 				"bgcolor_override"					"Blank"
 				"proportionalToParent"				"1"
@@ -873,7 +873,7 @@
 				"enabled"							"1"
 				"textAlignment"						"center"	
 				"labelText"							"%intelvalue%"
-				"font"								"Size 16"	
+				"font"								"Quake16"	
 				"fgcolor"							"Shadows"	
 				"proportionalToParent"				"1"
 				
@@ -929,7 +929,7 @@
 			"enabled"								"1"
 			"textAlignment"							"center"	
 			"labelText"								"%countdowntime%"
-			"font"									"Size 18"
+			"font"									"Quake18"
 			"fgcolor"								"White"
 			"proportionalToParent"					"1"
 		}
@@ -947,7 +947,7 @@
 			"enabled"								"1"
 			"textAlignment"							"center"	
 			"labelText"								"%countdowntime%"
-			"font"									"Size 18"
+			"font"									"Quake18"
 			"fgcolor"								"Shadows"		
 			"proportionalToParent"					"1"
 			

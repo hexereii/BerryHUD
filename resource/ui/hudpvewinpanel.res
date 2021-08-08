@@ -45,7 +45,7 @@
 		{	
 			"ControlName"			"CExLabel"
 			"fieldName"				"WinningTeamLabel"
-			"font"					"Size 20"
+			"font"					"Quake20"
 			"xpos"					"2"
 			"ypos"					"2"
 			"wide"					"296"
@@ -70,7 +70,7 @@
 	{	
 		"ControlName"				"CExLabel"
 		"fieldName"					"WinReasonLabel"
-		"font"						"Size 14"
+		"font"						"Quake14"
 		"xpos"						"0"
 		"ypos"						"80"
 		"zpos"						"1"
@@ -91,7 +91,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"DetailsLabel"
-		"font"						"Size 11"
+		"font"						"Quake11"
 		"xpos"						"15"
 		"ypos"						"100"
 		"zpos"						"1"
@@ -122,7 +122,7 @@
 		"pinCorner"					"0"
 		"visible"					"0"
 		"enabled"					"1"
-		"image"						"replay/thumbnails/panels/Material_Transparent_Blue_70"
+		"image"						"replay/thumbnails/panels/Material_Transparent_Black_70"
 
 		"src_corner_height"			"32"
 		"src_corner_width"			"32"
@@ -146,7 +146,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"RespecTextLabelLoss"
-			"font"					"Size 14"
+			"font"					"Quake14"
 			"labelText"				"#TF_PVE_Respecs"
 			"textAlignment"		 	"center"
 			"xpos"					"0"
@@ -160,7 +160,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"RespecCountLabel"
-			"font"					"Size 14"
+			"font"					"Quake14"
 			"labelText"				"%respeccount%"
 			"textAlignment" 		"center"
 			"xpos"					"145"

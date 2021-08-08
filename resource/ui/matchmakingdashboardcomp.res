@@ -26,7 +26,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						"#TF_Matchmaking_HeaderCompetitive"
 		"textAlignment"					"west"
-		"font"							"Size 30"
+		"font"							"Quake28"
 		"AllCaps"						"1"
 		"fgcolor_override"				"White"
 		
@@ -68,7 +68,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 			
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}
 
@@ -133,7 +133,7 @@
 		"visible"						"1"
 		"enabled"						"1"
 		"tabPosition"					"0"
-		"font"							"Size 15"
+		"font"							"Quake16"
 		"textAlignment"					"center"
 		"dulltext"						"0"
 		"brighttext"					"0"

@@ -45,7 +45,7 @@
 		"tall"					"f0"
 		"visible"				"1"
 		"enabled"				"1"
-		"font"					"Size 12"
+		"font"					"Quake12"
 		"fgcolor_override"		"TanLight"
 		"textAlignment"			"east"
 		"AllCaps"				"1"

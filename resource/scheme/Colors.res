@@ -49,6 +49,8 @@ Scheme
 		
 		"Yellow2"										"255 255 0 255"
 		
+		"NeonGreen" 								"0 255 144 90"
+		
 		//TransPride Flag Colours
 		"MayaBlue"								"85 205 252 255"
 		"MayaInverse"							"170 50 3 255"

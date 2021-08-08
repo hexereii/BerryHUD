@@ -7,7 +7,7 @@
 		"is_mouseover"				"1"
 		"text_xpos_collection"		"0"
 		"text_ypos"					"15"
-		"text_forcesize" 			"0"
+		"text_forceQuake" 			"0"
 		"text_xpos"					"15"
 		"text_wide"					"270"
 		//"model_xpos_collection"	"77"

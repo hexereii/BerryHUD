@@ -198,7 +198,7 @@
 		"CornerRadius"	  			"0"
 		"RightJustify"	  			"1"
 		
-		"TextFont"					"Size 11"
+		"TextFont"					"Quake11"
 		
 		"TeamBlue"					"Blue"
 		"TeamRed"					"RedLight"

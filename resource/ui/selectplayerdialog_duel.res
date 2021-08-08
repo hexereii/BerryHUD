@@ -33,7 +33,7 @@
 				"enabled"		"1"
 				"tabPosition"	"0"
 				"labelText"		""
-				"font"			"Size 15"
+				"font"			"Quake16"
 				"textAlignment"	"west"
 				"AllCaps"		"1"
 				"textinsetx"	"34"
@@ -50,7 +50,7 @@
 				"armedFgColor_override"		"White"
 				"depressedFgColor_override"	"White"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}
 			
@@ -76,7 +76,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Size 24"
+		"font"			"Quake24"
 		"labelText"		"%title%"
 		"textAlignment"	"north"
 		"xpos"			"0"
@@ -132,7 +132,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QueryLabel"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"labelText"		"#TF_SelectPlayer_Select"
 			"textAlignment"	"north"
 			"xpos"			"0"
@@ -163,7 +163,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#TF_SelectPlayer_SelectFriends"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"textAlignment"	"center"
 			"AllCaps"		"1"
 			"dulltext"		"0"
@@ -179,7 +179,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"OrangeTransparent70"
 		}
 		"subbutton1"
@@ -197,7 +197,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#TF_SelectPlayer_SelectServer"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"textAlignment"	"center"
 			"AllCaps"		"1"
 			"dulltext"		"0"
@@ -213,7 +213,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"OrangeTransparent70"
 		}
 	}
@@ -233,7 +233,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QueryLabel"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"labelText"		"#TF_SelectPlayer_Friends"
 			"textAlignment"	"north"
 			"xpos"			"0"
@@ -252,7 +252,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"EmptyPlayerListLabel"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"labelText"		"#TF_SelectPlayer_FriendsNone"
 			"textAlignment"	"north"
 			"xpos"			"0"
@@ -286,7 +286,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QueryLabel"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"labelText"		"#TF_SelectPlayer_Server"
 			"textAlignment"	"north"
 			"xpos"			"0"
@@ -306,7 +306,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"EmptyPlayerListLabel"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"labelText"		"#TF_SelectPlayer_ServerNone"
 			"textAlignment"	"north"
 			"xpos"			"0"
@@ -329,7 +329,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"labelText"		"%player_class%"
 		"textAlignment"	"north"
 		"xpos"			"0"
@@ -349,7 +349,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassUsageMouseoverLabel"
-		"font"			"Size 11"
+		"font"			"Quake11"
 		"textAlignment"	"center"
 		"xpos"			"100"
 		"ypos"			"100"
@@ -365,7 +365,7 @@
 		"centerwrap"	"1"
 		"paintborder"	"1"
 		"textinsetx"	"100"
-		"border"		"BlueTransparent70"
+		"border"		"BlackTransparent70"
 	}
 
 	"ClassUsageImage_Any"
@@ -408,7 +408,7 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "BlueTransparent"
+		"panel_bgcolor" "BlackTransparent"
 		"panel_bgcolor_mouseover" "White"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
@@ -429,7 +429,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Cancel"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -445,7 +445,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 			
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 }

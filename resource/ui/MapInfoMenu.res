@@ -14,7 +14,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-	
+
 	"MapInfoTitle"
 	{
 		"ControlName"	"CExLabel"
@@ -30,7 +30,7 @@
 		"enabled"		"1"
 		"labelText"		"%mapname%"
 		"textAlignment"	"center"
-		"font"			"M0refont24"
+		"font"			"Quake24"
 		"fgcolor"		"255 255 255 255"
 	}
 
@@ -49,10 +49,10 @@
 		"enabled"		"1"
 		"labelText"		"%gamemode%"
 		"textAlignment"	"center"
-		"font"			"M0renumber"
+		"font"			"Quake24"
 		"fgcolor"		"255 255 255 255"
-	}	
-	
+	}
+
 	"MapInfoText"
 	{
 		"ControlName"	"CExRichText"
@@ -71,7 +71,7 @@
 		"textAlignment"	"center"
 		"fgcolor"		"255 255 255 255"
 	}
-	
+
 	"MapImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -84,7 +84,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"image"			""
-		"scaleImage"	"1"		
+		"scaleImage"	"1"
 	}
 	"ok"
 	{
@@ -108,6 +108,8 @@
 		"command"		"continue"
 		"default"		"1"
 		"font"			"default"
+		"defaultbgColor_override"	"Black"
+		"armedbgColor_override"		"WhiteTransparent"
 	}
 	"MapInfoContinue"
 	{
@@ -148,10 +150,10 @@
 		"default"		"1"
 		"font"			"default"
 		"fgcolor"		"white"
-		
+
 		"sound_released"	"UI/projector_screen_down.wav"
 	}
-	
+
 	"MapInfoBack"
 	{
 		"ControlName"	"CExButton"
@@ -172,7 +174,7 @@
 		"command"		"back"
 		"font"			"default"
 	}
-	
+
 	"MenuBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -188,9 +190,9 @@
 		"scaleImage"	"1"
 		"src_corner_height"		"50"		// pixels inside the image
 		"src_corner_width"		"50"
-		"draw_corner_width"		"10"		// screen size of the corners ( and sides ), proportional
+		"draw_corner_width"		"10"		// screen Quakeof the corners ( and sides ), proportional
 		"draw_corner_height" 	"10"
-	}					
+	}
 
 	"ShadedBar"
 	{
@@ -205,9 +207,9 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"tabPosition"	"0"	
+		"tabPosition"	"0"
 		"fillcolor"		"0 0 0 100"
 		"PaintBackgroundType"	"0"
-	}	
+	}
 
 }

@@ -42,7 +42,7 @@
 		"image"						"replay/thumbnails/panels/Material_Transparent_Black_70"
 		"scaleImage"				"1"	
 		"teambg_2"					"replay/thumbnails/panels/Material_Transparent_Red_70"
-		"teambg_3"					"replay/thumbnails/panels/Material_Transparent_Blue_70"
+		"teambg_3"					"replay/thumbnails/panels/Material_Transparent_Black_70"
 		
 		"src_corner_height"			"32"
 		"src_corner_width"			"32"

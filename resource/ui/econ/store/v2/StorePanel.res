@@ -97,13 +97,13 @@
 		{
 			"textinsetx"					"10"
 			"textinsety"					"2"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"selectedcolor"					"White"
 			"unselectedcolor"				"White"	
 			"defaultBgColor_override"		"Blank"
 			"paintbackground"				"0"
-			"activeborder_override"			"BlueTransparent70"
-			"normalborder_override" 		"BlueTransparent70"
+			"activeborder_override"			"BlackTransparent70"
+			"normalborder_override" 		"BlackTransparent70"
 		}
 	}
 	
@@ -122,7 +122,7 @@
 		"enabled"							"1"
 		"tabPosition"						"0"
 		"labelText"							"Back (&Q)"
-		"font"								"Size 14"
+		"font"								"Quake14"
 		"textAlignment"						"center"
 		"AllCaps"							"1"
 		"dulltext"							"0"
@@ -135,7 +135,7 @@
 		
 		"paintbackground" 					"0"
 		
-		"border_default"					"BlueTransparent70"
+		"border_default"					"BlackTransparent70"
 		"border_armed"						"OrangeTransparent70"
 	}
 	
@@ -154,7 +154,7 @@
 		"enabled"							"1"
 		"tabPosition"						"0"
 		"labelText"							"Checkout (&E)"
-		"font"								"Size 14"
+		"font"								"Quake14"
 		"textAlignment"						"center"
 		"textinsetx"						"40"
 		"AllCaps"							"1"
@@ -168,7 +168,7 @@
 		
 		"paintbackground" 					"0"
 		
-		"border_default"					"BlueTransparent70"
+		"border_default"					"BlackTransparent70"
 		"border_armed"						"OrangeTransparent70"
 	}
 	
@@ -206,7 +206,7 @@
 		"zpos"								"5"
 		"wide"								"25"
 		"tall"								"25"
-		"font"								"Size 11"
+		"font"								"Quake11"
 		"labelText"							""
 		"visible"							"0"
 		"smallcheckimage"					"1"
@@ -222,7 +222,7 @@
 		"zpos"								"5"
 		"wide"								"200"
 		"tall"								"100"
-		"font"								"Size 11"
+		"font"								"Quake11"
 		"wrap"								"0"
 		"AllCaps"							"1"
 		"labelText"							"Support Map Makers"

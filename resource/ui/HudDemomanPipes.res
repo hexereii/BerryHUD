@@ -90,8 +90,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
-			"xpos"			"c20"
-			"ypos"			"210"
+			"xpos"			"c-100"
+			"ypos"			"250"
 			"zpos"			"2"
 			"wide"			"200"
 			"tall"			"200"
@@ -104,15 +104,15 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"M0refont24"
-			"fgcolor"   "255 0 120 255"
+			"font"			"Quake24"
+			"fgcolor"   "WhiteTransparent"
 		}
 		"NumPipesLabelDropshadow"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabelDropshadow"
-			"xpos"			"c20"
-			"ypos"			"211"
+			"xpos"			"c-99"
+			"ypos"			"250"
 			"zpos"			"2"
 			"wide"			"200"
 			"tall"			"200"
@@ -125,8 +125,8 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"M0refont24"
-			"fgcolor"		"0 0 0 255"
+			"font"			"Quake24"
+			"fgcolor"		"Black"
 		}		
 	}
 	

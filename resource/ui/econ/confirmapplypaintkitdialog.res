@@ -14,7 +14,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ConfirmLabel"
-		"font"					"Size 15"
+		"font"					"Quake16"
 		"labelText"				"#ToolStrangifierConfirm"
 		"textAlignment"			"center"
 		"xpos"					"20"
@@ -35,7 +35,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"PreviewLabel"
-		"font"					"Size 15"
+		"font"					"Quake16"
 		"labelText"				"#ToolPaintKitPreview"
 		"textAlignment"			"north"
 		"xpos"					"20"

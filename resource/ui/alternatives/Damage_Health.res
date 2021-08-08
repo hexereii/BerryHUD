@@ -32,8 +32,8 @@
 		"labelText"						"%metal%"
 		"textAlignment"					"center"
 		"fgcolor"						"Last Damage Done"
-		"font"							"Size 18"
-		"font_minmode"					"Size 24"
+		"font"							"Quake18"
+		"font_minmode"					"Quake24"
 	}
 	
 	"DamageAccountValueShadow"
@@ -51,8 +51,8 @@
 		"labelText"						"%metal%"
 		"textAlignment"					"center"
 		"fgcolor"						"Shadows"
-		"font"							"Size 18"
-		"font_minmode"					"Size 24"
+		"font"							"Quake18"
+		"font_minmode"					"Quake24"
 		
 		"pin_to_sibling"				"DamageAccountValue"
 	}

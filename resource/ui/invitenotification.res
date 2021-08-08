@@ -51,21 +51,21 @@
 		{
 			"1"
 			{
-				"font"				"Size 10"
+				"font"				"Quake11"
 			}
 
 			"2"
 			{
-				"font"				"Size 9"
+				"font"				"Quake9"
 			}
 			"3"
 			{
-				"font"				"Size 8"
+				"font"				"Quake8"
 			}
 
 			"4"
 			{
-				"font"				"Size 7"
+				"font"				"Quake7"
 			}
 		}
 
@@ -116,7 +116,7 @@
 
 		"enabled"					"1"
 		"tabPosition"				"0"
-		"font"						"Size 11"
+		"font"						"Quake11"
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"
@@ -162,7 +162,7 @@
 
 		"enabled"					"1"
 		"tabPosition"				"0"
-		"font"						"Size 11"
+		"font"						"Quake11"
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"

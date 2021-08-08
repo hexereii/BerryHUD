@@ -63,7 +63,7 @@
 				"paintborder"					"1"
 				"textAlignment"					"center"
 				"labelText"						"%page%"
-				"font"							"Size 12"
+				"font"							"Quake12"
 				"sound_depressed"				"UI/buttonclick.wav"
 				"sound_released"				"UI/buttonclickrelease.wav"
 			}
@@ -137,7 +137,7 @@
 				"tall"							"12"
 				"textinsetx"					"8"
 				"autoResize"					"0"
-				"skip_autoresize"				"1"
+				"skip_autoResize"				"1"
 				"pinCorner"						"0"	
 				"visible"						"0"
 				"enabled"						"1"
@@ -187,7 +187,7 @@
 	{
 		"ControlName"							"CExLabel"
 		"fieldName"								"ClassLabel"
-		"font"									"Size 35"
+		"font"									"Quake36"
 		"labelText"								"Backpack"
 		"textAlignment"							"west"
 		"xpos"									"0"
@@ -211,7 +211,7 @@
 	{
 		"ControlName"							"ComboBox"
 		"fieldName"								"SortByComboBox"
-		"Font"									"Size 12"
+		"Font"									"Quake12"
 		"xpos"									"0"
 		"ypos"									"2"
 		"zpos"									"1"
@@ -261,7 +261,7 @@
 	{
 		"ControlName"							"ComboBox"
 		"fieldName"								"ShowRarityComboBox"
-		"Font"									"Size 12"
+		"Font"									"Quake12"
 		"xpos"									"4"
 		"ypos"									"0"
 		"zpos"									"1"
@@ -328,7 +328,7 @@
 		"fgcolor_override"						"White"
 		"bgcolor_override"						"Blank"
 		"paintbackgroundtype" 					"2"
-		"font"									"Size 12"
+		"font"									"Quake12"
 		
 		"pin_to_sibling" 						"ShowRarityComboBox"
 		"pin_corner_to_sibling" 				"PIN_TOPRIGHT"
@@ -587,7 +587,7 @@
 		"enabled"								"1"
 		"tabPosition"							"0"
 		"labelText"								"#Cancel"
-		"font"									"Size 12"
+		"font"									"Quake12"
 		"textAlignment"							"center"
 		"textinsetx"							"0"
 		"dulltext"								"0"
@@ -677,7 +677,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "WhiteTransparent"
 		}
 		
 		"TextLabel"
@@ -696,7 +696,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "Black"
 		}
 		
 		"CloseButton"

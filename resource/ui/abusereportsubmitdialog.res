@@ -17,7 +17,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"TitleLabel"
-		"font"						"Size 24"
+		"font"						"Quake24"
 		"labelText"					"#AbuseReport_DialogTitle"
 		"textAlignment"				"north-west"
 		"xpos"						"10"
@@ -41,7 +41,7 @@
 		"wide"						"170"
 		"tall"						"20"
 		"editable"					"0"
-		"font"						"Size 15"
+		"font"						"Quake16"
 	}
 
 	"PlayerRadio"
@@ -55,7 +55,7 @@
 		"wide"						"170"
 		"tall"						"20"
 		"editable"					"0"
-		"font"						"Size 14"
+		"font"						"Quake14"
 		"defaultfgcolor_override"	"White"
 		"fgcolor_override"			"White"
 		"fgcolor"					"White"
@@ -72,7 +72,7 @@
 		"wide"						"170"
 		"tall"						"15"
 		"editable"					"0"
-		"font"						"Size 14"
+		"font"						"Quake14"
 		"fgcolor"					"White"
 		"AllCaps"					"1"
 	}
@@ -87,7 +87,7 @@
 		"wide"		"170"
 		"tall"		"15"
 		"editable"		"0"
-		"font"			"Size 14"
+		"font"			"Quake14"
 
 		"fgcolor_override"	"White"
 		"bgcolor_override"	"BlackLightTransparent"
@@ -109,7 +109,7 @@
 		"wide"		"170"
 		"tall"		"15"
 		"editable"		"0"
-		"font"			"Size 14"
+		"font"			"Quake14"
 		"fgcolor"		"White"
 		"AllCaps"		"1"
 	}
@@ -124,7 +124,7 @@
 		"wide"		"170"
 		"tall"		"15"
 		"editable"		"0"
-		"font"			"Size 14"
+		"font"			"Quake14"
 
 		"fgcolor_override"	"White"
 		"bgcolor_override"	"BlackLightTransparent"
@@ -146,7 +146,7 @@
 		"wide"		"170"
 		"tall"		"15"
 		"editable"		"0"
-		"font"			"Size 14"
+		"font"			"Quake14"
 		"fgcolor"		"White"
 		"AllCaps"		"1"
 	}
@@ -161,7 +161,7 @@
 		"wide"		"170"
 		"tall"		"15"
 		"editable"		"0"
-		"font"			"Size 14"
+		"font"			"Quake14"
 
 		"fgcolor_override"	"White"
 		"bgcolor_override"	"BlackLightTransparent"
@@ -194,7 +194,7 @@
 		"wide"			"360"
 		"tall"			"18"
 		"labelText"		"Screenshot shows abuse; upload it with report."
-		"font"			"Size 14"
+		"font"			"Quake14"
 		"textAlignment"	"west"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -224,7 +224,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#AbuseReport_NoAvatar"
-		"font"			"Size 14"
+		"font"			"Quake14"
 		"centerwrap"	"1"
 		"fgcolor"		"White"
 	}
@@ -256,7 +256,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_LessThan"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"AllCaps"		"1"
 		"textinsetx"	"0"
@@ -265,17 +265,17 @@
 		"Command"		"prevcustomtexture"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"			"0"
-		
+
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
-		
-		"border_default"			"BlueTransparent70"
-		"border_armed"				"OrangeTransparent70"
-	}	
-	
+
+		"border_default"			"BlackTransparent70"
+		"border_armed"				"NeonGreen"
+	}
+
 	"CustomTextureNextButton"
 	{
 		"ControlName"	"CExButton"
@@ -291,7 +291,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_GreaterThan"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"AllCaps"		"1"
 		"textinsetx"	"0"
@@ -300,17 +300,17 @@
 		"Command"		"nextcustomtexture"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"			"0"
-		
+
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
-		
-		"border_default"			"BlueTransparent70"
-		"border_armed"				"OrangeTransparent70"
-	}	
-	
+
+		"border_default"			"BlackTransparent70"
+		"border_armed"				"NeonGreen"
+	}
+
 	"NoCustomTexturesLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -322,7 +322,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#AbuseReport_NoCustomTextures"
-		"font"			"Size 14"
+		"font"			"Quake14"
 		"centerwrap"	"1"
 		"AllCaps"		"1"
 		"fgcolor"		"White"
@@ -339,7 +339,7 @@
 		"wide"		"140"
 		"tall"		"15"
 		"editable"		"0"
-		"font"		"Size 14"
+		"font"		"Quake14"
 		"AllCaps"		"1"
 		"fgcolor"		"White"
 	}
@@ -369,21 +369,21 @@
 		"wide"			"130"
 		"tall"			"25"
 		"labelText"		"#AbuseReport_Discard"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"AllCaps"		"1"
 		"Command"		"discard"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"			"0"
-		
+
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
-		
-		"border_default"			"BlueTransparent70"
-		"border_armed"				"OrangeTransparent70"
+
+		"border_default"			"BlackTransparent70"
+		"border_armed"				"NeonGreen"
 	}
 
 	"SubmitButton"
@@ -396,21 +396,21 @@
 		"wide"			"130"
 		"tall"			"25"
 		"labelText"		"#AbuseReport_Submit"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"AllCaps"		"1"
 		"Command"		"submit"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"			"0"
-		
+
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
-		
-		"border_default"			"BlueTransparent70"
-		"border_armed"				"OrangeTransparent70"
+
+		"border_default"			"BlackTransparent70"
+		"border_armed"				"NeonGreen"
 	}
 
 	"SaveForLaterButton"
@@ -423,20 +423,20 @@
 		"wide"			"130"
 		"tall"			"25"
 		"labelText"		"#AbuseReport_SaveForLater"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"AllCaps"		"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"			"0"
-		
+
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
-		
-		"border_default"			"BlueTransparent70"
-		"border_armed"				"OrangeTransparent70"
+
+		"border_default"			"BlackTransparent70"
+		"border_armed"				"NeonGreen"
 	}
 }

@@ -36,7 +36,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"WaveCompleteLabel"
-			"font"					"Size 20"
+			"font"					"Quake20"
 			"textAlignment"			"center"
 			"labelText"				"%titletext%"
 			"xpos"					"2"
@@ -77,7 +77,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"CreditCollectedTextLabel"
-			"font"					"Size 12"
+			"font"					"Quake12"
 			"labelText"				"#TF_PVE_CurrencyCollected"
 			"textAlignment" 		"north-east"
 			"xpos"					"0"
@@ -92,7 +92,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"CreditCollectedCountLabel"
-			"font"					"Size 12"
+			"font"					"Quake12"
 			"labelText"				"%creditscollected%"
 			"textAlignment" 		"north-east"
 			"xpos"					"115"
@@ -107,7 +107,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"CreditMissedTextLabel"
-			"font"					"Size 12"
+			"font"					"Quake12"
 			"labelText"				"#TF_PVE_Missed"
 			"textAlignment" 		"north-east"
 			"xpos"					"0"
@@ -122,7 +122,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"CreditMissedCountLabel"
-			"font"					"Size 12"
+			"font"					"Quake12"
 			"labelText"				"%creditsmissed%"
 			"textAlignment" 		"north-east"
 			"xpos"					"115"
@@ -137,7 +137,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"CreditBonusTextLabel"
-			"font"					"Size 12"
+			"font"					"Quake12"
 			"labelText"				"#TF_PVE_Bonus"
 			"textAlignment" 		"north-east"
 			"xpos"					"0"
@@ -152,7 +152,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"CreditBonusCountLabel"
-			"font"					"Size 12"
+			"font"					"Quake12"
 			"labelText"				"%creditbonus%"
 			"textAlignment" 		"north-east"
 			"xpos"					"115"
@@ -179,7 +179,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"RatingLabel"
-			"font"					"Size 15"
+			"font"					"Quake16"
 			"labelText"				"%ratinglabel%"
 			"textAlignment" 		"center"
 			"xpos"					"0"
@@ -194,7 +194,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"RatingText"
-			"font"					"Size 24"
+			"font"					"Quake24"
 			"labelText"				"%ratingscore%"
 			"textAlignment" 		"center"
 			"xpos"					"0"
@@ -225,7 +225,7 @@
 		"pinCorner"					"0"
 		"visible"					"0"
 		"enabled"					"1"
-		"image"						"replay/thumbnails/panels/Material_Transparent_Blue_70"
+		"image"						"replay/thumbnails/panels/Material_Transparent_Black_70"
 
 		"src_corner_height"			"32"
 		"src_corner_width"			"32"
@@ -249,7 +249,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"RespecTextLabelWin"
-			"font"					"Size 14"
+			"font"					"Quake14"
 			"labelText"				"#TF_PVE_Respecs"
 			"textAlignment" 		"center"
 			"xpos"					"0"
@@ -264,7 +264,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"RespecCountLabel"
-			"font"					"Size 14"
+			"font"					"Quake14"
 			"labelText"				"%respeccount%"
 			"textAlignment" 		"center"
 			"xpos"					"145"

@@ -16,8 +16,8 @@
 		"visible"			"0"					//1 to enable
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"RM"
-		"font"				"Default"
+		"labelText"			"RELOAD MENU"
+		"font"				"Astral12"
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"

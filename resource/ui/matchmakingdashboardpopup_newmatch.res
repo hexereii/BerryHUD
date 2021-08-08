@@ -53,7 +53,7 @@
 				"tall"						"20"
 				"visible"					"1"
 				"enabled"					"1"
-				"font"						"Size 14"
+				"font"						"Quake14"
 				"fgcolor_override"			"White"
 				"textAlignment"				"center"
 				"labelText"					"%match_type%"
@@ -62,9 +62,9 @@
 
 				"fonts"
 				{
-					"0"						"Size 11"
-					"1"						"Size 10"
-					"2"						"Size 9"
+					"0"						"Quake11"
+					"1"						"Quake11"
+					"2"						"Quake9"
 				}
 			}
 
@@ -79,7 +79,7 @@
 				"tall"						"20"
 				"visible"					"1"
 				"enabled"					"1"
-				"font"						"Size 11"
+				"font"						"Quake11"
 				"fgcolor_override"			"White"
 				"textAlignment"				"center"
 				"labelText"					"%auto_join%"
@@ -103,7 +103,7 @@
 
 				"enabled"					"1"
 				"tabPosition"				"0"
-				"font"						"Size 11"
+				"font"						"Quake11"
 				"textAlignment"				"center"
 				"dulltext"					"0"
 				"brighttext"				"0"
@@ -149,7 +149,7 @@
 				"visible"					"1"
 				"enabled"					"1"
 				"tabPosition"				"0"
-				"font"						"Size 11"
+				"font"						"Quake11"
 				"textAlignment"				"center"
 				"dulltext"					"0"
 				"brighttext"				"0"
@@ -189,7 +189,7 @@
 				"visible"					"1"
 				"enabled"					"1"
 				"tabPosition"				"0"
-				"font"						"Size 11"
+				"font"						"Quake11"
 				"textAlignment"				"center"
 				"dulltext"					"0"
 				"brighttext"				"0"
@@ -225,7 +225,7 @@
 				"tall"						"20"
 				"visible"					"1"
 				"enabled"					"1"
-				"font"						"Size 11"
+				"font"						"Quake11"
 				"fgcolor_override"			"White"
 				"textAlignment"				"east"
 				"labelText"					"#TF_Matchmaking_RollingQueue_MatchReadyJoining"

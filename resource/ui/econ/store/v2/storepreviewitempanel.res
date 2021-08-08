@@ -10,16 +10,16 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"autoResize"	"0"
-		"skip_autoresize"	"1"
+		"skip_autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"		"0"
 		
-		"small_vertical_break_size"		"0"
-		"medium_vertical_break_size"	"6"
-		"big_vertical_break_size"		"7"
-		"horizontal_break_size"			"3"
+		"small_vertical_break_Quake"		"0"
+		"medium_vertical_break_Quake"	"6"
+		"big_vertical_break_Quake"		"7"
+		"horizontal_break_Quake"			"3"
 		"paint_style_buttons_y"			"c-140"
 		
 		"control_button_width"			"70"
@@ -128,7 +128,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ItemNameLabel"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"labelText"		"%itemname%"
 			"textAlignment"	"west"
 			"xpos"			"240"
@@ -136,7 +136,7 @@
 			"wide"			"230"
 			"tall"			"15"
 			"autoResize"	"0"
-			"skip_autoresize"	"1"
+			"skip_autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
@@ -157,8 +157,8 @@
 			"tall"			"201"
 			"visible"		"1"
 			"PaintBackground"	"0"
-			"skip_autoresize"	"1"
-			"autoresize"		"0"
+			"skip_autoResize"	"1"
+			"autoResize"		"0"
 			
 			"ScrollableChild"
 			{
@@ -171,17 +171,17 @@
 				"tall"			"222"
 				"visible"		"1"
 				"PaintBackground"	"0"
-				"skip_autoresize"	"1"
-				"autoresize"		"0"
+				"skip_autoResize"	"1"
+				"autoResize"		"0"
 				
 				//
-				// All the controls below get laid out off of the item name label's position and the break sizes defined at the top of this file
+				// All the controls below get laid out off of the item name label's position and the break Quakes defined at the top of this file
 				//
 				"ItemLevelInfoLabel"
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"ItemLevelInfoLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"%item_level_info%"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -198,7 +198,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"RestrictionsLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"#Store_ItemDesc_Restrictions"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -215,7 +215,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"RestrictionsTextLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"#Store_HolidayRestrictionText"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -232,7 +232,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"UsedByLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"#Store_ItemDesc_UsedBy"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -249,7 +249,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"UsedByTextLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"%used_by_classes%"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -266,7 +266,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"SlotLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"#Store_ItemDesc_Slot"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -283,7 +283,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"SlotTextLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"%slot%"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -300,7 +300,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"PriceLabel"
-					"font"			"Size 18"
+					"font"			"Quake18"
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"25"
@@ -317,7 +317,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"ArmoryTextLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"textAlignment"	"north-west"
 					"wide"			"220"
 					"tall"			"10"
@@ -334,7 +334,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"AttributesLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"textAlignment"	"north-west"
 					"wide"			"220"
 					"tall"			"10"
@@ -359,7 +359,7 @@
 					"enabled"		"1"
 					"tabPosition"	"0"
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
-					"font"			"Size 15"
+					"font"			"Quake16"
 					"textAlignment"	"center"
 					"AllCaps"		"1"
 					"dulltext"		"0"
@@ -374,7 +374,7 @@
 					"armedFgColor_override"			"White"
 					"depressedFgColor_override"		"White"
 					
-					"border_default"				"BlueTransparent70"
+					"border_default"				"BlackTransparent70"
 					"border_armed"					"OrangeTransparent70"
 				}		
 				
@@ -382,7 +382,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"TradableLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"#Store_ItemDesc_Tradable"
 					"textAlignment"	"north-west"
 					"wide"			"205"
@@ -399,7 +399,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"TradableTextLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"%tradable%"
 					"textAlignment"	"north-west"
 					"wide"			"205"
@@ -416,7 +416,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"GiftableLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"#Store_ItemDesc_Giftable"
 					"textAlignment"	"north-west"
 					"wide"			"205"
@@ -433,7 +433,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"GiftableTextLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"%giftable%"
 					"textAlignment"	"north-west"
 					"wide"			"205"
@@ -450,7 +450,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"NameableLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"#Store_ItemDesc_Nameable"
 					"textAlignment"	"north-west"
 					"wide"			"205"
@@ -467,7 +467,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"NameableTextLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"%nameable%"
 					"textAlignment"	"north-west"
 					"wide"			"205"
@@ -484,7 +484,7 @@
 				{
 					"ControlName"		"CExLabel"
 					"fieldName"		"CraftableLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"#Store_ItemDesc_Craftable"
 					"textAlignment"		"north-west"
 					"wide"			"205"
@@ -501,7 +501,7 @@
 				{
 					"ControlName"		"CExLabel"
 					"fieldName"		"CraftableTextLabel"
-					"font"			"Size 10"
+					"font"			"Quake11"
 					"labelText"		"%craftable%"
 					"textAlignment"		"north-west"
 					"wide"			"205"
@@ -993,7 +993,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}		
 	
@@ -1026,7 +1026,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}
 	
@@ -1050,7 +1050,7 @@
 		"centerwrap"	"1"
 		"paintborder"	"1"
 		"textinsetx"	"100"
-		"border"		"BlueTransparent70"
+		"border"		"BlackTransparent70"
 	}
 
 	"RotLeftButton"
@@ -1084,7 +1084,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}		
 	
@@ -1119,7 +1119,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}	
 	
@@ -1174,7 +1174,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}
 	
@@ -1208,7 +1208,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}
 
@@ -1242,7 +1242,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}
 	
@@ -1350,7 +1350,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CycleTextLabel"
-		"font"			"Size 10"
+		"font"			"Quake11"
 		"labelText"		""
 		"textAlignment"	"left"
 		"xpos"			"c-186"
@@ -1374,7 +1374,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PaintNameLabel"
-		"font"			"Size 10"
+		"font"			"Quake11"
 		"labelText"		"#Store_NoPaint"
 		"textAlignment"	"left"
 		"xpos"			"c-186"
@@ -1395,7 +1395,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"StyleNameLabel"
-		"font"			"Size 10"
+		"font"			"Quake11"
 		"labelText"		"None"
 		"textAlignment"	"left"
 		"xpos"			"132"
@@ -1462,7 +1462,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_BackCarat"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -1478,7 +1478,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}		
 	
@@ -1496,7 +1496,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Store_TryItOut"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -1511,7 +1511,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}	
 	
@@ -1529,7 +1529,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%storeaddtocart%"
-		"font"			"Size 18"
+		"font"			"Quake18"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

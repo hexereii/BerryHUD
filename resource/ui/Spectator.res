@@ -251,7 +251,7 @@
 		"max_text_height"	"100"
 		"padding_height"	"10"
 		"resize_to_text"	"1"
-		"text_forcesize"	"2"
+		"text_forceQuake"	"2"
 		
 		"itemmodelpanel"
 		{

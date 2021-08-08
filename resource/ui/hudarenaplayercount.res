@@ -25,7 +25,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"paintborder"			"1"
-			"border"				"BlueTransparent70"
+			"border"				"BlackTransparent70"
 		}
 		
 		"CountIcon"
@@ -60,7 +60,7 @@
 			"pinCorner"				"0"
 			"visible"				"1"
 			"enabled"				"1"
-			"font"					"Size 20"
+			"font"					"Quake20"
 			"labelText"				"%blue_alive%"
 			"textAlignment"			"center"
 			"fgcolor"				"White"
@@ -140,7 +140,7 @@
 			"pinCorner"				"0"
 			"visible"				"1"
 			"enabled"				"1"
-			"font"					"Size 20"
+			"font"					"Quake20"
 			"labelText"				"%red_alive%"
 			"textAlignment"			"center"
 			"fgcolor"				"White"

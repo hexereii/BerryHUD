@@ -154,7 +154,7 @@
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
-		"text_forcesize"	"3"
+		"text_forceQuake"	"3"
 		"model_only"		"1"
 			
 		"attriblabel"
@@ -226,7 +226,7 @@
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
-		"text_forcesize"	"3"
+		"text_forceQuake"	"3"
 		"model_only"		"1"
 			
 		"attriblabel"
@@ -298,7 +298,7 @@
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
-		"text_forcesize"	"3"
+		"text_forceQuake"	"3"
 		"model_only"		"1"
 			
 		"attriblabel"
@@ -370,7 +370,7 @@
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
-		"text_forcesize"	"3"
+		"text_forceQuake"	"3"
 		"model_only"		"1"
 			
 		"attriblabel"
@@ -442,7 +442,7 @@
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
-		"text_forcesize"	"3"
+		"text_forceQuake"	"3"
 		"model_only"		"1"
 			
 		"attriblabel"
@@ -514,7 +514,7 @@
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
-		"text_forcesize"	"3"
+		"text_forceQuake"	"3"
 		"model_only"		"1"
 			
 		"attriblabel"
@@ -586,7 +586,7 @@
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
-		"text_forcesize"	"3"
+		"text_forceQuake"	"3"
 		"model_only"		"1"
 			
 		"attriblabel"
@@ -658,7 +658,7 @@
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
-		"text_forcesize"	"3"
+		"text_forceQuake"	"3"
 		"model_only"		"1"
 			
 		"attriblabel"

@@ -32,7 +32,7 @@
 			"model_tall"				"50"
 			"model_center_x"			"1"
 			"text_ypos"					"0"
-			"text_forcesize"			"2"
+			"text_forceQuake"			"2"
 			"text_center"				"0"
 			"text_yoffset"				"3"
 			"inset_eq_y"				"55"
@@ -80,7 +80,7 @@
 		
 		"duplicatelabels_kv"
 		{
-			"font"						"Size 11"
+			"font"						"Quake11"
 			"textAlignment"				"center"
 			"wide"						"20"
 			"tall"						"15"
@@ -126,7 +126,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"ItemSlotLabel"
-		"font"							"Size 35"
+		"font"							"Quake35"
 		"labelText"						"#PrimaryWeapon"
 		"textAlignment"					"west"
 		"xpos"							"0"
@@ -166,7 +166,7 @@
 		"fgcolor_override"				"White"
 		"bgcolor_override"				"Blank"
 		"paintbackgroundtype" 			"2"
-		"font"							"Size 12"
+		"font"							"Quake12"
 		
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_BOTTOMRIGHT"
@@ -192,7 +192,7 @@
 		"labeltext"						"Q"
 		"fgcolor_override"				"White"
 		
-		"border"						"BlueTransparent70"
+		"border"						"BlackTransparent70"
 		
 		"pin_to_sibling" 				"NameFilterTextEntry"
 	}
@@ -212,7 +212,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#Selection_ShowBackpack"
-		"font"							"Size 20"
+		"font"							"Quake20"
 		"textAlignment"					"center"
 		"textinsetx"					"0"
 		"AllCaps"						"1"
@@ -229,7 +229,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 		
 		"pin_to_sibling" 				"SelectionBG"
@@ -252,7 +252,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#Selection_ShowSelection"
-		"font"							"Size 20"
+		"font"							"Quake20"
 		"textAlignment"					"center"
 		"textinsetx"					"0"
 		"AllCaps"						"1"
@@ -269,7 +269,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 		
 		"pin_to_sibling" 				"SelectionBG"
@@ -282,7 +282,7 @@
 		"ControlName"					"CheckButton"
 		"fieldName"						"OnlyAllowUniqueQuality"
 		"labelText"						"#OnlyAllowUniqueQuality"
-		"Font"							"Size 12"
+		"Font"							"Quake12"
 		"textAlignment"					"west"
 		"xpos"							"3"
 		"ypos"							"0"
@@ -332,7 +332,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 		
 		"pin_to_sibling" 				"SelectionBG"
@@ -381,7 +381,7 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 		
 		"pin_to_sibling" 				"SelectionBG"
@@ -403,7 +403,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"NoItemsLabel"
-		"font"							"Size 30"
+		"font"							"Quake28"
 		"labelText"						"#NoItemsToEquip"
 		"textAlignment"					"center"
 		"xpos"							"c-300"

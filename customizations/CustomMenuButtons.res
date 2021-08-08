@@ -23,7 +23,7 @@
 		"SubButton"
 		{
 			"visible"					"0"		//LINE FOR CUSTOM BUTTON 1
-			
+
 			"ControlName"				"CExImageButton"
 			"fieldName"					"SubButton"
 			"xpos"						"0"
@@ -35,29 +35,29 @@
 			"enabled"					"1"
 			"tabPosition"				"0"
 			"use_proportional_insets" 	"1"
-			"font"						"Size 16"
+			"font"						"Quake16"
 			"textAlignment"				"center"
 			"AllCaps"					"0"
 			"dulltext"					"0"
 			"brighttext"				"0"
 			"default"					"1"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-		
+
 			"defaultFgColor_override"	"White"
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
-			
-			"border_default"			"BlueSolid"
-			"border_armed"				"OrangeSolid"
-			
+
+			"border_default"			"BlackTransparent70"
+			"border_armed"				"NeonGreen"
+
 			"proportionaltoparent"		"1"
 		}
 	}
-	
+
 	"Custom2"
 	{
 		"ControlName"					"EditablePanel"
@@ -68,15 +68,15 @@
 		"wide"							"26"
 		"tall"							"15"
 		"visible"						"1"
-		
+
 		"pin_to_sibling" 				"Custom1"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner" 		"PIN_TOPLEFT"
 
 		"SubButton"
 		{
-			"visible"					"0"		//LINE FOR CUSTOM BUTTON 2		
-		
+			"visible"					"0"		//LINE FOR CUSTOM BUTTON 2
+
 			"ControlName"				"CExImageButton"
 			"fieldName"					"SubButton"
 			"xpos"						"0"
@@ -88,29 +88,29 @@
 			"enabled"					"1"
 			"tabPosition"				"0"
 			"use_proportional_insets" 	"1"
-			"font"						"Size 16"
+			"font"						"Quake16"
 			"textAlignment"				"center"
 			"AllCaps"					"0"
 			"dulltext"					"0"
 			"brighttext"				"0"
 			"default"					"1"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-		
+
 			"defaultFgColor_override"	"White"
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
-			
+
 			"border_default"			"BlueSolid"
 			"border_armed"				"OrangeSolid"
-			
+
 			"proportionaltoparent"		"1"
 		}
 	}
-	
+
 	"Custom3"
 	{
 		"ControlName"					"EditablePanel"
@@ -121,15 +121,15 @@
 		"wide"							"26"
 		"tall"							"15"
 		"visible"						"1"
-		
+
 		"pin_to_sibling" 				"Custom2"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner" 		"PIN_TOPLEFT"
 
 		"SubButton"
 		{
-			"visible"					"0"		//LINE FOR CUSTOM BUTTON 3		
-		
+			"visible"					"0"		//LINE FOR CUSTOM BUTTON 3
+
 			"ControlName"				"CExImageButton"
 			"fieldName"					"SubButton"
 			"xpos"						"0"
@@ -141,29 +141,29 @@
 			"enabled"					"1"
 			"tabPosition"				"0"
 			"use_proportional_insets" 	"1"
-			"font"						"Size 16"
+			"font"						"Quake16"
 			"textAlignment"				"center"
 			"AllCaps"					"0"
 			"dulltext"					"0"
 			"brighttext"				"0"
 			"default"					"1"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-		
+
 			"defaultFgColor_override"	"White"
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
-			
+
 			"border_default"			"BlueSolid"
 			"border_armed"				"OrangeSolid"
-			
+
 			"proportionaltoparent"		"1"
 		}
 	}
-	
+
 	"Custom4"
 	{
 		"ControlName"					"EditablePanel"
@@ -174,15 +174,15 @@
 		"wide"							"26"
 		"tall"							"15"
 		"visible"						"1"
-		
+
 		"pin_to_sibling" 				"Custom3"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner" 		"PIN_TOPLEFT"
 
 		"SubButton"
 		{
-			"visible"					"0"		//LINE FOR CUSTOM BUTTON 4		
-		
+			"visible"					"0"		//LINE FOR CUSTOM BUTTON 4
+
 			"ControlName"				"CExImageButton"
 			"fieldName"					"SubButton"
 			"xpos"						"0"
@@ -194,26 +194,26 @@
 			"enabled"					"1"
 			"tabPosition"				"0"
 			"use_proportional_insets" 	"1"
-			"font"						"Size 16"
+			"font"						"Quake16"
 			"textAlignment"				"center"
 			"AllCaps"					"0"
 			"dulltext"					"0"
 			"brighttext"				"0"
 			"default"					"1"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-		
+
 			"defaultFgColor_override"	"White"
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
-			
+
 			"border_default"			"BlueSolid"
 			"border_armed"				"OrangeSolid"
-			
+
 			"proportionaltoparent"		"1"
 		}
 	}
-}	
+}

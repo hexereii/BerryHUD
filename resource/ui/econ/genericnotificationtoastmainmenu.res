@@ -63,7 +63,7 @@
 		"wrap"					"1"
 		"labelText"				"%avatartext%"
 		"textAlignment"			"West"
-		"font"					"Size 10"
+		"font"					"Quake11"
 	}
 
 	"TextLabel"
@@ -93,6 +93,6 @@
 		"AllCaps"				"1"
 		"labelText"				"%text%"
 		"textAlignment"			"West"
-		"font"					"Size 10"
+		"font"					"Quake11"
 	}
 }

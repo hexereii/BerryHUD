@@ -20,7 +20,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Size 11"
+		"font"			"Quake11"
 		"labelText"		"#IT_BotControl_Title"
 		"textAlignment"	"west"
 		"xpos"			"7"
@@ -40,7 +40,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BotAnimationTitle"
-		"font"			"Size 11"
+		"font"			"Quake11"
 		"labelText"		"#IT_BotAnim_Title"
 		"textAlignment"	"east"
 		"xpos"			"0"
@@ -59,7 +59,7 @@
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"			"BotAnimationComboBox"
-		"Font"				"Size 11"
+		"Font"				"Quake11"
 		"xpos"				"95"
 		"ypos"				"20"
 		"zpos"				"1"
@@ -91,7 +91,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"BotForceFireCheckBox"
 		"labelText"		"#IT_BotAnim_ForceFire"
-		"Font"			"Size 8"
+		"Font"			"Quake8"
 		"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"40"
@@ -112,7 +112,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"BotTurntableCheckBox"
 		"labelText"		"#IT_BotAnim_Turntable"
-		"Font"			"Size 8"
+		"Font"			"Quake8"
 		"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"60"
@@ -133,7 +133,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"BotViewScanCheckBox"
 		"labelText"		"#IT_BotAnim_ViewScan"
-		"Font"			"Size 8"
+		"Font"			"Quake8"
 		"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"80"
@@ -154,7 +154,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BotAnimationAnimTitle"
-		"font"			"Size 11"
+		"font"			"Quake11"
 		"labelText"		"#IT_BotAnimSpeed_Title"
 		"textAlignment"	"east"
 		"xpos"			"0"
@@ -199,7 +199,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Cancel"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -216,7 +216,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 	"OkButton"
@@ -234,7 +234,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#IT_Apply"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -251,7 +251,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 }

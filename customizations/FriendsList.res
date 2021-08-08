@@ -8,4 +8,3 @@
 
 
 #base "../resource/ui/alternatives/FriendsList_Off.res"		// MAIN MENU FRIENDSLIST DISABLED
-//#base "../resource/ui/alternatives/FriendsList_On.res"		// MAIN MENU FRIENDSLIST ENABLED

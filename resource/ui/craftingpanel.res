@@ -46,7 +46,7 @@
 			"model_tall"					"35"
 			"text_center"					"1"
 			"name_only"						"1"
-			"text_forcesize" 				"3"
+			"text_forceQuake" 				"3"
 			"noitem_use_fullpanel" 			"1"
 			
 			"inset_eq_x"					"2"
@@ -94,7 +94,7 @@
 		
 		"recipebuttons_kv"
 		{
-			"font"							"Size 12"
+			"font"							"Quake12"
 			"xpos"							"0"
 			"ypos"							"0"
 			"zpos"							"1"
@@ -114,7 +114,7 @@
 			"sound_depressed"				"UI/buttonclick.wav"
 			"sound_released"				"UI/buttonclickrelease.wav"
 			
-			"border_default"				"BlueTransparent70"
+			"border_default"				"BlackTransparent70"
 			"border_armed"					"OrangeTransparent70"
 			
 			"defaultFgColor_override" 		"White"
@@ -167,7 +167,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"ClassLabel"
-		"font"								"Size 35"
+		"font"								"Quake35"
 		"labelText"							"crafting"
 		"textAlignment"						"west"
 		"xpos"								"c-293"
@@ -240,7 +240,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"InputLabel"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"labelText"						"#Craft_Recipe_Inputs"
 			"textAlignment"					"west"
 			"xpos"							"8"
@@ -259,7 +259,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"OutputLabel"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"labelText"						"#Craft_Recipe_Outputs"
 			"textAlignment"					"west"
 			"xpos"							"8"
@@ -289,7 +289,7 @@
 			"enabled"						"0"
 			"tabPosition"					"0"
 			"labelText"						"#CraftConfirm"
-			"font"							"Size 18"
+			"font"							"Quake18"
 			"textAlignment"					"center"
 			"dulltext"						"0"
 			"brighttext"					"0"
@@ -301,7 +301,7 @@
 			"sound_depressed"				"UI/buttonclick.wav"
 			"sound_released"				"UI/buttonclickrelease.wav"
 			
-			"border_default"				"BlueTransparent70"
+			"border_default"				"BlackTransparent70"
 			"border_armed"					"OrangeTransparent70"
 			
 			"defaultFgColor_override" 		"White"
@@ -313,7 +313,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"FreeAccountLabel"
-			"font"							"Size 11"
+			"font"							"Quake11"
 			"labelText"						"#Craft_PremiumRecipe"
 			"textAlignment"					"west"
 			"xpos"							"20"
@@ -344,7 +344,7 @@
 			"enabled"						"1"
 			"tabPosition"					"0"
 			"labelText"						"#TF_Trial_Upgrade"
-			"font"							"Size 18"
+			"font"							"Quake18"
 			"textAlignment"					"center"
 			"textinsetx"					"50"
 			"dulltext"						"0"
@@ -482,7 +482,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"TipLabel"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"labelText"						"%tiptext%"
 			"textAlignment"					"center"
 			"xpos"							"20"

@@ -16,19 +16,19 @@
 		"bgcolor_override"	"DarkenBlu"
 		"infocus_bgcolor_override" "DarkenBlu"
 		"outoffocus_bgcolor_override" "DarkenBlu"
-		
+
 		"thumbnail_bgcolor"			"Black"
 		"thumbnail_bgcolor_mouseover"	"156 146 128 255"
 		"thumbnail_bgcolor_selected"	"176 166 148 255"
-		
+
 		"thumbnails_rows"		"5"
 		"thumbnails_columns"	"7"
-		
+
 		"thumbnails_x"			"c-400"
 		"thumbnails_y"			"60"
 		"thumbnails_delta_x"	"8"
 		"thumbnails_delta_y"	"8"
-		
+
 		"thumbnail_modelpanels_kv"
 		{
 			"ControlName"	"CItemModelPanel"
@@ -40,7 +40,7 @@
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
-			
+
 			"model_xpos"	"7"
 			"model_ypos"	"5"
 			"model_wide"	"58"
@@ -48,10 +48,10 @@
 			"text_ypos"		"60"
 			"text_center"	"1"
 			"name_only"		"1"
-			
+
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
-			
+
 			"itemmodelpanel"
 			{
 				"use_item_rendertarget" "0"
@@ -79,7 +79,7 @@
 		"enabled"		"0"
 		"fgcolor_override" "Blank"
 	}
-	
+
 	"ArmoryLabel"
 	{
 		"ControlName"	"Label"
@@ -115,7 +115,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-	
+
 	"FilterComboBox"
 	{
 		"ControlName"		"ComboBox"
@@ -136,7 +136,7 @@
 		"maxchars"			"-1"
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
-		
+
 		"fgcolor_override"	"White"
 		"bgcolor_override"	"Black"
 		"disabledFgColor_override" "White"
@@ -145,7 +145,7 @@
 		"selectionTextColor_override" "White"
 		"defaultSelectionBG2Color_override" "Black"
 	}
-	
+
 	"DataPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -188,9 +188,9 @@
 			"image_box"			"ArmoryScrollbarBox"
 		}
 	}
-	
+
 	"SelectedItemModelPanel"
-	{		
+	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"SelectedItemModelPanel"
 		"xpos"			"c155"
@@ -202,20 +202,20 @@
 		"bgcolor_override"		"0 0 0 0"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"0"
-		
+
 		"model_hide"	"1"
 		"text_center"	"1"
-		"resize_to_text" "1"
-		
+		"reSize_to_text" "1"
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
 			"inventory_image_type" "1"
 			"allow_rot"				"0"
 		}
-	}	
+	}
 	"SelectedItemImageModelPanel"
-	{		
+	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"SelectedItemImageModelPanel"
 		"xpos"			"c-280"		// Slightly right of center, because the photo background is
@@ -227,21 +227,21 @@
 		"bgcolor_override"		"0 0 0 0"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"0"
-		
+
 		"model_ypos"	"10"
 		"model_tall"	"120"
 		"name_only"		"0"
 		"attrib_only"	"0"
 		"model_only"	"1"
 		"paint_icon_hide"	"1"
-		
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
 			"inventory_image_type" "1"
 			"allow_rot"				"0"
 		}
-	}	
+	}
 	
 	"mouseoveritempanel"
 	{
@@ -257,19 +257,19 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
-		
+
 		"text_ypos"			"20"
 		"text_center"		"1"
 		"model_hide"		"0"
-		"resize_to_text"	"0"
+		"reSize_to_text"	"0"
 		"padding_height"	"15"
 		"name_only"			"1"
-		
+
 		"model_ypos"	"40"
 		"model_tall"	"120"
-		
-		"text_forcesize"	"1"
-		
+
+		"text_forceQuake"	"1"
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
@@ -277,7 +277,7 @@
 			"allow_rot"				"0"
 		}
 	}
-	
+
 	"PrevPageButton"
 	{
 		"ControlName"	"CExButton"
@@ -306,8 +306,8 @@
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override" 	"White"
 		"depressedFgColor_override" "White"
-	}		
-	
+	}
+
 	"CurPageLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -326,7 +326,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "White"
 	}
-	
+
 	"NextPageButton"
 	{
 		"ControlName"	"CExButton"
@@ -355,8 +355,8 @@
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override" 	"White"
 		"depressedFgColor_override" "White"
-	}	
-		
+	}
+
 	"WikiButton"
 	{
 		"ControlName"	"CExButton"
@@ -386,8 +386,8 @@
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override" 	"White"
 		"depressedFgColor_override" "White"
-	}		
-	
+	}
+
 	"ViewSetButton"
 	{
 		"ControlName"	"CExButton"
@@ -411,8 +411,8 @@
 		"Command"		"viewset"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
-	
+	}
+
 	"StoreButton"
 	{
 		"ControlName"	"CExButton"
@@ -441,8 +441,8 @@
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override" 	"White"
 		"depressedFgColor_override" "White"
-	}		
-	
+	}
+
 	"ReloadSchemeButton"
 	{
 		"ControlName"	"CExButton"

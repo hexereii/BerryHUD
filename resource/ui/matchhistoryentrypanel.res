@@ -61,7 +61,7 @@
 			"mouseinputenabled"				"0"
 			
 			"labeltext"						"#TF_Competitive_MatchHistory_Win"
-			"font"							"Size 11"
+			"font"							"Quake11"
 			"fgcolor_override"				"GreenLight"
 			"textAlignment"					"west"
 			"AllCaps"						"1"
@@ -80,7 +80,7 @@
 			"mouseinputenabled"				"0"
 			
 			"labeltext"						"#TF_Competitive_MatchHistory_Loss"
-			"font"							"Size 11"
+			"font"							"Quake11"
 			"fgcolor_override"				"RedLight"
 			"textAlignment"					"west"
 			"AllCaps"						"1"
@@ -99,7 +99,7 @@
 			"mouseinputenabled"				"0"
 			
 			"labeltext"						"%match_date%"
-			"font"							"Size 9"
+			"font"							"Quake9"
 			"fgcolor_override"				"White"
 			"textAlignment"					"west"
 		}
@@ -117,7 +117,7 @@
 			"mouseinputenabled"				"0"
 			
 			"labeltext"						"%map_name%"
-			"font"							"Size 9"
+			"font"							"Quake9"
 			"fgcolor_override"				"White"
 			"textAlignment"					"west"
 		}
@@ -135,7 +135,7 @@
 			"mouseinputenabled"				"0"
 			
 			"labeltext"						"%kd_ratio%"
-			"font"							"Size 9"
+			"font"							"Quake9"
 			"fgcolor_override"				"White"
 			"textAlignment"					"west"
 		}
@@ -151,7 +151,7 @@
 		"tall"								"0"
 		"proportionaltoparent"				"1"		
 		"bgcolor_override"					"0 0 0 100"
-		"autoresize"						"2"
+		"autoResize"						"2"
 		"pincorner"							"3"
 
 		"InnerShadow"
@@ -164,7 +164,7 @@
 			"tall"							"f0"
 			"zpos"							"1"
 			"proportionaltoparent"			"1"	
-			"autoresize"					"2"
+			"autoResize"					"2"
 			"pincorner"						"3"
 			
 			"border"						"InnerShadowBorder"	
@@ -235,7 +235,7 @@
 				"mouseinputenabled"			"0"
 			
 				"labeltext"					"%stat_kills%"
-				"font"						"Size 9"
+				"font"						"Quake9"
 				"fgcolor_override"			"White"
 				"textAlignment"				"west"
 			}
@@ -253,7 +253,7 @@
 				"mouseinputenabled"			"0"
 			
 				"labeltext"					"%stat_deaths%"
-				"font"						"Size 9"
+				"font"						"Quake9"
 				"fgcolor_override"			"White"
 				"textAlignment"				"west"
 			}
@@ -284,7 +284,7 @@
 				"mouseinputenabled"			"0"
 			
 				"labeltext"					"%stat_damage%"
-				"font"						"Size 9"
+				"font"						"Quake9"
 				"fgcolor_override"			"White"
 				"textAlignment"				"west"
 			}
@@ -316,7 +316,7 @@
 				"mouseinputenabled"			"0"
 			
 				"labeltext"					"%stat_healing%"
-				"font"						"Size 9"
+				"font"						"Quake9"
 				"fgcolor_override"			"White"
 				"textAlignment"				"west"
 			}
@@ -347,7 +347,7 @@
 				"mouseinputenabled"			"0"
 			
 				"labeltext"					"%stat_support%"
-				"font"						"Size 9"
+				"font"						"Quake9"
 				"fgcolor_override"			"White"
 				"textAlignment"				"west"
 			}
@@ -380,7 +380,7 @@
 				"pincorner"					"3"
 			
 				"labeltext"					"%stat_score%"
-				"font"						"Size 9"
+				"font"						"Quake9"
 				"fgcolor_override"			"White"
 				"textAlignment"				"west"
 			}

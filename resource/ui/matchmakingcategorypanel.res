@@ -75,7 +75,7 @@
 			"command"						"toggle_collapse"
 			"labeltext"						"#TF_Casual_ViewMaps"
 			"textAlignment"					"center"
-			"font"							"Size 8"
+			"font"							"Quake8"
 			"textinsetx"					"0"
 			"AllCaps"						"1"
 
@@ -120,7 +120,7 @@
 			"labelText"						"%title_token%"
 			"textinsetx"					"5"
 			"use_proportional_insets" 		"1"
-			"font"							"Size 15"
+			"font"							"Quake16"
 			"textAlignment"					"east"
 			"dulltext"						"0"
 			"brighttext"					"0"
@@ -224,7 +224,7 @@
 		"pinCorner"							"2"
 		"autoResize"						"1"
 
-		"skip_autoresize"					"1"
+		"skip_autoResize"					"1"
 
 		"bgcolor_override"					"Blank"
 	}

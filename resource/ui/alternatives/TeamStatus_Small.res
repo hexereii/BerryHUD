@@ -12,7 +12,7 @@
 		"visible"								"1"
 		"enabled"								"1"
 
-		"max_size"								"35"
+		"max_Size"								"35"
 
 		"6v6_gap"								"0"
 		"12v12_gap"								"0"
@@ -43,7 +43,7 @@
 			"percentage_health_low"				"0.3"
 			"color_portrait_blend_dead_red"		"White"
 			"color_portrait_blend_dead_blue" 	"White"
-			
+
 			"playername"
 			{
 				"ControlName"					"CExLabel"
@@ -63,7 +63,7 @@
 				"bgcolor_override"				"BlackTransparent"
 				"proportionaltoparent"			"1"
 			}
-			
+
 			"classimage"
 			{
 				"ControlName"					"CTFClassImage"
@@ -76,10 +76,10 @@
 				"visible"						"1"
 				"enabled"						"1"
 				"image"							"../hud/class_scoutred"
-				"scaleImage"					"1"	
+				"scaleImage"					"1"
 				"proportionaltoparent"			"1"
 			}
-			
+
 			"classimagebg"
 			{
 				"ControlName"					"Panel"
@@ -94,9 +94,9 @@
 				"PaintBackgroundType"			"0"
 				"proportionaltoparent"			"1"
 			}
-			
+
 			"healthbar"
-			{	
+			{
 				"ControlName"					"ContinuousProgressBar"
 				"fieldName"						"healthbar"
 				"font"							"Default"
@@ -104,7 +104,7 @@
 				"ypos"							"20"
 				"zpos"							"5"
 				"wide"							"f0"
-				"tall"							"2"				
+				"tall"							"2"
 				"autoResize"					"0"
 				"pinCorner"						"0"
 				"visible"						"1"
@@ -115,17 +115,17 @@
 				"bgcolor_override"	   			"80 80 80 255"
 				"proportionaltoparent"			"1"
 			}
-			
+
 			"overhealbar"
-			{	
+			{
 				"ControlName"					"ContinuousProgressBar"
 				"fieldName"						"overhealbar"
-				"font"							"Default"																		
+				"font"							"Default"
 				"xpos"							"0"
 				"ypos"							"20"
 				"zpos"							"6"
 				"wide"							"f0"
-				"tall"							"2"				
+				"tall"							"2"
 				"autoResize"					"0"
 				"pinCorner"						"0"
 				"visible"						"1"
@@ -137,7 +137,7 @@
 				"fgcolor_override"	   			"GreenLight"
 				"proportionaltoparent"			"1"
 			}
-			
+
 			"HealthIcon"
 			{
 				"ControlName"					"EditablePanel"
@@ -148,19 +148,19 @@
 				"wide"							"32"
 				"tall"							"32"
 				"visible"						"0"
-				"enabled"						"1"	
+				"enabled"						"1"
 				"HealthBonusPosAdj"				"10"
 				"HealthDeathWarning"			"0.49"
 				"TFFont"						"HudFontSmallest"
 				"HealthDeathWarningColor"		"HUDDeathWarning"
 				"TextColor"						"HudOffWhite"
 			}
-			
+
 			"respawntime"
 			{
 				"ControlName"					"CExLabel"
 				"fieldName"						"respawntime"
-				"font"							"Size 12 Shadow"
+				"font"							"Quake12"
 				"xpos"							"cs-0.5"
 				"ypos"							"0"
 				"zpos"							"5"
@@ -174,7 +174,7 @@
 				"proportionaltoparent"			"1"
 				"fgcolor"						"White"
 			}
-			
+
 			"chargeamount"
 			{
 				"ControlName"					"CExLabel"
@@ -192,7 +192,7 @@
 				"textAlignment"					"north"
 				"fgcolor"						"White"
 			}
-			
+
 			"DeathPanel"
 			{
 				"ControlName"					"ImagePanel"
@@ -204,11 +204,11 @@
 				"tall"							"24"
 				"visible"						"0"
 				"enabled"						"1"
-				"image"							"../HUD/comp_player_status"	
+				"image"							"../HUD/comp_player_status"
 				"scaleImage"					"1"
-				"proportionaltoparent"			"1"	
+				"proportionaltoparent"			"1"
 			}
-			
+
 			"ReadyBG"
 			{
 				"ControlName"					"ScalableImagePanel"

@@ -28,7 +28,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"TitleLabel"
-		"font"							"Size 30"
+		"font"							"Quake28"
 		"labelText"						"#TF_AdvancedOptions"
 		"textAlignment"					"center"
 		"xpos"							"0"
@@ -41,7 +41,7 @@
 		"visible"						"1"
 		"enabled"						"1"
 		"AllCaps"						"1"
-		"fgcolor_override" 				"BlueLight"
+		"fgcolor_override" 				"BlackTransparent70"
 	}
 	
 	"CancelButton"
@@ -59,7 +59,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#Cancel"
-		"font"							"Size 15"
+		"font"							"Quake16"
 		"textAlignment"					"center"
 		"dulltext"						"0"
 		"brighttext"					"0"
@@ -75,8 +75,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlackTransparent70"
+		"border_armed"					"NeonGreen"
 	}
 	
 	"OkButton"
@@ -94,7 +94,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#GameUI_Ok"
-		"font"							"Size 15"
+		"font"							"Quake16"
 		"textAlignment"					"center"
 		"dulltext"						"0"
 		"brighttext"					"0"
@@ -110,8 +110,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlackTransparent70"
+		"border_armed"					"NeonGreen"
 	}
 	
 	"PanelListPanel"
@@ -141,13 +141,13 @@
 		"tall"							"50"
 		"visible"						"0"
 		"PaintBackgroundType"			"2"
-		"border"						"BlackTransparent70"
+		"border"						"LightBlue"
 		
 		"TipLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TipLabel"
-			"font"						"Size 11"
+			"font"						"Quake11"
 			"labelText"					"%tiptext%"
 			"textAlignment"				"center"
 			"xpos"						"20"

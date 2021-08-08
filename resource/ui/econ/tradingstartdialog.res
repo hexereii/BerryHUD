@@ -32,7 +32,7 @@
 				"enabled"					"1"
 				"tabPosition"				"0"
 				"labelText"					""
-				"font"						"Size 12"
+				"font"						"Quake12"
 				"textAlignment"				"west"
 				"textinsetx"				"30"
 				"use_proportional_insets" 	"1"
@@ -44,7 +44,7 @@
 				
 				"paintbackground" 			"0"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}
 			
@@ -70,7 +70,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"TitleLabel"
-		"font"								"Size 30"
+		"font"								"Quake28"
 		"labelText"							"#TF_TradeStartDialog_Title"
 		"textAlignment"						"north"
 		"xpos"								"0"
@@ -126,7 +126,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"QueryLabel"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"labelText"						"#TF_TradeStartDialog_Select"
 			"textAlignment"					"north"
 			"xpos"							"0"
@@ -156,7 +156,7 @@
 			"enabled"						"1"
 			"tabPosition"					"0"
 			"labelText"						"#TF_TradeStartDialog_SelectFriends"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"textAlignment"					"center"
 			"AllCaps"						"1"
 			"dulltext"						"0"
@@ -173,7 +173,7 @@
 			"armedFgColor_override"			"White"
 			"depressedFgColor_override"		"White"
 			
-			"border_default"				"BlueTransparent70"
+			"border_default"				"BlackTransparent70"
 			"border_armed"					"OrangeTransparent70"
 		}
 		
@@ -192,7 +192,7 @@
 			"enabled"						"1"
 			"tabPosition"					"0"
 			"labelText"						"#TF_TradeStartDialog_SelectServer"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"textAlignment"					"center"
 			"AllCaps"						"1"
 			"dulltext"						"0"
@@ -208,7 +208,7 @@
 			"armedFgColor_override"			"White"
 			"depressedFgColor_override"		"White"
 			
-			"border_default"				"BlueTransparent70"
+			"border_default"				"BlackTransparent70"
 			"border_armed"					"OrangeTransparent70"
 		}
 		
@@ -228,7 +228,7 @@
 			"enabled"						"1"
 			"tabPosition"					"0"
 			"labelText"						"#TF_TradeStartDialog_SelectProfile"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"textAlignment"					"center"
 			"AllCaps"						"1"
 			"dulltext"						"0"
@@ -244,7 +244,7 @@
 			"armedFgColor_override"			"White"
 			"depressedFgColor_override"		"White"
 			
-			"border_default"				"BlueTransparent70"
+			"border_default"				"BlackTransparent70"
 			"border_armed"					"OrangeTransparent70"
 		}
 	}
@@ -265,7 +265,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"QueryLabel"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"labelText"						"#TF_TradeStartDialog_Friends"
 			"textAlignment"					"north"
 			"xpos"							"0"
@@ -283,7 +283,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"EmptyPlayerListLabel"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"labelText"						"#TF_TradeStartDialog_FriendsNone"
 			"textAlignment"					"north"
 			"xpos"							"0"
@@ -317,7 +317,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"QueryLabel"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"labelText"						"#TF_TradeStartDialog_Server"
 			"textAlignment"					"north"
 			"xpos"							"0"
@@ -336,7 +336,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"EmptyPlayerListLabel"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"labelText"						"#TF_TradeStartDialog_ServerNone"
 			"textAlignment"					"north"
 			"xpos"							"0"
@@ -370,7 +370,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"QueryLabel"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"labelText"						"#TF_TradeStartDialog_Profile"
 			"textAlignment"					"north"
 			"xpos"							"0"
@@ -389,7 +389,7 @@
 		{
 			"ControlName"					"Label"
 			"fieldName"						"URLHelpLabel"
-			"font"							"Size 10"
+			"font"							"Quake11"
 			"labelText"						"#TF_TradeStartDialog_ProfileHelp"
 			"textAlignment"					"center"
 			"xpos"							"0"
@@ -410,7 +410,7 @@
 		{
 			"ControlName"					"Label"
 			"fieldName"						"URLFailLabel"
-			"font"							"Size 10"
+			"font"							"Quake11"
 			"labelText"						"#TF_TradeStartDialog_ProfileFail"
 			"textAlignment"					"center"
 			"xpos"							"0"
@@ -431,7 +431,7 @@
 		{
 			"ControlName"	 				"Label"
 			"fieldName"		 				"URLSearchingLabel"
-			"font"			 				"Size 10"
+			"font"			 				"Quake11"
 			"labelText"		 				"#TF_TradeStartDialog_ProfileLookup"
 			"textAlignment"	 				"center"
 			"xpos"			 				"0"
@@ -471,7 +471,7 @@
 			"bgcolor_override"				"BlackLightTransparent"
 			"paintbackgroundtype"			"0"
 			"labelText"						""
-			"font"							"Size 12"
+			"font"							"Quake12"
 			"textAlignment"					"west"
 		}
 		
@@ -490,7 +490,7 @@
 			"enabled"						"1"
 			"tabPosition"					"0"
 			"labelText"						"#TF_TradeStartDialog_ProfileGo"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"textAlignment"					"center"
 			"AllCaps"						"1"
 			"dulltext"						"0"
@@ -506,7 +506,7 @@
 			"armedFgColor_override"			"White"
 			"depressedFgColor_override"		"White"
 			
-			"border_default"				"BlueTransparent70"
+			"border_default"				"BlackTransparent70"
 			"border_armed"					"OrangeTransparent70"
 		}
 	}
@@ -526,7 +526,7 @@
 		"enabled"							"1"
 		"tabPosition"						"0"
 		"labelText"							"#Cancel"
-		"font"								"Size 14"
+		"font"								"Quake14"
 		"textAlignment"						"center"
 		"AllCaps"							"1"
 		"dulltext"							"0"
@@ -542,7 +542,7 @@
 		"armedFgColor_override"				"White"
 		"depressedFgColor_override"			"White"
 			
-		"border_default"					"BlueTransparent70"
+		"border_default"					"BlackTransparent70"
 		"border_armed"						"OrangeTransparent70"
 	}
 }

@@ -69,7 +69,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ToolBG"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"labelText"		""
 			"textAlignment"	"east"
 			"xpos"			"10"
@@ -118,7 +118,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"labelText"		"dynamic"
 			"textAlignment"	"center"
 			"xpos"			"100"
@@ -135,7 +135,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"SubjectBG"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"labelText"		""
 			"textAlignment"	"east"
 			"xpos"			"465"
@@ -181,7 +181,7 @@
 			}
 		}	
 
-		// Dynamically sized and moded based on the current page
+		// Dynamically Quaked and moded based on the current page
 		"paint_model"
 		{
 			"ControlName"	"CItemModelPanel"
@@ -229,7 +229,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"PageTitleLabel"
-				"font"			"Size 18"
+				"font"			"Quake18"
 				"labelText"		"#ToolCustomizeTextureStep1"
 				"textAlignment"	"north-west"
 				"xpos"			"2"
@@ -250,7 +250,7 @@
 				"zpos"			"-1"
 				"wide"			"350"
 				"tall"			"200"
-				"border"		"BlueTransparent70"
+				"border"		"BlackTransparent70"
 
 				"UseAvatarRadio"
 				{
@@ -262,7 +262,7 @@
 					"tall"				"20"
 					"labelText"			"#ToolCustomizeTextureUseAvatarImage"
 					"textAlignment"		"west"
-					"font"				"Size 15"
+					"font"				"Quake16"
 				}
 
 				"UseAnyImageRadio"
@@ -275,7 +275,7 @@
 					"tall"				"20"
 					"labelText"			"#ToolCustomizeTextureUseAnyImage"
 					"textAlignment"		"west"
-					"font"				"Size 15"
+					"font"				"Quake16"
 				}
 
 				"BrowseForNewImageButton"
@@ -288,7 +288,7 @@
 					"wide"			"300"
 					"tall"			"24"
 					"labelText"		"#ToolCustomizeTextureBrowseButton"
-					"font"			"Size 15"
+					"font"			"Quake16"
 					"textinsetx"	"10"
 					"AllCaps"		"1"
 					"Command"		"pick_image"
@@ -301,7 +301,7 @@
 					"armedFgColor_override"		"White"
 					"depressedFgColor_override"	"White"
 					
-					"border_default"			"BlueTransparent70"
+					"border_default"			"BlackTransparent70"
 					"border_armed"				"OrangeTransparent70"
 				}
 
@@ -309,7 +309,7 @@
 				{
 					"ControlName"		"CExLabel"
 					"fieldName"		"ForBestResultsLabel"
-					"font"			"Size 15"
+					"font"			"Quake16"
 					"xpos"			"42"
 					"ypos"			"140"
 					"wide"			"300"
@@ -332,7 +332,7 @@
 				"zpos"		"-1"
 				"wide"		"180"
 				"tall"		"200"
-				"border"		"BlueTransparent70"
+				"border"		"BlackTransparent70"
 
 				"PreviewCroppedImage"
 				{
@@ -355,7 +355,7 @@
 					"wide"		"140"
 					"tall"		"15"
 					"editable"		"0"
-					"font"			"Size 14"
+					"font"			"Quake14"
 
 					//"fgcolor_override"	"White"
 					"bgcolor_override"	"BlackLightTransparent"
@@ -378,7 +378,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#Cancel"
-				"font"			"Size 15"
+				"font"			"Quake16"
 				"AllCaps"		"1"
 				"textAlignment"	"center"
 				"Command"		"cancel"
@@ -391,7 +391,7 @@
 				"armedFgColor_override"		"White"
 				"depressedFgColor_override"	"White"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}
 			
@@ -405,7 +405,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#TF_NextCarat"
-				"font"			"Size 15"
+				"font"			"Quake16"
 				"AllCaps"		"1"
 				"textAlignment"	"center"
 				"Command"		"next_page"
@@ -418,7 +418,7 @@
 				"armedFgColor_override"		"White"
 				"depressedFgColor_override"	"White"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}
 		}
@@ -439,7 +439,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"PageTitleLabel"
-				"font"			"Size 18"
+				"font"			"Quake18"
 				"labelText"		"#ToolCustomizeTextureStep2"
 				"textAlignment"	"north-west"
 				"xpos"			"0"
@@ -455,19 +455,19 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"		"SelectFilterGroupBox"
-				"Font"		"Size 11"
+				"Font"		"Quake11"
 				"xpos"		"0"
 				"ypos"		"25"
 				"zpos"		"-1"
 				"wide"		"160"
 				"tall"		"200"
-				"border"		"BlueTransparent70"
+				"border"		"BlackTransparent70"
 
 				"FilterLabel"
 				{
 					"ControlName"		"CExLabel"
 					"fieldName"		"FilterLabel"
-					"font"			"Size 15"
+					"font"			"Quake16"
 					"xpos"		"10"
 					"ypos"		"10"
 					"wide"		"140"
@@ -487,7 +487,7 @@
 					"wide"		"140"
 					"tall"		"15"
 					"editable"		"0"
-					"font"			"Size 15"
+					"font"			"Quake16"
 					"visible"	"0"
 
 					"AllCaps"		"1"
@@ -521,7 +521,7 @@
 						"tall"		"80"
 						"labelText"		"#ToolCustomizeTexturePainterlyDescription"
 						"textAlignment"	"north-west"
-						"font"			"Size 14"
+						"font"			"Quake14"
 						"wrap"			"1"
 						"AllCaps"			"1"
 						"fgcolor"			"White"
@@ -548,7 +548,7 @@
 						"tall"		"60"
 						"labelText"		"#ToolCustomizeTextureStencilDescription"
 						"textAlignment"	"north-west"
-						"font"			"Size 14"
+						"font"			"Quake14"
 						"wrap"			"1"
 						"visible"	"0"
 						"AllCaps"			"1"
@@ -565,7 +565,7 @@
 						"tall"		"15"
 						"labelText"		"#ToolCustomizeTextureColorPalette"
 						"textAlignment"	"north-west"
-						"font"			"Size 15"
+						"font"			"Quake16"
 						"AllCaps"			"1"
 						"fgcolor"			"White"
 					}
@@ -580,7 +580,7 @@
 						"wide"			"65"
 						"tall"			"18"
 						"labelText"		"<<"
-						"font"			"Size 15"
+						"font"			"Quake16"
 						"AllCaps"		"1"
 						"textAlignment"	"center"
 						"Command"		"prev_stencil_palette"
@@ -593,7 +593,7 @@
 						"armedFgColor_override"		"White"
 						"depressedFgColor_override"	"White"
 						
-						"border_default"			"BlueTransparent70"
+						"border_default"			"BlackTransparent70"
 						"border_armed"				"OrangeTransparent70"
 					}
 
@@ -607,7 +607,7 @@
 						"wide"			"65"
 						"tall"			"18"
 						"labelText"		">>"
-						"font"			"Size 15"
+						"font"			"Quake16"
 						"textAlignment"	"center"
 						"AllCaps"		"1"
 						"Command"		"next_stencil_palette"
@@ -620,7 +620,7 @@
 						"armedFgColor_override"		"White"
 						"depressedFgColor_override"	"White"
 						
-						"border_default"			"BlueTransparent70"
+						"border_default"			"BlackTransparent70"
 						"border_armed"				"OrangeTransparent70"
 					}
 
@@ -645,7 +645,7 @@
 						"wide"		"140"
 						"tall"		"15"
 						"editable"		"0"
-						"font"			"Size 14"
+						"font"			"Quake14"
 						"AllCaps"		"1"
 
 						"fgcolor_override"	"White"
@@ -668,7 +668,7 @@
 				"zpos"		"-1"
 				"wide"		"180"
 				"tall"		"200"
-				"border"		"BlueTransparent70"
+				"border"		"BlackTransparent70"
 
 				"PreviewFilteredImage"
 				{
@@ -691,7 +691,7 @@
 				"zpos"		"-1"
 				"wide"		"180"
 				"tall"		"200"
-				"border"		"BlueTransparent70"
+				"border"		"BlackTransparent70"
 
 				"GradientBgPanel"
 				{
@@ -715,7 +715,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"DragToRotateLabel"
-					"font"			"Size 14"
+					"font"			"Quake14"
 					"labelText"		"#ToolCustomizeTextureDragToRotate"
 					"textAlignment"	"center"
 					"xpos"			"10"
@@ -739,7 +739,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#Cancel"
-				"font"			"Size 15"
+				"font"			"Quake16"
 				"textAlignment"	"center"
 				"AllCaps"		"1"
 				"Command"		"cancel"
@@ -752,7 +752,7 @@
 				"armedFgColor_override"		"White"
 				"depressedFgColor_override"	"White"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}
 
@@ -766,7 +766,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#TF_BackCarat"
-				"font"			"Size 15"
+				"font"			"Quake16"
 				"textAlignment"	"center"
 				"AllCaps"		"1"
 				"Command"		"prev_page"
@@ -779,7 +779,7 @@
 				"armedFgColor_override"		"White"
 				"depressedFgColor_override"	"White"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}
 
@@ -793,7 +793,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#TF_NextCarat"
-				"font"			"Size 15"
+				"font"			"Quake16"
 				"textAlignment"	"center"
 				"AllCaps"		"1"
 				"Command"		"next_page"
@@ -806,7 +806,7 @@
 				"armedFgColor_override"		"White"
 				"depressedFgColor_override"	"White"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}
 		}
@@ -825,7 +825,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"PageTitleLabel"
-				"font"			"Size 18"
+				"font"			"Quake18"
 				"labelText"		"#ToolCustomizeTextureStep3"
 				"textAlignment"	"north-west"
 				"xpos"			"0"
@@ -841,19 +841,19 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"		"WarningTextGroupBox"
-				"Font"		"Size 11"
+				"Font"		"Quake11"
 				"xpos"		"0"
 				"ypos"		"25"
 				"zpos"		"-1"
 				"wide"		"350"
 				"tall"		"200"
-				"border"		"BlueTransparent70"
+				"border"		"BlackTransparent70"
 
 				"WarningText"
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"WarningText"
-					"font"			"Size 15"
+					"font"			"Quake16"
 					"xpos"			"10"
 					"ypos"			"10"
 					"wide"			"330"
@@ -875,7 +875,7 @@
 				"zpos"		"-1"
 				"wide"		"180"
 				"tall"		"200"
-				"border"		"BlueTransparent70"
+				"border"		"BlackTransparent70"
 
 				"GradientBgPanel"
 				{
@@ -899,7 +899,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"DragToRotateLabel"
-					"font"			"Size 14"
+					"font"			"Quake14"
 					"labelText"		"#ToolCustomizeTextureDragToRotate"
 					"textAlignment"	"center"
 					"xpos"			"10"
@@ -923,7 +923,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#Cancel"
-				"font"			"Size 15"
+				"font"			"Quake16"
 				"textAlignment"	"center"
 				"default"		"0"
 				"AllCaps"		"1"
@@ -937,7 +937,7 @@
 				"armedFgColor_override"		"White"
 				"depressedFgColor_override"	"White"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}
 
@@ -951,7 +951,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#TF_BackCarat"
-				"font"			"Size 15"
+				"font"			"Quake16"
 				"textAlignment"	"center"
 				"AllCaps"		"1"
 				"Command"		"prev_page"
@@ -964,7 +964,7 @@
 				"armedFgColor_override"		"White"
 				"depressedFgColor_override"	"White"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}
 
@@ -978,7 +978,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#ToolCustomizeTextureOKButton"
-				"font"			"Size 15"
+				"font"			"Quake16"
 				"textAlignment"	"center"
 				"AllCaps"		"1"
 				"default"		"1"
@@ -992,7 +992,7 @@
 				"armedFgColor_override"		"White"
 				"depressedFgColor_override"	"White"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}
 		}
@@ -1011,7 +1011,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"PleaseWaitLabel"
-				"font"			"Size 15"
+				"font"			"Quake16"
 				"labelText"		"#ToolCustomizeTexturePleaseWait"
 				"textAlignment"	"center"
 				"xpos"			"20"
@@ -1033,7 +1033,7 @@
 				"zpos"			"-1"
 				"wide"			"180"
 				"tall"			"200"
-				"border"		"BlueTransparent70"
+				"border"		"BlackTransparent70"
 
 				"GradientBgPanel"
 				{
@@ -1057,7 +1057,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"DragToRotateLabel"
-					"font"			"Size 14"
+					"font"			"Quake14"
 					"labelText"		"#ToolCustomizeTextureDragToRotate"
 					"textAlignment"	"center"
 					"xpos"			"10"

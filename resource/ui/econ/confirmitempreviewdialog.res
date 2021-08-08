@@ -58,7 +58,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"TitleLabel"
-		"font"						"Size 15"
+		"font"						"Quake16"
 		"labelText"					"dynamic"
 		"textAlignment"				"center"
 		"xpos"						"100"
@@ -134,7 +134,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ConfirmLabel"
-		"font"						"Size 15"
+		"font"						"Quake16"
 		"labelText"					"#ItemPreview_Confirm"
 		"textAlignment"				"center"
 		"xpos"						"20"
@@ -165,7 +165,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"Cancel (&Q)"
-		"font"						"Size 15"
+		"font"						"Quake16"
 		"textAlignment"				"center"
 		"AllCaps"					"1"
 		"dulltext"					"0"
@@ -181,7 +181,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 	
@@ -200,7 +200,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"#CraftNameConfirm"
-		"font"						"Size 15"
+		"font"						"Quake16"
 		"textAlignment"				"center"
 		"AllCaps"					"1"
 		"dulltext"					"0"
@@ -216,7 +216,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 }

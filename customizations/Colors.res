@@ -44,10 +44,6 @@ Scheme
 		
 		"Heal Numbers"							"40 200 110 255"
 		"Last Damage Done"						"235 235 235 255"
-		
-		//Custom for Red Tornado
-		
-		"RTornado" 					"38 12 222 255"
 	}
 }
 

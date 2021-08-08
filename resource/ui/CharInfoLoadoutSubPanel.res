@@ -18,10 +18,10 @@
 		"bgcolor_override"				"Blank"
 		"infocus_bgcolor_override" 		"Blank"
 		"outoffocus_bgcolor_override"	"Blank"
-		
+
 		"selectlabely_default"			"25"
 		"selectlabely_onchanges"		"15"
-		
+
 		"class_ypos"					"9999"
 		"class_xdelta"					"5"
 		"class_wide_min"				"60"
@@ -34,7 +34,7 @@
 		"itemcountcolor"				"OrangeLight"
 		"itemcountcolor_noitems"		"117 107 94 255"
 	}
-	
+
 	"ScoutCustom"
 	{
 		"ControlName"					"CExImageButton"
@@ -58,25 +58,25 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						"loadout scout"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"FgColor_override"				"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
-		
+
 		"pin_to_sibling" 				"SoldierCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner" 		"PIN_TOPLEFT"
 	}
-	
+
 	"ScoutShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -100,17 +100,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"ScoutCustom"
 	}
-	
+
 	"SoldierCustom"
 	{
 		"ControlName"					"CExImageButton"
@@ -134,25 +134,25 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						"loadout soldier"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
-		
+
 		"pin_to_sibling" 				"PyroCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner" 		"PIN_TOPLEFT"
 	}
-	
+
 	"SoldierShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -176,17 +176,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"SoldierCustom"
 	}
-	
+
 	"PyroCustom"
 	{
 		"ControlName"					"CExImageButton"
@@ -210,25 +210,25 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						"loadout pyro"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
-		
+
 		"pin_to_sibling" 				"DemomanCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner" 		"PIN_TOPLEFT"
 	}
-	
+
 	"PyroShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -252,17 +252,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"PyroCustom"
 	}
-	
+
 	"DemomanCustom"
 	{
 		"ControlName"					"CExImageButton"
@@ -286,17 +286,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						"loadout demoman"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
 
@@ -304,7 +304,7 @@
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner" 		"PIN_TOPLEFT"
 	}
-	
+
 	"DemomanShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -328,17 +328,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"DemomanCustom"
 	}
-	
+
 	"CustomHeavy"						//Used as a anchor to move all the classes buttons//
 	{
 		"ControlName"					"CExImageButton"
@@ -362,21 +362,21 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						"loadout heavy"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
 	}
-	
+
 	"HeavyShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -400,17 +400,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"CustomHeavy"
 	}
-	
+
 	"EngineerCustom"
 	{
 		"ControlName"					"CExImageButton"
@@ -434,25 +434,25 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						"loadout engineer"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
-		
+
 		"pin_to_sibling" 				"CustomHeavy"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 		"PIN_TOPRIGHT"
 	}
-	
+
 	"EngineerShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -476,17 +476,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"EngineerCustom"
 	}
-	
+
 	"MedicCustom"
 	{
 		"ControlName"					"CExImageButton"
@@ -510,25 +510,25 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						"loadout medic"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
-		
+
 		"pin_to_sibling" 				"EngineerCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 		"PIN_TOPRIGHT"
 	}
-	
+
 	"MedicShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -552,17 +552,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"MedicCustom"
 	}
-	
+
 	"SniperCustom"
 	{
 		"ControlName"					"CExImageButton"
@@ -586,25 +586,25 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						"loadout sniper"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
-		
+
 		"pin_to_sibling" 				"MedicCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 		"PIN_TOPRIGHT"
 	}
-	
+
 	"SniperShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -628,17 +628,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"SniperCustom"
 	}
-	
+
 	"SpyCustom"
 	{
 		"ControlName"					"CExImageButton"
@@ -662,25 +662,25 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						"loadout spy"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
-		
+
 		"pin_to_sibling" 				"SniperCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 		"PIN_TOPRIGHT"
 	}
-	
+
 	"SpyShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -704,22 +704,22 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"SpyCustom"
 	}
-	
+
 	"SelectLabel"						//Select a class to modify loadout
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"SelectLabel"
-		"font"							"Size 24"
+		"font"							"Quake24"
 		"labelText"						"#SelectClassLoadout"
 		"textAlignment"					"north"
 		"xpos"							"0"
@@ -734,7 +734,7 @@
 		"fgcolor_override" 				"White"
 		"alpha"							"125"
 	}
-	
+
 	"Backpack"
 	{
 		"ControlName"					"CExImageButton"
@@ -754,25 +754,25 @@
 		"Default"						"0"
 		"labelText"						"F"
 		"font"							"Symbols 48"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
-		
+
 		"pin_to_sibling" 				"Crafting"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner" 		"PIN_TOPLEFT"
 	}
-	
+
 	"BackpackShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -795,17 +795,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"Backpack"
 	}
-	
+
 	"Crafting"
 	{
 		"ControlName"					"CExImageButton"
@@ -825,25 +825,25 @@
 		"Default"						"0"
 		"labelText"						"t"
 		"font"							"Symbols 48"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
-		
+
 		"pin_to_sibling" 				"Armory"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner" 		"PIN_TOPLEFT"
 	}
-	
+
 	"CraftingShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -866,17 +866,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"Crafting"
 	}
-	
+
 	"Armory"
 	{
 		"ControlName"					"CExImageButton"
@@ -896,21 +896,21 @@
 		"Default"						"0"
 		"labelText"						"{"
 		"font"							"Symbols 48"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
 	}
-	
+
 	"ArmoryShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -933,17 +933,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"Armory"
 	}
-	
+
 	"Trade"
 	{
 		"ControlName"					"CExImageButton"
@@ -963,25 +963,25 @@
 		"Default"						"0"
 		"labelText"						"Z"
 		"font"							"Symbols 48"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
-		
+
 		"pin_to_sibling" 				"Armory"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 		"PIN_TOPRIGHT"
 	}
-	
+
 	"TradeShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -1004,17 +1004,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"Trade"
 	}
-	
+
 	"Paints"
 	{
 		"ControlName"					"CExImageButton"
@@ -1034,25 +1034,25 @@
 		"Default"						"0"
 		"labelText"						"f"
 		"font"							"Symbols 48"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"1"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
-		
+
 		"pin_to_sibling" 				"Trade"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 		"PIN_TOPRIGHT"
 	}
-	
+
 	"PaintsShadow"
 	{
 		"ControlName"					"CExImageButton"
@@ -1075,17 +1075,17 @@
 		"default"						"0"
 		"paintbackground" 				"0"
 		"Command"						""
-		
+
 		"paintbackground"				"0"
 		"paintborder"					"0"
-		
+
 		"defaultFgColor_override"		"Shadows"
 		"armedFgColor_override"			"Shadows"
 		"depressedFgColor_override"		"Shadows"
-		
+
 		"pin_to_sibling" 				"Paints"
 	}
-	
+
 	"class_loadout_panel"
 	{
 		"ControlName"					"CClassLoadoutPanel"
@@ -1134,7 +1134,7 @@
 		"proportionaltoparent"			"1"
 		"bgcolor_override"				"Blank"
 	}
-	
+
 	"ScoutSelectNumber"
 	{
 		"ControlName"					"CExButton"
@@ -1225,7 +1225,7 @@
 		"Command"						"backpack"
 		"visible"						"1"
 	}
-	
+
 	"ShowExplanationsButton"
 	{
 		"ControlName"					"CExButton"
@@ -1250,13 +1250,13 @@
 		"Command"						"show_explanations"
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground" 				"0"
-		
-		"border_default"				"BlueTransparent70"
+
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}
-	
+
 	"StartExplanation"
 	{
 		"ControlName"					"CExplanationPopup"
@@ -1270,7 +1270,7 @@
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
 		"border"						"ToolTipBorder"
-		
+
 		"force_close"					"1"
 		"end_x"							"c-150"
 		"end_y"							"190"
@@ -1279,12 +1279,12 @@
 		"callout_inparents_x"			"c0"
 		"callout_inparents_y"			"160"
 		"next_explanation"				"BackpackExplanation"
-		
+
 		"TitleLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#LoadoutExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -1299,12 +1299,12 @@
 			"AllCaps"					"1"
 			"fgcolor_override" 			"BlueLight"
 		}
-		
+
 		"TextLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#LoadoutExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -1318,7 +1318,7 @@
 			"wrap"						"1"
 			"fgcolor_override" 			"White"
 		}
-		
+
 		"CloseButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -1340,22 +1340,22 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"close"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override"		"RedLight"
 			"depressedFgColor_override" "RedLight"
 		}
-		
+
 		"PositionLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -1369,7 +1369,7 @@
 			"enabled"					"1"
 			"fgcolor_override" 			"OrangeLight"
 		}
-		
+
 		"NextButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -1391,18 +1391,18 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"nextexplanation"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override" 	"OrangeLight"
 			"depressedFgColor_override" "OrangeLight"
-		}		
-	}	
-	
+		}
+	}
+
 	"BackpackExplanation"
 	{
 		"ControlName"					"CExplanationPopup"
@@ -1416,7 +1416,7 @@
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
 		"border"						"ToolTipBorder"
-		
+
 		"force_close"					"1"
 		"end_x"							"c-247"
 		"end_y"							"60"
@@ -1425,12 +1425,12 @@
 		"callout_inparents_x"			"c-122"
 		"callout_inparents_y"			"250"
 		"next_explanation"				"CraftingExplanation"
-		
+
 		"TitleLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#BackpackExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -1445,12 +1445,12 @@
 			"AllCaps"					"1"
 			"fgcolor_override" 			"BlueLight"
 		}
-		
+
 		"TextLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#BackpackExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -1464,7 +1464,7 @@
 			"wrap"						"1"
 			"fgcolor_override" 			"White"
 		}
-		
+
 		"CloseButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -1486,17 +1486,17 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"close"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override"		"RedLight"
 			"depressedFgColor_override" "RedLight"
 		}
-		
+
 		"PrevButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -1518,22 +1518,22 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"prevexplanation"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override" 	"OrangeLight"
 			"depressedFgColor_override" "OrangeLight"
 		}
-		
+
 		"PositionLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -1547,7 +1547,7 @@
 			"enabled"					"1"
 			"fgcolor_override" 			"OrangeLight"
 		}
-		
+
 		"NextButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -1569,18 +1569,18 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"nextexplanation"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override" 	"OrangeLight"
 			"depressedFgColor_override" "OrangeLight"
 		}
 	}
-	
+
 	"CraftingExplanation"
 	{
 		"ControlName"					"CExplanationPopup"
@@ -1594,7 +1594,7 @@
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
 		"border"						"ToolTipBorder"
-		
+
 		"force_close"					"1"
 		"end_x"							"c-187"
 		"end_y"							"60"
@@ -1603,12 +1603,12 @@
 		"callout_inparents_x"			"c-62"
 		"callout_inparents_y"			"250"
 		"next_explanation"				"ArmoryExplanation"
-		
+
 		"TitleLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#CraftingExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -1623,12 +1623,12 @@
 			"wrap"						"1"
 			"fgcolor_override" 			"BlueLight"
 		}
-		
+
 		"TextLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#CraftingExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -1642,7 +1642,7 @@
 			"wrap"						"1"
 			"fgcolor_override" 			"White"
 		}
-		
+
 		"CloseButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -1664,17 +1664,17 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"close"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override"		"RedLight"
 			"depressedFgColor_override" "RedLight"
 		}
-		
+
 		"PrevButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -1696,22 +1696,22 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"prevexplanation"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override" 	"OrangeLight"
 			"depressedFgColor_override" "OrangeLight"
 		}
-		
+
 		"PositionLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -1725,7 +1725,7 @@
 			"enabled"					"1"
 			"fgcolor_override" 			"OrangeLight"
 		}
-		
+
 		"NextButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -1747,18 +1747,18 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"nextexplanation"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override" 	"OrangeLight"
 			"depressedFgColor_override" "OrangeLight"
 		}
-	}	
-	
+	}
+
 	"ArmoryExplanation"
 	{
 		"ControlName"					"CExplanationPopup"
@@ -1772,7 +1772,7 @@
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
 		"border"						"ToolTipBorder"
-		
+
 		"force_close"					"1"
 		"end_x"							"c-125"
 		"end_y"							"60"
@@ -1781,12 +1781,12 @@
 		"callout_inparents_x"			"c0"
 		"callout_inparents_y"			"250"
 		"next_explanation"				"TradingExplanation"
-		
+
 		"TitleLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#ArmoryExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -1801,12 +1801,12 @@
 			"wrap"						"1"
 			"fgcolor_override" 			"BlueLight"
 		}
-		
+
 		"TextLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#ArmoryExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -1820,7 +1820,7 @@
 			"wrap"						"1"
 			"fgcolor_override" 			"White"
 		}
-		
+
 		"CloseButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -1842,17 +1842,17 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"close"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override"		"RedLight"
 			"depressedFgColor_override" "RedLight"
 		}
-		
+
 		"PrevButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -1874,22 +1874,22 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"prevexplanation"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override" 	"OrangeLight"
 			"depressedFgColor_override" "OrangeLight"
 		}
-		
+
 		"PositionLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -1903,7 +1903,7 @@
 			"enabled"					"1"
 			"fgcolor_override" 			"OrangeLight"
 		}
-		
+
 		"NextButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -1925,18 +1925,18 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"nextexplanation"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override" 	"OrangeLight"
 			"depressedFgColor_override" "OrangeLight"
 		}
 	}
-	
+
 	"TradingExplanation"
 	{
 		"ControlName"					"CExplanationPopup"
@@ -1950,7 +1950,7 @@
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
 		"border"						"ToolTipBorder"
-		
+
 		"force_close"					"1"
 		"end_x"							"c-65"
 		"end_y"							"60"
@@ -1959,12 +1959,12 @@
 		"callout_inparents_x"			"c60"
 		"callout_inparents_y"			"250"
 		"next_explanation"				"PatternsExplanation"
-		
+
 		"TitleLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#TradingExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -1979,12 +1979,12 @@
 			"AllCaps"					"1"
 			"fgcolor_override" 			"BlueLight"
 		}
-		
+
 		"TextLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#TradingExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -1998,7 +1998,7 @@
 			"wrap"						"1"
 			"fgcolor_override" 			"White"
 		}
-		
+
 		"CloseButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -2020,17 +2020,17 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"close"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override"		"RedLight"
 			"depressedFgColor_override" "RedLight"
 		}
-		
+
 		"PrevButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -2052,22 +2052,22 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"prevexplanation"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override" 	"OrangeLight"
 			"depressedFgColor_override" "OrangeLight"
 		}
-		
+
 		"PositionLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -2081,7 +2081,7 @@
 			"enabled"					"1"
 			"fgcolor_override" 			"OrangeLight"
 		}
-		
+
 		"NextButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -2103,12 +2103,12 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"nextexplanation"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override" 	"OrangeLight"
 			"depressedFgColor_override" "OrangeLight"
@@ -2128,7 +2128,7 @@
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
 		"border"						"ToolTipBorder"
-		
+
 		"force_close"					"1"
 		"end_x"							"c-3"
 		"end_y"							"60"
@@ -2137,12 +2137,12 @@
 		"callout_inparents_x"			"c122"
 		"callout_inparents_y"			"250"
 		"next_explanation"				"ExplanationExplanation"
-		
+
 		"TitleLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#WeaponPatternsExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -2157,12 +2157,12 @@
 			"AllCaps"					"1"
 			"fgcolor_override" 			"BlueLight"
 		}
-		
+
 		"TextLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#WeaponPatternsExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -2176,7 +2176,7 @@
 			"wrap"						"1"
 			"fgcolor_override"			"White"
 		}
-		
+
 		"CloseButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -2198,17 +2198,17 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"close"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override"		"RedLight"
 			"depressedFgColor_override" "RedLight"
 		}
-		
+
 		"PrevButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -2230,22 +2230,22 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"prevexplanation"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override" 	"OrangeLight"
 			"depressedFgColor_override" "OrangeLight"
 		}
-		
+
 		"PositionLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -2259,7 +2259,7 @@
 			"enabled"					"1"
 			"fgcolor_override" 			"OrangeLight"
 		}
-		
+
 		"NextButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -2281,18 +2281,18 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"nextexplanation"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override" 	"OrangeLight"
 			"depressedFgColor_override" "OrangeLight"
 		}
 	}
-	
+
 	"ExplanationExplanation"
 	{
 		"ControlName"					"CExplanationPopup"
@@ -2306,7 +2306,7 @@
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
 		"border"						"ToolTipBorder"
-		
+
 		"force_close"					"1"
 		"end_x"							"c220"
 		"end_y"							"80"
@@ -2314,12 +2314,12 @@
 		"end_tall"						"120"
 		"callout_inparents_x"			"c415"
 		"callout_inparents_y"			"20"
-		
+
 		"TitleLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#ExplanationExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -2334,12 +2334,12 @@
 			"wrap"						"1"
 			"fgcolor_override"			"BlueLight"
 		}
-		
+
 		"TextLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#ExplanationExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -2353,7 +2353,7 @@
 			"wrap"						"1"
 			"fgcolor_override" 			"White"
 		}
-		
+
 		"CloseButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -2375,17 +2375,17 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"close"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override"		"RedLight"
 			"depressedFgColor_override" "RedLight"
 		}
-		
+
 		"PrevButton"
 		{
 			"ControlName"				"CExImageButton"
@@ -2407,22 +2407,22 @@
 			"brighttext"				"0"
 			"default"					"0"
 			"Command"					"prevexplanation"
-			
+
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"			"0"
-			
+
 			"defaultFgColor_override" 	"BlueLight"
 			"armedFgColor_override" 	"OrangeLight"
 			"depressedFgColor_override" "OrangeLight"
 		}
-		
+
 		"PositionLabel"
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -2436,16 +2436,16 @@
 			"enabled"					"1"
 			"fgcolor_override" 			"OrangeLight"
 		}
-	}	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
+
+
+
+
 	"scout"
 	{
 		"ControlName"		"ImageButton"
@@ -2485,7 +2485,7 @@
 		"inactiveimage"		""
 		"wide"				"0"
 		"tall"				"0"
-	}	
+	}
 	"heavyweapons"
 	{
 		"ControlName"		"ImageButton"
@@ -2559,7 +2559,7 @@
 		"ControlName"		"ImageButton"
 		"fieldName"			"ShowArmoryButton"
 		"xpos"				"9999"
-	}	
+	}
 	"ShowArmoryLabel"
 	{
 		"ControlName"	"CExLabel"

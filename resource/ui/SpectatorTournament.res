@@ -140,7 +140,7 @@
 			"src_corner_height""22"// pixels inside the image
 			"src_corner_width""22"
 
-			"draw_corner_width""3"// screen size of the corners ( and sides ), proportional
+			"draw_corner_width""3"// screen Quakeof the corners ( and sides ), proportional
 			"draw_corner_height" "3"
 
 			if_mvm
@@ -346,7 +346,7 @@
 		"max_text_height"	"100"
 		"padding_height"	"10"
 		"resize_to_text"	"1"
-		"text_forcesize"	"2"
+		"text_forceQuake"	"2"
 		
 		"itemmodelpanel"
 		{

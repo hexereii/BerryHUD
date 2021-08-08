@@ -88,7 +88,7 @@
 		"tall"						"20"
 		"visible"					"1"
 		"enabled"					"1"
-		"font"						"Size 8"
+		"font"						"Quake8"
 		"fgcolor_override"			"White"
 		"textAlignment"				"north"
 		"labelText"					"%mapname%"

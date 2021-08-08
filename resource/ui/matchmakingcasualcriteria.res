@@ -95,7 +95,7 @@
 			"armedFgColor_override"			"White"
 			"depressedFgColor_override"		"White"
 			
-			"border_default"				"BlueTransparent70"
+			"border_default"				"BlackTransparent70"
 			"border_armed"					"OrangeTransparent70"
 			
 			"pin_to_sibling"				"ToolButtonsAnchor"
@@ -131,7 +131,7 @@
 			"armedFgColor_override"			"White"
 			"depressedFgColor_override"		"White"
 			
-			"border_default"				"BlueTransparent70"
+			"border_default"				"BlackTransparent70"
 			"border_armed"					"OrangeTransparent70"
 			
 			"pin_to_sibling"				"RestoreCasualSearchCriteria"
@@ -169,7 +169,7 @@
 			"armedFgColor_override"			"White"
 			"depressedFgColor_override"		"White"
 			
-			"border_default"				"BlueTransparent70"
+			"border_default"				"BlackTransparent70"
 			"border_armed"					"OrangeTransparent70"
 			
 			"pin_to_sibling"				"SaveCasualSearchCriteria"
@@ -189,7 +189,7 @@
 			"proportionaltoparent"			"1"
 			"labeltext"						"#TF_Casual_MapSelection"
 			"textAlignment"					"north-west"
-			"font"							"Size 14"
+			"font"							"Quake14"
 		
 			"mouseinputenabled"				"0"
 		}
@@ -206,7 +206,7 @@
 			"proportionaltoparent"			"1"
 			"labeltext"						"%selected_maps_count%"
 			"textAlignment"					"west"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"fgcolor_override"				"White"
 			"AllCaps"						"1"
 		
@@ -225,7 +225,7 @@
 			"proportionaltoparent"			"1"
 			"labeltext"						"#TF_Casual_QueueEstimation"
 			"textAlignment"					"east"
-			"font"							"Size 14"
+			"font"							"Quake14"
 			"fgcolor_override"				"White"
 			"AllCaps"						"1"
 			"textinsetx"					"5"

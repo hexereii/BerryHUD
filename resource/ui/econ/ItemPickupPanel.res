@@ -38,7 +38,7 @@
 			"model_tall"				"160"
 			"model_wide"				"240"
 			
-			"text_forcesize"			"1"
+			"text_forceQuake"			"1"
 			"text_xpos"					"250"
 			"text_wide"					"225"
 			"text_center"				"1"
@@ -100,7 +100,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"ItemsFoundLabel"
-		"font"							"Size 30"
+		"font"							"Quake28"
 		"labelText"						"#NewItemsAcquired"
 		"textAlignment"					"center"
 		"xpos"							"0"
@@ -120,7 +120,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"SelectedItemFoundMethodLabel"
-		"font"							"Size 14"
+		"font"							"Quake14"
 		"labelText"						""
 		"textAlignment"					"center"
 		"xpos"							"0"
@@ -140,7 +140,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"ItemCountLabel"
-		"font"							"Size 14"
+		"font"							"Quake14"
 		"labelText"						"#Item"
 		"textAlignment"					"north-west"
 		"xpos"							"c-245"
@@ -159,7 +159,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"SelectedItemNumberLabel"
-		"font"							"Size 30"
+		"font"							"Quake28"
 		"labelText"						"#SelectedItemNumber"
 		"textAlignment"					"north-west"
 		"xpos"							"c-245"
@@ -190,7 +190,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#NextItem"
-		"font"							"Size 12"
+		"font"							"Quake12"
 		"textAlignment"					"center"
 		"dulltext"						"0"
 		"brighttext"					"0"
@@ -215,7 +215,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#PreviousItem"
-		"font"							"Size 12"
+		"font"							"Quake12"
 		"textAlignment"					"center"
 		"dulltext"						"0"
 		"brighttext"					"0"
@@ -240,7 +240,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#CloseItemPanel"
-		"font"							"Size 16"
+		"font"							"Quake16"
 		"textAlignment"					"center"
 		"dulltext"						"0"
 		"brighttext"					"0"
@@ -251,7 +251,7 @@
 		
 		"paintbackground" 				"0"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}
 	
@@ -315,7 +315,7 @@
 
 		"paintbackground" 				"0"
 		
-		"border_default"				"BlueTransparent70"
+		"border_default"				"BlackTransparent70"
 		"border_armed"					"OrangeTransparent70"
 	}
 	
@@ -336,7 +336,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TipLabel"
-			"font"						"Size 12"
+			"font"						"Quake12"
 			"labelText"					"#DiscardItem"
 			"textAlignment"				"center"
 			"xpos"						"12"
@@ -357,7 +357,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"DiscardedLabel"
-		"font"							"Size 30"
+		"font"							"Quake28"
 		"labelText"						"#Discarded"
 		"textAlignment"					"center"
 		"xpos"							"c-215"

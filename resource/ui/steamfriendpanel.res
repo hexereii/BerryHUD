@@ -70,7 +70,7 @@
 		"wrap"						"0"
 		"labelText"					"%name%"
 		"proportionaltoparent"		"1"
-		"font"						"Size 8"
+		"font"						"Quake8"
 		"fgcolor_override"			"White"
 		"mouseinputenabled"			"0"
 	}
@@ -90,7 +90,7 @@
 		"wrap"						"0"
 		"labelText"					"%status%"
 		"proportionaltoparent"		"1"
-		"font"						"Size 8"
+		"font"						"Quake8"
 		"fgcolor_override"			"TanDark"
 		"mouseinputenabled"			"0"
 	}

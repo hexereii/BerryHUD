@@ -42,7 +42,7 @@
 			"text_ypos"						"60"
 			"text_center"					"1"
 			"name_only"						"1"
-			"text_forcesize"				"3"
+			"text_forceQuake"				"3"
 			
 			"itemmodelpanel"
 			{
@@ -351,7 +351,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"GreyedOutLabel"
-			"font"							"Size 11"
+			"font"							"Quake11"
 			"labelText"						"%powerup_hint%"
 			"textAlignment"					"north"
 			"wrap"							"1"
@@ -406,7 +406,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"UpgradeItemsDescriptionLabel"
-			"font"							"Size 11"
+			"font"							"Quake11"
 			"labelText"						"%upgrade_description%"
 			"textAlignment"					"center"
 			"wrap"							"1"
@@ -466,7 +466,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"UpgradeItemsLabel"
-			"font"							"Size 11"
+			"font"							"Quake11"
 			"labelText"						"%upgrade_label%"
 			"textAlignment"					"center"
 			"xpos"							"25"
@@ -485,7 +485,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"UpgradeItemStatsLabel"
-			"font"							"Size 9"
+			"font"							"Quake9"
 			"labelText"						""
 			"textAlignment"					"north-west"
 			"xpos"							"30"
@@ -516,7 +516,7 @@
 			"enabled"						"0"
 			"tabPosition"					"0"
 			"labelText"						"#TF_PVE_UpgradeRespec"
-			"font"							"Size 15"
+			"font"							"Quake16"
 			"textAlignment"					"center"
 			"textinsetx"					"50"
 			"dulltext"						"0"
@@ -530,7 +530,7 @@
 			"sound_depressed"				"UI/buttonclick.wav"
 			"sound_released"				"UI/buttonclickrelease.wav"
 			
-			"border_default"				"BlueTransparent70"
+			"border_default"				"BlackTransparent70"
 			"border_armed"					"OrangeTransparent50"
 
 			"defaultFgColor_override"		"White"
@@ -577,7 +577,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"CreditsLabel"
-			"font"							"Size 20"
+			"font"							"Quake20"
 			"labelText"						"%credits%"
 			"textAlignment"					"east"
 			"xpos"							"-10"
@@ -618,7 +618,7 @@
 			"enabled"						"1"
 			"tabPosition"					"0"
 			"labelText"						"#TF_PVE_UpgradeCancel"
-			"font"							"Size 15"
+			"font"							"Quake16"
 			"textAlignment"					"center"
 			"dulltext"						"0"
 			"brighttext"					"0"
@@ -654,7 +654,7 @@
 			"enabled"						"1"
 			"tabPosition"					"0"
 			"labelText"						"#TF_PVE_UpgradeDone"
-			"font"							"Size 15"
+			"font"							"Quake16"
 			"textAlignment"					"center"
 			"dulltext"						"0"
 			"brighttext"					"0"

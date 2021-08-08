@@ -37,7 +37,7 @@
 		"smallcheckimage"			"1"
 		"AllCaps"					"1"
 		"fgcolor"					"White"	
-		"font"						"Size 15"
+		"font"						"Quake16"
 
 		"sound_depressed"			"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"

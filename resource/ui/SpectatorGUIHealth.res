@@ -28,7 +28,7 @@
 		"enabled"					"1"
 		"textAlignment"				"center"	
 		"labeltext"					"%Health%"
-		"font"						"Size 16"
+		"font"						"Quake16"
 		"fgcolor_override"  		"Health"
 	}
 	
@@ -45,7 +45,7 @@
 		"enabled"					"1"
 		"textAlignment"				"center"	
 		"labeltext"					"%Health%"
-		"font"						"Size 16"
+		"font"						"Quake16"
 		"fgcolor_override"			"Shadows"
 		"pin_to_sibling"			"PlayerStatusHealthValueTarget"
 	}

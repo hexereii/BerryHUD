@@ -33,7 +33,7 @@
 				"enabled"		"1"
 				"tabPosition"	"0"
 				"labelText"		""
-				"font"			"Size 15"
+				"font"			"Quake16"
 				"textAlignment"	"west"
 				"textinsetx"	"34"
 				"use_proportional_insets" "1"
@@ -50,7 +50,7 @@
 				"armedFgColor_override"		"White"
 				"depressedFgColor_override"	"White"
 				
-				"border_default"			"BlueTransparent70"
+				"border_default"			"BlackTransparent70"
 				"border_armed"				"OrangeTransparent70"
 			}
 			
@@ -76,7 +76,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Size 24"
+		"font"			"Quake24"
 		"labelText"		"%title%"
 		"textAlignment"	"north"
 		"xpos"			"0"
@@ -132,7 +132,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QueryLabel"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"labelText"		"#TF_SelectPlayer_Select"
 			"textAlignment"	"north"
 			"xpos"			"0"
@@ -163,7 +163,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#TF_SelectPlayer_SelectFriends"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -179,7 +179,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"OrangeTransparent70"
 		}
 		"subbutton1"
@@ -197,7 +197,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#TF_FindCoachDialog_Match"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -213,7 +213,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"OrangeTransparent70"
 		}
 	}
@@ -233,7 +233,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QueryLabel"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"labelText"		"#TF_SelectPlayer_Friends"
 			"textAlignment"	"north"
 			"xpos"			"0"
@@ -252,7 +252,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"EmptyPlayerListLabel"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"labelText"		"#TF_SelectPlayer_FriendsNone"
 			"textAlignment"	"north"
 			"xpos"			"0"
@@ -286,7 +286,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Cancel"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -302,7 +302,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 }

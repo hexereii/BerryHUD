@@ -22,7 +22,7 @@
 			"wide"							"16"
 			"tall"							"16"
 			"textAlignment"					"center"
-			"font"							"Size 11"
+			"font"							"Quake11"
 			"image"							"pve/upgrade_unowned"
 			"scaleImage"					"1"	
 			
@@ -112,7 +112,7 @@
 		
 		"labelText"							""
 		"textAlignment"						"center"
-		"font"								"Size 15"
+		"font"								"Quake16"
 		"fgcolor_override"					"White"
 	}
 	
@@ -133,7 +133,7 @@
 		
 		"labelText"							""
 		"textAlignment"						"center-west"
-		"font"								"Size 11"
+		"font"								"Quake11"
 		"fgcolor_override"					"White"
 	}
 	

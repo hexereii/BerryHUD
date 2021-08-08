@@ -31,7 +31,7 @@
 		"wrap"			"0"
 		"labelText"		"#Notifications_Present"
 		"textAlignment"	"center"
-		"font"			"Size 10"
+		"font"			"Quake11"
 		"proportionaltoparent"	"1"
 	}
 }

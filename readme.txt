@@ -8,18 +8,10 @@ tinyurl.com/hexmedcfg
 
 TODO LIST;
 - HexHUD; Highlander version/Prolander/Casual version 
--Edit Class Select (HL; Make combo & flank class disinction/PL; Change main class & off class distinction/Casual Offense/Defence/Support)
-
-- Change colours under 'Find Game' menu
+- Edit Class Select (HL; Make combo & flank class disinction/PL; Change main class & off class distinction/Casual Offense/Defence/Support)
 - Maybe add mat_antialias button?
-- Add customizable colour buttons for different things (maybe make a button to make visible/enable these buttons?)
-- Fix Sandman meter
 - Center the current-on-wearer atributes label
-
-Eventually..
-- Get image buttons working & put them on main menu, keep the coloured text-buttons for the in-game pause screen only
-
-Patch Notes:
+- Make a button to open/close customization options, and move customization options
 
 Patch Notes:
 
@@ -34,7 +26,7 @@ Changed targetid health to have a transparent cross (spectatorguihealth.res)
 hexhud_a2
 Changed targetid health to have a transparent cross (spectatorguihealth.res)
 Changed some fonts (fonts.res)
-Changed size of damage numbers (Resource/UI/HudDamageAccount.res)
+Changed Quakeof damage numbers (Resource/UI/HudDamageAccount.res)
 
 hexhud_a3
 Changed HP so that the shadow changes colours when you're buffed [may be updated further] (hudanimations_peach.txt)
@@ -70,7 +62,7 @@ hexhud_a4.5
 Fixed up the customization buttons on in-game menu to fit the theme a bit cleaner (MainMenuOverride.res, GameMenu.res)
 Added number shortcut to Class Select (ClassSelection.res)
 Deleted all custom MvM files 
-Made overheal colour rainbow (hudanimations_tf.txt) & changed the shadow size briefly (healthcross_off.res)
+Made overheal colour rainbow (hudanimations_tf.txt) & changed the shadow Quakebriefly (healthcross_off.res)
 Added 4:3 customization option (Alternatives)
 
 hexhud a5
@@ -83,3 +75,13 @@ hexhud a6
 Updated the backgrounds/base thematic of the Main Menu background (background_upward) & backpack (MountainBlur)
 Changed colours of overheal/buff to be a bit more consistent & less chaotic-feeling (hudanimations_tf.txt)
 Fixed so fonts are loaded properly with the HUD (Fonts.res)
+
+hexhud b1
+Changed colours of the MatchHUD (hudmatchstatus.res) 
+Changed colour of, and moved, Demo sticky count (HudDemoPipes.res)
+Changed fonts around to make them more consistent with "Quake" 
+Changed fontsize in loadouts (classloadoutpanel.res)
+Changed colour schemes of Settings menu & DemoUI menu (clientscheme.res)
+Cleaned up unnecessary or extra files
+Changed colour scheme to match on map info (TextWindow.res, MapInfoMenu.res)
+Organized pause menu buttons to fit the button theme (MainMenuOverride.res)

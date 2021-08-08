@@ -43,7 +43,7 @@
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		"font"						"Uber Regular"
+		"font"						"Quake22"
 		"font_minmode"				"Uber Minmode"
 		"fgcolor"					"Ubercharge"
 		
@@ -72,7 +72,7 @@
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		"font"						"Uber Regular"
+		"font"						"Quake22"
 		"font_minmode"				"Uber Minmode"
 		"fgcolor"					"Ubercharge"
 		

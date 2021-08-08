@@ -44,7 +44,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						"#TF_MM_OpenSettings"
 		"textAlignment"					"west"
-		"font"							"Size 20"
+		"font"							"Quake20"
 		"AllCaps"						"1"
 		"fgcolor_override"				"White"
 		
@@ -63,7 +63,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						"#TF_MM_InviteMode"
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"Quake11"
 		"AllCaps"						"1"
 		"smallcheckimage"				"1"
 		"fgcolor_override"				"White"
@@ -82,7 +82,7 @@
 		"wide"							"200"
 		"tall"							"15"
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"Quake11"
 		"keyboardinputenabled"			"0"
 
 		"editable"						"0"
@@ -107,7 +107,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						"#TF_MM_IgnoreInvites"
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"Quake11"
 		"AllCaps"						"1"
 		"smallcheckimage"				"1"
 
@@ -129,7 +129,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						""
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"Quake11"
 		"smallcheckimage"				"1"
 		"enabled"						"0"
 
@@ -149,7 +149,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						"#TF_MM_PartySameTeam"
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"Quake11"
 		"AllCaps"						"1"
 		"smallcheckimage"				"1"
 
@@ -174,7 +174,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						""
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"Quake11"
 		"smallcheckimage"				"1"
 		"actionsignallevel"				"1"
 
@@ -196,7 +196,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						"#TF_LobbyContainer_CustomPingButton"
 		"textAlignment"					"west"
-		"font"							"Size 11"
+		"font"							"Quake11"
 		"AllCaps"						"1"
 		"fgcolor_override"				"White"
 		"smallcheckimage"				"1"
@@ -241,7 +241,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						""
 		"textAlignment"					"west"
-		"font"							"Size 12"
+		"font"							"Quake12"
 		"fgcolor_override"				"OrangeLight"
 		"AllCaps"						"1"
 		

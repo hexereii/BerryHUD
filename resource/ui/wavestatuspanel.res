@@ -26,7 +26,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"WaveCountLabel"
-		"font"					"Size 12"
+		"font"					"Quake12"
 		"fgcolor"				"White"
 		"xpos"					"200"
 		"ypos"					"2"
@@ -52,7 +52,7 @@
 		"tall"					"18"
 		"visible"				"1"
 		"enabled"				"1"
-		"image"					"replay/thumbnails/panels/Material_Transparent_Blue_70"
+		"image"					"replay/thumbnails/panels/Material_Transparent_Black_70"
 		
 		"src_corner_height"		"32"
 		"src_corner_width"		"32"
@@ -80,7 +80,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"SupportLabel"
-		"font"					"Size 11"
+		"font"					"Quake11"
 		"fgcolor"				"White"
 		"xpos"					"55"
 		"ypos"					"6"

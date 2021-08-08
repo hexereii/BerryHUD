@@ -19,7 +19,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 15"
+			"font"						"Quake16"
 			"labelText"					"#MMenu_CompetitiveAccess"
 			"textAlignment"				"center"
 			"xpos"						"5"
@@ -39,7 +39,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 10"
+			"font"						"Quake10"
 			"labelText"					"#MMenu_CompetitiveAccess_Desc"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -61,7 +61,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"Option1Label"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#MMenu_CompetitiveAccessOption1"
 			"textAlignment"				"center"
 			"xpos"						"10"
@@ -81,7 +81,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"Option1DescLabel"
-			"font"						"Size 10"
+			"font"						"Quake10"
 			"labelText"					"#MMenu_CompetitiveAccessOption1_Desc"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -121,7 +121,7 @@
 				"fieldName"				"Frame"
 				"xpos"					"9999"
 			}
-			
+
 			"Background"
 			{
 				"ControlName"			"EditablePanel"
@@ -150,11 +150,11 @@
 
 				"sound_depressed"		"UI/buttonclick.wav"
 				"sound_released"		"UI/buttonclickrelease.wav"
-			
+
 				"paintbackground"		"0"
 				"paintborder"			"1"
-				
-				"border_default"		"BlueTransparent70"
+
+				"border_default"		"BlackTransparent70"
 				"border_armed"			"OrangeTransparent70"
 
 				"image_drawcolor"		"200 200 200 255"
@@ -234,11 +234,11 @@
 
 				"sound_depressed"		"UI/buttonclick.wav"
 				"sound_released"		"UI/buttonclickrelease.wav"
-			
+
 				"paintbackground"		"0"
 				"paintborder"			"1"
-				
-				"border_default"		"BlueTransparent70"
+
+				"border_default"		"BlackTransparent70"
 				"border_armed"			"OrangeTransparent70"
 
 				"image_drawcolor"		"200 200 200 255"
@@ -334,14 +334,14 @@
 				"command"				"open_casual"
 				"proportionaltoparent"	"1"
 				"actionsignallevel"		"3"
-			
+
 				"sound_depressed"		"UI/buttonclick.wav"
 				"sound_released"		"UI/buttonclickrelease.wav"
-			
+
 				"paintbackground"		"0"
 				"paintborder"			"1"
-				
-				"border_default"		"BlueTransparent70"
+
+				"border_default"		"BlackTransparent70"
 				"border_armed"			"OrangeTransparent70"
 
 				"image_drawcolor"		"200 200 200 255"
@@ -370,7 +370,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"Option2Label"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"labelText"					"#MMenu_CompetitiveAccessOption2"
 			"textAlignment"				"center"
 			"xpos"						"10"
@@ -390,7 +390,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"Option2DescLabel"
-			"font"						"Size 10"
+			"font"						"Quake11"
 			"labelText"					"#MMenu_CompetitiveAccessOption2_Desc"
 			"textAlignment"				"north-west"
 			"xpos"						"20"

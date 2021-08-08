@@ -50,7 +50,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 12"
+		"font"					"Quake12"
 		"fgcolor_override"      "255 255 255 255"
 	}
 		"ItemEffectMeterLabelnew"

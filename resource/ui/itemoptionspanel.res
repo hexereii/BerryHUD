@@ -77,7 +77,7 @@
 			"enabled"					"1"
 			"tabPosition"				"0"
 			"labelText"					"#TF_Item_SelectStyle"
-			"font"						"Size 14"
+			"font"						"Quake14"
 			"textAlignment"				"center"
 			"dulltext"					"0"
 			"brighttext"				"0"
@@ -93,7 +93,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"OrangeTransparent70"
 		}
 	}

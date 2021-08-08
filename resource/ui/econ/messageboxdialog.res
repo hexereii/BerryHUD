@@ -24,7 +24,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"TitleLabel"
-		"font"						"Size 24"
+		"font"						"Quake24"
 		"labelText"					"#ConfirmTitle"
 		"textAlignment"				"north"
 		"xpos"						"0"
@@ -44,7 +44,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ExplanationLabel"
-		"font"						"Size 15"
+		"font"						"Quake16"
 		"labelText"					"%text%"
 		"textAlignment"				"north"
 		"xpos"						"10"
@@ -76,7 +76,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"#ConfirmButtonText"
-		"font"						"Size 15"
+		"font"						"Quake16"
 		"textAlignment"				"center"
 		"textinsetx"				"50"
 		"dulltext"					"0"
@@ -90,7 +90,7 @@
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 
 		"defaultFgColor_override"	"White"

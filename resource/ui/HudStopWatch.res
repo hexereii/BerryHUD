@@ -16,7 +16,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"TimePanelValue"
-			"font"				"Size 16"
+			"font"				"Quake16"
 			"fgcolor"			"Gray"
 			"xpos"				"30"
 			"ypos"				"0"
@@ -33,7 +33,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"StopWatchScoreToBeat"
-		"font"					"Size 10"
+		"font"					"Quake11"
 		"labelText"				"%scoretobeat%"
 		"textAlignment"			"west"
 		"xpos"					"-33"
@@ -55,7 +55,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"StopWatchPointsLabel"
-		"font"					"Size 10"
+		"font"					"Quake11"
 		"labelText"				"%pointslabel%"
 		"textAlignment"			"east"
 		"xpos"					"0"

@@ -18,7 +18,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Size 24"
+		"font"			"Quake24"
 		"labelText"		"#TF_Item_SelectStyle"
 		"textAlignment"	"center"
 		"xpos"			"0"
@@ -113,7 +113,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Cancel"
-		"font"			"Size 14"
+		"font"			"Quake14"
 		"textAlignment"	"center"
 		"AllCaps"		"1"
 		"dulltext"		"0"
@@ -130,7 +130,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 	
@@ -149,7 +149,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_OK"
-		"font"			"Size 14"
+		"font"			"Quake14"
 		"textAlignment"	"center"
 		"AllCaps"		"1"
 		"dulltext"		"0"
@@ -166,7 +166,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 }

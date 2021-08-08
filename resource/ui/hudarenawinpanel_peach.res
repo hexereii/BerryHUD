@@ -24,7 +24,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"paintbackground"		"0"
-			"border"				"BlueTransparent70"
+			"border"				"BlackTransparent70"
 		}
 		
 		"RedScoreBG"
@@ -47,7 +47,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"BlueTeamLabel"
-			"font"					"Size 18"
+			"font"					"Quake18"
 			"labelText"				"%blueteamname%"
 			"textAlignment"			"east"
 			"xpos"					"-6"
@@ -70,7 +70,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"BlueTeamScore"
-			"font"					"Size 18"
+			"font"					"Quake18"
 			"labelText"				"%blueteamscore%"
 			"textAlignment"			"west"
 			"xpos"					"-4"
@@ -93,7 +93,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"RedTeamLabel"
-			"font"					"Size 18"
+			"font"					"Quake18"
 			"labelText"				"%redteamname%"
 			"textAlignment"			"west"
 			"xpos"					"-6"
@@ -116,7 +116,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"RedTeamScore"
-			"font"					"Size 18"
+			"font"					"Quake18"
 			"labelText"				"%redteamscore%"
 			"textAlignment"			"east"
 			"xpos"					"-4"

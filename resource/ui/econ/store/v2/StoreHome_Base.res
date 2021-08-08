@@ -144,7 +144,7 @@
 		
 		"cart_labels_kv"
 		{
-			"font"							"Size 11"
+			"font"							"Quake11"
 			"textAlignment"					"north-east"
 			"xpos"							"9999"
 			"ypos"							"9999"
@@ -248,7 +248,7 @@
 			"textAlignment"					"center"
 			"scaleImage"					"1"
 			"AllCaps"						"1"
-			"font"							"Size 13"
+			"font"							"Quake14"
 			
 			"fgcolor"						"White"
 			"defaultBgColor_override" 		"0 0 0 75"
@@ -303,7 +303,7 @@
 		"armedFgColor_override"				"White"
 		"depressedFgColor_override"			"White"
 		
-		"border_default"					"BlueTransparent70"
+		"border_default"					"BlackTransparent70"
 		"border_armed"						"OrangeTransparent70"
 		
 		"pin_to_sibling" 					"ItemsBG"
@@ -325,7 +325,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"CurPageLabel"
-		"font"								"Size 24"
+		"font"								"Quake24"
 		"labelText"							"%backpackpage%"
 		"textAlignment"						"east"
 		"xpos"								"-4"
@@ -375,7 +375,7 @@
 		"armedFgColor_override"				"White"
 		"depressedFgColor_override"			"White"
 		
-		"border_default"					"BlueTransparent70"
+		"border_default"					"BlackTransparent70"
 		"border_armed"						"OrangeTransparent70"
 		
 		"pin_to_sibling" 					"ItemsBG"
@@ -416,7 +416,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"BackpackSpaceLabel"
-		"font"								"Size 15"
+		"font"								"Quake16"
 		"labelText"							"%freebackpackspace%"
 		"textAlignment"						"center"
 		"xpos"								"0"
@@ -440,7 +440,7 @@
 	{
 		"ControlName"						"CExButton"
 		"fieldName"							"CartButton"
-		"font"								"Size 15"
+		"font"								"Quake16"
 		"labelText"							"%storecart%"
 		"textAlignment"						"east"
 		"xpos"								"-4"
@@ -454,7 +454,7 @@
 		"textinsetx"						"15"
 		
 		"Command"							"viewcart"
-		"font"								"Size 15"
+		"font"								"Quake16"
 		
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -465,7 +465,7 @@
 		"armedFgColor_override"				"White"
 		"depressedFgColor_override"			"White"
 		
-		"border_default"					"BlueTransparent50"
+		"border_default"					"BlackTransparent50"
 		"border_armed"						"OrangeTransparent50"
 		
 		"pin_to_sibling" 					"CartBG"
@@ -507,7 +507,7 @@
 		"enabled"							"1"
 		"tabPosition"						"0"
 		"labelText"							"#Store_BrowseTheStore"
-		"font"								"Size 15"
+		"font"								"Quake16"
 		"textAlignment"						"center"
 		"dulltext"							"0"
 		"brighttext"						"0"
@@ -532,7 +532,7 @@
 		"enabled"							"1"
 		"tabPosition"						"0"
 		"labelText"							"Steam Market"
-		"font"								"Size 15"
+		"font"								"Quake16"
 		"textAlignment"						"center"
 		"dulltext"							"0"
 		"brighttext"						"0"
@@ -548,7 +548,7 @@
 		"armedFgColor_override"				"White"
 		"depressedFgColor_override"			"White"
 		
-		"border_default"					"BlueTransparent50"
+		"border_default"					"BlackTransparent50"
 		"border_armed"						"OrangeTransparent50"
 		
 		"pin_to_sibling" 					"CartBG"

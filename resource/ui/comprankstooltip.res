@@ -11,7 +11,7 @@
 		"tall"							"400"
 		"visible"						"0"
 		"PaintBackgroundType"			"2"
-		"border"						"BlueTransparent70"
+		"border"						"BlackTransparent70"
 		"mouseinputenabled"				"0"
 	}
 
@@ -19,7 +19,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"TitleLabel"
-		"font"							"Size 12"
+		"font"							"Quake12"
 		"labelText"						"#TF_Competitive_RankTooltipTitle"
 		"textAlignment"					"north"
 		"xpos"							"cs-0.5"
@@ -41,7 +41,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"DescLabel"
-		"font"							"Size 8"
+		"font"							"Quake8"
 		"labelText"						"#TF_Competitive_RankTooltipDesc"
 		"xpos"							"cs-0.5"
 		"ypos"							"15"

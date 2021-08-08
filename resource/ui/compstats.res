@@ -13,7 +13,7 @@
 		"PaintBackground"						"0"
 		"border"								"BlackTransparent70"
 	}
-	
+
 	"ScrollableContainer"
 	{
 		"ControlName"							"EditablePanel"
@@ -42,7 +42,7 @@
 
 			"matchgroup"						"MatchGroup_Ladder_6v6"
 		}
-	
+
 		"RankPanel"
 		{
 			"ControlName"						"CPvPRankPanel"
@@ -82,20 +82,20 @@
 			"actionsignallevel"					"2"
 			"command"							"show_leaderboards"
 			"labeltext"							"#TF_Competitive_ViewLeaderboards"
-			"font"								"Size 12"
+			"font"								"Quake12"
 			"textAlignment"						"center"
 			"AllCaps"							"1"
 
 			"sound_depressed"					"UI/buttonclick.wav"
 			"sound_released"					"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"					"0"
-		
+
 			"defaultFgColor_override"			"White"
 			"armedFgColor_override"				"White"
 			"depressedFgColor_override"			"White"
-			
-			"border_default"					"BlueTransparent70"
+
+			"border_default"					"BlackTransparent70"
 			"border_armed"						"OrangeTransparent70"
 		}
 
@@ -114,23 +114,23 @@
 			"actionsignallevel"					"2"
 			"command"							"show_match_history"
 			"labeltext"							"#TF_Competitive_ViewMatches"
-			"font"								"Size 12"
+			"font"								"Quake12"
 			"textAlignment"						"center"
 			"AllCaps"							"1"
 
 			"sound_depressed"					"UI/buttonclick.wav"
 			"sound_released"					"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"					"0"
-		
+
 			"defaultFgColor_override"			"White"
 			"armedFgColor_override"				"White"
 			"depressedFgColor_override"			"White"
-			
-			"border_default"					"BlueTransparent70"
+
+			"border_default"					"BlackTransparent70"
 			"border_armed"						"OrangeTransparent70"
 		}
-		
+
 		"PlaylistBGPanel"
 		{
 			"ControlName"						"EditablePanel"
@@ -186,7 +186,7 @@
 					"visible"					"1"
 					"paintbackground"			"0"
 					"mouseinputenabled"			"0"
-			
+
 					"labeltext"					"6"
 					"font"						"MarlettSmall"
 					"textAlignment"				"west"
@@ -207,10 +207,10 @@
 					"proportionaltoparent"		"1"
 					"visible"					"1"
 					"paintbackground"			"0"
-					"border_default"			"SortCategoryBorder"	
-			
+					"border_default"			"SortCategoryBorder"
+
 					"labeltext"					"#TF_Competitive_Result"
-					"font"						"Size 11"
+					"font"						"Quake11"
 					"fgcolor_override"			"White"
 					"textAlignment"				"west"
 					"textinsetx"				"4"
@@ -241,11 +241,11 @@
 					"tall"						"18"
 					"proportionaltoparent"		"1"
 					"visible"					"1"
-					"paintbackground"			"0"	
+					"paintbackground"			"0"
 					"border_default"			"SortCategoryBorder"
-			
+
 					"labeltext"					"#TF_Competitive_Date"
-					"font"						"Size 11"
+					"font"						"Quake11"
 					"fgcolor_override"			"White"
 					"textAlignment"				"west"
 					"textinsetx"				"10"
@@ -260,7 +260,7 @@
 					"image_drawcolor"			"0 0 0 0"
 
 					"command"					"sort1"
-					"actionsignallevel"			"4"	
+					"actionsignallevel"			"4"
 
 					"sound_depressed"			"UI/buttonclick.wav"
 					"sound_released"			"UI/buttonclickrelease.wav"
@@ -278,9 +278,9 @@
 					"visible"					"1"
 					"paintbackground"			"0"
 					"border_default"			"SortCategoryBorder"
-			
+
 					"labeltext"					"#TF_Competitive_Map"
-					"font"						"Size 11"
+					"font"						"Quake11"
 					"fgcolor_override"			"White"
 					"textAlignment"				"west"
 					"textinsetx"				"8"
@@ -313,9 +313,9 @@
 					"visible"					"1"
 					"paintbackground"			"0"
 					"border_default"			"SortCategoryBorder"
-			
+
 					"labeltext"					"#TF_Competitive_KDR"
-					"font"						"Size 11"
+					"font"						"Quake11"
 					"fgcolor_override"			"White"
 					"textAlignment"				"west"
 					"AllCaps"					"1"
@@ -365,14 +365,14 @@
 					{
 						"fgcolor_override"		"White"
 					}
-		
+
 					"UpButton"
 					{
 						"ControlName"			"Button"
 						"FieldName"				"UpButton"
 						"visible"				"0"
 					}
-		
+
 					"DownButton"
 					{
 						"ControlName"			"Button"

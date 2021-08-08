@@ -4,7 +4,7 @@
 	{	
 		"ControlName"								"CExLabel"
 		"fieldName"									"SwitchLabel"
-		"font"										"Size 11"
+		"font"										"Quake11"
 		"xpos"										"80"
 		"ypos"										"58"
 		"zpos"										"1"
@@ -25,7 +25,7 @@
 	{	
 		"ControlName"								"CExLabel"
 		"fieldName"									"BalanceLabel"
-		"font"										"Size 11"
+		"font"										"Quake11"
 		"xpos"										"80"
 		"ypos"										"28"
 		"zpos"										"1"

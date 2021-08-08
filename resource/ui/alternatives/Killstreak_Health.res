@@ -78,7 +78,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 18"
+		"font"					"Quake18"
 	}
 	
 	"ItemEffectMeterCountShadow"
@@ -99,7 +99,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 18"
+		"font"					"Quake18"
 		"fgcolor"				"Shadows"
 		
 		"pin_to_sibling"		"ItemEffectMeterCount"

@@ -71,7 +71,7 @@
 		"tall"								"31"
 		"visible"							"0"
 		"enabled"							"0"
-		"border"							"BlueTransparent50"
+		"border"							"BlackTransparent50"
 	}
 	
 	"BottomWhiteBar"

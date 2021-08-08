@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CapCountdownLabel"
-		"font"			"Size 18"
+		"font"			"Quake18"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"-1"

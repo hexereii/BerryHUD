@@ -624,7 +624,7 @@
 	"gamematerial"	"I"
 }
 
-// medium sized body
+// medium Quaked body
 
 "flesh"
 {

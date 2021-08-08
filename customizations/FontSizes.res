@@ -1,9 +1,9 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////
 //*****************************************INSTRUCTIONS*****************************************//
 //																								//
-//			HERE YOU CAN EDIT ALL THE MAIN FONT SIZES BY CHANGING THE TALL VALUES				//
+//			HERE YOU CAN EDIT ALL THE MAIN FONT QuakeS BY CHANGING THE TALL VALUES				//
 //																								//
-//	INCREASING TALL VALUE INCREASES FONT SIZE. CLIPPING MAY OCCUR OUTSIDE OF DEFAULT SETTING.	//
+//	INCREASING TALL VALUE INCREASES FONT Quake. CLIPPING MAY OCCUR OUTSIDE OF DEFAULT SETTING.	//
 //																								//
 //																								//
 //		YOU CAN FIND THE REST OF THE USED FONTS INSIDE THE RESOURCE/SCHEME/FONTS.RES FILE		//
@@ -89,7 +89,7 @@ Scheme
 			}
 		}
 
-		"Uber Regular"			//I RECOMMEND SETTING THIS TO THE SAME AS AMMO REGULAR
+		"Quake22"			//I RECOMMEND SETTING THIS TO THE SAME AS AMMO REGULAR
 		{
 			"1"
 			{

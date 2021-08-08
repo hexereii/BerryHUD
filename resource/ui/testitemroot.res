@@ -35,7 +35,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabel"
-		"font"				"Size 28"
+		"font"				"Quake28"
 		"labelText"			"#IT_Title"
 		"textAlignment"		"north"
 		"xpos"				"0"
@@ -69,7 +69,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ClassUsageLabel"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"labelText"		"#IT_ClassUsage"
 			"textAlignment"	"west"
 			"xpos"			"7"
@@ -90,7 +90,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox0"
 			"labelText"		"#IT_Classes_All"
-			"Font"			"Size 8"
+			"Font"			"Quake8"
 			"textAlignment"	"west"
 			"xpos"			"45"
 			"ypos"			"20"
@@ -111,7 +111,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox1"
 			"labelText"		"#TF_Class_Name_Scout"
-			"Font"			"Size 8"
+			"Font"			"Quake8"
 			"textAlignment"	"west"
 			"xpos"			"145"
 			"ypos"			"20"
@@ -132,7 +132,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox2"
 			"labelText"		"#TF_Class_Name_Sniper"
-			"Font"			"Size 8"
+			"Font"			"Quake8"
 			"textAlignment"	"west"
 			"xpos"			"220"
 			"ypos"			"20"
@@ -153,7 +153,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox3"
 			"labelText"		"#TF_Class_Name_Soldier"
-			"Font"			"Size 8"
+			"Font"			"Quake8"
 			"textAlignment"	"west"
 			"xpos"			"295"
 			"ypos"			"20"
@@ -174,7 +174,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox4"
 			"labelText"		"#TF_Class_Name_Demoman"
-			"Font"			"Size 8"
+			"Font"			"Quake8"
 			"textAlignment"	"west"
 			"xpos"			"145"
 			"ypos"			"45"
@@ -195,7 +195,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox5"
 			"labelText"		"#TF_Class_Name_Medic"
-			"Font"			"Size 8"
+			"Font"			"Quake8"
 			"textAlignment"	"west"
 			"xpos"			"220"
 			"ypos"			"45"
@@ -216,7 +216,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox6"
 			"labelText"		"#TF_Class_Name_HWGuy"
-			"Font"			"Size 8"
+			"Font"			"Quake8"
 			"textAlignment"	"west"
 			"xpos"			"295"
 			"ypos"			"45"
@@ -237,7 +237,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox7"
 			"labelText"		"#TF_Class_Name_Pyro"
-			"Font"			"Size 8"
+			"Font"			"Quake8"
 			"textAlignment"	"west"
 			"xpos"			"145"
 			"ypos"			"70"
@@ -258,7 +258,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox8"
 			"labelText"		"#TF_Class_Name_Spy"
-			"Font"			"Size 8"
+			"Font"			"Quake8"
 			"textAlignment"	"west"
 			"xpos"			"220"
 			"ypos"			"70"
@@ -279,7 +279,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox9"
 			"labelText"		"#TF_Class_Name_Engineer"
-			"Font"			"Size 8"
+			"Font"			"Quake8"
 			"textAlignment"	"west"
 			"xpos"			"295"
 			"ypos"			"70"
@@ -314,7 +314,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CurrentlyTestingLabel"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"labelText"		"#IT_CurrentlyTesting"
 			"textAlignment"	"west"
 			"xpos"			"7"
@@ -334,7 +334,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TestingWeaponLabel"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"labelText"		"#IT_TestingSlot_Weapon"
 			"textAlignment"	"east"
 			"xpos"			"0"
@@ -353,7 +353,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TestItemEntry0"
-			"font"			"Size 8"
+			"font"			"Quake8"
 			"labelText"		"#IT_TestingSlot_Empty"
 			"textAlignment"	"center"
 			"xpos"			"95"
@@ -384,7 +384,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#IT_Item_Add"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -401,7 +401,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"OrangeTransparent70"
 		}
 		"RemoveItemButton0"
@@ -442,7 +442,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TestingHeadgearLabel"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"labelText"		"#IT_TestingSlot_Headgear"
 			"textAlignment"	"east"
 			"xpos"			"0"
@@ -461,7 +461,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TestItemEntry1"
-			"font"			"Size 8"
+			"font"			"Quake8"
 			"labelText"		"#IT_TestingSlot_Empty"
 			"textAlignment"	"center"
 			"xpos"			"95"
@@ -492,7 +492,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#IT_Item_Add"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -509,7 +509,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"OrangeTransparent70"
 		}
 		"RemoveItemButton1"
@@ -550,7 +550,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TestingMisc1Label"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"labelText"		"#IT_TestingSlot_Misc1"
 			"textAlignment"	"east"
 			"xpos"			"0"
@@ -569,7 +569,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TestItemEntry2"
-			"font"			"Size 8"
+			"font"			"Quake8"
 			"labelText"		"#IT_TestingSlot_Empty"
 			"textAlignment"	"center"
 			"xpos"			"95"
@@ -600,7 +600,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#IT_Item_Add"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -617,7 +617,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"OrangeTransparent70"
 		}
 		"RemoveItemButton2"
@@ -658,7 +658,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TestingMisc2Label"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"labelText"		"#IT_TestingSlot_Misc2"
 			"textAlignment"	"east"
 			"xpos"			"0"
@@ -677,7 +677,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TestItemEntry3"
-			"font"			"Size 8"
+			"font"			"Quake8"
 			"labelText"		"#IT_TestingSlot_Empty"
 			"textAlignment"	"center"
 			"xpos"			"95"
@@ -708,7 +708,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#IT_Item_Add"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -725,7 +725,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"OrangeTransparent70"
 		}
 		"RemoveItemButton3"
@@ -781,7 +781,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"labelText"		"#IT_BotControl_Title"
 			"textAlignment"	"west"
 			"xpos"			"7"
@@ -802,7 +802,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"AutoAddBotsCheckBox"
 			"labelText"		"#IT_Bot_AutoAdd"
-			"Font"			"Size 8"
+			"Font"			"Quake8"
 			"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"20"
@@ -824,7 +824,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"AutoAddBotsCheckBox"
 			"labelText"		"#IT_Bot_BlueTeam"
-			"Font"			"Size 8"
+			"Font"			"Quake8"
 			"textAlignment"	"west"
 			"xpos"			"110"
 			"ypos"			"20"
@@ -856,7 +856,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#IT_Bot_Add"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -873,7 +873,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"OrangeTransparent70"
 		}
 	
@@ -881,7 +881,7 @@
 		{
 			"ControlName"		"ComboBox"
 			"fieldName"			"BotSelectionComboBox"
-			"Font"				"Size 11"
+			"Font"				"Quake11"
 			"xpos"				"95"
 			"ypos"				"45"
 			"zpos"				"1"
@@ -923,7 +923,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#IT_Bot_RemoveAll"
-			"font"			"Size 11"
+			"font"			"Quake11"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -940,7 +940,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"OrangeTransparent70"
 		}
 	}
@@ -975,7 +975,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#IT_ExportLoadout"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -992,7 +992,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 	"ImportButton"
@@ -1010,7 +1010,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#IT_ImportLoadout"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -1027,7 +1027,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 	"ImportRecentButton"
@@ -1045,7 +1045,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#IT_ImportLast"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -1062,7 +1062,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 	
@@ -1081,7 +1081,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Cancel"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -1098,7 +1098,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 	"OkButton"
@@ -1116,7 +1116,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#IT_Ok"
-		"font"			"Size 15"
+		"font"			"Quake16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -1133,7 +1133,7 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 	}
 
@@ -1165,7 +1165,7 @@
 			"textinsetx"	"25"
 			"textalignment" "center"
 			"use_proportional_insets" "1"
-			"font"			"Size 15"
+			"font"			"Quake16"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -1184,7 +1184,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 			
-			"border_default"			"BlueTransparent70"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"OrangeTransparent70"
 			
 			"image_armedcolor"	"White"

@@ -43,7 +43,7 @@
 		{
 			"xpos"									"10"
 			"ypos"									"10"
-			"border"								"BlueTransparent70"
+			"border"								"BlackTransparent70"
 		}
 	}
 
@@ -69,7 +69,7 @@
 		"text_center"								"0"
 		"paint_icon_hide" 							"1"
 		"model_hide"								"1"
-		"text_forcesize"							"4"
+		"text_forceQuake"							"4"
 		"name_only"									"1"
 
 		"itemmodelpanel"
@@ -343,7 +343,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"PaintkitLabel"
-			"font"									"Size 12"
+			"font"									"Quake12"
 			"labelText"								"#TF_ItemPreview_ItemPaintkit"
 			"textAlignment"							"west"
 			"xpos"									"-5"
@@ -368,7 +368,7 @@
 		{
 			"ControlName"							"ComboBox"
 			"fieldName"								"ComboBoxValidPaintkits"
-			"Font"									"Size 12"
+			"Font"									"Quake12"
 			"wrap"									"0"
 			"xpos"									"3"
 			"ypos"									"0"
@@ -413,7 +413,7 @@
 			"tall"									"26"
 			"visible"								"1"
 			"enabled"								"1"
-			"border"								"BlueTransparent70"
+			"border"								"BlackTransparent70"
 			
 			"pin_to_sibling" 						"ComboBoxValidPaintkits"
 			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
@@ -481,7 +481,7 @@
 		{
 			"ControlName"							"ComboBox"
 			"fieldName"								"ComboBoxValidItems"
-			"Font"									"Size 12"
+			"Font"									"Quake12"
 			"wrap"									"0"
 			"xpos"									"3"
 			"ypos"									"24"
@@ -547,7 +547,7 @@
 			"tall"									"26"
 			"visible"								"1"
 			"enabled"								"1"
-			"border"								"BlueTransparent70"
+			"border"								"BlackTransparent70"
 			
 			"pin_to_sibling" 						"ComboBoxValidItems"
 			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
@@ -563,7 +563,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"ItemLabel"
-			"font"									"Size 12"
+			"font"									"Quake12"
 			"labelText"								"#TF_ItemPreview_ItemPreview"
 			"textAlignment"							"west"
 			"xpos"									"8"
@@ -659,7 +659,7 @@
 			"paintbackground" 						"0"
 			"paintborder" 							"1"
 			
-			"border_default"						"BlueTransparent70"
+			"border_default"						"BlackTransparent70"
 			"border_armed"							"OrangeTransparent70"
 		}
 		
@@ -694,7 +694,7 @@
 			"enabled"								"1"
 			"tabPosition"							"0"
 			"labelText"								"#TF_ItemPreview_PaintkitSeed"
-			"font"									"Size 10"
+			"font"									"Quake11"
 			"actionsignallevel" 					"2"
 			"use_proportional_insets" 				"1"
 			"textAlignment"							"center"
@@ -710,7 +710,7 @@
 			
 			"paintbackground" 						"0"
 			
-			"border_default"						"BlueTransparent70"
+			"border_default"						"BlackTransparent70"
 			"border_armed"							"OrangeTransparent70"
 		}
 		
@@ -844,7 +844,7 @@
 			"wide"									"80"
 			"tall"									"26"
 			"labelText"								"#TF_ItemAd_ViewOnMarket"
-			"font"									"Size 10"
+			"font"									"Quake11"
 			"textinsetx"							"0"
 			"textAlignment"							"center"
 		

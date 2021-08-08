@@ -18,7 +18,7 @@
 	{	
 		"ControlName"				"Label"
 		"fieldName"					"TitleLabel"
-		"font"						"Size 24"
+		"font"						"Quake24"
 		"xpos"						"0"
 		"ypos"						"10"
 		"zpos"						"0"
@@ -91,7 +91,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"#GameUI_Ok"
-		"font"						"Size 15"
+		"font"						"Quake16"
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"
@@ -105,7 +105,7 @@
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
 		
-		"border_default"			"BlueTransparent70"
+		"border_default"			"BlackTransparent70"
 		"border_armed"				"OrangeTransparent70"
 
 		"defaultFgColor_override"	"White"

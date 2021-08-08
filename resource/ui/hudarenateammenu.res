@@ -94,7 +94,7 @@
 		"AllCaps"							"1"
 		"dulltext"							"0"
 		"brighttext"						"1"
-		"font"								"Size 24"
+		"font"								"Quake24"
 		"fgcolor_override"					"White"
 		
 		"pin_to_sibling" 					"MapNameFrame"
@@ -134,7 +134,7 @@
 		"AllCaps"		  					"1"
 		"labelText"		  					"Fight"
 		"textAlignment"	  					"center"
-		"font"			  					"Size 32"
+		"font"			  					"Quake32"
 		"fgcolor"		  					"White"
 		
 		"pin_to_sibling" 					"FightFrame"
@@ -205,7 +205,7 @@
 		"AllCaps"		  					"1"
 		"labelText"		  					"Spectate"
 		"textAlignment"	  					"center"
-		"font"			  					"Size 32"
+		"font"			  					"Quake32"
 		"fgcolor"		  					"White"
 		
 		"pin_to_sibling" 					"SpectateFrame"
@@ -262,14 +262,14 @@
 		"brighttext"						"0"
 		"AllCaps"							"1"
 		"command"							"cancelmenu"
-		"font"								"Size 15"
+		"font"								"Quake16"
 		
 		"paintbackground"					"0"
 		
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 		
-		"border_default"					"BlueTransparent70"
+		"border_default"					"BlackTransparent70"
 		"border_armed"						"OrangeTransparent70"
 
 		"defaultFgColor_override"			"White"

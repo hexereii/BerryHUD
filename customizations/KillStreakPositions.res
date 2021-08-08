@@ -7,5 +7,5 @@
 //////////////////////////////////////////////////////////////////////////////////////////////
 
 
-#base "../resource/ui/alternatives/KillStreak_Corner.res"		// KILLSTREAK IN CORNER ABOVE KILLFEED
-//#base "../resource/ui/alternatives/KillStreak_Health.res"		// KILLSTREAK BY HEALTH CROSS
+//#base "../resource/ui/alternatives/KillStreak_Corner.res"		// KILLSTREAK IN CORNER ABOVE KILLFEED
+#base "../resource/ui/alternatives/KillStreak_Health.res"		// KILLSTREAK BY HEALTH CROSS

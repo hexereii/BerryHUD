@@ -35,7 +35,7 @@
 		"brighttext"	"0"
 		"font"			"M0refont24"
 		"fgcolor"		"255 255 255 255"
-	}	
+	}
 
 	"TextMessage"
 	{
@@ -80,7 +80,7 @@
 		"tabPosition"	"0"
 		"paintborder"	"0"
 	}
-	
+
 	"ok"
 	{
 		"ControlName"		"CExButton"
@@ -103,8 +103,10 @@
 		"command"		"okay"
 		"default"		"1"
 		"font"			"default"
+		"defaultbgColor_override"	"Black"
+		"armedbgColor_override"		"WhiteTransparent"
 	}
-	
+
 	"MenuBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -122,7 +124,7 @@
 		"src_corner_width"		"50"
 		"draw_corner_width"		"10"		// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"10"
-	}	
+	}
 
 	"ShadedBG"
 	{
@@ -139,16 +141,16 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"	"0"	
+		"tabPosition"	"0"
 		"fillcolor"		"0 0 0 100"
 		"PaintBackgroundType"	"0"
-	}						
-	
+	}
+
 	"MessageTitle"
 	{
 		"ControlName"	"Label"
 		"fieldName"		"MessageTitle"
 		"visible"		"0"
 		"enabled"		"0"
-	}		
+	}
 }

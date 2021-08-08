@@ -26,7 +26,7 @@
 		"proportionaltoparent"		"1"
 		"labeltext"					"#TF_Matchmaking_HeaderCasual"
 		"textAlignment"				"west"
-		"font"						"Size 30"
+		"font"						"Quake28"
 		"fgcolor_override"			"White"
 		"AllCaps"					"1"
 		
@@ -77,7 +77,7 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"tabPosition"				"0"
-		"font"						"Size 15"
+		"font"						"Quake16"
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"
