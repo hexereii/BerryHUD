@@ -3100,11 +3100,6 @@ Scheme
 			"font" "resource/scheme/fonts/visitor1.ttf"
 			"name" "Visitor TT1 BRK"
 		}
-		"4"
-		{
-			"font" "resource/scheme/fonts/Cabin-Regular.ttf"
-			"name" "Cabin Regular"
-		}
 		"5"
 		{
 		"font"  "resource/scheme/fonts/Astral Delight Upright.ttf"
