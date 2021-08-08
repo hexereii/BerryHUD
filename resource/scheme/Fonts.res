@@ -3080,27 +3080,27 @@ Scheme
 
 	CustomFontFiles
 	{
-		"1"
+		"111"
 		{
 			"font" "resource/scheme/fonts/Renogare.ttf" 
 			"name" "Renogare Soft"
 		}
-		"2"
+		"222"
 		{
 			"font" "resource/scheme/fonts/AlternateGothic.TTF"
 			"name" "AlternateGothicEF-NoThree"
 		}
-		"3"
+		"333"
 		{
 			"font" "resource/scheme/fonts/HandelGo.ttf"
 			"name" "HandelGothic BT"
 		}
-		"4"
+		"444"
 		{
 			"font" "resource/scheme/fonts/visitor1.ttf"
 			"name" "Visitor TT1 BRK"
 		}
-		"5"
+		"555"
 		{
 		"font"  "resource/scheme/fonts/Astral Delight Upright.ttf"
 		"name" "Astral Delight Upright"
