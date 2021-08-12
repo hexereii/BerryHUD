@@ -10,6 +10,8 @@
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"2"
 		"delta_item_font"				"Damage Numbers Regular"
+		"delta_item_font_minmode"		"Damage Numbers Minmode"
 		"delta_item_font_big"			"Damage Numbers Regular"
+		"delta_item_font_big_minmode"	"Damage Numbers Minmode"
 	}
 }

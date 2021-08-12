@@ -74,6 +74,27 @@
 		"font"					"Quake14"
 		"fgcolor_override"      "255 255 255 255"
 	}
+			"ItemEffectMeterLabelnew2"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"ItemEffectMeterLabelnew"
+		"xpos"					"26"
+		"ypos"					"27"
+		"zpos"					"2"
+		"wide"					"60"
+		"tall"					"15"
+		"autoResize"			"1"
+		"pinCorner"				"2"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"labelText"				"Frags"
+		"textAlignment"			"center"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"font"					"Quake14"
+		"fgcolor_override"      "0 0 0 255"
+	}
 	
 	"ItemEffectMeter"
 	{	

@@ -11,9 +11,9 @@
 //////////////////////////////////////////////////////////////////////////////////////////////
 
 
-#base "../resource/ui/alternatives/ClassModel_Off.res"			// (OPTIMIZED) ONLY SHOW CLASSMODEL WHEN DISGUISED (WORKS ~5 MIN AFTER GAME LAUNCH)
+//#base "../resource/ui/alternatives/ClassModel_Off.res"			// (OPTIMIZED) ONLY SHOW CLASSMODEL WHEN DISGUISED (WORKS ~5 MIN AFTER GAME LAUNCH)
 //#base "../resource/ui/alternatives/ClassModel_Off.res"		// (OFF) NEVER SHOW CLASSMODEL
-//#base "../resource/ui/alternatives/ClassModel_On.res"			// (ON) ALWAYS SHOW CLASSMODEL
+#base "../resource/ui/alternatives/ClassModel_On.res"			// (ON) ALWAYS SHOW CLASSMODEL
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 //	 ***IMPORTANT: YOU MUST REPLACE THE ANIMATION FILE AS PER THE INSTRUCTIONS ABOVE*** 	//

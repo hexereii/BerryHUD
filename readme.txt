@@ -20,9 +20,6 @@ Fixed background (weird clipping in Loading screen)
 Moved friends list to right side of the screen [mainmenuoverride.res, steamfriendpanel.res)
 Changed colour & font of "Find Game" (matchmakingdashboard.res)
 
-hex_huda2
-Changed targetid health to have a transparent cross (spectatorguihealth.res)
-
 hexhud_a2
 Changed targetid health to have a transparent cross (spectatorguihealth.res)
 Changed some fonts (fonts.res)
@@ -93,3 +90,6 @@ Changed colour of dmg next to HP (HudDamageAccount.res)\
 Renamed some files from "peach" to "hex"
 Cleaned up files/fixed some "bugs"
 Modified some of MinMode, next project for the HUD maybe?
+
+hexhud b3
+Added a shadow to "Frags" for cosmetic purposes (huditemeffectmeter_killstreak.res)

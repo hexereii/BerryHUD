@@ -24,7 +24,7 @@ Scheme
 			"1"
 			{
 				"name"			"Quake"
-				"tall"			"40"
+				"tall"			"40"		//DEFAULT=40
 				"additive"  	"0"
 				"antialias"		"1"
 			}
@@ -35,7 +35,7 @@ Scheme
 			"1"
 			{
 				"name"			"Quake"
-				"tall"			"40"
+				"tall"			"50"		//DEFAULT=50
 				"additive"  	"0"
 				"antialias"		"1"
 			}
@@ -50,7 +50,18 @@ Scheme
 			"1"
 			{
 				"name"			"Quake"
-				"tall"			"40"
+				"tall"			"40"		//DEFAULT=40
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Ammo Minmode"
+		{
+			"1"
+			{
+				"name"			"Quake"
+				"tall"			"50"		//DEFAULT=50
 				"additive"  	"0"
 				"antialias"		"1"
 			}
@@ -60,13 +71,47 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Quake20"
-				"tall"			"20"
+				"name"			"Quake"
+				"tall"			"20"		//DEFAULT=20
 				"additive"  	"0"
 				"antialias"		"1"
 			}
 		}
 
+		"Ammo Reserve Minmode"
+		{
+			"1"
+			{
+				"name"			"Quake"
+				"tall"			"24"		//DEFAULT=24
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Quake22"			//I RECOMMEND SETTING THIS TO THE SAME AS AMMO REGULAR
+		{
+			"1"
+			{
+				"name"			"Quake"
+				"tall"			"40"		//DEFAULT=40
+				"additive"  	"0"
+				"antialias"		"1"
+				"dropshadow"	"1"
+			}
+		}
+
+		"Uber Minmode"			//I RECOMMEND SETTING THIS TO THE SAME AS AMMO MINMODE
+		{
+			"1"
+			{
+				"name"			"Quake"
+				"tall"			"50"		//DEFAULT=50
+				"additive"  	"0"
+				"antialias"		"1"
+				"dropshadow"	"1"
+			}
+		}
 
 		///////////////////////////////////////////////////////////////////////////////
 		//////////////////////////////// DAMAGE FONTS /////////////////////////////////
@@ -77,7 +122,20 @@ Scheme
 			"1"
 			{
 				"name"		"Quake"
-				"tall"			"26"
+				"tall"			"26"		//DEFAULT=22
+				"additive"  	"0"
+				"antialias"		"1"
+				"outline"		"1"
+				"dropshadow"	"0"
+			}
+		}
+
+		"Damage Numbers Minmode"
+		{
+			"1"
+			{
+				"name"			"Quake"
+				"tall"			"26"		//DEFAULT=22
 				"additive"  	"0"
 				"antialias"		"1"
 				"outline"		"1"
