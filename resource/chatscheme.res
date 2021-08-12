@@ -20,7 +20,7 @@ Scheme
 		"OffWhite"			"235 235 235 255"
 		"DullWhite"			"214 214 214 255"
 		"Orange"			"214 214 214 255"
-		"TransparentBlack"		"0 0 0 100"
+		"BlackTransparent"		"0 0 0 100"
 		"Black"				"0 0 0 255"
 
 		"Blank"				"0 0 0 0"
@@ -48,7 +48,7 @@ Scheme
 		
 		CheckButton.TextColor			"OffWhite"
 		CheckButton.SelectedTextColor	"White"
-		CheckButton.BgColor				"TransparentBlack"
+		CheckButton.BgColor				"BlackTransparent"
 		CheckButton.Border1  			"Border.Dark" 		// the left checkbutton border
 		CheckButton.Border2  			"Border.Bright"		// the right checkbutton border
 		CheckButton.Check				"White"				// color of the check itself
@@ -86,19 +86,19 @@ Scheme
 		FrameTitleBar.DisabledBgColor	"Blank"
 
 		GraphPanel.FgColor				"White"
-		GraphPanel.BgColor				"TransparentBlack"
+		GraphPanel.BgColor				"BlackTransparent"
 
 		Label.TextDullColor				"DullWhite"
 		Label.TextColor					"OffWhite"
 		Label.TextBrightColor				"White"
 		Label.SelectedTextColor				"White"
-		Label.BgColor					"TransparentBlack"
+		Label.BgColor					"BlackTransparent"
 		Label.DisabledFgColor1			"117 117 117 255"
 		Label.DisabledFgColor2			"30 30 30 255"
 
 		ListPanel.TextColor					"OffWhite"
 		ListPanel.TextBgColor				"Blank"
-		ListPanel.BgColor					"TransparentBlack"
+		ListPanel.BgColor					"BlackTransparent"
 		ListPanel.SelectedTextColor			"Black"
 		ListPanel.SelectedBgColor			"Orange"
 		ListPanel.SelectedOutOfFocusBgColor	"0 0 0 214"
@@ -114,7 +114,7 @@ Scheme
 		Panel.BgColor					"DullWhite"
 
 		ProgressBar.FgColor				"White"
-		ProgressBar.BgColor				"TransparentBlack"
+		ProgressBar.BgColor				"BlackTransparent"
 
 		PropertySheet.TextColor			"OffWhite"
 		PropertySheet.SelectedTextColor	"White"
@@ -124,7 +124,7 @@ Scheme
 		RadioButton.SelectedTextColor	"White"
 
 		RichText.TextColor				"OffWhite"
-		RichText.BgColor				"TransparentBlack"
+		RichText.BgColor				"BlackTransparent"
 		RichText.SelectedTextColor		"Black"
 		RichText.SelectedBgColor		"Orange"
 
@@ -145,7 +145,7 @@ Scheme
 		SectionedListPanel.DividerColor		"Black"
 		SectionedListPanel.TextColor		"DullWhite"
 		SectionedListPanel.BrightTextColor	"White"
-		SectionedListPanel.BgColor			"TransparentBlack"
+		SectionedListPanel.BgColor			"BlackTransparent"
 		SectionedListPanel.SelectedTextColor			"Black"
 		SectionedListPanel.SelectedBgColor				"Orange"
 		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
@@ -158,13 +158,13 @@ Scheme
 		Slider.DisabledTextColor2	"30 30 30 255"
 
 		TextEntry.TextColor			"OffWhite"
-		TextEntry.BgColor			"TransparentBlack"
+		TextEntry.BgColor			"BlackTransparent"
 		TextEntry.CursorColor		"OffWhite"
 		TextEntry.DisabledTextColor	"DullWhite"
 		TextEntry.DisabledBgColor	"Blank"
 		TextEntry.SelectedTextColor	"Black"
 		TextEntry.SelectedBgColor	"Orange"
-		TextEntry.OutOfFocusSelectedBgColor	"TransparentBlack"
+		TextEntry.OutOfFocusSelectedBgColor	"BlackTransparent"
 		TextEntry.FocusEdgeColor	"0 0 0 196"
 
 		ToggleButton.SelectedTextColor	"White"
@@ -172,7 +172,7 @@ Scheme
 		Tooltip.TextColor			"0 0 0 196"
 		Tooltip.BgColor				"Orange"
 
-		TreeView.BgColor			"TransparentBlack"
+		TreeView.BgColor			"BlackTransparent"
 
 		WizardSubPanel.BgColor		"Blank"
 
@@ -185,7 +185,7 @@ Scheme
 		MainMenu.MenuItemHeight		"16"	[$WIN32]
 		MainMenu.MenuItemHeight		"32"	[$X360]
 		MainMenu.Inset				"32"
-		MainMenu.Backdrop			"TransparentBlack"
+		MainMenu.Backdrop			"BlackTransparent"
 
 		Console.TextColor			"OffWhite"
 		Console.DevTextColor		"White"

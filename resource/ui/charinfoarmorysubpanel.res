@@ -13,13 +13,13 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"DarkenBlu"
-		"infocus_bgcolor_override" "DarkenBlu"
-		"outoffocus_bgcolor_override" "DarkenBlu"
+		"bgcolor_override"	"BlackTransparent"
+		"infocus_bgcolor_override" "BlackTransparent"
+		"outoffocus_bgcolor_override" "BlackTransparent"
 
 		"thumbnail_bgcolor"			"Black"
-		"thumbnail_bgcolor_mouseover"	"156 146 128 255"
-		"thumbnail_bgcolor_selected"	"176 166 148 255"
+		"thumbnail_bgcolor_mouseover"	"NeonGreen"
+		"thumbnail_bgcolor_selected"	"NeonGreen"
 
 		"thumbnails_rows"		"5"
 		"thumbnails_columns"	"7"
@@ -242,7 +242,7 @@
 			"allow_rot"				"0"
 		}
 	}
-	
+
 	"mouseoveritempanel"
 	{
 		"ControlName"	"CItemModelPanel"

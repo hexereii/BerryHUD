@@ -93,7 +93,7 @@
 		"tall_minmode"	"98"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"BlackTransparent"
+		"bgcolor_override"	"0 0 0 200"
 
 		"pin_to_sibling"	"BluePlayerCountBG"
 		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
@@ -160,7 +160,7 @@
 		"tall_minmode"	"98"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"BlackTransparent"
+		"bgcolor_override"	"0 0 0 200"
 
 		"pin_to_sibling"	"RedPlayerCountBG"
 		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
@@ -255,8 +255,8 @@
 		"font"			"Quake11"
 		"fgcolor"		"WhiteTransparent"
 		"labelText"		"%blueteamplayercount%"
-		"textAlignment"		"west"
-		"xpos"			"-6"
+		"textAlignment"		"center"
+		"xpos"			"-55"
 		"ypos"			"2"
 		"zpos"			"22"
 		"wide"			"200"
@@ -357,8 +357,8 @@
 		"font"			"Quake11"
 		"fgcolor"		"WhiteTransparent"
 		"labelText"		"%redteamplayercount%"
-		"textAlignment"		"east"
-		"xpos"			"-240"
+		"textAlignment"		"center"
+		"xpos"			"0"
 		"ypos"			"2"
 		"zpos"			"22"
 		"wide"			"200"
@@ -386,7 +386,7 @@
 		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"BlackTransparent"
+		"bgcolor_override"	"0 0 0 200"
 
 		"pin_to_sibling"	"ScoreboardPosition"
 		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
@@ -589,7 +589,7 @@
 			"visible"		"0"
 		}
 	}
-	"ClassImage"	
+	"ClassImage"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"ClassImage"
@@ -669,12 +669,12 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		
+
 		if_mvm
 		{
 			"visible"		"1"
 		}
-		
+
 		"KillsLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -691,17 +691,17 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			
+
 			"fgcolor"			"WhiteTransparent"
-			"bgcolor_override"	"BlackTransparent"
-			
+			"bgcolor_override"	"0 0 0 200"
+
 			"use_proportional_insets"	"1"
 			"textinsetx"				"3"
-			
+
 			"pin_to_sibling"		"DeathsLabel"
 			"pin_corner_to_sibling"	"3"
 			"pin_to_sibling_corner"	"2"
-		}						
+		}
 		"DeathsLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -718,17 +718,17 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			
+
 			"fgcolor"			"WhiteTransparent"
-			"bgcolor_override"	"BlackTransparent"
-			
+			"bgcolor_override"	"0 0 0 200"
+
 			"use_proportional_insets"	"1"
 			"textinsetx"				"3"
-			
+
 			"pin_to_sibling"		"AssistsLabel"
 			"pin_corner_to_sibling"	"3"
 			"pin_to_sibling_corner"	"2"
-		}						
+		}
 		"AssistsLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -745,16 +745,16 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			
-			
+
+
 			"proportionaltoparent"	"1"
-			
+
 			"fgcolor"			"WhiteTransparent"
-			"bgcolor_override"	"BlackTransparent"
-			
+			"bgcolor_override"	"0 0 0 200"
+
 			"use_proportional_insets"	"1"
 			"textinsetx"				"3"
-			
+
 			//"pin_to_sibling"		"DeathsLabel"
 			//"pin_corner_to_sibling"	"2"
 			//"pin_to_sibling_corner"	"3"
@@ -775,13 +775,13 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			
+
 			"fgcolor"			"WhiteTransparent"
-			"bgcolor_override"	"BlackTransparent"
-			
+			"bgcolor_override"	"0 0 0 200"
+
 			"use_proportional_insets"	"1"
 			"textinsetx"				"3"
-			
+
 			"pin_to_sibling"		"AssistsLabel"
 			"pin_corner_to_sibling"	"2"
 			"pin_to_sibling_corner"	"3"
@@ -802,13 +802,13 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			
+
 			"fgcolor"			"WhiteTransparent"
-			"bgcolor_override"	"BlackTransparent"
-			
+			"bgcolor_override"	"0 0 0 200"
+
 			"use_proportional_insets"	"1"
 			"textinsetx"				"3"
-			
+
 			"pin_to_sibling"		"DamageLabel"
 			"pin_corner_to_sibling"	"2"
 			"pin_to_sibling_corner"	"3"
@@ -829,16 +829,16 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			
+
 			"fgcolor"			"WhiteTransparent"
-			
+
 			"use_proportional_insets"	"1"
 			"textinsetx"				"3"
-			
+
 			"pin_to_sibling"		"KillsLabel"
 			"pin_corner_to_sibling"	"1"
 			"pin_to_sibling_corner"	"1"
-		}						
+		}
 		"d"
 		{
 			"ControlName"		"CExLabel"
@@ -855,12 +855,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			
+
 			"fgcolor"			"WhiteTransparent"
-			
+
 			"use_proportional_insets"	"1"
 			"textinsetx"				"3"
-			
+
 			"pin_to_sibling"		"DeathsLabel"
 			"pin_corner_to_sibling"	"1"
 			"pin_to_sibling_corner"	"1"
@@ -881,12 +881,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			
+
 			"fgcolor"			"WhiteTransparent"
-			
+
 			"use_proportional_insets"	"1"
 			"textinsetx"				"3"
-			
+
 			"pin_to_sibling"		"AssistsLabel"
 			"pin_corner_to_sibling"	"1"
 			"pin_to_sibling_corner"	"1"
@@ -907,12 +907,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			
+
 			"fgcolor"			"WhiteTransparent"
-			
+
 			"use_proportional_insets"	"1"
 			"textinsetx"				"3"
-			
+
 			"pin_to_sibling"		"DamageLabel"
 			"pin_corner_to_sibling"	"1"
 			"pin_to_sibling_corner"	"1"
@@ -933,22 +933,22 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			
+
 			"fgcolor"			"WhiteTransparent"
-			
+
 			"use_proportional_insets"	"1"
 			"textinsetx"				"3"
-			
+
 			"pin_to_sibling"		"HealingLabel"
 			"pin_corner_to_sibling"	"1"
 			"pin_to_sibling_corner"	"1"
 		}
-		
-		
-		
-		
-		
-		
+
+
+
+
+
+
 		"Kills"
 		{
 			"ControlName"		"CExLabel"
@@ -965,7 +965,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"Deaths"
 		{
 			"ControlName"		"CExLabel"
@@ -1033,7 +1033,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}													
+		}
 		"GameType"
 		{
 			"ControlName"	"CExLabel"
@@ -1068,7 +1068,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"CapturesLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -1085,7 +1085,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"DefensesLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -1102,7 +1102,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"DominationLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -1119,7 +1119,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"RevengeLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -1136,7 +1136,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"Captures"
 		{
 			"ControlName"		"CExLabel"
@@ -1153,7 +1153,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"Defenses"
 		{
 			"ControlName"		"CExLabel"
@@ -1170,7 +1170,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"Domination"
 		{
 			"ControlName"		"CExLabel"
@@ -1187,7 +1187,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"Revenge"
 		{
 			"ControlName"		"CExLabel"
@@ -1221,7 +1221,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"TeleportsLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -1238,7 +1238,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"HeadshotsLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -1255,7 +1255,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"Healing"
 		{
 			"ControlName"		"CExLabel"
@@ -1272,7 +1272,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"Invuln"
 		{
 			"ControlName"		"CExLabel"
@@ -1289,7 +1289,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"Teleports"
 		{
 			"ControlName"		"CExLabel"
@@ -1306,7 +1306,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"Headshots"
 		{
 			"ControlName"		"CExLabel"
@@ -1323,7 +1323,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}						
+		}
 		"BackstabsLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -1357,7 +1357,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}		
+		}
 		"BonusLabel"
 		{
 			"ControlName"		"CExLabel"

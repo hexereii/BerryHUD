@@ -24,9 +24,9 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"paintbackground"		"0"
-			"border"				"BlackTransparent70"
+			"border"				"BlueTransparent70"
 		}
-		
+
 		"RedScoreBG2"
 		{
 			"ControlName"			"EditablePanel"
@@ -42,7 +42,7 @@
 			"paintbackground"		"0"
 			"border"				"RedTransparent70"
 		}
-		
+
 		"BlueTeamLabel"
 		{
 			"ControlName"			"CExLabel"
@@ -60,12 +60,12 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"fgcolor"				"White"
-			
+
 			"pin_to_sibling"		"BlueScoreBG2"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
 			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		}
-		
+
 		"BlueTeamScore"
 		{
 			"ControlName"			"CExLabel"
@@ -83,12 +83,12 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"fgcolor"				"White"
-			
+
 			"pin_to_sibling"		"BlueScoreBG2"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		}
-		
+
 		"RedTeamLabel"
 		{
 			"ControlName"			"CExLabel"
@@ -106,12 +106,12 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"fgcolor"				"White"
-			
+
 			"pin_to_sibling"		"RedScoreBG2"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		}
-		
+
 		"RedTeamScore"
 		{
 			"ControlName"			"CExLabel"
@@ -129,12 +129,12 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"fgcolor"				"White"
-			
+
 			"pin_to_sibling"		"RedScoreBG2"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
 			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		}
-		
+
 		"BlueScoreBG"
 		{
 			"ControlName"			"EditablePanel"
@@ -184,7 +184,7 @@
 			"xpos"					"9999"
 		}
 	}
-	
+
 	"ShadedBar"
 	{
 		"ControlName"				"EditablePanel"
@@ -201,7 +201,7 @@
 		"paintbackground"			"0"
 		"border"					"BlackTransparent50"
 	}
-	
+
 	"HorizontalLine"
 	{
 		"ControlName"				"ImagePanel"
@@ -215,15 +215,15 @@
 		"pinCorner"					"0"
 		"visible"					"1"
 		"enabled"					"1"
-		"tabPosition"				"0"	
+		"tabPosition"				"0"
 		"fillcolor"					"WhiteSolid"
 		"PaintBackgroundType"		"0"
-		
+
 		"pin_to_sibling"			"ShadedBar"
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"		"PIN_CENTER_TOP"
 	}
-	
+
 	"TopPlayersLabel"
 	{
 		"ControlName"				"CExLabel"
@@ -243,14 +243,14 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"fgcolor"					"WhiteSolid"
-		
+
 		"pin_to_sibling"			"HorizontalLine"
 		"pin_corner_to_sibling"		"PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
 	}
-	
+
 	"PointsThisRoundLabel"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"PointsThisRoundLabel"
 		"font"						"DefaultVerySmall"
@@ -268,14 +268,14 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"fgcolor"					"WhiteSolid"
-		
+
 		"pin_to_sibling"			"HorizontalLine"
 		"pin_corner_to_sibling"		"PIN_BOTTOMRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 	}
-	
+
 	"Player1Name"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player1Name"
 		"font"						"Quake11"
@@ -292,14 +292,14 @@
 		"textAlignment"				"west"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"HorizontalLine"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
 	}
-	
+
 	"Player1Score"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player1Score"
 		"font"						"Quake11"
@@ -316,12 +316,12 @@
 		"textAlignment"				"east"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"HorizontalLine"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMRIGHT"
 	}
-	
+
 	"Player1Class"
 	{
 		"ControlName"				"CExLabel"
@@ -340,14 +340,14 @@
 		"textAlignment"				"west"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"Player1Name"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 	}
-	
+
 	"Player2Name"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player2Name"
 		"font"						"Quake11"
@@ -364,14 +364,14 @@
 		"textAlignment"				"west"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"Player1Name"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
 	}
-	
+
 	"Player2Score"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player2Score"
 		"font"						"Quake11"
@@ -388,12 +388,12 @@
 		"textAlignment"				"east"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"Player1Score"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
 	}
-	
+
 	"Player2Class"
 	{
 		"ControlName"				"CExLabel"
@@ -412,14 +412,14 @@
 		"textAlignment"				"west"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"Player1Class"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
 	}
-	
+
 	"Player3Name"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player3Name"
 		"font"						"Quake11"
@@ -436,14 +436,14 @@
 		"textAlignment"				"west"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"Player2Name"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
 	}
-	
+
 	"Player3Score"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player3Score"
 		"font"						"Quake11"
@@ -460,12 +460,12 @@
 		"textAlignment"				"east"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"Player2Score"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
 	}
-	
+
 	"Player3Class"
 	{
 		"ControlName"				"CExLabel"
@@ -484,7 +484,7 @@
 		"textAlignment"				"west"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"Player2Class"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
@@ -503,17 +503,17 @@
 		"pinCorner"					"0"
 		"visible"					"1"
 		"enabled"					"1"
-		"tabPosition"				"0"	
+		"tabPosition"				"0"
 		"fillcolor"					"WhiteSolid"
 		"PaintBackgroundType"		"0"
-		
+
 		"pin_to_sibling"			"ShadedBar"
 		"pin_corner_to_sibling"		"PIN_CENTER_BOTTOM"
 		"pin_to_sibling_corner"		"PIN_CENTER_BOTTOM"
 	}
-	
+
 	"KillStreakLeaderLabel"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"KillStreakLeaderLabel"
 		"font"						"DefaultVerySmall"
@@ -531,14 +531,14 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"fgcolor"					"WhiteSolid"
-		
+
 		"pin_to_sibling"			"HorizontalLine2"
 		"pin_corner_to_sibling"		"PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
 	}
-	
+
 	"KillStreakMaxCountLabel"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"KillStreakMaxCountLabel"
 		"font"						"DefaultVerySmall"
@@ -556,14 +556,14 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"fgcolor"					"WhiteSolid"
-		
+
 		"pin_to_sibling"			"HorizontalLine2"
 		"pin_corner_to_sibling"		"PIN_BOTTOMRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 	}
-	
+
 	"KillStreakPlayer1Name"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"KillStreakPlayer1Name"
 		"font"						"Quake11"
@@ -580,14 +580,14 @@
 		"textAlignment"				"west"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"HorizontalLine2"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
 	}
-	
+
 	"KillStreakPlayer1Class"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"KillStreakPlayer1Class"
 		"ControlName"				"CExLabel"
@@ -606,14 +606,14 @@
 		"textAlignment"				"west"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"KillStreakPlayer1Name"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 	}
-	
+
 	"KillStreakPlayer1Score"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"KillStreakPlayer1Score"
 		"font"						"Quake11"
@@ -630,7 +630,7 @@
 		"textAlignment"				"east"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"HorizontalLine2"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMRIGHT"
@@ -646,37 +646,37 @@
 		"xpos"						"9999"
 	}
 	"WinningTeamLabel"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"WinningTeamLabel"
 		"xpos"						"9999"
 	}
 	"WinningTeamLabelDropshadow"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"WinningTeamLabelDropshadow"
 		"xpos"						"9999"
 	}
 	"AdvancingTeamLabel"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"AdvancingTeamLabel"
 		"xpos"						"9999"
 	}
 	"AdvancingTeamLabelDropshadow"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"AdvancingTeamLabelDropshadow"
 		"xpos"						"9999"
 	}
 	"WinReasonLabel"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"WinReasonLabel"
 		"xpos"						"9999"
 	}
 	"DetailsLabel"
-	{	
+	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"DetailsLabel"
 		"xpos"						"9999"

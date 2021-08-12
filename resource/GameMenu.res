@@ -33,7 +33,7 @@
 		"label" 		"HEXHUD"
 		"command" 		"engine clear
 				echo; echo; echo ---------;
-				echo HexHUD | Current release: August 8, 2021;
+				echo HexHUD | Current release: August 12, 2021;
 				echo HexHUD | First release: May 30, 2021;
 				echo Made by Hexereii;
 				echo Twitter	   | twitter.com/hexereiitf2;
@@ -45,7 +45,7 @@
 	"Create"
 	{
 		"label" 		"MGE"
-		"command" 		"engine connect 45.141.52.45:27015"
+		"command" 		"engine connect 103.214.111.90:27015"
 		"OnlyAtMenu" 	"1"
 	}
 	"Servers"

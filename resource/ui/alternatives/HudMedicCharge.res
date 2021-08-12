@@ -1,39 +1,36 @@
 "Resource/UI/HudMedicCharge.res"
-{	
+{
 	"Background"
 	{
 		"ControlName"				"CTFImagePanel"
 		"fieldName"					"Background"
 		"xpos"						"99999"
 	}
-	
+
 	"UberAnchor"					//Use this to move the health
 	{
 		"ControlName"				"EditablePanel"
 		"fieldName"					"UberAnchor"
 		"xpos"						"c150"
-		"xpos_minmode"				"c165"
 		"ypos"						"r150"
-		"ypos_minmode"				"r50"
+		"ypos_minmode"		"-100"
 		"zpos"						"0"
 		"wide"						"2"
 		"tall"						"50"
-		"tall_minmode"				"60"
 		"visible"					"0"
 		"enabled"					"1"
 	}
-	
+
 	"ChargeLabel"
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ChargeLabel"
 		"xpos"						"0"
 		"ypos"						"0"
+		"ypos_minmode"		"-100"
 		"zpos"						"2"
 		"wide"						"100"
-		"wide_minmode"				"140"
 		"tall"						"50"
-		"tall_minmode"				"60"
 		"autoResize"				"1"
 		"pinCorner"					"2"
 		"visible"					"1"
@@ -44,9 +41,8 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"font"						"Quake22"
-		"font_minmode"				"Uber Minmode"
 		"fgcolor"					"Ubercharge"
-		
+
 		"pin_to_sibling"			"UberAnchor"
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"		"PIN_CENTER_TOP"
@@ -60,9 +56,7 @@
 		"ypos"						"0"
 		"zpos"						"2"
 		"wide"						"100"
-		"wide_minmode"				"120"
 		"tall"						"50"
-		"tall_minmode"				"60"
 		"autoResize"				"1"
 		"pinCorner"					"2"
 		"visible"					"1"
@@ -73,28 +67,23 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"font"						"Quake22"
-		"font_minmode"				"Uber Minmode"
 		"fgcolor"					"Ubercharge"
-		
+
 		"pin_to_sibling"			"UberAnchor"
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"		"PIN_CENTER_TOP"
 	}
-	
+
 	"ChargeMeter"
-	{	
+	{
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter"
 		"font"						"Default"
 		"xpos"						"c-105"
-		"xpos_minmode"				"cs-0.5"
 		"ypos"						"r110"
-		"ypos_minmode"				"r4"
 		"zpos"						"2"
 		"wide"						"210"
-		"wide_minmode"				"f0"
 		"tall"						"4"
-		"tall_minmode"				"4"
 		"autoResize"				"0"
 		"pinCorner"					"0"
 		"visible"					"1"
@@ -103,10 +92,10 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"bgcolor_override"			"BlackLightTransparent"
-	}		
+	}
 
 	"ChargeMeter1"
-	{	
+	{
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter1"
 		"font"						"Default"
@@ -114,9 +103,7 @@
 		"ypos"						"0"
 		"zpos"						"2"
 		"wide"						"51"
-		"wide_minmode"				"p0.2485"
 		"tall"						"4"
-		"tall_minmode"				"4"
 		"autoResize"				"0"
 		"pinCorner"					"0"
 		"visible"					"1"
@@ -125,12 +112,12 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"bgcolor_override"			"BlackLightTransparent"
-		
+
 		"pin_to_sibling"			"ChargeMeter"
 	}
 
 	"ChargeMeter2"
-	{	
+	{
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter2"
 		"font"						"Default"
@@ -138,9 +125,7 @@
 		"ypos"						"0"
 		"zpos"						"2"
 		"wide"						"51"
-		"wide_minmode"				"p0.2485"
 		"tall"						"4"
-		"tall_minmode"				"4"
 		"autoResize"				"0"
 		"pinCorner"					"0"
 		"visible"					"1"
@@ -148,14 +133,14 @@
 		"textAlignment"				"Left"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		
+
 		"pin_to_sibling"			"ChargeMeter1"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 	}
 
 	"ChargeMeter3"
-	{	
+	{
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter3"
 		"font"						"Default"
@@ -163,9 +148,7 @@
 		"ypos"						"0"
 		"zpos"						"2"
 		"wide"						"51"
-		"wide_minmode"				"p0.2485"
 		"tall"						"4"
-		"tall_minmode"				"4"
 		"autoResize"				"0"
 		"pinCorner"					"0"
 		"visible"					"1"
@@ -174,14 +157,14 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"bgcolor_override"			"BlackLightTransparent"
-		
+
 		"pin_to_sibling"			"ChargeMeter2"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 	}
 
 	"ChargeMeter4"
-	{	
+	{
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter4"
 		"font"						"Default"
@@ -189,9 +172,7 @@
 		"ypos"						"0"
 		"zpos"						"2"
 		"wide"						"51"
-		"wide_minmode"				"p0.2485"
 		"tall"						"4"
-		"tall_minmode"				"4"
 		"autoResize"				"0"
 		"pinCorner"					"0"
 		"visible"					"1"
@@ -200,19 +181,19 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"bgcolor_override"			"BlackLightTransparent"
-		
+
 		"pin_to_sibling"			"ChargeMeter3"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 	}
-	
+
 	"HealthClusterIcon"
 	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"HealthClusterIcon"
 		"xpos"						"99999"
-	}	
-	
+	}
+
 	"ResistIconAnchor"
 	{
 		"ControlName"				"EditablePanel"
@@ -223,12 +204,12 @@
 		"tall"						"50"
 		"visible"					"1"
 		"enabled"					"1"
-		
+
 		"pin_to_sibling"			"IndividualChargesLabel"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 	}
-	
+
 	"ResistIcon"
 	{
 		"ControlName"				"ImagePanel"
@@ -236,16 +217,11 @@
 		"xpos"						"0"
 		"ypos"						"0"
 		"wide"						"22"
-		"wide_minmode"				"28"
 		"tall"						"22"
-		"tall_minmode"				"28"
 		"visible"					"1"
 		"enabled"					"1"
 		"image"						"../HUD/defense_buff_bullet_blue"
 		"scaleImage"				"1"
-		
+
 		"pin_to_sibling"			"ResistIconAnchor"
 	}
-
-	
-	

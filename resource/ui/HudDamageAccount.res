@@ -4,7 +4,7 @@
 	{
 		"PositiveColor"	  	"0 255 234 255"
 		"NegativeColor"	  	"255 0 114 255"
-		
+
 		"fieldName"		    		"CDamageAccountPanel"
 		"text_x"			      	"0"
 		"text_y"			      	"0"
@@ -15,8 +15,8 @@
 	}
 	"DamageAccountValue"
 	{
-		"fgcolor"		"255 255 0 255"
-		
+		"fgcolor"		"85 205 252 255"
+
 		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValue"
 		"xpos"			"c-200"
@@ -29,11 +29,10 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
 		"font"			"Quake20"
+
 	}
 	"DamageAccountValueShadow"
-	{
-		"fgcolor"		"0 0 0 255"
-		
+	{}
 		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValueShadow"
 		"xpos"			"c-200"
@@ -46,5 +45,6 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
 		"font"			"Quake20"
+		"fgcolor"		"0 0 0 255"
 	}
 }

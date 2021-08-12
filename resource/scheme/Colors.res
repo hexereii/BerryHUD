@@ -10,80 +10,80 @@ Scheme
 		"WhiteSolid"							"255 255 255 255"
 		"WhiteTransparent"						"235 235 235 180"
 		"WhiteMoreTransparent"					"235 235 235 150"
-		
+
 		"Indigo"										"75 0 130 255"
-		
+
 		"None" 										"0 0 0 0"
-		
+
 		"WhiteGray"								"185 185 185 255"
-		
+
 		"Black"									"35 35 35 255"
-		"BlackSolid"							"0 0 0 255"
 		"BlackTransparent"						"0 0 0 200"
+		"BlackSolid"							"0 0 0 255"
 		"BlackLightTransparent"					"0 0 0 80"
-		
+
 		"Gray"									"150 150 150 255"
 		"GrayDark"								"100 100 100 255"
 		"GrayTransparent"						"175 175 175 150"
 		"GrayBlue"								"100 110 120 255"
 		"GrayBlu"								"165 175 200 255"
 		"GrayBluDark"							"145 155 180 255"
-		
+
 		"Blue"											"100 170 225 255"
 		"BlueLight"								"150 200 220 255"
 		"Blu"											"0 0 255 255"
-		
+
 		"Teal"										"0 128 128 255"
-		
+
 		"RedSolid"								"220 30 30 255"
 		"RedLight"								"245 70 70 255"
 		"RedTransparent"					"245 70 70 80"
-		
+
 		"OrangeLight"							"255 200 55 255"
-		
+
 		"GreenLight"							"40 200 110 255"
-		
+
 		"RoyalBluTransparent" 					"65 105 225 80"
-		
+
 		"GarnetTransparent"						"154 42 42 80"
-		
+
 		"Yellow2"										"255 255 0 255"
-		
+
 		"NeonGreen" 								"0 255 144 90"
-		
+
 		//TransPride Flag Colours
 		"MayaBlue"								"85 205 252 255"
 		"MayaInverse"							"170 50 3 255"
-		
+
 		"Pink" 											"248 139 194 255"
 		"PinkInverse"								"7 116 61 255"
 		"PinkTransp" 								"248 139 194 80"
-			
+
 		"PictonPurple"								"71 169 250 255"
 		"PurpleInverse"								"184 86 5 255"
-		
-		"PastelViolet"								"202 147 202 80" 
+
+		"PastelViolet"								"202 147 202 80"
 		"VioletInverse"								"53 108 53 255"
-		
-		
+
+
 		//LesbianPride Flag Colours
-		
+
 		"Sinopia" 											"214 41 0 255"
 		"SinopiaInvert"									"41 214 255 255"
-		
+
 		"Tangerine"										"255 155 85 255"
 		"TangerineInvert"								"0 100 170 255"
-		
+
 		"SuperPink" 										"212 97 166 255"
 		"SuperPinkInvert"								"43 158 89 255"
-		
+
 		"Flirt" 												"165 0 98 255"
 		"FlirtInvert"										"90 255 157 255"
-		
+
 		///////////////////////////////////////////////////////////////////////////////
 		//////////////////////////// ITEM QUALITY COLORS //////////////////////////////
 		//////////////////////////// 75%  Default Colors //////////////////////////////
-		
+
 		"Normal"								"134 134 134 255"
 		"Genuine"								"58 87 64 255"
 		"Unusual"								"101 60 129 255"
@@ -106,7 +106,7 @@ Scheme
 		"CommandoGrade"							"120 94 191 255"
 		"AssassinGrade"							"184 113 191 255"
 		"EliteGrade"							"191 98 98 255"
-		
+
 		"Normal_Hover"							"225 225 225 255"
 		"Genuine_Hover"							"105 205 130 255"
 		"Unusual_Hover"							"205 135 245 255"
@@ -129,11 +129,11 @@ Scheme
 		"CommandoGrade_Hover"					"150 115 245 255"
 		"AssassinGrade_Hover"					"235 140 245 255"
 		"EliteGrade_Hover"						"245 120 120 255"
-		
+
 		///////////////////////////////////////////////////////////////////////////////
 		//////////////////////////////// BASE COLORS //////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////
-		
+
 		"Orange"								"255 200 55 255"
 		"OrangeDim"								"255 200 55 255"
 		"LightOrange"							"255 200 55 255"
@@ -158,17 +158,15 @@ Scheme
 		"PartyMember4"							"232 184 99  255"
 		"PartyMember5"							"255 118 108 255"
 		"PartyMember6"							"255 133 255 255"
-		
+
 		"Yellow"								"235 235 235 255"
 		"TransparentYellow"						"235 235 235 255"
 		"BrightYellow"							"251 235 0 255"
 		"GreenSolid"		 					"76 107 34 255"
 		"Greene" 								"0 255 0 255"
-		
-		"TransparentBlack"						"0 0 0 200"
-		"TransparentLightBlack"					"0 0 0 50"
+
 		"FooterBGBlack"							"52 48 55 255"
-		
+
 		"HUDBlueTeam"							"100 170 225 255"
 		"HUDRedTeam"							"245 70 70 255"
 		"HUDSpectator"							"235 235 235 255"
@@ -179,7 +177,7 @@ Scheme
 		"HudOffWhite"							"235 235 235 255"
 		"HudBlack"								"65 65 65 255"
 		"ProgressBarBlue"						"91 122 142 255"
-		
+
 		"CreditsGreen"							"94 150 49 255"
 
 		"Blank"									"0 0 0 0"
@@ -194,44 +192,44 @@ Scheme
 		"HudProgressBarActive"					"235 235 235 255"
 		"HudProgressBarInActive"				"235 235 235 255"
 		"HudProgressBarActiveLow"				"245 70 70 255"
-		"HudProgressBarInActiveLow"				"245 70 70 255"	
+		"HudProgressBarInActiveLow"				"245 70 70 255"
 
 		"HudTimerProgressActive"				"235 235 235 255"
 		"HudTimerProgressInActive"				"245 70 70 255"
 		"HudTimerProgressWarning"				"245 70 70 255"
 
 		"HudTrainingHint"						"212 160 23 255"
-		
+
 		"TanDark"								"150 150 150 255"
 		"TanLight"								"235 235 235 255"
 		"TanDarker"								"100 100 100 255"
-		
+
 		"StoreDarkTan"							"131 121 104 255"
 		"StoreGreen"							"76 107 34 255"
-		
+
 		"LowHealthRed"							"255 0 0 255"
 		"ProgressOffWhite"						"235 235 235 255"
 		"ProgressBackground"					"235 235 235 75"
 		"HealthBgGrey"							"72 71 69 255"
-		
+
 		"ProgressOffWhiteTransparent"			"235 235 235 200"
-		
+
 		"LabelDark"								"48 43 42 255"
 		"LabelTransparent"						"109 96 80 180"
-		
+
 		"BuildMenuActive"						"235 235 235 255"
-		
+
 		"DisguiseMenuIconRed"					"192 56 63 255"
 		"DisguiseMenuIconBlue"					"92 128 166 255"
 
  		"MatchmakingDialogTitleColor"			"235 235 235 255"
  		"MatchmakingMenuItemBackground"			"46 43 42 255"
- 		"MatchmakingMenuItemBackgroundActive"	"150 71 0 255"	
+ 		"MatchmakingMenuItemBackgroundActive"	"150 71 0 255"
 		"MatchmakingMenuItemTitleColor"			"235 235 235 255"
 		"MatchmakingMenuItemDescriptionColor"	"235 235 235 255"
-		
+
 		"HTMLBackground"						"95 92 101 255"
-		
+
 		"ItemAttribLevel"						"235 235 235 255"
 		"ItemAttribNeutral"						"235 235 23 255"
 		"ItemAttribPositive"					"150 200 220 255"
@@ -245,7 +243,7 @@ Scheme
 		"ItemLimitedUse"						"0 160 0 255"
 		"ItemFlags"								"255 255 255 255"
 		"ItemLimitedQuantity"					"225 209 0 255"
-		
+
 		"QualityColorNormal"					"178 178 178 255"
 		"QualityColorrarity1"					"77 116 85 255"
 		"QualityColorrarity2"					"141 131 75 255"
@@ -270,7 +268,7 @@ Scheme
 		"ItemRarityMythical"					"136 71 255 255"
 		"ItemRarityLegendary"					"211 44 230 255"
 		"ItemRarityAncient"						"235 75 75 255"
-		
+
 		"ItemRarityDefault_GreyedOut"			"44 42 40 255"
 		"ItemRarityCommon_GreyedOut"			"59 65 72 255"
 		"ItemRarityUncommon_GreyedOut"			"31 50 72 255"
@@ -278,7 +276,7 @@ Scheme
 		"ItemRarityMythical_GreyedOut"			"45 24 85 255"
 		"ItemRarityLegendary_GreyedOut"			"70 15 77 255"
 		"ItemRarityAncient_GreyedOut"			"78 25 25 255"
-		
+
 		"QualityColorNormal_GreyedOut"			"44 44 44 255"
 		"QualityColorrarity1_GreyedOut"			"20 29 21 255"
 		"QualityColorrarity2_GreyedOut"			"35 33 19 255"
@@ -295,14 +293,14 @@ Scheme
 		"QualityColorHaunted_GreyedOut"			"14 61 43 255"
 		"QualityColorCollectors_GreyedOut"		"60 0 0 255"
 		"QualityColorPaintkitWeapon_GreyedOut"	"60 60 60 255"
-		
+
 		"SaleGreen"								"76 107 34 255"
 
 		"LightRed"								"245 70 70 255"
 		"LighterRed"							"220 100 80 255"
 		"LighterDarkBrown"						"59 54 48 255"
 		"DarkBrown"								"41 37 38 255"
-		
+
 		"UpgradeDefaultFg"						"235 235 235 255"
 		"UpgradeDefaultBg"						"111 104 94 255"
 		"UpgradeArmedFg"						"235 235 235 255"
@@ -318,61 +316,61 @@ Scheme
 	BaseSettings
 	{
 		ReplayBrowser.BgColor								"DarkBrown"
-		ReplayBrowser.Details.TitleEdit.Carat.FgColor		"OrangeLight"
-		ReplayBrowser.Button.ArmedBgColor					"OrangeLight"
-		ReplayBrowser.Button.DepressedBgColor				"OrangeLight"
-		ReplayBrowser.CollectionTitle.FgColor				"OrangeLight"
+		ReplayBrowser.Details.TitleEdit.Carat.FgColor		"NeonGreen"
+		ReplayBrowser.Button.ArmedBgColor					"NeonGreen"
+		ReplayBrowser.Button.DepressedBgColor				"NeonGreen"
+		ReplayBrowser.CollectionTitle.FgColor				"NeonGreen"
 		ReplayBrowser.Warning.FgColor						"White"
 		ReplayBrowser.ScrollBar.SliderButton.FgColor		"White"
 		ReplayBrowser.Search.BgColor						"Gray"
 		ReplayBrowser.Search.FgColor						"White"
-		
+
 		Replay.RenderDialog.BgColor							"LighterDarkBrown"
-		
+
 		Econ.Dialog.BgColor									"WhiteTransparent"
-		Econ.Button.BgColor									"BlueLight"
+		Econ.Button.BgColor									"BlackTransparent"
 		Econ.Button.FgColor									"White"
-		Econ.Button.ArmedBgColor							"OrangeLight"
+		Econ.Button.ArmedBgColor							"NeonGreen"
 		Econ.Button.ArmedFgColor							"White"
-		Econ.Button.DepressedBgColor						"OrangeLight"
+		Econ.Button.DepressedBgColor						"Black"
 		Econ.Button.DepressedFgColor						"Gray"
-		
+
 		Econ.Button.PresetDefaultColorFg					"White"
 		Econ.Button.PresetArmedColorFg						"White"
 		Econ.Button.PresetDepressedColorFg					"White"
-		
-		Econ.Button.PresetDefaultColorBg					"OrangeLight"
-		Econ.Button.PresetArmedColorBg						"OrangeLight"
-		Econ.Button.PresetDepressedColorBg					"OrangeLight"
-		
+
+		Econ.Button.PresetDefaultColorBg					"NeonGreen"
+		Econ.Button.PresetArmedColorBg						"NeonGreen"
+		Econ.Button.PresetDepressedColorBg					"NeonGreen"
+
 		Border.Bright										"Blank"
 		Border.Dark											"Black"
 		Border.Selection									"Gray"
 
 		Button.TextColor									"White"
-		Button.BgColor										"BlueLight"
+		Button.BgColor										"BlackTransparent"
 		Button.ArmedTextColor								"White"
-		Button.ArmedBgColor									"OrangeLight"
+		Button.ArmedBgColor									"NeonGreen"
 		Button.SelectedTextColor							"White"
-		Button.SelectedBgColor								"OrangeLight"
+		Button.SelectedBgColor								"NeonGreen"
 		Button.DepressedTextColor							"Gray"
-		Button.DepressedBgColor								"OrangeLight"
+		Button.DepressedBgColor								"NeonGreen"
 
 		CheckButton.TextColor								"White"
 		CheckButton.SelectedTextColor						"White"
-		CheckButton.BgColor									"TransparentBlack"
+		CheckButton.BgColor									"BlackTransparent"
 		CheckButton.Border1  								"White"
 		CheckButton.Border2  								"White"
 		CheckButton.Check									"White"
 		CheckButton.HighlightFgColor						"White"
-		
+
 		ComboBoxButton.ArrowColor							"White"
 		ComboBoxButton.ArmedArrowColor						"White"
 		ComboBoxButton.BgColor								"Blank"
 		ComboBoxButton.DisabledBgColor						"Blank"
 
-		Frame.BgColor										"TransparentBlack"
-		Frame.OutOfFocusBgColor								"TransparentBlack"
+		Frame.BgColor										"BlackTransparent"
+		Frame.OutOfFocusBgColor								"BlackTransparent"
 		Frame.FocusTransitionEffectTime						"0.0"
 		Frame.TransitionEffectTime							"0.0"
 		Frame.AutoSnapRange									"0"
@@ -392,8 +390,8 @@ Scheme
 		FrameTitleBar.DisabledBgColor						"Blank"
 
 		GraphPanel.FgColor									"OrangeLight"
-		GraphPanel.BgColor									"TransparentBlack"
-		
+		GraphPanel.BgColor									"BlackTransparent"
+
 		Label.TextDullColor									"Gray"
 		Label.TextColor										"White"
 		Label.TextBrightColor								"White"
@@ -403,14 +401,14 @@ Scheme
 		Label.DisabledFgColor2								"Gray"
 
 		ListPanel.TextColor									"OrangeLight"
-		ListPanel.BgColor									"TransparentBlack"
+		ListPanel.BgColor									"BlackTransparent"
 		ListPanel.SelectedTextColor							"Black"
 		ListPanel.SelectedBgColor							"OrangeLight"
 		ListPanel.SelectedOutOfFocusBgColor					"OrangeLight"
 		ListPanel.EmptyListInfoTextColor					"OrangeLight"
 
 		Menu.TextColor										"White"
-		Menu.BgColor										"TransparentBlack"
+		Menu.BgColor										"BlackTransparent"
 		Menu.ArmedTextColor									"Gray"
 		Menu.ArmedBgColor									"White"
 		Menu.TextInset										"6"
@@ -427,7 +425,7 @@ Scheme
 
 		CircularProgressBar.FgColor							"White"
 		CircularProgressBar.BgColor							"White"
-		
+
 		"BuildingHealthBar.BgColor"							"HealthBgGrey"
 		"BuildingHealthBar.Health"							"ProgressOffWhite"
 		"BuildingHealthBar.LowHealth"						"LowHealthRed"
@@ -483,13 +481,13 @@ Scheme
 
 		ToggleButton.SelectedTextColor						"OrangeLight"
 
-		Tooltip.TextColor									"TransparentBlack"
+		Tooltip.TextColor									"BlackTransparent"
 		Tooltip.BgColor										"OrangeLight"
 
-		TreeView.BgColor									"TransparentBlack"
+		TreeView.BgColor									"BlackTransparent"
 
 		WizardSubPanel.BgColor								"Blank"
-		
+
 		TimerProgress.Active								"HudTimerProgressActive"
 		TimerProgress.InActive								"HudTimerProgressInActive"
 		TimerProgress.Warning								"HudTimerProgressWarning"
@@ -497,10 +495,10 @@ Scheme
 		HudObjectives.FgColor								"HudPanelForeground"
 		HudObjectives.BgColor								"HudPanelBackground"
 		HudObjectives.BorderColor							"HudPanelBorder"
-		
+
 		HudProgressBar.Active								"HudProgressBarActive"
 		HudProgressBar.InActive								"HudProgressBarInActive"
-		
+
 		HudCaptureIcon.Active								"HudProgressBarActive"
 		HudCaptureIcon.InActive								"HudProgressBarInActive"
 		HudCaptureProgressBar.Active						"HudProgressBarActive"
@@ -537,38 +535,38 @@ Scheme
 		"Main.Menu.Y"										"248"
 
 		"Main.BottomBorder"									"32"
-		
+
 		"VguiScreenCursor"									"OrangeLight"
-		
+
 		///////////////////////////////////////////
 //////////////////CORE COLORS//////////////////
 ///////////////////////////////////////////
-        
+
         "Flavor"			"73 123 163 255"    //chosen team
 		"FlavorBG"			"0 0 0 0"			//0 0 0 0 for custom BG, same as Flavor for FLV solid BG
 		"FlavorSelect"		"73 123 163 255"	//Same as Flavor for custom BG otherwise 0 0 0 255
 		"FlavorBackpack"	"73 123 163 255"	//Backpack Selections GrayBGDark otherwise
-		
+
 		"ButtonBG"				"50 50 50 255"			//Standard Button Color
 		"ButtonArmed"		    "73 123 163 255"		//Armed color
 		"ButtonSelect"          "107 107 107 255"
-		
+
         "White"				"227 227 227 255"
         "Black"				"18 17 17 255"
-        
+
         "DarkGray"          "57 54 54 255"
 		"DarkGraySolid"     "36 36 36 255"
         "Gray"              "154 142 142 255"
-        "BrightGray"        "210 200 200 255"  
-        
-		"Red" 			    "245 54 64 255"         //Red team  
+        "BrightGray"        "210 200 200 255"
+
+		"Red" 			    "245 54 64 255"         //Red team
 		"Blue"			    "18 127 220 255"        //Blue team
         "Green"			    "22 182 71 255"         //HP pickup
 
 		"GrayBG"               "74 74 74 255"   //Game menu colors
-		"GrayBGDark"           "57 57 57 255"				
-		"GrayBGDarkest"        "27 27 27 255"	
-		"GrayText"             "127 127 127 255"			
+		"GrayBGDark"           "57 57 57 255"
+		"GrayBGDarkest"        "27 27 27 255"
+		"GrayText"             "127 127 127 255"
 		"FrameGray"            "170 160 154 255"
 		"BlackBorder"          "27 27 27 255"
 	}
@@ -733,11 +731,11 @@ Scheme
 
       "LightRed"                       "220 50 47 255"   //red
       "LighterRed"                     "220 50 47 255"   //red
-	  
+
 	  //Animations Colours
 	  "Navy" 				"0 0 128 255"
 	  "Medium Blue" 	"0 0 205 255"
-	  
+
 		}
 	}
 }

@@ -5,7 +5,4 @@ HOW TO DOWNLOAD;
 Download the 'zip' folder from Github, and extract it anywhere easily accessible for you.
 Cut the "HexHud" folder from this extract
 Paste it into "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom"
-
-***If you aren't using any 'alternative' version, feel free to cut the folder out elsewhere, or just delete it! It can impact start-up times of your game!!!***
-
 Enjoy the HUD!!

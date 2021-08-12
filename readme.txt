@@ -7,7 +7,7 @@ tinyurl.com/hexmedcfg
 
 
 TODO LIST;
-- HexHUD; Highlander version/Prolander/Casual version 
+- HexHUD; Highlander version/Prolander/Casual version
 - Edit Class Select (HL; Make combo & flank class disinction/PL; Change main class & off class distinction/Casual Offense/Defence/Support)
 - Maybe add mat_antialias button?
 - Center the current-on-wearer atributes label
@@ -26,7 +26,7 @@ Changed targetid health to have a transparent cross (spectatorguihealth.res)
 hexhud_a2
 Changed targetid health to have a transparent cross (spectatorguihealth.res)
 Changed some fonts (fonts.res)
-Changed Quakeof damage numbers (Resource/UI/HudDamageAccount.res)
+Changed size of damage numbers (Resource/UI/HudDamageAccount.res)
 
 hexhud_a3
 Changed HP so that the shadow changes colours when you're buffed [may be updated further] (hudanimations_peach.txt)
@@ -61,7 +61,7 @@ Changed a main menu button (GameMenu.res, MainMenuOverride.res)
 hexhud_a4.5
 Fixed up the customization buttons on in-game menu to fit the theme a bit cleaner (MainMenuOverride.res, GameMenu.res)
 Added number shortcut to Class Select (ClassSelection.res)
-Deleted all custom MvM files 
+Deleted all custom MvM files
 Made overheal colour rainbow (hudanimations_tf.txt) & changed the shadow Quakebriefly (healthcross_off.res)
 Added 4:3 customization option (Alternatives)
 
@@ -77,11 +77,19 @@ Changed colours of overheal/buff to be a bit more consistent & less chaotic-feel
 Fixed so fonts are loaded properly with the HUD (Fonts.res)
 
 hexhud b1
-Changed colours of the MatchHUD (hudmatchstatus.res) 
+Changed colours of the MatchHUD (hudmatchstatus.res)
 Changed colour of, and moved, Demo sticky count (HudDemoPipes.res)
-Changed fonts around to make them more consistent with "Quake" 
+Changed fonts around to make them more consistent with "Quake"
 Changed fontsize in loadouts (classloadoutpanel.res)
 Changed colour schemes of Settings menu & DemoUI menu (clientscheme.res)
 Cleaned up unnecessary or extra files
 Changed colour scheme to match on map info (TextWindow.res, MapInfoMenu.res)
 Organized pause menu buttons to fit the button theme (MainMenuOverride.res)
+Changed colors of borders on backpack (backpackpanel.res)
+
+hexhud b2
+Added new language options, taken from BudHUD (spanish, italian, german)
+Changed colour of dmg next to HP (HudDamageAccount.res)\
+Renamed some files from "peach" to "hex"
+Cleaned up files/fixed some "bugs"
+Modified some of MinMode, next project for the HUD maybe?

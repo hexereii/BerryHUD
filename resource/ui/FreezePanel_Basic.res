@@ -237,7 +237,7 @@
 				"src_corner_height"		"23"				// pixels inside the image
 				"src_corner_width"		"23"
 					
-				"draw_corner_width"		"6"				// screen Quakeof the corners ( and sides ), proportional
+				"draw_corner_width"		"6"				// screen size of the corners ( and sides ), proportional
 				"draw_corner_height" 	"6"	
 			}
 			"NemesisIcon"

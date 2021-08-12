@@ -1,5 +1,5 @@
 "Resource/UI/HudObjectiveKothTimePanel.res"
-{	
+{
 	"BlueTimer"
 	{
 		"ControlName"				"CTFHudTimeStatus"
@@ -18,7 +18,7 @@
 		"NegativeColor"				"255 0 0 255"
 		"delta_lifetime"			"1.5"
 		"delta_item_font"			"Quake"
-		
+
 		"TimePanelValue"
 		{
 			"ControlName"			"CExLabel"
@@ -36,7 +36,7 @@
 			"labelText"				"0:00"
 		}
 	}
-	
+
 	"BlueBar"
 	{
 		"ControlName"				"EditablePanel"
@@ -48,8 +48,8 @@
 		"tall"						"16"
 		"visible"					"1"
 		"enabled"					"1"
-		"border"					"BlackTransparent70"
-		
+		"border"					"BlueTransparent70"
+
 		"pin_to_sibling"			"BlueTimer"
 	}
 
@@ -71,7 +71,7 @@
 		"NegativeColor"				"255 0 0 255"
 		"delta_lifetime"			"1.5"
 		"delta_item_font"			"Quake"
-		
+
 		"TimePanelValue"
 		{
 			"ControlName"			"CExLabel"
@@ -89,7 +89,7 @@
 			"labelText"				"0:00"
 		}
 	}
-	
+
 	"RedBar"
 	{
 		"ControlName"				"EditablePanel"
@@ -102,10 +102,10 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"border"					"RedTransparent70"
-		
+
 		"pin_to_sibling"			"RedTimer"
 	}
-	
+
 	"ActiveTimerBG"
 	{
 		"ControlName"				"EditablePanel"

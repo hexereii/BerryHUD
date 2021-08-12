@@ -1253,8 +1253,8 @@
 
 		"paintbackground" 				"0"
 
-		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"						"BlackTransparent"
+		"border_armed"							"WhiteTransparent"
 	}
 
 	"StartExplanation"

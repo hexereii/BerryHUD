@@ -13,15 +13,15 @@
 		"pinCorner"					"0"
 		"visible"					"0"
 		"enabled"					"1"
-		"image"						"replay/thumbnails/panels/Material_Transparent_Black_70"
-		
+		"image"						"replay/thumbnails/panels/Material_Transparent_Blue_70"
+
 		"src_corner_height"			"32"
 		"src_corner_width"			"32"
-		
+
 		"draw_corner_width"			"0"
 		"draw_corner_height" 		"0"
 	}
-	
+
 	"TargetIDBG_Spec_Red"
 	{
 		"ControlName"				"ScalableImagePanel"
@@ -36,14 +36,14 @@
 		"visible"					"0"
 		"enabled"					"1"
 		"image"						"replay/thumbnails/panels/Material_Transparent_Red_70"
-		
+
 		"src_corner_height"			"32"
 		"src_corner_width"			"32"
-		
+
 		"draw_corner_width"			"0"
 		"draw_corner_height" 		"0"
 	}
-	
+
 	"Shade"
 	{
 		"ControlName"				"EditablePanel"
@@ -57,7 +57,7 @@
 		"enabled"					"1"
 		"bgcolor_override"			"BlackLightTransparent"
 	}
-	
+
 	"TargetNameLabel"
 	{
 		"ControlName"				"Label"
@@ -77,7 +77,7 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 	}
-	
+
 	"TargetDataLabel"
 	{
 		"ControlName"				"Label"
@@ -97,7 +97,7 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 	}
-	
+
 	"SpectatorGUIHealth"
 	{
 		"ControlName"				"EditablePanel"
@@ -114,7 +114,7 @@
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 		"TextColor"					"HudOffWhite"
 	}
-	
+
 	"AmmoIcon"
 	{
 		"ControlName"				"ImagePanel"
@@ -129,7 +129,7 @@
 		"image"						"../hud/leaderboard_class_heavy"
 		"scaleImage"				"1"
 	}
-	
+
 	"KillStreakAnchor"
 	{
 		"ControlName"				"EditablePanel"
@@ -141,7 +141,7 @@
 		"visible"					"1"
 		"enabled"					"1"
 	}
-	
+
 	"KillStreakIcon"
 	{
 		"ControlName"				"ImagePanel"
@@ -155,10 +155,10 @@
 		"enabled"					"1"
 		"image"						"../hud/leaderboard_streak"
 		"scaleImage"				"1"
-		
+
 		"pin_to_sibling" 			"KillStreakAnchor"
 	}
-	
+
 	"TargetIDBG"
 	{
 		"ControlName"				"CTFImagePanel"
@@ -181,5 +181,5 @@
 		"xpos"						"9999"
 		"wide"						"0"
 		"tall"						"0"
-	}	
+	}
 }

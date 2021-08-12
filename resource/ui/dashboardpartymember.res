@@ -1,2 +1,2 @@
 #base "../../customizations/Streaming/dashboardpartymember.res"
-#base 	"dashboardpartymember_peach.res"
+#base 	"dashboardpartymember_hex.res"
