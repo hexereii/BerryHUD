@@ -550,8 +550,8 @@
 			"paintbackground"			"0"
 
 			"defaultFgColor_override"	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override"	"NeonGreen"
+			"armedFgColor_override"		"BlueLight"
+			"depressedFgColor_override"	"BlueLight"
 
 			"proportionaltoparent"		"1"
 		}
@@ -598,8 +598,8 @@
 			"paintbackground"			"0"
 
 			"defaultFgColor_override"	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override"	"NeonGreen"
+			"armedFgColor_override"		"BlueLight"
+			"depressedFgColor_override"	"BlueLight"
 
 			"proportionaltoparent"		"1"
 		}
@@ -646,8 +646,8 @@
 			"paintbackground"			"0"
 
 			"defaultFgColor_override"	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override"	"NeonGreen"
+			"armedFgColor_override"		"BlueLight"
+			"depressedFgColor_override"	"BlueLight"
 
 			"proportionaltoparent"		"1"
 		}
@@ -694,8 +694,8 @@
 			"paintbackground"			"0"
 
 			"defaultFgColor_override"	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override"	"NeonGreen"
+			"armedFgColor_override"		"BlueLight"
+			"depressedFgColor_override"	"BlueLight"
 
 			"proportionaltoparent"		"1"
 		}
@@ -756,11 +756,11 @@
 		}
 	}
 
-	"SubwaySandwich"
+	"Create"
 	{
 		"ControlName"		"EditablePanel"
-		"fieldname"			"SubwaySandwich"
-		"xpos"				"c-417"
+		"fieldname"			"Create"
+		"xpos"                "250"
 		"ypos"				"102"
 		"zpos"				"15"
 		"wide"				"150"
@@ -800,7 +800,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Servers"
-		"xpos"				"c-417"
+		"xpos"                "c-385"	
 		"ypos"				"119"
 		"zpos"				"15"
 		"wide"				"150"
@@ -841,7 +841,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Items"
-		"xpos"				"c-417"
+		"xpos"                "c-385"	
 		"ypos"				"136"
 		"zpos"				"15"
 		"wide"				"150"
@@ -882,7 +882,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Store"
-		"xpos"				"c-417"
+		"xpos"                "c-385"		
 		"ypos"				"153"
 		"zpos"				"15"
 		"wide"				"150"
@@ -923,7 +923,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Settings"
-		"xpos"				"c-417"
+		"xpos"                "c-385"		
 		"ypos"				"170"
 		"zpos"				"15"
 		"wide"				"150"
@@ -965,7 +965,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Demoui"
-		"xpos"				"c-417"
+		"xpos"                "c-385"		
 		"ypos"				"187"
 		"zpos"				"15"
 		"wide"				"150"
@@ -1088,7 +1088,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Disconnect"
-		"xpos"				"c-417"
+		"xpos"                "c-385"
 		"ypos"				"187"
 		"zpos"				"15"
 		"wide"				"150"
@@ -1129,7 +1129,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"CallVoteButton"
-		"xpos"				"c-416"
+		"xpos"				"c-375"
 		"ypos"				"82"
 		"zpos"				"15"
 		"wide"				"26"
@@ -1190,7 +1190,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"MutePlayersButton"
-		"xpos"				"c-396"
+		"xpos"				"c-355"
 		"ypos"				"82"
 		"zpos"				"15"
 		"wide"				"26"
@@ -1249,7 +1249,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"RequestCoachButton"
-		"xpos"				"c-376"
+		"xpos"				"c-335"
 		"ypos"				"82"
 		"zpos"				"15"
 		"wide"				"26"
@@ -1310,7 +1310,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"AchievementsButton"
-		"xpos"				"c-356"
+		"xpos"				"c-315"
 		"ypos"				"82"
 		"zpos"				"15"
 		"wide"				"20"
@@ -3122,8 +3122,8 @@
 			"paintbackground"			"0"
 
 			"defaultFgColor_override"	"WhiteTransparent"
-			"armedFgColor_override"		"BlueLight"
-			"depressedFgColor_override"	"BlueLight"
+			"armedFgColor_override"		"NeonGreen"
+			"depressedFgColor_override"	"NeonGreen"
 
 			"proportionaltoparent"		"1"
 		}

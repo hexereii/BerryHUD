@@ -10,8 +10,8 @@
 		"text_y"			      	"0"
 		"delta_item_end_y"		"0"
 		"delta_lifetime"	  	"1.6"
-		"delta_item_font"	  	"Quake"
-		"delta_item_font_big"	"Quake20"
+		"delta_item_font"	  	"Runescape20"
+		"delta_item_font_big"	"Runescape20"
 	}
 	"DamageAccountValue"
 	{
@@ -32,7 +32,7 @@
 
 	}
 	"DamageAccountValueShadow"
-	{}
+	{
 		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValueShadow"
 		"xpos"			"c-200"

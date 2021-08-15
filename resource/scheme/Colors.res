@@ -38,7 +38,7 @@ Scheme
 		"RedSolid"								"220 30 30 255"
 		"RedLight"								"245 70 70 255"
 		"RedTransparent"					"245 70 70 80"
-
+		"Dark Red"								"139 0 0 255"
 		"OrangeLight"							"255 200 55 255"
 
 		"GreenLight"							"40 200 110 255"
@@ -51,6 +51,10 @@ Scheme
 
 		"NeonGreen" 								"0 255 144 90"
 
+		"CartTurqoise"							"18 83 78 255"
+
+		"CharSelectGreen"					"152 206 0 255"
+		
 		//TransPride Flag Colours
 		"MayaBlue"								"85 205 252 255"
 		"MayaInverse"							"170 50 3 255"
@@ -159,8 +163,8 @@ Scheme
 		"PartyMember5"							"255 118 108 255"
 		"PartyMember6"							"255 133 255 255"
 
-		"Yellow"								"235 235 235 255"
-		"TransparentYellow"						"235 235 235 255"
+		"Yellow"								"235 235 0 255"
+		"TransparentYellow"						"255 255 0 80"
 		"BrightYellow"							"251 235 0 255"
 		"GreenSolid"		 					"76 107 34 255"
 		"Greene" 								"0 255 0 255"

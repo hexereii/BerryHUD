@@ -11,7 +11,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 	}
-	
+
 	"Mountain"				//needed as a cover
 	{
 		"ControlName"		"ImagePanel"
@@ -26,7 +26,7 @@
 		"image"				"replay/thumbnails/menu/Mountain_Blur"
 		"scaleimage"		"1"
 	}
-	
+
 	"TopWhiteBar"
 	{
 		"ControlName"		"EditablePanel"
@@ -40,7 +40,7 @@
 		"enabled"			"1"
 		"border"			"BlackTransparent70"
 	}
-	
+
 	"PartyCover"
 	{
 		"ControlName"		"EditablePanel"
@@ -74,7 +74,7 @@
 		"AllCaps"			"1"
 		"fgcolor_override"	"WhiteTransparent"
 	}
-	
+
 	"MapLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -94,11 +94,11 @@
 		"AllCaps"			"1"
 		"fgcolor_override"	"WhiteTransparent"
 	}
-	
-	
-	
-	
-	
+
+
+
+
+
 
 	"MainBackground"
 	{

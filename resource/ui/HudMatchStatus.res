@@ -8,9 +8,9 @@
 		"name_width"							"57"
 		"horiz_inset"							"2"
 	}
-	
+
 	"CountdownLabel"
-	{	
+	{
 		"ControlName"							"CExLabel"
 		"fieldName"								"CountdownLabel"
 		"font"									"Quake"
@@ -34,7 +34,7 @@
 			"xpos"								"300"
 			"ypos"								"130"
 		}
-	}	
+	}
 
 	"FrontParticlePanel"
 	{
@@ -61,7 +61,7 @@
 			}
 		}
 
-		"paintbackground"						"0"	
+		"paintbackground"						"0"
 	}
 
 	"MatchDoors"
@@ -70,7 +70,7 @@
 		"fieldName"								"MatchDoors"
 		"xpos"									"0"
 		"ypos"									"0"
-		"zpos"									"2"		
+		"zpos"									"2"
 		"wide"									"f0"
 		"tall"									"f0"
 		"autoResize"							"0"
@@ -79,7 +79,7 @@
 		"enabled"								"1"
 		"fov"									"70"
 		"proportionaltoparent"					"1"
-		
+
 		"model"
 		{
 			"modelname"							"models/vgui/versus_doors.mdl"
@@ -103,7 +103,7 @@
 				"name"							"open"
 				"sequence"						"open"
 			}
-			
+
 			"animation"
 			{
 				"name"							"close"
@@ -132,11 +132,11 @@
 		"delta_item_x"							"37"
 		"delta_item_start_y"					"35"
 		"delta_item_end_y"						"35"
-		"PositiveColor"							"GreenLight"
+		"PositiveColor"							"BlueLight"
 		"NegativeColor"							"RedLight"
 		"delta_lifetime"						"1.5"
 		"delta_item_font"						"Quake"
-		
+
 		"TimePanelValue"
 		{
 			"ControlName"						"CExLabel"
@@ -152,7 +152,7 @@
 			"enabled"							"1"
 			"textAlignment"						"center"
 			"labelText"							"0:00"
-		}	
+		}
 	}
 
 	"BlueTeamPanel"
@@ -188,7 +188,7 @@
 			"enabled"							"1"
 			"border"							"TFFatLineBorderBlueBGOpaque"
 		}
-		
+
 		"BlueTeamImage"
 		{
 			"ControlName"						"ImagePanel"
@@ -203,7 +203,7 @@
 			"image"								"../hud/team_blue"
 			"scaleImage"						"1"
 		}
-		
+
 		"BlueTeamLabel"
 		{
 			"ControlName"						"CExLabel"
@@ -222,23 +222,23 @@
 			"enabled"							"1"
 			"centerwrap"						"1"
 		}
-		
+
 		"BlueLeaderAvatar"
 		{
 			"ControlName"						"CAvatarImagePanel"
 			"fieldName"							"BlueLeaderAvatar"
 			"xpos"								"11"
 			"ypos"								"10"
-			"zpos"								"5"	
+			"zpos"								"5"
 			"wide"								"35"
 			"tall"								"35"
 			"visible"							"1"
 			"enabled"							"1"
 			"image"								""
-			"scaleImage"						"1"	
+			"scaleImage"						"1"
 			"color_outline"						"52 48 45 255"
 		}
-		
+
 		"BlueLeaderAvatarBG"
 		{
 			"ControlName"						"EditablePanel"
@@ -252,7 +252,7 @@
 			"PaintBackgroundType"				"2"
 			"bgcolor_override"					"117 107 94 255"
 		}
-		
+
 		"BluePlayerList"
 		{
 			"ControlName"						"SectionedListPanel"
@@ -276,7 +276,7 @@
 				"tall"							"315"
 			}
 		}
-		
+
 		"BluePlayerListBG"
 		{
 			"ControlName"						"EditablePanel"
@@ -332,7 +332,7 @@
 			"enabled"							"1"
 			"border"							"TFFatLineBorderRedBGOpaque"
 		}
-		
+
 		"RedTeamImage"
 		{
 			"ControlName"						"ImagePanel"
@@ -347,7 +347,7 @@
 			"image"								"../hud/team_Red"
 			"scaleImage"						"1"
 		}
-		
+
 		"RedTeamLabel"
 		{
 			"ControlName"						"CExLabel"
@@ -366,7 +366,7 @@
 			"enabled"							"1"
 			"centerwrap"						"1"
 		}
-		
+
 		"RedLeaderAvatar"
 		{
 			"ControlName"						"CAvatarImagePanel"
@@ -379,10 +379,10 @@
 			"visible"							"1"
 			"enabled"							"1"
 			"image"								""
-			"scaleImage"						"1"	
+			"scaleImage"						"1"
 			"color_outline"						"52 48 45 255"
 		}
-		
+
 		"RedLeaderAvatarBG"
 		{
 			"ControlName"						"EditablePanel"
@@ -396,7 +396,7 @@
 			"PaintBackgroundType"				"2"
 			"bgcolor_override"					"117 107 94 255"
 		}
-		
+
 		"RedPlayerList"
 		{
 			"ControlName"						"SectionedListPanel"
@@ -420,7 +420,7 @@
 				"tall"							"315"
 			}
 		}
-		
+
 		"RedPlayerListBG"
 		{
 			"ControlName"						"EditablePanel"
@@ -442,7 +442,7 @@
 			}
 		}
 	}
-	
+
 	"RoundCounter"
 	{
 		"fieldName"								"RoundCounter"
@@ -453,12 +453,12 @@
 		"tall"									"15"
 		"visible"								"1"
 		"enabled"								"1"
-		
+
 		"starting_width"						"0"
 		"width_per_round"						"0"
 		"indicator_start_offset"				"2"
 		"indicator_max_wide"					"23"
-		
+
 		"RoundIndicatorPanel_kv"
 		{
 			"ypos"								"0"
@@ -468,7 +468,7 @@
 			"image"								"../vgui/replay/thumbnails/panels/Material_Transparent_Black_70"
 			"scaleimage"						"1"
 		}
-		
+
 		"RoundWinPanelRed_kv"
 		{
 			"ypos"								"0"
@@ -488,13 +488,13 @@
 			"image"								"../vgui/replay/thumbnails/panels/Panel_Blue"
 			"scaleimage"						"1"
 		}
-		
+
 		"Background"
 		{
 			"ypos"								"9999"
 		}
 	}
-	
+
 	"RoundSignModel"
 	{
 		"ControlName"							"CModelPanel"
@@ -503,7 +503,7 @@
 		"wide"									"0"
 	}
 	"CountdownLabelShadow"
-	{	
+	{
 		"ControlName"							"CExLabel"
 		"fieldName"								"CountdownLabelShadow"
 		"wide"									"0"
@@ -517,14 +517,14 @@
 		"tall"									"0"
 	}
 	"RankUpLabel"
-	{	
+	{
 		"ControlName"							"CExLabel"
 		"fieldName"								"RankUpLabel"
 		"wide"									"0"
 		"tall"									"0"
 	}
 	"RankUpShadowLabel"
-	{	
+	{
 		"ControlName"							"CExLabel"
 		"fieldName"								"RankUpShadowLabel"
 		"wide"									"0"
@@ -565,14 +565,14 @@
 			"color_portrait_bg_blue"			"62 81 101 205"
 			"color_portrait_bg_red_dead"		"31 16 14 237"
 			"color_portrait_bg_blue_dead"		"20 24 26 237"
-			"color_bar_health_high"				"70 50 168 225"
-			"color_bar_health_med"				"192 179 2 225"
-			"color_bar_health_low"				"198 47 42 245"
+			"color_bar_health_high"				"0 255 144 130"
+			"color_bar_health_med"				"255 180 55 255"
+			"color_bar_health_low"				"195 0 0 255"
 			"percentage_health_med"				"0.6"
 			"percentage_health_low"				"0.3"
 			"color_portrait_blend_dead_red"		"255 255 255 255"
 			"color_portrait_blend_dead_blue" 	"255 255 255 255"
-			
+
 		"playername"
 			{
 				"ControlName"	"CExLabel"
@@ -601,7 +601,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"../hud/class_scoutred"
-				"scaleImage"	"1"	
+				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 			}
 			"classimagebg"
@@ -613,21 +613,21 @@
 				"zpos"			"2"
 				"wide"			"f0"
 				"tall"			"12"
-				"visible"		"1"
-				"enabled"		"1"
+				"visible"		"0"
+				"enabled"		"0"
 				"PaintBackgroundType"	"0"
 				"proportionaltoparent"	"1"
 			}
 			"healthbar"
-			{	
+			{
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"healthbar"
-				"font"			"Quake"																		
+				"font"			"Quake"
 				"xpos"			"0"
 				"ypos"			"2"
 				"zpos"			"5"
 				"wide"			"f0"
-				"tall"			"14"				
+				"tall"			"14"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
@@ -635,19 +635,19 @@
 				"textAlignment"	"Left"
 				"dulltext"		"0"
 				"brighttext"	"0"
-				"bgcolor_override"		"80 80 80 0"
+				"bgcolor_override"		"80 80 80 80"
 				"proportionaltoparent"	"1"
 			}
 			"overhealbar"
-			{	
+			{
 				"ControlName"			"ContinuousProgressBar"
 				"fieldName"				"overhealbar"
-				"font"					"Quake"																		
+				"font"					"Quake"
 				"xpos"					"0"
 				"ypos"					"2"
 				"zpos"					"6"
 				"wide"					"f0"
-				"tall"					"14"				
+				"tall"					"14"
 				"autoResize"			"0"
 				"pinCorner"				"0"
 				"visible"				"1"
@@ -656,7 +656,7 @@
 				"dulltext"				"0"
 				"brighttext"			"0"
 				"bgcolor_override"	   	"0 0 0 0"
-				"fgcolor_override"	   	"255 255 255 80"
+				"fgcolor_override"	   	"255 255 255 160"
 				"proportionaltoparent"	"1"
 			}
 			"respawntime"
@@ -686,10 +686,10 @@
 				"wide"				"32"
 				"tall"				"32"
 				"visible"			"0"
-				"enabled"			"0"	
+				"enabled"			"0"
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.49"
-				"TFFont"					"HudFontSmallest"
+				"TFFont"					"Quake11"
 				"HealthDeathWarningColor"	"HUDDeathWarning"
 				"TextColor"					"HudOffWhite"
 			}
@@ -709,7 +709,7 @@
 				"image"			"../HUD/tournament_panel_brown"
 				"src_corner_height"	"22"
 				"src_corner_width"	"22"
-				"draw_corner_width"	"3"	
+				"draw_corner_width"	"3"
 				"draw_corner_height" 	"3"
 			}
 			"ReadyImage"
@@ -772,9 +772,9 @@
 				"tall"			"0"
 				"visible"		"0"
 				"enabled"		"0"
-				"image"			"../HUD/comp_player_status"	
+				"image"			"../HUD/comp_player_status"
 				"scaleImage"	"1"
-				"proportionaltoparent"	"1"	
+				"proportionaltoparent"	"1"
 			}
 			"SkullPanel"
 			{
@@ -786,10 +786,10 @@
 				"tall"			"0"
 				"visible"		"0"
 				"enabled"		"0"
-				"image"			"../HUD/comp_player_status_skull"	
+				"image"			"../HUD/comp_player_status_skull"
 				"scaleImage"	"1"
-				"proportionaltoparent"	"1"	
-				"fgcolor"		"255 255 255 255"
+				"proportionaltoparent"	"1"
+				"fgcolor"		"255 255 255 0"
 			}
 		}
 	}

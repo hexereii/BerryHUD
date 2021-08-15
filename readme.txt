@@ -93,3 +93,15 @@ Modified some of MinMode, next project for the HUD maybe?
 
 hexhud b3
 Added a shadow to "Frags" for cosmetic purposes (huditemeffectmeter_killstreak.res)
+100% fixed class select for minmode to be normal (Classselect.res)
+Fixed the Scoreboard to be consistent as well (scoreboard.res)
+Changed ammo font & numbers on minmode (hudammoweapons.res)
+Created 16:10 alternate files 
+Changed thematic for backpack info/explanation files (CharInfoLoadoutSubPanel.res, Border.res, BackpackPanel.res)
+Changed colours on the match HUD (HudMatchStatus.res)
+Fixed fonts (hopefully for good???)
+Changed damage numbers over-head to a different font (HudDamageAccount.res)
+Fixed shadows on ammo (HudAmmoWeapons.res)
+Changed colours on backpack for class icons (CharInfoLoadoutSubPanel.res)
+Updated backgrounds of the mainmenu + loadout/loading screens 
+Made some cleaner images for the main menu & loadout

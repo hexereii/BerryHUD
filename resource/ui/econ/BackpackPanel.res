@@ -440,7 +440,7 @@
 		"depressedFgColor_override"				"White"
 
 		"border_default"						"BlackTransparent70"
-		"border_armed"							"OrangeTransparent70"
+		"border_armed"							"NeonGreen"
 
 		"pin_to_sibling" 						"BackpackBG"
 		"pin_corner_to_sibling" 				"PIN_CENTER_LEFT"
@@ -479,7 +479,7 @@
 
 		"attriblabel"
 		{
-			"font"								"ItemFontAttribLarge"
+			"font"								"Quake12"
 			"xpos"								"0"
 			"ypos"								"30"
 			"zpos"								"2"
@@ -600,7 +600,7 @@
 		"paintbackground" 						"0"
 
 		"border_default"						"BlackTransparent70"
-		"border_armed"							"WhiteTransparent"
+		"border_armed"							"NeonGreen"
 
 		"pin_to_sibling" 						"SortByBG"
 		"pin_corner_to_sibling" 				"PIN_BOTTOMLEFT"
@@ -696,7 +696,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "WhiteTransparent"
+			"fgcolor_override" "GrayTransparent"
 		}
 
 		"CloseButton"
@@ -790,9 +790,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "White"
+			"armedFgColor_override" "NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 
 			"image_drawcolor"	"White"
 			"image_armedcolor"	"255 255 255 255"
@@ -871,7 +871,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "WhiteTransparent"
+			"fgcolor_override" "GrayTransparent"
 		}
 
 		"CloseButton"
@@ -1012,9 +1012,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "White"
+			"armedFgColor_override" "NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 
 			"image_drawcolor"	"White"
 			"image_armedcolor"	"255 255 255 255"
@@ -1074,7 +1074,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "WhiteTransparent"
 		}
 
 		"TextLabel"
@@ -1093,7 +1093,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "GrayTransparent"
 		}
 
 		"CloseButton"
@@ -1122,9 +1122,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "White"
+			"armedFgColor_override" "NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1216,9 +1216,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "White"
+			"armedFgColor_override" "NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 
 			"image_drawcolor"	"White"
 			"image_armedcolor"	"255 255 255 255"
@@ -1296,7 +1296,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "White"
 		}
 
 		"TextLabel"
@@ -1315,7 +1315,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "GrayTransparent"
 		}
 
 		"CloseButton"
@@ -1344,9 +1344,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "White"
+			"armedFgColor_override" "NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"

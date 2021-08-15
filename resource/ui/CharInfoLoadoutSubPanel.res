@@ -31,7 +31,7 @@
 		"class_distance_min"			"7"
 		"class_distance_max"			"100"
 
-		"itemcountcolor"				"OrangeLight"
+		"itemcountcolor"				"White"
 		"itemcountcolor_noitems"		"117 107 94 255"
 	}
 
@@ -66,8 +66,8 @@
 		"paintborder"					"1"
 
 		"FgColor_override"				"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"Red"
+		"depressedFgColor_override"		"Red"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -141,9 +141,9 @@
 		"paintbackground"				"0"
 		"paintborder"					"1"
 
-		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"FgColor_override"				"White"
+		"armedFgColor_override"			"Red"
+		"depressedFgColor_override"		"Red"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -217,9 +217,9 @@
 		"paintbackground"				"0"
 		"paintborder"					"1"
 
-		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"FgColor_override"				"White"
+		"armedFgColor_override"			"Red"
+		"depressedFgColor_override"		"Red"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -293,9 +293,9 @@
 		"paintbackground"				"0"
 		"paintborder"					"1"
 
-		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"FgColor_override"				"White"
+		"armedFgColor_override"			"Blue"
+		"depressedFgColor_override"		"Blue"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -369,9 +369,9 @@
 		"paintbackground"				"0"
 		"paintborder"					"1"
 
-		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"FgColor_override"				"White"
+		"armedFgColor_override"			"Blue"
+		"depressedFgColor_override"		"Blue"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -441,9 +441,9 @@
 		"paintbackground"				"0"
 		"paintborder"					"1"
 
-		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"FgColor_override"				"White"
+		"armedFgColor_override"			"Blue"
+		"depressedFgColor_override"		"Blue"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -518,8 +518,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"CharSelectGreen"
+		"depressedFgColor_override"		"CharSelectGreen"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -594,8 +594,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"CharSelectGreen"
+		"depressedFgColor_override"		"CharSelectGreen"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -670,8 +670,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"CharSelectGreen"
+		"depressedFgColor_override"		"CharSelectGreen"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -762,8 +762,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"GrayTransparent"
+		"depressedFgColor_override"		"GrayTransparent"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -833,8 +833,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"GrayTransparent"
+		"depressedFgColor_override"		"GrayTransparent"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -904,8 +904,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"GrayTransparent"
+		"depressedFgColor_override"		"GrayTransparent"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -971,8 +971,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"GrayTransparent"
+		"depressedFgColor_override"		"GrayTransparent"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -1042,8 +1042,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"GrayTransparent"
+		"depressedFgColor_override"		"GrayTransparent"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -1297,7 +1297,7 @@
 			"enabled"					"1"
 			"wrap"						"1"
 			"AllCaps"					"1"
-			"fgcolor_override" 			"BlueLight"
+			"fgcolor_override" 			"NeonGreen"
 		}
 
 		"TextLabel"
@@ -1346,9 +1346,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override"		"RedLight"
-			"depressedFgColor_override" "RedLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override"		"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PositionLabel"
@@ -1367,7 +1367,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"White"
 		}
 
 		"NextButton"
@@ -1397,9 +1397,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override" 	"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 	}
 
@@ -1443,7 +1443,7 @@
 			"enabled"					"1"
 			"wrap"						"1"
 			"AllCaps"					"1"
-			"fgcolor_override" 			"BlueLight"
+			"fgcolor_override" 			"NeonGreen"
 		}
 
 		"TextLabel"
@@ -1492,9 +1492,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override"		"RedLight"
-			"depressedFgColor_override" "RedLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override"		"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PrevButton"
@@ -1524,9 +1524,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override" 	"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PositionLabel"
@@ -1545,7 +1545,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"White"
 		}
 
 		"NextButton"
@@ -1575,9 +1575,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override" 	"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 	}
 
@@ -1621,7 +1621,7 @@
 			"enabled"					"1"
 			"AllCaps"					"1"
 			"wrap"						"1"
-			"fgcolor_override" 			"BlueLight"
+			"fgcolor_override" 			"NeonGreen"
 		}
 
 		"TextLabel"
@@ -1670,9 +1670,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override"		"RedLight"
-			"depressedFgColor_override" "RedLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override"		"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PrevButton"
@@ -1702,9 +1702,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override" 	"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PositionLabel"
@@ -1723,7 +1723,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"White"
 		}
 
 		"NextButton"
@@ -1753,9 +1753,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override" 	"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 	}
 
@@ -1799,7 +1799,7 @@
 			"enabled"					"1"
 			"AllCaps"					"1"
 			"wrap"						"1"
-			"fgcolor_override" 			"BlueLight"
+			"fgcolor_override" 			"NeonGreen"
 		}
 
 		"TextLabel"
@@ -1848,9 +1848,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override"		"RedLight"
-			"depressedFgColor_override" "RedLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override"		"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PrevButton"
@@ -1880,9 +1880,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override" 	"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PositionLabel"
@@ -1901,7 +1901,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"White"
 		}
 
 		"NextButton"
@@ -1931,9 +1931,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override" 	"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 	}
 
@@ -1977,7 +1977,7 @@
 			"enabled"					"1"
 			"wrap"						"1"
 			"AllCaps"					"1"
-			"fgcolor_override" 			"BlueLight"
+			"fgcolor_override" 			"NeonGreen"
 		}
 
 		"TextLabel"
@@ -2026,9 +2026,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override"		"RedLight"
-			"depressedFgColor_override" "RedLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override"		"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PrevButton"
@@ -2058,9 +2058,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override" 	"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PositionLabel"
@@ -2079,7 +2079,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"White"
 		}
 
 		"NextButton"
@@ -2109,9 +2109,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override" 	"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 	}
 
@@ -2155,7 +2155,7 @@
 			"enabled"					"1"
 			"wrap"						"1"
 			"AllCaps"					"1"
-			"fgcolor_override" 			"BlueLight"
+			"fgcolor_override" 			"NeonGreen"
 		}
 
 		"TextLabel"
@@ -2204,9 +2204,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override"		"RedLight"
-			"depressedFgColor_override" "RedLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override"		"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PrevButton"
@@ -2236,9 +2236,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override" 	"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PositionLabel"
@@ -2257,7 +2257,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"White"
 		}
 
 		"NextButton"
@@ -2287,9 +2287,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override" 	"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 	}
 
@@ -2332,7 +2332,7 @@
 			"enabled"					"1"
 			"AllCaps"					"1"
 			"wrap"						"1"
-			"fgcolor_override"			"BlueLight"
+			"fgcolor_override"			"NeonGreen"
 		}
 
 		"TextLabel"
@@ -2381,9 +2381,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override"		"RedLight"
-			"depressedFgColor_override" "RedLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override"		"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PrevButton"
@@ -2413,9 +2413,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"defaultFgColor_override" 	"WhiteTransparent"
+			"armedFgColor_override" 	"NeonGreen"
+			"depressedFgColor_override" "NeonGreen"
 		}
 
 		"PositionLabel"
@@ -2434,7 +2434,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"White"
 		}
 	}
 

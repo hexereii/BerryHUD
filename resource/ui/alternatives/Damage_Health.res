@@ -33,7 +33,7 @@
 		"textAlignment"					"center"
 		"fgcolor"						"Last Damage Done"
 		"font"							"Quake18"
-		"font_minmode"					"Quake24"
+		"font_minmode"					"Quake18"
 	}
 
 	"DamageAccountValueShadow"

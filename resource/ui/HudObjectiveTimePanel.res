@@ -1,5 +1,5 @@
 "Resource/UI/HudObjectiveTimePanel.res"
-{	
+{
 	"TimePanelBG"
 	{
 		"ControlName"				"EditablePanel"
@@ -13,7 +13,7 @@
 		"enabled"					"1"
 		"border"					"BlackTransparent70"
 	}
-	
+
 	"ServerTimeLimitLabel"
 	{
 		"ControlName"				"CExLabel"
@@ -32,19 +32,19 @@
 		"wrap"						"0"
 		"font"						"Quake"
 		"fgcolor"					"White"
-		
+
 		"pin_to_sibling"			"TimePanelBG"
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"		"PIN_CENTER_BOTTOM"
 	}
-	
+
 	"TimePanelProgressBar"
 	{
 		"ControlName"				"CTFProgressBar"
 		"fieldName"					"TimePanelProgressBar"
 		"xpos"						"9999"
 	}
-	
+
 	"WaitingForPlayersLabel"
 	{
 		"ControlName"				"CExLabel"
@@ -63,18 +63,18 @@
 		"wrap"						"0"
 		"font"						"Quake"
 		"fgcolor"					"White"
-		
+
 		"pin_to_sibling"			"TimePanelBG"
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"		"PIN_CENTER_BOTTOM"
-	}			
-	
+	}
+
 	"OvertimeLabel"
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"OvertimeLabel"
 		"xpos"						"0"
-		"ypos"						"-2"
+		"ypos"						"0"
 		"zpos"						"5"
 		"wide"						"100"
 		"tall"						"12"
@@ -86,13 +86,13 @@
 		"brighttext"				"0"
 		"wrap"						"0"
 		"font"						"Quake"
-		"fgcolor"					"White"
-		
+		"fgcolor"					"RedLight"
+
 		"pin_to_sibling"			"TimePanelBG"
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"		"PIN_CENTER_BOTTOM"
 	}
-	
+
 	"SuddenDeathLabel"
 	{
 		"ControlName"				"CExLabel"
@@ -111,12 +111,12 @@
 		"wrap"						"0"
 		"font"						"Quake"
 		"fgcolor"					"White"
-		
+
 		"pin_to_sibling"			"TimePanelBG"
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"		"PIN_CENTER_BOTTOM"
 	}
-	
+
 	"SetupLabel"
 	{
 		"ControlName"				"CExLabel"
@@ -135,16 +135,16 @@
 		"wrap"						"0"
 		"font"						"Quake"
 		"fgcolor"					"White"
-		
+
 		"pin_to_sibling"			"TimePanelBG"
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"		"PIN_CENTER_BOTTOM"
 	}
-	
-	
-	
-	
-	
+
+
+
+
+
 	"WaitingForPlayersBG"
 	{
 		"ControlName"				"CTFImagePanel"

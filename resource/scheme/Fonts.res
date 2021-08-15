@@ -9,7 +9,7 @@ Scheme
 	Fonts
 	{
 	////////////////////// MainMenu Fonts /////////////////////
-		
+
 		Astral
 		{
 			"1"
@@ -109,7 +109,7 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		
+
 		Nyan12
 		{
 			"1"
@@ -133,6 +133,30 @@ Scheme
 			}
 		}
 
+
+//Runescape Fonts
+		"Runescape20"
+		{
+			"1"
+			{
+				"name"		"Runescape UF Regular"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}
+		Nyan12
+		{
+			"1"
+			{
+				"name"		"Visitor TT1 BRK"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}
 	//Other stuff
 		"MatchPlayerName"
 		{
@@ -390,7 +414,7 @@ Scheme
 				"antialias" "1"
 				"outline"	"0"
 			}
-		}		
+		}
 		Quake16
 		{
 			"1"
@@ -3082,7 +3106,7 @@ Scheme
 	{
 		"1"
 		{
-			"font" "resource/scheme/fonts/Renogare.ttf" 
+			"font" "resource/scheme/fonts/Renogare.ttf"
 			"name" "Renogare Soft"
 		}
 		"2"
@@ -3092,18 +3116,23 @@ Scheme
 		}
 		"3"
 		{
-			"font" "resource/scheme/fonts/HandelGo.ttf"
+			"font" "resource/scheme/fonts/Quake.ttf"
 			"name" "HandelGothic BT"
 		}
 		"4"
 		{
-			"font" "resource/scheme/fonts/visitor1.ttf"
+			"font" "resource/scheme/fonts/Nyan.ttf"
 			"name" "Visitor TT1 BRK"
 		}
 		"5"
 		{
 		"font"  "resource/scheme/fonts/Astral Delight Upright.ttf"
 		"name" "Astral Delight Upright"
+		}
+		"6"
+		{
+		"font"  "resource/scheme/fonts/runescape.ttf"
+		"name" "Runescape UF Regular"
 		}
 	}
 }

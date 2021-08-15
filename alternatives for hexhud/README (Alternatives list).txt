@@ -23,6 +23,9 @@ STILL WIP, NOT FUNCTIONAL IN THIS VERSION!
 **If you don't use widescreen, this is for you!!**
 Just drag the resource folder into your main directory to the main folder & it will fix the main menu for you!!
 
+16 by 10 version 
+Just drag the resource & scripts folders into your main directory to the main folder & it will fix the main menu for you!!
+
 Galaxy backgrounds
 ***Drag the folders out of Galaxy Backgrounds!!***
 Credits to Ellie (@address.astro on insta)
