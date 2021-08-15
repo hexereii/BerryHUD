@@ -5,6 +5,8 @@ special thanks to Millie, Peaches, Sammy, Kynsum, Sirc, huds.tf discord, & more 
 also check out my Medic Config;
 tinyurl.com/hexmedcfg
 
+IMGUR FOLDER:
+https://imgur.com/gallery/JmFQcMl
 
 TODO LIST;
 - HexHUD; Highlander version/Prolander/Casual version
@@ -12,6 +14,9 @@ TODO LIST;
 - Maybe add mat_antialias button?
 - Center the current-on-wearer atributes label
 - Make a button to open/close customization options, and move customization options
+- Change colour schemes of the backpack
+- Fix up Spy UI
+- Fix up Engi UI
 
 Patch Notes:
 
