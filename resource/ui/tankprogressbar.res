@@ -54,7 +54,7 @@
 		"fieldName"			"NewProgressBarBG"
 		"xpos"				"7"
 		"ypos"				"2"
-		//"ypos_minmode"		"0"
+		////"xpos_minmode"		"0"
 		"zpos"				"0"
 		"wide"				"174"
 		"tall"				"14"

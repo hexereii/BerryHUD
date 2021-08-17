@@ -15,7 +15,7 @@
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"				"Black"
-		"infocus_bgcolor_override" 		"NeonGreen"
+		"infocus_bgcolor_override" 		"Black"
 		"outoffocus_bgcolor_override" 	"Black"
 
 		"item_xpos_offcenter_a"	"70"
@@ -42,13 +42,13 @@
 			"wide"			"150"
 			"tall"			"70"
 			"visible"		"0"
-			"bgcolor_override"		"0 0 0 0"
-			"noitem_textcolor"		"117 107 94 255"
+			"bgcolor_override"		"BlackTransparent"
+			"noitem_textcolor"		"Black"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
 
 			"model_center_x"        "1"
-            "model_ypos"                "5"
+      "model_ypos"                "5"
 			"model_tall"                "55"
 			"model_wide"                "82"
 			"text_ypos"                        "54"
@@ -261,8 +261,8 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
+		"bgcolor_override"		"White"
+		"noitem_textcolor"		"White"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 
@@ -307,7 +307,7 @@
 		"enabled"		"1"
 		"labelText"		""
 		"textAlignment"	"south"
-		"fgcolor"		"255 215 0 255"
+		"fgcolor"		"White"
 		"centerwrap"	"1"
 	}
 

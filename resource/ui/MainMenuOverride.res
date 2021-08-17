@@ -550,8 +550,8 @@
 			"paintbackground"			"0"
 
 			"defaultFgColor_override"	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override"	"NeonGreen"
+			"armedFgColor_override"		"BlueLight"
+			"depressedFgColor_override"	"BlueLight"
 
 			"proportionaltoparent"		"1"
 		}
@@ -598,8 +598,8 @@
 			"paintbackground"			"0"
 
 			"defaultFgColor_override"	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override"	"NeonGreen"
+			"armedFgColor_override"		"BlueLight"
+			"depressedFgColor_override"	"BlueLight"
 
 			"proportionaltoparent"		"1"
 		}
@@ -646,8 +646,8 @@
 			"paintbackground"			"0"
 
 			"defaultFgColor_override"	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override"	"NeonGreen"
+			"armedFgColor_override"		"BlueLight"
+			"depressedFgColor_override"	"BlueLight"
 
 			"proportionaltoparent"		"1"
 		}
@@ -694,8 +694,8 @@
 			"paintbackground"			"0"
 
 			"defaultFgColor_override"	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override"	"NeonGreen"
+			"armedFgColor_override"		"BlueLight"
+			"depressedFgColor_override"	"BlueLight"
 
 			"proportionaltoparent"		"1"
 		}
@@ -756,10 +756,10 @@
 		}
 	}
 
-	"SubwaySandwich"
+	"Create"
 	{
 		"ControlName"		"EditablePanel"
-		"fieldname"			"SubwaySandwich"
+		"fieldname"			"Create"
 		"xpos"				"c-417"
 		"ypos"				"102"
 		"zpos"				"15"

@@ -3,9 +3,9 @@
 	HudWeaponAmmo
 	{
 		"xpos"						"0"
-		"xpos_minmode"				"0"
+		//"xpos_minmode"				"0"
 		"ypos"						"0"
-		"ypos_minmode"				"0"
+		//"xpos_minmode"				"0"
 		"wide"						"f0"
 		"tall"						"480"
 	}
@@ -18,18 +18,16 @@
 		"tall"						"30"
 
 		"blue_active_xpos"			"36"
-		"blue_active_xpos_minmode"	"36"
 
 		"red_active_xpos"			"85"
-		"red_active_xpos_minmode"	"85"
 	}
 
 	HudMedicCharge
 	{
 		"xpos"						"0"
-		"xpos_minmode"				"0"
+		//"xpos_minmode"				"0"
 		"ypos"						"0"
-		"ypos_minmode"				"0"
+		//"xpos_minmode"				"0"
 		"wide"						"f0"
 		"tall"						"480"
 	}
@@ -37,11 +35,11 @@
 	HudDemomanCharge
 	{
 		"xpos"						"0"
-		"xpos_minmode"				"0"
+		//"xpos_minmode"				"0"
 		"ypos"						"0"
-		"ypos_minmode"				"0"
+		//"xpos_minmode"				"0"
 		"wide"						"f0"
-		"wide_minmode"				"f0"
+		//"wide_minmode"				"f0"
 		"tall"						"480"
 	}
 
@@ -54,9 +52,9 @@
 	HudDemomanPipes
 	{
 		"xpos"						"0"
-		"xpos_minmode"				"0"
+		//"xpos_minmode"				"0"
 		"ypos"						"0"
-		"ypos_minmode"				"0"
+		//"xpos_minmode"				"0"
 		"wide"						"f0"
 		"tall"						"480"
 	}
@@ -85,7 +83,7 @@
 	{
 		"xpos"						"0"
 		"ypos"						"0"
-		"ypos_minmode"				"0"
+		//"xpos_minmode"				"0"
 		"wide"						"f0"
 		"tall"						"480"
 	}
@@ -109,7 +107,7 @@
 	{
 		"xpos"						"c-20"
 		"ypos"						"r110"
-		"ypos_minmode"				"r110"
+		//"xpos_minmode"				"r110"
 		"wide"						"f0"
 		"tall"  					"480"
 	}
@@ -117,9 +115,9 @@
 	CHealthAccountPanel
 	{
 		"xpos"						"c-162"
-		"xpos_minmode"				"c-183"
+		//"xpos_minmode"				"c-183"
 		"ypos"						"r115"
-		"ypos_minmode"				"r54"
+		//"xpos_minmode"				"r54"
 		"wide"						"f0"
 		"tall"  					"20"
 	}
@@ -148,21 +146,21 @@
 	{
 		"ypos"						"285"
 		"tall"	 					"28"
-		"tall_minmode"	 			"28"
+		//"tall_minmode"	 			"28"
 	}
 
 	CSpectatorTargetID
 	{
 		"ypos"						"285"
 		"tall"	 					"28"
-		"tall_minmode"	 			"28"
+		//"tall_minmode"	 			"28"
 	}
 
 	CSecondaryTargetID
 	{
 		"ypos"						"310"	//340
 		"tall"	 					"28"
-		"tall_minmode"	 			"28"
+		//"tall_minmode"	 			"28"
 	}
 
 	"BuildingAnchor"

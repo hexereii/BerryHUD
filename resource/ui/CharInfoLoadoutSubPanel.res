@@ -31,7 +31,7 @@
 		"class_distance_min"			"7"
 		"class_distance_max"			"100"
 
-		"itemcountcolor"				"White"
+		"itemcountcolor"				"NeonGreen"
 		"itemcountcolor_noitems"		"117 107 94 255"
 	}
 
@@ -66,8 +66,8 @@
 		"paintborder"					"1"
 
 		"FgColor_override"				"White"
-		"armedFgColor_override"			"Red"
-		"depressedFgColor_override"		"Red"
+		"armedFgColor_override"			"CharSelectRed"
+		"depressedFgColor_override"		"CharSelectRed"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -141,9 +141,9 @@
 		"paintbackground"				"0"
 		"paintborder"					"1"
 
-		"FgColor_override"				"White"
-		"armedFgColor_override"			"Red"
-		"depressedFgColor_override"		"Red"
+		"defaultFgColor_override"		"White"
+		"armedFgColor_override"			"CharSelectRed"
+		"depressedFgColor_override"		"CharSelectRed"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -217,9 +217,9 @@
 		"paintbackground"				"0"
 		"paintborder"					"1"
 
-		"FgColor_override"				"White"
-		"armedFgColor_override"			"Red"
-		"depressedFgColor_override"		"Red"
+		"defaultFgColor_override"		"White"
+		"armedFgColor_override"			"CharSelectRed"
+		"depressedFgColor_override"		"CharSelectRed"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -293,9 +293,9 @@
 		"paintbackground"				"0"
 		"paintborder"					"1"
 
-		"FgColor_override"				"White"
-		"armedFgColor_override"			"Blue"
-		"depressedFgColor_override"		"Blue"
+		"defaultFgColor_override"		"White"
+		"armedFgColor_override"			"CharSelectBlue"
+		"depressedFgColor_override"		"CharSelectBlue"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -369,9 +369,9 @@
 		"paintbackground"				"0"
 		"paintborder"					"1"
 
-		"FgColor_override"				"White"
-		"armedFgColor_override"			"Blue"
-		"depressedFgColor_override"		"Blue"
+		"defaultFgColor_override"		"White"
+		"armedFgColor_override"			"CharSelectBlue"
+		"depressedFgColor_override"		"CharSelectBlue"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -441,9 +441,9 @@
 		"paintbackground"				"0"
 		"paintborder"					"1"
 
-		"FgColor_override"				"White"
-		"armedFgColor_override"			"Blue"
-		"depressedFgColor_override"		"Blue"
+		"defaultFgColor_override"		"White"
+		"armedFgColor_override"			"CharSelectBlue"
+		"depressedFgColor_override"		"CharSelectBlue"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -481,8 +481,8 @@
 		"paintborder"					"0"
 
 		"defaultFgColor_override"		"Shadows"
-		"armedFgColor_override"			"Shadows"
-		"depressedFgColor_override"		"Shadows"
+		"armedFgColor_override"			"CharSelectBlue"
+		"depressedFgColor_override"		"CharSelectBlue"
 
 		"pin_to_sibling" 				"EngineerCustom"
 	}
@@ -519,7 +519,7 @@
 
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"CharSelectGreen"
-		"depressedFgColor_override"		"CharSelectGreen"
+		"depressedFgColor_override"		"White"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -762,8 +762,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"GrayTransparent"
-		"depressedFgColor_override"		"GrayTransparent"
+		"armedFgColor_override"			"White"
+		"depressedFgColor_override"		"White"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -833,8 +833,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"GrayTransparent"
-		"depressedFgColor_override"		"GrayTransparent"
+		"armedFgColor_override"			"White"
+		"depressedFgColor_override"		"White"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -904,8 +904,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"GrayTransparent"
-		"depressedFgColor_override"		"GrayTransparent"
+		"armedFgColor_override"			"White"
+		"depressedFgColor_override"		"White"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -971,8 +971,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"GrayTransparent"
-		"depressedFgColor_override"		"GrayTransparent"
+		"armedFgColor_override"			"White"
+		"depressedFgColor_override"		"White"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -1042,8 +1042,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"GrayTransparent"
-		"depressedFgColor_override"		"GrayTransparent"
+		"armedFgColor_override"			"White"
+		"depressedFgColor_override"		"White"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -1269,7 +1269,7 @@
 		"visible"						"0"
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
-		"border"						"ToolTipBorder"
+		"border"						"BlackTransparent70"
 
 		"force_close"					"1"
 		"end_x"							"c-150"
@@ -1297,7 +1297,7 @@
 			"enabled"					"1"
 			"wrap"						"1"
 			"AllCaps"					"1"
-			"fgcolor_override" 			"NeonGreen"
+			"fgcolor_override" 			"BlackTransparent90"
 		}
 
 		"TextLabel"
@@ -1346,9 +1346,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override" "NeonGreen"
+			"defaultFgColor_override" 	"BlackTransparent90"
+			"armedFgColor_override"		"RedLight"
+			"depressedFgColor_override" "RedLight"
 		}
 
 		"PositionLabel"
@@ -1367,7 +1367,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"White"
+			"fgcolor_override" 			"NeonGreen"
 		}
 
 		"NextButton"
@@ -1397,7 +1397,7 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
+			"defaultFgColor_override" 	"BlackTransparent90"
 			"armedFgColor_override" 	"NeonGreen"
 			"depressedFgColor_override" "NeonGreen"
 		}
@@ -1415,7 +1415,7 @@
 		"visible"						"0"
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
-		"border"						"ToolTipBorder"
+		"border"						"BlackTransparent90"
 
 		"force_close"					"1"
 		"end_x"							"c-247"
@@ -1443,7 +1443,7 @@
 			"enabled"					"1"
 			"wrap"						"1"
 			"AllCaps"					"1"
-			"fgcolor_override" 			"NeonGreen"
+			"fgcolor_override" 			"BlackTransparent90"
 		}
 
 		"TextLabel"
@@ -1492,9 +1492,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override" "NeonGreen"
+			"defaultFgColor_override" 	"BlackTransparent90"
+			"armedFgColor_override"		"RedLight"
+			"depressedFgColor_override" "RedLight"
 		}
 
 		"PrevButton"
@@ -1524,7 +1524,7 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
+			"defaultFgColor_override" 	"BlackTransparent90"
 			"armedFgColor_override" 	"NeonGreen"
 			"depressedFgColor_override" "NeonGreen"
 		}
@@ -1545,7 +1545,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"White"
+			"fgcolor_override" 			"NeonGreen"
 		}
 
 		"NextButton"
@@ -1575,7 +1575,7 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
+			"defaultFgColor_override" 	"BlackTransparent90"
 			"armedFgColor_override" 	"NeonGreen"
 			"depressedFgColor_override" "NeonGreen"
 		}
@@ -1593,7 +1593,7 @@
 		"visible"						"0"
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
-		"border"						"ToolTipBorder"
+		"border"						"BlackTransparent90"
 
 		"force_close"					"1"
 		"end_x"							"c-187"
@@ -1621,7 +1621,7 @@
 			"enabled"					"1"
 			"AllCaps"					"1"
 			"wrap"						"1"
-			"fgcolor_override" 			"NeonGreen"
+			"fgcolor_override" 			"BlackTransparent90"
 		}
 
 		"TextLabel"
@@ -1670,9 +1670,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override" "NeonGreen"
+			"defaultFgColor_override" 	"BlackTransparent90"
+			"armedFgColor_override"		"RedLight"
+			"depressedFgColor_override" "RedLight"
 		}
 
 		"PrevButton"
@@ -1702,7 +1702,7 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
+			"defaultFgColor_override" 	"BlackTransparent90"
 			"armedFgColor_override" 	"NeonGreen"
 			"depressedFgColor_override" "NeonGreen"
 		}
@@ -1723,7 +1723,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"White"
+			"fgcolor_override" 			"NeonGreen"
 		}
 
 		"NextButton"
@@ -1753,7 +1753,7 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
+			"defaultFgColor_override" 	"BlackTransparent90"
 			"armedFgColor_override" 	"NeonGreen"
 			"depressedFgColor_override" "NeonGreen"
 		}
@@ -1771,7 +1771,7 @@
 		"visible"						"0"
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
-		"border"						"ToolTipBorder"
+		"border"						"BlackTransparent90"
 
 		"force_close"					"1"
 		"end_x"							"c-125"
@@ -1799,7 +1799,7 @@
 			"enabled"					"1"
 			"AllCaps"					"1"
 			"wrap"						"1"
-			"fgcolor_override" 			"NeonGreen"
+			"fgcolor_override" 			"BlackTransparent90"
 		}
 
 		"TextLabel"
@@ -1848,9 +1848,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override" "NeonGreen"
+			"defaultFgColor_override" 	"BlackTransparent90"
+			"armedFgColor_override"		"RedLight"
+			"depressedFgColor_override" "RedLight"
 		}
 
 		"PrevButton"
@@ -1880,7 +1880,7 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
+			"defaultFgColor_override" 	"BlackTransparent90"
 			"armedFgColor_override" 	"NeonGreen"
 			"depressedFgColor_override" "NeonGreen"
 		}
@@ -1901,7 +1901,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"White"
+			"fgcolor_override" 			"NeonGreen"
 		}
 
 		"NextButton"
@@ -1931,7 +1931,7 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
+			"defaultFgColor_override" 	"BlackTransparent90"
 			"armedFgColor_override" 	"NeonGreen"
 			"depressedFgColor_override" "NeonGreen"
 		}
@@ -1949,7 +1949,7 @@
 		"visible"						"0"
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
-		"border"						"ToolTipBorder"
+		"border"						"BlackTransparent90"
 
 		"force_close"					"1"
 		"end_x"							"c-65"
@@ -1977,7 +1977,7 @@
 			"enabled"					"1"
 			"wrap"						"1"
 			"AllCaps"					"1"
-			"fgcolor_override" 			"NeonGreen"
+			"fgcolor_override" 			"BlackTransparent90"
 		}
 
 		"TextLabel"
@@ -2026,9 +2026,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override" "NeonGreen"
+			"defaultFgColor_override" 	"BlackTransparent90"
+			"armedFgColor_override"		"RedLight"
+			"depressedFgColor_override" "RedLight"
 		}
 
 		"PrevButton"
@@ -2058,7 +2058,7 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
+			"defaultFgColor_override" 	"BlackTransparent90"
 			"armedFgColor_override" 	"NeonGreen"
 			"depressedFgColor_override" "NeonGreen"
 		}
@@ -2079,7 +2079,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"White"
+			"fgcolor_override" 			"NeonGreen"
 		}
 
 		"NextButton"
@@ -2109,7 +2109,7 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
+			"defaultFgColor_override" 	"BlackTransparent90"
 			"armedFgColor_override" 	"NeonGreen"
 			"depressedFgColor_override" "NeonGreen"
 		}
@@ -2127,7 +2127,7 @@
 		"visible"						"0"
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
-		"border"						"ToolTipBorder"
+		"border"						"BlackTransparent90"
 
 		"force_close"					"1"
 		"end_x"							"c-3"
@@ -2155,7 +2155,7 @@
 			"enabled"					"1"
 			"wrap"						"1"
 			"AllCaps"					"1"
-			"fgcolor_override" 			"NeonGreen"
+			"fgcolor_override" 			"BlackTransparent90"
 		}
 
 		"TextLabel"
@@ -2204,9 +2204,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override" "NeonGreen"
+			"defaultFgColor_override" 	"BlackTransparent90"
+			"armedFgColor_override"		"RedLight"
+			"depressedFgColor_override" "RedLight"
 		}
 
 		"PrevButton"
@@ -2236,7 +2236,7 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
+			"defaultFgColor_override" 	"BlackTransparent90"
 			"armedFgColor_override" 	"NeonGreen"
 			"depressedFgColor_override" "NeonGreen"
 		}
@@ -2257,7 +2257,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"White"
+			"fgcolor_override" 			"NeonGreen"
 		}
 
 		"NextButton"
@@ -2287,7 +2287,7 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
+			"defaultFgColor_override" 	"BlackTransparent90"
 			"armedFgColor_override" 	"NeonGreen"
 			"depressedFgColor_override" "NeonGreen"
 		}
@@ -2305,7 +2305,7 @@
 		"visible"						"0"
 		"PaintBackgroundType"			"2"
 		"paintbackground" 				"0"
-		"border"						"ToolTipBorder"
+		"border"						"BlackTransparent90"
 
 		"force_close"					"1"
 		"end_x"							"c220"
@@ -2332,7 +2332,7 @@
 			"enabled"					"1"
 			"AllCaps"					"1"
 			"wrap"						"1"
-			"fgcolor_override"			"NeonGreen"
+			"fgcolor_override"			"BlackTransparent90"
 		}
 
 		"TextLabel"
@@ -2381,9 +2381,9 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
-			"armedFgColor_override"		"NeonGreen"
-			"depressedFgColor_override" "NeonGreen"
+			"defaultFgColor_override" 	"BlackTransparent90"
+			"armedFgColor_override"		"RedLight"
+			"depressedFgColor_override" "RedLight"
 		}
 
 		"PrevButton"
@@ -2413,7 +2413,7 @@
 
 			"paintbackground"			"0"
 
-			"defaultFgColor_override" 	"WhiteTransparent"
+			"defaultFgColor_override" 	"BlackTransparent90"
 			"armedFgColor_override" 	"NeonGreen"
 			"depressedFgColor_override" "NeonGreen"
 		}
@@ -2434,7 +2434,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"White"
+			"fgcolor_override" 			"NeonGreen"
 		}
 	}
 

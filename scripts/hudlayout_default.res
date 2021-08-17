@@ -17,9 +17,9 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"r95"	[$WIN32]
-		"xpos_minmode"	"r85"	[$WIN32]
+		//"xpos_minmode"	"r85"	[$WIN32]
 		"ypos"	"r55"	[$WIN32]
-		"ypos_minmode"	"r36"	[$WIN32]
+		//"xpos_minmode"	"r36"	[$WIN32]
 		"xpos"	"r131"	[$X360]
 		"ypos"	"r77"	[$X360]
 		"wide"	"94"
@@ -48,10 +48,8 @@
 		"tall"	"160"
 
 		"blue_active_xpos"			"16"
-		"blue_active_xpos_minmode"	"55"
 
 		"red_active_xpos"			"106"
-		"red_active_xpos_minmode"	"105"
 	}
 
 	HudItemEffectMeter
@@ -60,9 +58,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
+		//"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r50"	[$WIN32]
+		//"xpos_minmode"	"r50"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"100"
@@ -77,9 +75,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r138"	[$WIN32]
-		"xpos_minmode"	"r100"	[$WIN32]
+		//"xpos_minmode"	"r100"	[$WIN32]
 		"ypos"			"r69"	[$WIN32]
-		"ypos_minmode"	"r34"	[$WIN32]
+		//"xpos_minmode"	"r34"	[$WIN32]
 		"xpos"			"r174"	[$X360]
 		"ypos"			"r90"	[$X360]
 		"wide"			"200"
@@ -92,14 +90,14 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
+		//"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
+		//"xpos_minmode"	"r40"	[$WIN32]
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"60"
-		"wide_minmode"	"50"
+		//"wide_minmode"	"50"
 		"tall"			"8"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -111,14 +109,14 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
+		//"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
+		//"xpos_minmode"	"r40"	[$WIN32]
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"60"
-		"wide_minmode"	"50"
+		//"wide_minmode"	"50"
 		"tall"			"8"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -130,14 +128,14 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
+		//"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
+		//"xpos_minmode"	"r40"	[$WIN32]
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"60"
-		"wide_minmode"	"50"
+		//"wide_minmode"	"50"
 		"tall"			"8"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -201,7 +199,7 @@
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"r162"	[$WIN32]
 		"ypos"					"r152"	[$WIN32]
-		"ypos_minmode"			"r134"	[$WIN32]
+		//"xpos_minmode"			"r134"	[$WIN32]
 		"xpos"					"r194"	[$X360]
 		"ypos"					"r174"	[$X360]
 		"wide"					"116"
@@ -215,9 +213,9 @@
 	{
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"					"76"
-		"xpos_minmode"			"61"
+		//"xpos_minmode"			"61"
 		"ypos"					"r152"
-		"ypos_minmode"			"r134"
+		//"xpos_minmode"			"r134"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -261,7 +259,7 @@
 		"ypos"		"285"
 		"wide"	 	"252"
 		"tall"	 	"35"
-		"tall_minmode"	 	"28"
+		//"tall_minmode"	 	"28"
 		"priority"	"40"
 		"priority_lodef"	"5"
 
@@ -281,7 +279,7 @@
 		"ypos"		"250"
 		"wide"	 	"252"
 		"tall"	 	"35"
-		"tall_minmode"	 	"28"
+		//"tall_minmode"	 	"28"
 		"priority"	"40"
 		"priority_lodef" "35"
 
@@ -298,7 +296,7 @@
 		"ypos"		"335"
 		"wide"	 	"252"
 		"tall"	 	"35"
-		"tall_minmode"	 	"28"
+		//"tall_minmode"	 	"28"
 		"priority"	"35"
 
 		if_vr
@@ -1037,9 +1035,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
-		"xpos_minmode"	"r110"	[$WIN32]
+		//"xpos_minmode"	"r110"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r30"	[$WIN32]
+		//"xpos_minmode"	"r30"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"100"
@@ -1152,7 +1150,7 @@
 		"enabled"				"1"
 		"xpos"					"c-160"
 		"ypos"					"5"
-		"ypos_minmode"				"15"
+		//"xpos_minmode"				"15"
 		"ypos_lodef"				"75"
 		"wide"					"125"
 		"tall"					"70"

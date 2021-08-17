@@ -5,16 +5,15 @@
 		"fieldName"				"HudItemEffectMeter"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"r140"
-		"ypos"					"0"
+		"xpos"					"c-207"
+		"ypos"					"r122"
 		"zpos"					"50"
-		"wide"					"134"
-		"tall"					"22"
+		"wide"					"100"
+		"tall"					"15"
 		"MeterFG"				"White"
-		"MeterBG"				"Black"
-		"bgcolor_override"		"Blank"
+		"MeterBG"				"Gray"
 	}
-
+	
 	"KillstreakLabel"
 	{
 		"ControlName"			"CExLabel"
@@ -23,7 +22,7 @@
 		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"8"
-		"tall"					"15"
+		"tall"					"15"	
 		"pinCorner"				"2"
 		"visible"				"0"
 		"enabled"				"1"
@@ -34,54 +33,54 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Symbols 14"
-
-
+		
+		
 		"pin_to_sibling"		"ItemEffectMeterCount"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
-
+	
 	"KillstreakLabelShadow"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"KillstreakLabelShadow"
 		"xpos"					"-1"
 		"ypos"					"-1"
-		"zpos"					"1"
+		"zpos"					"1"	
 		"wide"					"8"
 		"tall"					"15"
 		"visible"				"0"
 		"enabled"				"1"
 		"labelText"				"H"
-		"textAlignment"			"west"
+		"textAlignment"			"east"	
 		"AllCaps"				"1"
 		"font"					"Symbols 14"
 		"fgcolor"				"Shadows"
-
+		
 		"pin_to_sibling"		"KillstreakLabel"
 	}
-
+	
 	"ItemEffectMeterCount"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"0"
+		"xpos"					"8"
 		"ypos"					"0"
 		"zpos"					"2"
-		"wide"					"134"
-		"auto_wide_tocontents"	"0"
-		"tall"					"22"
+		"wide"					"25"
+		"auto_wide_tocontents"	"1"
+		"tall"					"15"	
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
-		"textAlignment"			"east"
+		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Quake33"
+		"font"					"Quake18"
 	}
-
+	
 	"ItemEffectMeterCountShadow"
 	{
 		"ControlName"			"CExLabel"
@@ -89,23 +88,23 @@
 		"xpos"					"-1"
 		"ypos"					"-1"
 		"zpos"					"1"
-		"wide"					"134"
-		"auto_wide_tocontents"	"0"
-		"tall"					"22"
+		"wide"					"25"
+		"auto_wide_tocontents"	"1"
+		"tall"					"15"	
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
-		"textAlignment"			"east"
+		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Quake33"
+		"font"					"Quake18"
 		"fgcolor"				"Shadows"
-
+		
 		"pin_to_sibling"		"ItemEffectMeterCount"
 	}
-
+	
 	"ItemEffectMeterBG"
 	{
 		"ControlName"			"CTFImagePanel"
@@ -119,7 +118,7 @@
 		"xpos"					"9999"
 	}
 	"ItemEffectMeter"
-	{
+	{	
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"xpos"					"9999"

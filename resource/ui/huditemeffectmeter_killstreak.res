@@ -12,7 +12,7 @@
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
-
+	
 	"ItemEffectMeterBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -25,13 +25,13 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_blue"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_red"
 		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
 		"teambg_3"		"../hud/misc_ammo_area_blue"
-		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"
+		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
 	}
-
+	
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"			"CExLabel"
@@ -51,7 +51,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Quake12"
-		"fgcolor_override"      "255 255 255 180"
+		"fgcolor_override"      "255 255 255 255"
 	}
 		"ItemEffectMeterLabelnew"
 	{
@@ -79,7 +79,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabelnew"
 		"xpos"					"26"
-		"ypos"					"28"
+		"ypos"					"27"
 		"zpos"					"2"
 		"wide"					"60"
 		"tall"					"15"
@@ -95,9 +95,9 @@
 		"font"					"Quake14"
 		"fgcolor_override"      "0 0 0 255"
 	}
-
+	
 	"ItemEffectMeter"
-	{
+	{	
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
@@ -105,7 +105,7 @@
 		"ypos"					"23"
 		"zpos"					"2"
 		"wide"					"40"
-		"tall"					"6"
+		"tall"					"6"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"0"
@@ -114,8 +114,8 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 
-	}
-
+	}					
+	
 	"ItemEffectMeterCount1"
 	{
 		"ControlName"			"CExLabel"
@@ -124,7 +124,7 @@
 		"ypos"					"24"
 		"zpos"					"2"
 		"wide"					"40"
-		"tall"					"20"
+		"tall"					"20"	
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
@@ -156,5 +156,5 @@
 		"fgcolor"				"Shadows"
 		"pin_to_sibling"		"ItemEffectMeterCount1"
 	}
-
+	
 }

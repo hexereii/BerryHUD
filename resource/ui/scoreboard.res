@@ -34,6 +34,7 @@
 		"ypos"			"cs-0.5"
 		"wide"			"0"
 		"tall"			"f195"
+		//"tall_minmode"	"f283"
 		"bgcolor_override"	"RoyalBluTransparent"
 	}
 	"BlueScoreBG"
@@ -89,6 +90,7 @@
 		"zpos"			"-1"
 		"wide"			"250"
 		"tall"			"176"
+		//"tall_minmode"	"98"
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"	"0 0 0 200"
@@ -155,6 +157,7 @@
 		"zpos"			"-1"
 		"wide"			"250"
 		"tall"			"176"
+		//"tall_minmode"	"98"
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"	"0 0 0 200"
@@ -393,6 +396,7 @@
 		{
 			"visible"	"1"
 			"ypos"		"-23"
+			//"xpos_minmode"	"21"
 			"wide"		"520"
 		}
 	}
@@ -499,6 +503,7 @@
 		"zpos"			"0"
 		"wide"			"254"
 		"tall"			"188"
+		//"tall_minmode"		"101"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -527,6 +532,7 @@
 		"zpos"			"0"
 		"wide"			"254"
 		"tall"			"188"
+		//"tall_minmode"		"101"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"

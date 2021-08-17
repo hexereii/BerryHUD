@@ -5,18 +5,11 @@ special thanks to Millie, Peaches, Sammy, Kynsum, Sirc, huds.tf discord, & more 
 also check out my Medic Config;
 tinyurl.com/hexmedcfg
 
-IMGUR FOLDER:
-https://imgur.com/gallery/JmFQcMl
 
 TODO LIST;
-- HexHUD; Highlander version/Prolander/Casual version
-- Edit Class Select (HL; Make combo & flank class disinction/PL; Change main class & off class distinction/Casual Offense/Defence/Support)
 - Maybe add mat_antialias button?
 - Center the current-on-wearer atributes label
-- Make a button to open/close customization options, and move customization options
-- Change colour schemes of the backpack
-- Fix up Spy UI
-- Fix up Engi UI
+- Fix up the backpack a bit more; more distinguished colours
 
 Patch Notes:
 
@@ -91,7 +84,7 @@ Changed colors of borders on backpack (backpackpanel.res)
 
 hexhud b2
 Added new language options, taken from BudHUD (spanish, italian, german)
-Changed colour of dmg next to HP (HudDamageAccount.res)\
+Changed colour of dmg next to HP (HudDamageAccount.res)
 Renamed some files from "peach" to "hex"
 Cleaned up files/fixed some "bugs"
 Modified some of MinMode, next project for the HUD maybe?
@@ -101,12 +94,16 @@ Added a shadow to "Frags" for cosmetic purposes (huditemeffectmeter_killstreak.r
 100% fixed class select for minmode to be normal (Classselect.res)
 Fixed the Scoreboard to be consistent as well (scoreboard.res)
 Changed ammo font & numbers on minmode (hudammoweapons.res)
-Created 16:10 alternate files 
+Created 16:10 alternate files
 Changed thematic for backpack info/explanation files (CharInfoLoadoutSubPanel.res, Border.res, BackpackPanel.res)
 Changed colours on the match HUD (HudMatchStatus.res)
 Fixed fonts (hopefully for good???)
 Changed damage numbers over-head to a different font (HudDamageAccount.res)
 Fixed shadows on ammo (HudAmmoWeapons.res)
-Changed colours on backpack for class icons (CharInfoLoadoutSubPanel.res)
-Updated backgrounds of the mainmenu + loadout/loading screens 
-Made some cleaner images for the main menu & loadout
+
+hexhud b4
+Changed colours for the icons on the main menu loadout (CharInfoLoadoutSubPanel.res)
+Added a shadow to ubercharge (hudmediccharge.res)
+Created Class Select for Highlander mode (ClassSelection_HL.res)
+Changed colours on Class Select to match the loadout (ClassSelection.res)
+Added Runescape font & included it for damage numbers (fonts.res, HUDDamageAccount.res)

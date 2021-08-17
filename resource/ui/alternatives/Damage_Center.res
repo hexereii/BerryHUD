@@ -29,7 +29,7 @@
 		"labelText"						"%metal%"
 		"textAlignment"					"center"
 		"fgcolor"						"Last Damage Done"
-		"font"							"Quake18"
+		"font"							"Runescape20"
 	}
 
 	"DamageAccountValueShadow"
@@ -46,7 +46,7 @@
 		"labelText"						"%metal%"
 		"textAlignment"					"center"
 		"fgcolor"						"Shadows"
-		"font"							"Quake18"
+		"font"							"Runescape20"
 
 		"pin_to_sibling"				"DamageAccountValue"
 	}

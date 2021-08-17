@@ -254,7 +254,7 @@
 		"tall"			"180"
 		"visible"		"0"
 		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"White"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 

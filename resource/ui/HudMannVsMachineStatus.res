@@ -9,7 +9,7 @@
 		"zpos"				"0"
 		"wide"				"600"
 		"tall"				"67"
-		"ypos_minmode"		"-7"
+		//"xpos_minmode"		"-7"
 		"visible"			"1"
 		"enabled"			"1"
 	}

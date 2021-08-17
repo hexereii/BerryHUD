@@ -5,8 +5,9 @@
 //																							//
 //			  ***IMPORTANT: ASSIGN THE BUTTONS COMMANDS IN resource/gamemenu***				//
 //////////////////////////////////////////////////////////////////////////////////////////////
-"Resource/UI/MainMenuOverride.res"
 
+
+"Resource/UI/MainMenuOverride.res"
 {
 	"Custom1"
 	{
@@ -50,7 +51,7 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 
-			"border_default"			"White"
+			"border_default"			"BlackTransparent70"
 			"border_armed"				"NeonGreen"
 
 			"proportionaltoparent"		"1"
@@ -103,8 +104,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 
-			"border_default"			"White"
-			"border_armed"				"NeonGreen"
+			"border_default"			"BlueSolid"
+			"border_armed"				"OrangeSolid"
 
 			"proportionaltoparent"		"1"
 		}
@@ -156,8 +157,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 
-			"border_default"			"White"
-			"border_armed"				"NeonGreen"
+			"border_default"			"BlueSolid"
+			"border_armed"				"OrangeSolid"
 
 			"proportionaltoparent"		"1"
 		}
@@ -209,8 +210,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 
-			"border_default"			"White"
-			"border_armed"				"NeonGreen"
+			"border_default"			"BlueSolid"
+			"border_armed"				"OrangeSolid"
 
 			"proportionaltoparent"		"1"
 		}

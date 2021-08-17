@@ -33,9 +33,8 @@
 		"label" 		"HEXEDHUD"
 		"command" 		"engine clear
 				echo; echo; echo ---------;
-				echo HexedHUD | Current release: August 15, 2021;
-				echo HexedHUD | First release: May 30, 2021;
-				echo HexedHUD | Version: Beta 3
+				echo HexHUD | Current release: August 8, 2021;
+				echo HexHUD | First release: May 30, 2021;
 				echo Made by Hexereii;
 				echo Twitter	   | twitter.com/hexereiitf2;
 				echo Updates | github.com/hexereii/HexHUD;
@@ -43,10 +42,10 @@
 				showconsole"
 		"OnlyAtMenu" 	"1"
 	}
-	"SubwaySandwich"
+	"Create"
 	{
-		"label" 		"MGE"
-		"command" 		"engine connect 103.214.111.90:27015"
+		"label" 		"BOMBING BALCONY"
+		"command" 		"engine copper"
 		"OnlyAtMenu" 	"1"
 	}
 	"Servers"

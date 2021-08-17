@@ -923,9 +923,9 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"BlackTransparent70"
+			"color"					"GrayBluDark"
 
-			"image"					"replay/thumbnails/panels/Material_Transparent_Black_70"
+			"image"					"replay/thumbnails/panels/Material_Generic"
 			"src_corner_height"		"32"
 			"src_corner_width"		"32"
 			"draw_corner_width"		"8"

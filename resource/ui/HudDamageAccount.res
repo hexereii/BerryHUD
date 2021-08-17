@@ -28,11 +28,11 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"font"			"Quake20"
+		"font"			"Runescape20"
 
 	}
 	"DamageAccountValueShadow"
-	{
+	{}
 		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValueShadow"
 		"xpos"			"c-200"
