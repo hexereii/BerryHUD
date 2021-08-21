@@ -105,11 +105,14 @@
 
 	CHudAccountPanel
 	{
-		"xpos"						"c-20"
-		"ypos"						"r110"
-		//"xpos_minmode"				"r110"
-		"wide"						"f0"
-		"tall"  					"480"
+		"fieldName"				"CHudAccountPanel"
+		"xpos"					"c-50"
+		"ypos"					"c25"
+		"wide"					"100"
+		"tall"  				"100"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
 	}
 
 	CHealthAccountPanel
@@ -213,9 +216,9 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"xpos"						"320"
-		"ypos"						"265"
+		"ypos"						"325"
 		"wide"						"500"
-		"tall"						"100"
+		"tall"						"50"
 
 		"BgAlpha"					"0"
 

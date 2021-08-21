@@ -5,10 +5,10 @@
 		"delta_item_x"	"130"
 		"delta_item_start_y"	"1"
 		"delta_item_end_y"		"15"
-		"PositiveColor"			"0 255 0 155"
-		"NegativeColor"			"255 0 0 155"
+		"PositiveColor"			"Blue"
+		"NegativeColor"			"Yellow"
 		"delta_lifetime"		"1"
-		"delta_item_font"		"M0refont16"
+		"delta_item_font"		"Quake18"
 	}
 	
 	"AccountBG"
@@ -54,7 +54,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValue"
-		"xpos"			"0"
+		"xpos"			"-50"
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"200"
@@ -68,14 +68,14 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"M0refont24"
-		"fgcolor"   "255 255 255 255"
+		"font"			"Quake24"
+		"fgcolor"   "WhiteTransparent"
 	}
 	"AccountValueShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValueShadow"
-		"xpos"			"1"
+		"xpos"			"-48"
 		"ypos"			"1"
 		"zpos"			"2"
 		"wide"			"200"
@@ -89,7 +89,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"M0refont24"
+		"font"			"Quake24"
 		"fgcolor"   "0 0 0 255"
 	}
 }

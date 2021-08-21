@@ -116,3 +116,8 @@ Fixed up some Spy UI related things (HudPlayerClass.res, disguisestatuspanel.res
 Got & modified Hypnotize's tool selection (tools.res, gamemenu.res, mainmenuoverride.res); expect update with HL edition button next!
 Made the ammo & health slightly smaller (HudAmmoWeapons.res, HudPlayerHealth.res)
 Made the change between 6s & HL versions on the Class Select (ClassSelection.res, ClassSelection_HL.res)
+
+hexhud b5.1 
+Changed tall value on CC in hopes to not let it clutter the screen (hudlayout.res)
+Moved Engi metal (HudAccountValue.res, hudlayout.res)
+Decided to make the button for the server-connect to Tempus Chicago (GameMenu.res)
