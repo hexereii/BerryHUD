@@ -18,8 +18,8 @@
 	}
 	"SubwaySandwich"
 	{
-		"label" 		"BOMBING BALCONY"
-		"command" 		"engine copper"
+		"label" 		"TEMPUS CHICAGO"
+		"command" 		"engine connect chicago.tempus.xyz:27025"
 		"OnlyAtMenu" 	"1"
 	}
 	"Servers"
