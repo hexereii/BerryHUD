@@ -17,7 +17,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"AmmoInClip"
-		"font"						"Quake40"
+		"font"						"Quake33"
 		"fgcolor"					"Ammo In Clip"
 		"xpos"						"0"
 		"ypos"						"0"
@@ -38,7 +38,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"AmmoInClipShadow"
-		"font"						"Quake40"
+		"font"						"Quake33"
 		"fgcolor"					"Black"
 		"xpos"						"-1"
 		"ypos"						"-3"
@@ -56,10 +56,10 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"AmmoInReserve"
-		"font"						"Quake20"
+		"font"						"Quake18"
 		"fgcolor"					"Ammo In Reserve"
 		"xpos"						"0"
-		"ypos"						"0"
+		"ypos"						"-7"
 		"zpos"						"7"
 		"wide"						"40"
 		"tall"						"50"
@@ -77,10 +77,10 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"AmmoInReserveShadow"
-		"font"						"Quake20"
+		"font"						"Quake18"
 		"fgcolor"					"Black"
 		"xpos"						"-1"
-		"ypos"						"-3"
+		"ypos"						"-2"
 		"zpos"						"7"
 		"wide"						"40"
 		"tall"						"50"

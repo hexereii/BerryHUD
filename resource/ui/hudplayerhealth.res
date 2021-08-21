@@ -1,5 +1,5 @@
 "Resource/UI/HudPlayerHealth.res"
-{	
+{
 	"HudPlayerHealth"
 	{
 		"ControlName"				"EditablePanel"
@@ -10,12 +10,12 @@
 		"wide"						"f0"
 		"tall"						"480"
 		"visible"					"1"
-		"enabled"					"1"	
+		"enabled"					"1"
 		"HealthBonusPosAdj"			"35"
 		"HealthDeathWarning"		"0.5"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 	}
-	
+
 	"HealthAnchor"					//Use this to move the health
 	{
 		"ControlName"				"EditablePanel"
@@ -31,7 +31,7 @@
 		"visible"					"0"
 		"enabled"					"1"
 	}
-	
+
 	"PlayerStatusHealthBonusImage"
 	{
 		"ControlName"				"ImagePanel"
@@ -49,9 +49,9 @@
 		"visible"					"0"
 		"enabled"					"1"
 		"image"						"../hud/health_over_bg"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 	}
-	
+
 	"PlayerStatusHealthValue"
 	{
 		"ControlName"				"CExLabel"
@@ -66,16 +66,16 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"labelText"					"%Health%"
-		"textAlignment"				"center"	
-		"font"						"Quake40"
+		"textAlignment"				"center"
+		"font"						"Quake36"
 		//"font_minmode"				"Health Minmode"
 		"fgcolor"					"Health"
-		
+
 		"pin_to_sibling"			"HealthAnchor"
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"		"PIN_CENTER_TOP"
 	}
-	
+
 	"PlayerStatusHealthValueShadow"
 	{
 		"ControlName"				"CExLabel"
@@ -90,14 +90,14 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"labelText"					"%Health%"
-		"textAlignment"				"center"	
-		"font"						"Quake40"
+		"textAlignment"				"center"
+		"font"						"Quake36"
 		//"font_minmode"				"Health Minmode"
-		"fgcolor"					"Shadows"
-		
+		"fgcolor"					"Black"
+
 		"pin_to_sibling" 			"PlayerStatusHealthValue"
 	}
-	
+
 	"PlayerStatusHealthImage"
 	{
 		"ControlName"				"ImagePanel"
@@ -109,9 +109,9 @@
 		"tall"						"0"
 		"visible"					"0"
 		"enabled"					"0"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 	}
-	
+
 	"StatusIconsAnchor"				//Use this to move the status icons
 	{
 		"ControlName"				"EditablePanel"
@@ -124,7 +124,7 @@
 		"tall"						"50"
 		"visible"					"0"
 		"enabled"					"1"
-		
+
 		"pin_to_sibling"			"PlayerStatusHealthValue"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -142,10 +142,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../vgui/bleed_drop"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -163,10 +163,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../vgui/bleed_drop_grapple"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -184,10 +184,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../vgui/bleed_drop"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -205,10 +205,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../vgui/covered_in_gas"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -226,10 +226,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../vgui/marked_for_death"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -247,10 +247,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../vgui/marked_for_death"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -269,10 +269,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../HUD/defense_buff_bullet_blue"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -290,10 +290,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../HUD/defense_buff_explosion_blue"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -311,10 +311,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../HUD/defense_buff_fire_blue"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -333,10 +333,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../HUD/defense_buff_bullet_blue"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -354,10 +354,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../HUD/defense_buff_explosion_blue"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -375,15 +375,15 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../HUD/defense_buff_fire_blue"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
 	}
-	
+
 
 	"PlayerStatus_WheelOfDoom"
 	{
@@ -398,10 +398,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../signs/death_wheel_whammy"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -420,10 +420,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../HUD/defense_buff_bullet_blue"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -442,10 +442,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../HUD/defense_buff_bullet_blue"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -464,10 +464,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../HUD/defense_buff_bullet_blue"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -485,10 +485,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						""
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -506,10 +506,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						""
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -527,10 +527,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../Effects/powerup_strength_hud"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -548,10 +548,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../Effects/powerup_haste_hud"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -569,10 +569,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../Effects/powerup_regen_hud"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -590,10 +590,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../Effects/powerup_resist_hud"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -611,10 +611,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../Effects/powerup_vampire_hud"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -632,10 +632,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../Effects/powerup_reflect_hud"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -653,10 +653,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../Effects/powerup_precision_hud"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -674,10 +674,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../Effects/powerup_agility_hud"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -695,10 +695,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../Effects/powerup_knockout_hud"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -716,10 +716,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../Effects/powerup_king_hud"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -737,10 +737,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../Effects/powerup_plague_hud"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -758,10 +758,10 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../Effects/powerup_supernova_hud"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -779,15 +779,15 @@
 		//"tall_minmode"				"26"
 		"visible"					"1"
 		"enabled"					"1"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 		"image"						"../vgui/slowed"
 		"fgcolor"					"TanDark"
-		
+
 		"pin_to_sibling" 			"StatusIconsAnchor"
 		"pin_corner_to_sibling"		"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
 	}
-	
+
 	"PlayerStatusMaxHealthValue"
 	{
 		"ControlName"				"CExLabel"

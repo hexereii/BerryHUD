@@ -29,6 +29,9 @@ Scheme
 		"GrayBlu"								"165 175 200 255"
 		"GrayBluDark"							"145 155 180 255"
 
+		"BestTest"									"62 61 83 255"
+		"BestHover"								"204 17 0 255"
+		
 		"Blue"											"100 170 225 255"
 		"BlueLight"								"150 200 220 255"
 		"Blu"											"0 0 255 255"

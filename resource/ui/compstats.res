@@ -1,9 +1,9 @@
 "Resource/UI/CompStats.res"
 {
-	"BlueBackground"
+	"BlackBackground"
 	{
 		"ControlName"							"EditablePanel"
-		"fieldName"								"BlueBackground"
+		"fieldName"								"BlackBackground"
 		"xpos"									"7"
 		"ypos"									"55"
 		"zpos"									"-1"
@@ -11,7 +11,7 @@
 		"tall"									"315"
 		"visible"								"1"
 		"PaintBackground"						"0"
-		"border"								"BlueTransparent70"
+		"border"								"BlackTransparent70"
 	}
 
 	"ScrollableContainer"
@@ -96,7 +96,7 @@
 			"depressedFgColor_override"			"White"
 
 			"border_default"					"BlackTransparent70"
-			"border_armed"						"OrangeTransparent70"
+			"border_armed"						"NeonGreen"
 		}
 
 		"ShowMatchHistoryButton"
@@ -124,11 +124,11 @@
 			"paintbackground"					"0"
 
 			"defaultFgColor_override"			"White"
-			"armedFgColor_override"				"White"
-			"depressedFgColor_override"			"White"
+			"armedFgColor_override"				"NeonGreen"
+			"depressedFgColor_override"			"NeonGreen"
 
 			"border_default"					"BlackTransparent70"
-			"border_armed"						"OrangeTransparent70"
+			"border_armed"						"NeonGreen"
 		}
 
 		"PlaylistBGPanel"

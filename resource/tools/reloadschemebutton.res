@@ -19,8 +19,8 @@
 		"visible"			"0"				//1 to enable
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"RS"
-		"font"				"Default"
+		"labelText"			"RELOAD SCHEME"
+		"font"				"Astral"
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"

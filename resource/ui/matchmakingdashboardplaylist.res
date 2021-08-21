@@ -31,10 +31,10 @@
 		"font"							"Astral18"
 		"fgcolor_override"				"255 255 255 255"
 		"AllCaps"						"1"
-		
+
 		"mouseinputenabled"				"0"
 	}
-	
+
 	"Separator"
 	{
 		"ControlName"					"EditablePanel"
@@ -45,7 +45,7 @@
 		"wide"							"1"
 		"tall"							"40"
 		"bgcolor_override"				"Gray"
-		
+
 		"pin_to_sibling"				"Title"
 		"pin_corner_to_sibling"			"PIN_CENTER_LEFT"
 		"pin_to_sibling_corner"			"PIN_CENTER_RIGHT"
@@ -79,7 +79,7 @@
 		"proportionaltoparent"			"1"
 		"mouseinputenabled"				"0"
 	}
-	
+
 	"DashboardDimmer"
 	{
 		"ControlName"					"EditablePanel"
@@ -91,7 +91,7 @@
 		"tall"							"0"
 		"visible"						"0"
 		"PaintBackgroundType"			"0"
-		"border"						"noborder"
+		"border"						"WhiteTransparent"
 		"proportionaltoparent"			"1"
 		"mouseinputenabled"				"0"
 	}

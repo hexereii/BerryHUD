@@ -32,7 +32,7 @@
 
 			"matchgroup"					"MatchGroup_Casual_12v12"
 		}
-	
+
 		"RankPanel"
 		{
 			"ControlName"					"CPvPRankPanel"
@@ -51,7 +51,7 @@
 			"show_model"					"0"
 			"show_name"						"0"
 		}
-		
+
 		"ToolButtonsAnchor"
 		{
 			"ControlName"					"EditablePanel"
@@ -85,19 +85,19 @@
 			"brighttext"					"0"
 			"default"						"0"
 			"Command"						"restore_search_criteria"
-			
+
 			"actionsignallevel"				"2"
 			"proportionaltoparent"			"1"
-			
+
 			"paintbackground"				"0"
-		
+
 			"defaultFgColor_override"		"White"
 			"armedFgColor_override"			"White"
 			"depressedFgColor_override"		"White"
-			
+
 			"border_default"				"BlackTransparent70"
-			"border_armed"					"OrangeTransparent70"
-			
+			"border_armed"					"NeonGreen"
+
 			"pin_to_sibling"				"ToolButtonsAnchor"
 		}
 
@@ -124,16 +124,16 @@
 			"Command"						"save_search_criteria"
 			"actionsignallevel"				"2"
 			"proportionaltoparent"			"1"
-			
+
 			"paintbackground"				"0"
-		
+
 			"defaultFgColor_override"		"White"
 			"armedFgColor_override"			"White"
 			"depressedFgColor_override"		"White"
-			
+
 			"border_default"				"BlackTransparent70"
-			"border_armed"					"OrangeTransparent70"
-			
+			"border_armed"					"NeonGreen"
+
 			"pin_to_sibling"				"RestoreCasualSearchCriteria"
 			"pin_corner_to_sibling"			"PIN_TOPLEFT"
 			"pin_to_sibling_corner"			"PIN_TOPRIGHT"
@@ -162,16 +162,16 @@
 			"Command"						"show_explanations"
 			"actionsignallevel"				"2"
 			"proportionaltoparent"			"1"
-			
+
 			"paintbackground"				"0"
-		
+
 			"defaultFgColor_override"		"White"
 			"armedFgColor_override"			"White"
 			"depressedFgColor_override"		"White"
-			
+
 			"border_default"				"BlackTransparent70"
-			"border_armed"					"OrangeTransparent70"
-			
+			"border_armed"					"NeonGreen70"
+
 			"pin_to_sibling"				"SaveCasualSearchCriteria"
 			"pin_corner_to_sibling"			"PIN_TOPLEFT"
 			"pin_to_sibling_corner"			"PIN_TOPRIGHT"
@@ -190,7 +190,7 @@
 			"labeltext"						"#TF_Casual_MapSelection"
 			"textAlignment"					"north-west"
 			"font"							"Quake14"
-		
+
 			"mouseinputenabled"				"0"
 		}
 
@@ -209,7 +209,7 @@
 			"font"							"Quake14"
 			"fgcolor_override"				"White"
 			"AllCaps"						"1"
-		
+
 			"mouseinputenabled"				"1"
 		}
 
@@ -230,10 +230,10 @@
 			"AllCaps"						"1"
 			"textinsetx"					"5"
 			"visible"						"0"
-		
+
 			"mouseinputenabled"				"0"
 		}
-		
+
 		"PlayListDropShadow"
 		{
 			"ControlName"					"EditablePanel"
@@ -296,14 +296,14 @@
 				{
 					"fgcolor_override"		"White"
 				}
-		
+
 				"UpButton"
 				{
 					"ControlName"			"Button"
 					"FieldName"				"UpButton"
 					"visible"				"0"
 				}
-		
+
 				"DownButton"
 				{
 					"ControlName"			"Button"

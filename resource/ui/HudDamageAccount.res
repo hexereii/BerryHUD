@@ -15,8 +15,6 @@
 	}
 	"DamageAccountValue"
 	{
-		"fgcolor"		"85 205 252 255"
-
 		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValue"
 		"xpos"			"c-200"
@@ -29,10 +27,10 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
 		"font"			"Runescape20"
-
+		"fgcolor"		"85 205 252 255"
 	}
 	"DamageAccountValueShadow"
-	{}
+	{
 		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValueShadow"
 		"xpos"			"c-200"
@@ -44,7 +42,7 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"font"			"Quake20"
+		"font"			"Runescape20"
 		"fgcolor"		"0 0 0 255"
 	}
 }

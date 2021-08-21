@@ -46,6 +46,32 @@
 		"pin_to_sibling_corner"		"PIN_CENTER_TOP"
 	}
 
+	"ChargeLabel2"
+	{
+		"ControlName"				"CExLabel"
+		"fieldName"					"ChargeLabel2"
+		"xpos"						"2"
+		"ypos"						"0"
+		"zpos"						"2"
+		"wide"						"100"
+		"tall"						"50"
+		"autoResize"				"1"
+		"pinCorner"					"2"
+		"visible"					"1"
+		"enabled"					"1"
+		"tabPosition"				"0"
+		"labelText"					"#TF_UberchargeMinHUD"
+		"textAlignment"				"center"
+		"dulltext"					"0"
+		"brighttext"				"0"
+		"font"						"Quake33"
+		"fgcolor"					"Black"
+
+		"pin_to_sibling"			"UberAnchor"
+		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"		"PIN_CENTER_TOP"
+	}
+
 	"IndividualChargesLabel"
 	{
 		"ControlName"				"CExLabel"

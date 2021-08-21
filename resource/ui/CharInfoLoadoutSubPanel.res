@@ -762,8 +762,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"GrayTransparent"
+		"depressedFgColor_override"		"GrayTransparent"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -833,11 +833,11 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"GrayTransparent"
+		"depressedFgColor_override"		"GrayTransparent"
 
 		"border_default"				"BlackTransparent50"
-		"border_armed"					"WhiteTransparent"
+		"border_armed"					"GrayTransparent"
 
 		"pin_to_sibling" 				"Armory"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -904,8 +904,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"GrayTransparent"
+		"depressedFgColor_override"		"GrayTransparent"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -971,8 +971,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"GrayTransparent"
+		"depressedFgColor_override"		"GrayTransparent"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"
@@ -1042,8 +1042,8 @@
 		"paintborder"					"1"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override"		"White"
+		"armedFgColor_override"			"GrayTransparent"
+		"depressedFgColor_override"		"GrayTransparent"
 
 		"border_default"				"BlackTransparent50"
 		"border_armed"					"WhiteTransparent"

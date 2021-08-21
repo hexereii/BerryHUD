@@ -107,3 +107,12 @@ Added a shadow to ubercharge (hudmediccharge.res)
 Created Class Select for Highlander mode (ClassSelection_HL.res)
 Changed colours on Class Select to match the loadout (ClassSelection.res)
 Added Runescape font & included it for damage numbers (fonts.res, HUDDamageAccount.res)
+
+hexhud b4.1
+Fixed Ubercharge shadow from not showing
+
+hexhud b5
+Fixed up some Spy UI related things (HudPlayerClass.res, disguisestatuspanel.res)
+Got & modified Hypnotize's tool selection (tools.res, gamemenu.res, mainmenuoverride.res); expect update with HL edition button next!
+Made the ammo & health slightly smaller (HudAmmoWeapons.res, HudPlayerHealth.res)
+Made the change between 6s & HL versions on the Class Select (ClassSelection.res, ClassSelection_HL.res)

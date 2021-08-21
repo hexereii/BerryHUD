@@ -24,7 +24,7 @@
 		"chat_color_default"						"White"
 		"chat_color_player_name"					"BlueLight"
 		"chat_color_chat_text"						"White"
-		"chat_color_party_event"					"OrangeLight"
+		"chat_color_party_event"					"NeonGreen"
 
 		"collapsed_height"							"0"
 		"expanded_height"							"200"
@@ -45,7 +45,7 @@
 		"proportionaltoparent"						"1"
 		"RoundedCorners"							"0"
 		"font"										"Quake22"
-		
+
 		"paintbackground"							"0"
 
 		"pinCorner"									"2"
@@ -66,14 +66,14 @@
 			{
 				"fgcolor_override"					"White"
 			}
-		
+
 			"UpButton"
 			{
 				"ControlName"						"Button"
 				"FieldName"							"UpButton"
 				"visible"							"0"
 			}
-		
+
 			"DownButton"
 			{
 				"ControlName"						"Button"
@@ -103,7 +103,7 @@
 
 		"pinCorner"									"2"
 		//"autoResize"								"1"
-		
+
 		"pin_to_sibling" 							"chatlog"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 					"PIN_BOTTOMLEFT"

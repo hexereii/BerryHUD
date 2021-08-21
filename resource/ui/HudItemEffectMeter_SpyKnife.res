@@ -42,9 +42,9 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"			"#TF_Ball"
-		"fgcolor_override" "Garm3nBlack"
+		"fgcolor_override" "Black"
 		"textAlignment"			"center"
-		"font"				"Garm3n10"
+		"font"				"Quake"
 	}
 
 	"ItemEffectMeter"

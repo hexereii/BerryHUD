@@ -754,6 +754,39 @@
       "depressedBgColor_override"   "Black"
    }
 
+   "HighlanderButton"
+   {
+      "ControlName"  "CExButton"
+      "fieldName"    "HighlanderButton"
+      "xpos"         "c100"
+      "ypos"         "c90"
+	  "ypos_minmode" "9999"
+      "zpos"         "6"
+      "wide"         "74"
+      "tall"         "15"
+      "autoResize"   "0"
+      "pinCorner"    "2"
+	  "visible"		"1"
+	  "visible_minmode"	"0"
+      "enabled"      "1"
+      "tabPosition"  "0"
+      "labelText"    "HL Layout"
+      "textAlignment"   "center"
+	 "Command"       "cl_hud_minmode 1"
+      "font"         "Quake"
+
+      "border_default"  "Black"
+      "border_armed"    "BlackTransparent"
+
+      "paintbackground" "1"      //let's you change button bg
+      "defaultFgColor_override"     "White"
+      "defaultBgColor_override"     "BlackTransparent"
+      "armedFgColor_override"       "CharSelectGreen"
+      "armedBgColor_override"       "Black"
+      "depressedFgColor_override"   "Black"
+      "depressedBgColor_override"   "Black"
+   }
+
    "ResetButton" [$WIN32]
    {
       "ControlName"  "CExButton"

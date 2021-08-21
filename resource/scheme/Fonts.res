@@ -547,6 +547,28 @@ Scheme
 				"outline"	"0"
 			}
 		}
+	//Hypnotize Icons
+			Hypnotize
+		{
+			"1"
+			{
+				"name"		"Hypnotize Icons"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"0"
+			}
+		}
+				"Symbols 10"
+		{
+			"1"
+			{
+				"name"								"Hypnotize Icons HEx5"
+				"tall"								"10"
+				"additive"  						"0"
+				"antialias"							"1"
+			}
+		}
 		///////////////////////////////////////////////////////////////////////////////
 		////////////////////////////////DEFAULT FONTS//////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////
@@ -3117,6 +3139,15 @@ Scheme
 		{
 		"font"  "resource/scheme/fonts/Astral Delight Upright.ttf"
 		"name" "Astral Delight Upright"
+		}
+		"6"
+		{
+		"font" "resource/scheme/fonts/Hypnotize Icons.ttf"
+		"name" "Hypnotize Icons V3s"
+		"7"
+		{
+			"font" "resource/scheme/fonts/Hypnotize Icons.ttf"
+			"name" "Hypnotize Icons HEx5"
 		}
 	}
 }

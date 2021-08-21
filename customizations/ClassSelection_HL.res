@@ -29,7 +29,8 @@
       "enabled"      "0"
       "tabPosition"  "0"
    }
-
+   
+   
    "MainBG"
    {
       "ControlName"  "EditablePanel"
@@ -780,6 +781,36 @@
       "defaultFgColor_override"     "White"
       "defaultBgColor_override"     "Black"
       "armedFgColor_override"       "NeonGreen"
+      "armedBgColor_override"       "Black"
+      "depressedFgColor_override"   "Black"
+      "depressedBgColor_override"   "Black"
+   }
+   "SixesButton" 
+   {
+      "ControlName"  "CExButton"
+      "fieldName"    "SixesButton"
+      "xpos_minmode"         "c100"
+      "ypos_minmode"         "c70"
+	  "ypos"							"9999"
+      "zpos_minmode"         "7"
+      "wide_minmode"         "74"
+      "tall_minmode"         "15"
+      "autoResize"   "0"
+      "visible"      "1"
+      "enabled"      "1"
+      "tabPosition"  "0"
+      "labelText"    "6's Layout"
+      "textAlignment"   "center"
+      "Command"      "cl_hud_minmode 0"
+      "font"         "Quake"
+
+      "border_default"  "Black"
+      "border_armed"    "BlackTransparent"
+
+      "paintbackground" "1"      //let's you change button bg
+      "defaultFgColor_override"     "White"
+      "defaultBgColor_override"     "BlackTransparent"
+      "armedFgColor_override"       "CharSelectGreen"
       "armedBgColor_override"       "Black"
       "depressedFgColor_override"   "Black"
       "depressedBgColor_override"   "Black"

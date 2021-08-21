@@ -13,7 +13,7 @@
 		"visible"							"1"
 		"proportionaltoparent"				"1"
 	}
-	
+
 	"Title"
 	{
 		"ControlName"						"Label"
@@ -29,7 +29,7 @@
 		"font"								"Quake28"
 		"fgcolor_override"					"White"
 		"AllCaps"							"1"
-		
+
 		"mouseinputenabled"					"0"
 	}
 
@@ -60,7 +60,7 @@
 		"tall"								"215"
 		"visible"							"1"
 		"enabled"							"1"
-		
+
 		"MannUpImage"
 		{
 			"ControlName"					"ImagePanel"
@@ -106,15 +106,15 @@
 			"sound_released"				"UI/buttonclickrelease.wav"
 
 			"paintbackground"				"0"
-		
+
 			"defaultFgColor_override"		"White"
 			"armedFgColor_override"			"White"
 			"depressedFgColor_override"		"White"
-			
+
 			"border_default"				"BlackTransparent70"
-			"border_armed"					"OrangeTransparent50"
+			"border_armed"					"NeonGreen"
 		}
-		
+
 		"DescriptionBG"
 		{
 			"ControlName"					"EditablePanel"
@@ -148,10 +148,10 @@
 			"AllCaps"						"1"
 			"proportionaltoparent"			"1"
 			"mouseinputenabled"				"0"
-			
+
 			"pin_to_sibling"				"DescriptionBG"
 		}
-		
+
 		"DropShadow"
 		{
 			"ControlName"					"EditablePanel"
@@ -178,7 +178,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"proportionaltoparent"				"1"
-		
+
 		"BootcampImage"
 		{
 			"ControlName"					"ImagePanel"
@@ -195,7 +195,7 @@
 			"scaleImage"					"1"
 			"proportionaltoparent"			"1"
 		}
-		
+
 		"PracticeButton"
 		{
 			//"ControlName"					"CExButton"
@@ -224,15 +224,15 @@
 			"sound_released"				"UI/buttonclickrelease.wav"
 
 			"paintbackground"				"0"
-		
+
 			"defaultFgColor_override"		"White"
-			"armedFgColor_override"			"White"
-			"depressedFgColor_override"		"White"
-			
+			"armedFgColor_override"			"NeonGreen"
+			"depressedFgColor_override"		"NeonGreen"
+
 			"border_default"				"BlackTransparent70"
-			"border_armed"					"OrangeTransparent70"
+			"border_armed"					"NeonGreen"
 		}
-		
+
 		"DescriptionBG"
 		{
 			"ControlName"					"EditablePanel"
@@ -266,10 +266,10 @@
 			"AllCaps"						"1"
 			"proportionaltoparent"			"1"
 			"mouseinputenabled"				"0"
-			
+
 			"pin_to_sibling"				"DescriptionBG"
 		}
-		
+
 		"DropShadow"
 		{
 			"ControlName"					"EditablePanel"

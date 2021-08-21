@@ -1,5 +1,6 @@
 "GameMenu" [$WIN32]
 {
+
 	"VersionNumber"
 	{
 		"label" 		"HEXEDHUD"
@@ -134,6 +135,7 @@
 		"OnlyInGame"	"1"
 		"tooltip"		"ACHIEVEMENTS"
 	}
+
 	"ToolsOpenButton"
 	{
 		"label"										"Tools"
