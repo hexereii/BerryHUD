@@ -121,3 +121,8 @@ hexhud b5.1
 Changed tall value on CC in hopes to not let it clutter the screen (hudlayout.res)
 Moved Engi metal (HudAccountValue.res, hudlayout.res)
 Decided to make the button for the server-connect to Tempus Chicago (GameMenu.res)
+
+berryhud b6
+Changed HUD name!!
+Changed the uber animation up a bit (hudanimations_hex.txt) will change the colours next patch!!
+FIXED THE FONTS, IF IT DOESN'T WORK I SWEAR- (fonts.res)

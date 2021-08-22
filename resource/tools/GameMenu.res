@@ -3,12 +3,12 @@
 
 	"VersionNumber"
 	{
-		"label" 		"HEXEDHUD"
+		"label" 		"BERRYHUD"
 		"command" 		"engine clear
 				echo; echo; echo ---------;
-				echo HexedHUD | Current release: August 15, 2021;
-				echo HexedHUD | First release: May 30, 2021;
-				echo HexedHUD | Version: Beta 3
+				echo BerryHUD | Current release: August 15, 2021;
+				echo BerryHUD | First release: May 30, 2021;
+				echo BerryHUD | Version: Beta 3
 				echo Made by Hexereii;
 				echo Twitter	   | twitter.com/hexereiitf2;
 				echo Updates | github.com/hexereii/HexHUD;
@@ -92,8 +92,8 @@
 
 	"Scoreboard"
 	{
-		"label" 		"TEMPUS CHICAGO"
-		"command" 		"engine connect chicago.tempus.xyz:27025"
+		"label" 		"BOMBING BALCONY"
+		"command" 		"engine copper"
 		"OnlyInGame" 	"1"
 	}
 	"Disconnect"

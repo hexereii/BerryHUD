@@ -3115,6 +3115,7 @@ Scheme
 
 	CustomFontFiles
 	{
+
 		"1"
 		{
 			"font" "resource/scheme/fonts/Renogare.ttf" 
@@ -3122,18 +3123,18 @@ Scheme
 		}
 		"2"
 		{
-			"font" "resource/scheme/fonts/AlternateGothic.TTF"
-			"name" "Quake"
+			"font" "resource/scheme/fonts/Quake.ttf"
+			"name" "HandelGothic BT"
 		}
 		"3"
 		{
-			"font" "resource/scheme/fonts/Runescape UF Regular.ttf"
-			"name" "Runescape"
+			"font" "resource/scheme/fonts/Runescape.ttf"
+			"name" "Runescape UF Regular"
 		}
 		"4"
 		{
-			"font" "resource/scheme/fonts/visitor1.ttf"
-			"name" "Nyan"
+			"font" "resource/scheme/fonts/Nyan.ttf"
+			"name" "Visitor TT1 BRK"
 		}
 		"5"
 		{
@@ -3144,9 +3145,10 @@ Scheme
 		{
 		"font" "resource/scheme/fonts/Hypnotize Icons.ttf"
 		"name" "Hypnotize Icons V3s"
+		}
 		"7"
 		{
-			"font" "resource/scheme/fonts/Hypnotize Icons.ttf"
+			"font" "resource/scheme/fonts/hypnotize icons HEx5.ttf"
 			"name" "Hypnotize Icons HEx5"
 		}
 	}

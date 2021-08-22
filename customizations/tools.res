@@ -31,7 +31,7 @@
 			"paintborder"							"0"
 			"paintbackground"						"0"
 		}
-		
+
 		"SubButton"
 		{
 			"ControlName"							"CExImageButton"
@@ -52,7 +52,7 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"0"
 			"paintbackgroundtype"					"0"
 			"paintborder"							"0"
@@ -101,19 +101,19 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
 			"defaultBgColor_override" 				"GrayBlue"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"204 17 0 255"
 			"depressedFgColor_override" 			"204 17 0 255"
 		}
-		
+
 		"Fix Invisible Players"
 		{
 			"ControlName"							"CExImageButton"
@@ -138,14 +138,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
 			"defaultBgColor_override" 				"WhiteTransparent"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -177,7 +177,7 @@
 
 			"pin_to_sibling" 						"Fix Invisible Players"
 		}
-		
+
 		"Reload Sound"
 		{
 			"ControlName"							"CExImageButton"
@@ -202,14 +202,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
 			"defaultBgColor_override" 				"WhiteTransparent"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -265,14 +265,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
 			"defaultBgColor_override" 				"WhiteTransparent"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -328,14 +328,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
 			"defaultBgColor_override" 				"WhiteTransparent"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -391,14 +391,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
 			"defaultBgColor_override" 				"WhiteTransparent"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -454,14 +454,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
 			"defaultBgColor_override" 				"WhiteTransparent"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -517,14 +517,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
 			"defaultBgColor_override" 				"WhiteTransparent"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -576,7 +576,7 @@
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 			"BgColor_override" 						"Black"
-			
+
 			"pin_to_sibling" 						"Toggle Chat"
 			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
 			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
@@ -607,16 +607,16 @@
 			"defaultBgColor_override" 				"WhiteTransparent"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"FgColor_override" 				"Black"
 			"FgColor_override" 				"NeonGreen"
 			"FgColor_override" 			"NeonGreen"
-			
+
 			"pin_to_sibling" 						"CC Icon"
 			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
 			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
 		}
-		
+
 		"CC ON"
 		{
 			"ControlName"							"CExImageButton"
@@ -640,14 +640,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
 			"defaultBgColor_override" 				"WhiteTransparent"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -679,14 +679,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
 			"defaultBgColor_override" 				"WhiteTransparent"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -695,5 +695,5 @@
 			"pin_corner_to_sibling" 				"PIN_TOPRIGHT"
 			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
 		}
-	}	
+	}
 }
