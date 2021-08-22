@@ -60,6 +60,10 @@ Scheme
 		"CharSelectBlue"					"46 111 158 255"
 		"CharSelectGreen"					"79 169 76 255"
 
+		"UberBlue"							"0 231 130 200"
+		"UberGreen"							"70 148 243 200"
+		"UberRed"							"249 84 84 200"
+		
 		//TransPride Flag Colours
 		"MayaBlue"								"85 205 252 255"
 		"MayaInverse"							"170 50 3 255"

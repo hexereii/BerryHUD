@@ -126,3 +126,6 @@ berryhud b6
 Changed HUD name!!
 Changed the uber animation up a bit (hudanimations_hex.txt) will change the colours next patch!!
 FIXED THE FONTS, IF IT DOESN'T WORK I SWEAR- (fonts.res)
+
+berryhud b6.1 
+Added colour changes to full Uber % (hudanimations_hex.txt)
