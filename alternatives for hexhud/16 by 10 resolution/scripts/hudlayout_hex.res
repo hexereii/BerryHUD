@@ -215,9 +215,9 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"xpos"						"275"
-		"ypos"						"265"
+		"ypos"						"325"
 		"wide"						"500"
-		"tall"						"100"
+		"tall"						"50"
 
 		"BgAlpha"					"0"
 
