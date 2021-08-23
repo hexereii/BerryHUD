@@ -4,10 +4,9 @@ event HudHealthBonusPulse
 {
     Animate PlayerStatusHealthValueShadow             FgColor        "BlackTransparent"                       Linear      0.0        0.8
     Animate PlayerStatusHealthValueShadow             FgColor        "BlueLight"                              Linear      0.8        0.8
-    Animate PlayerStatusHealthValueShadow             FgColor        "BlackTransparent"                          Linear      1.6        0.8
     Animate PlayerStatusHealthValueShadowExtra       Alpha         "255"                                Accel     0.0     0.0
 
-    RunEvent HudHealthBonusPulseLoop    1.6
+    RunEvent HudHealthBonusPulseLoop    0.8
 }
 
 // call to loop HudHealthBonusPulse
