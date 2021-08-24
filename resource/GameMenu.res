@@ -5,9 +5,9 @@
 		"label" 		"BERRYHUD"
 		"command" 		"engine clear
 				echo; echo; echo ---------;
-				echo BerryHUD | Current release: August 15, 2021;
+				echo BerryHUD | Current release: August 23, 2021;
 				echo BerryHUD | First release: May 30, 2021;
-				echo BerryHUD | Version: Beta 3
+				echo BerryHUD | Version: Beta 7
 				echo Made by Hexereii;
 				echo Twitter	   | twitter.com/hexereiitf2;
 				echo Updates | github.com/hexereii/HexHUD;
@@ -91,8 +91,8 @@
 
 	"Scoreboard"
 	{
-		"label" 		"BOMBING BALCONY"
-		"command" 		"engine copper"
+		"label" 		"TEMPUS CHICAGO"
+		"command" 		"engine connect chicago.tempus.xyz:27025"
 		"OnlyInGame" 	"1"
 	}
 	"Disconnect"

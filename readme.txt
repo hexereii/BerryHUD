@@ -130,3 +130,6 @@ FIXED THE FONTS, IF IT DOESN'T WORK I SWEAR- (fonts.res)
 berryhud b6.1 
 Added colour changes to full Uber % (hudanimations_hex.txt)
 Fixed the background on picked-up weapon (HudPlayerClass.res)
+
+berryhud b7
+Fixed some item meters (HudItemEffectMeter_Scout.res, HudItemEffectMeter_Demo.res)

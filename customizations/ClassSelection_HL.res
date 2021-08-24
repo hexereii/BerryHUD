@@ -29,8 +29,8 @@
       "enabled"      "0"
       "tabPosition"  "0"
    }
-   
-   
+
+
    "MainBG"
    {
       "ControlName"  "EditablePanel"
@@ -45,20 +45,6 @@
       "visible"      "1"
       "enabled"      "1"
       "bgcolor_override"      "0 0 0 255"
-      "border"       "Blank"
-   }
-   "OffclassBG"
-   {
-      "ControlName"  "EditablePanel"
-      "fieldName"    "OffclassBG"
-      "xpos_minmode"         "c99" //so no double border
-      "ypos_minmode"         "c10"
-      "zpos_minmode"         "-2"
-      "wide_minmode"         "75"
-      "tall_minmode"         "60"
-      "visible"      "1"
-      "enabled"      "1"
-      "bgcolor_override"      "0 0 0 150"
       "border"       "Blank"
    }
 
@@ -79,7 +65,7 @@
 
    "FlankBG"
    {
-      "ControlName"  "CExLabel"
+      "ControlName"  "EditablePanel"
       "fieldName"    "FlankBG"
       "xpos_minmode"         "c-75"
       "ypos_minmode"         "c10"
@@ -111,10 +97,10 @@
       "fgcolor"      "NeonGreen"
    }
 
-   "OffclassLabel"
+   "PickLabel"
    {
       "ControlName"  "CExLabel"
-      "fieldName"    "OffclassLabel"
+      "fieldName"    "PickLabel"
       "xpos_minmode"         "c100"
       "ypos_minmode"         "c10"
       "zpos_minmode"         "2"
@@ -127,7 +113,22 @@
       "font"         "Quake"
       "fgcolor"      "White"
    }
-
+   "FlankLabel"
+   {
+      "ControlName"  "CExLabel"
+      "fieldName"    "FlankLabel"
+      "xpos_minmode"         "c-75"
+      "ypos_minmode"         "c10"
+      "zpos_minmode"         "2"
+      "wide_minmode"         "70"
+      "tall_minmode"         "16"
+      "visible"      "1"
+      "enabled"      "1"
+      "labelText_minmode"    "Flank"
+      "textAlignment"   "center"
+      "font"         "Quake"
+      "fgcolor"      "White"
+   }
    "scout"
    {
       "ControlName"     "CExImageButton"
@@ -785,7 +786,7 @@
       "depressedFgColor_override"   "Black"
       "depressedBgColor_override"   "Black"
    }
-   "SixesButton" 
+   "SixesButton"
    {
       "ControlName"  "CExButton"
       "fieldName"    "SixesButton"

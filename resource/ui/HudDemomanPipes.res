@@ -12,13 +12,13 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/misc_ammo_area_blue"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"teambg_2"		"../hud/misc_ammo_area_red"
 		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
 		"teambg_3"		"../hud/misc_ammo_area_blue"
-		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"
 	}
-	
+
 	"ChargeLabel"
 	{
 		"ControlName"			"CExLabel"
@@ -41,15 +41,15 @@
 	}
 
 	"ChargeMeter"
-	{	
+	{
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ChargeMeter"
 		"font"					"Default"
 		"xpos"					"c-70"
-		"ypos"					"370"
+		"ypos"					"350"
 		"zpos"					"2"
 		"wide"					"140"
-		"tall"					"8"				
+		"tall"					"8"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -57,8 +57,8 @@
 		"textAlignment"			"Left"
 		"dulltext"				"0"
 		"brighttext"			"0"
-	}				
-		
+	}
+
 	"PipesPresentPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -69,7 +69,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
-		
+
 		"PipeIcon"
 		{
 			"ControlName"	"CTFImagePanel"
@@ -83,9 +83,9 @@
 			"image"			"../hud/ico_stickybomb_red"
 			"scaleImage"	"1"
 			"teambg_2"		"../hud/ico_stickybomb_red"
-			"teambg_3"		"../hud/ico_stickybomb_blue"	
-		}	
-		
+			"teambg_3"		"../hud/ico_stickybomb_blue"
+		}
+
 		"NumPipesLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -127,9 +127,9 @@
 			"brighttext"	"0"
 			"font"			"Quake24"
 			"fgcolor"		"Black"
-		}		
+		}
 	}
-	
+
 	"NoPipesPresentPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -140,7 +140,7 @@
 		"wide"			"100"
 		"tall"			"50"
 		"visible"		"1"
-		
+
 		"PipeIcon"
 		{
 			"ControlName"	"CTFImagePanel"
@@ -154,7 +154,7 @@
 			"image"			"../hud/ico_stickybomb_red_faded"
 			"scaleImage"	"1"
 			"teambg_2"		"../hud/ico_stickybomb_red_faded"
-			"teambg_3"		"../hud/ico_stickybomb_blue_faded"	
+			"teambg_3"		"../hud/ico_stickybomb_blue_faded"
 		}
 
 		"NumPipesLabel"
@@ -199,6 +199,6 @@
 			"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"fgcolor"		"black"
-		}			
-	}				
+		}
+	}
 }
