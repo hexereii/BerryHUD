@@ -133,3 +133,8 @@ Fixed the background on picked-up weapon (HudPlayerClass.res)
 
 berryhud b7
 Fixed some item meters (HudItemEffectMeter_Scout.res, HudItemEffectMeter_Demo.res)
+Moved the uber meter bar to the bottom (HudMedicCharge.res)
+Fixed animations related to ready up tournament & ubercharge meter (hudanimations_hex.txt)
+
+berryhud b7.1
+Fixed the CloseCaptions to not overload/flood targetid

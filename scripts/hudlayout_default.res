@@ -613,7 +613,6 @@
 		"ItemFadeOutTime"	"0.3"
 		"topoffset"		"0"
 	}
-
 	HudHistoryResource
 	{
 		"fieldName" "HudHistoryResource"
@@ -767,14 +766,14 @@
 	{
 		"fieldName"				"HudHintDisplay"
 		"visible"				"0"
-		"enabled"				"0"
-		"xpos"					"9999"
-		"ypos"					"9999"
-		"wide"					"0"
-		"tall"					"0"
-		"HintSize"				"0"
-		"text_xpos"				"9999"
-		"text_ypos"				"9999"
+		"enabled"				"1"
+		"xpos"					"c-240"
+		"ypos"					"c60"
+		"wide"					"480"
+		"tall"					"100"
+		"HintSize"				"1"
+		"text_xpos"				"8"
+		"text_ypos"				"8"
 		"center_x"				"0"	// center text horizontally
 		"center_y"				"-1"	// align text on the bottom
 	}

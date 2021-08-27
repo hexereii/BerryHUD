@@ -89,66 +89,33 @@ event HudLowAmmoPulseStop
 }
 
 //====================================================================================================================
-
 event HudMedicCharged
 {
 	Animate ChargeLabel 						FgColor 	"UberBlue" 					Linear 	0.0 	0.8
 	Animate ChargeLabel						FgColor 	"UberGreen" 					Linear 	0.8 	0.8
-	
-	Animate	ChargeLabel 					 	Alpha		"255"							Linear 	0.4 0.2
-	RunEvent HudMedicChargedLoop				1.6
-}
 
-event HudMedicChargedLoop
-{
-	RunEvent HudMedicCharged 					0.0
-}
-
-event HudMedicChargedStop
-{
-	StopEvent HudMedicCharged 					0.0
-	StopEvent HudMedicChargedLoop 				0.0
-	
-	Animate	ChargeLabel 						FgColor		"Ubercharge"						Linear 	0.0 	0.0
-}
-
-//====================================================================================================================
-
-	Animate	ChargeMeter 						FgColor		"Blu"							Linear 	0.0		0.8
-	Animate	ChargeMeter 						FgColor		"Pink"						Linear 	0.8		0.8
-	Animate	ChargeMeter 						FgColor		"Greene"					Linear 	1.6		0.8
-	Animate	ChargeMeter 						FgColor		"Indigo"						Linear 	2.4		0.8
+	Animate	ChargeMeter 						FgColor		"UberBlue"							Linear 	0.0		0.8
+	Animate	ChargeMeter 						FgColor		"UberGreen"						Linear 	0.8		0.8
 
 	//Vaccinator
 	Animate	ChargeMeter1 						FgColor		"255 000 000 255"					Linear 	0.0		0.8
 	Animate	ChargeMeter1 						FgColor		"255 255 000 255"					Linear 	0.8		0.8
 	Animate	ChargeMeter1 						FgColor		"000 255 000 255"					Linear 	1.6		0.8
-	Animate	ChargeMeter1 						FgColor		"000 255 255 255"					Linear 	2.0		0.8
-	Animate	ChargeMeter1 						FgColor		"000 000 255 255"					Linear 	2.8		0.8
-	Animate	ChargeMeter1						FgColor		"255 000 255 255"					Linear 	3.6		0.8
 
 	Animate	ChargeMeter2 						FgColor		"255 000 000 255"					Linear 	0.0		0.8
 	Animate	ChargeMeter2 						FgColor		"255 255 000 255"					Linear 	0.8		0.8
 	Animate	ChargeMeter2 						FgColor		"000 255 000 255"					Linear 	1.6		0.8
-	Animate	ChargeMeter2 						FgColor		"000 255 255 255"					Linear 	2.0		0.8
-	Animate	ChargeMeter2						FgColor		"000 000 255 255"					Linear 	2.8		0.8
-	Animate	ChargeMeter2						FgColor		"255 000 255 255"					Linear 	3.6		0.8
 
 	Animate	ChargeMeter3 						FgColor		"255 000 000 255"					Linear 	0.0		0.8
 	Animate	ChargeMeter3 						FgColor		"255 255 000 255"					Linear 	0.8		0.8
 	Animate	ChargeMeter3 						FgColor		"000 255 000 255"					Linear 	1.6		0.8
-	Animate	ChargeMeter3 						FgColor		"000 255 255 255"					Linear 	2.0		0.8
-	Animate	ChargeMeter3 						FgColor		"000 000 255 255"					Linear 	2.8		0.8
-	Animate	ChargeMeter3						FgColor		"255 000 255 255"					Linear 	3.6		0.8
 
 	Animate	ChargeMeter4 						FgColor		"255 000 000 255"					Linear 	0.0		0.8
 	Animate	ChargeMeter4 						FgColor		"255 255 000 255"					Linear 	0.8		0.8
 	Animate	ChargeMeter4 						FgColor		"000 255 000 255"					Linear 	1.6		0.8
-	Animate	ChargeMeter4 						FgColor		"000 255 255 255"					Linear 	2.0		0.8
-	Animate	ChargeMeter4 						FgColor		"000 000 255 255"					Linear 	2.8		0.8
-	Animate	ChargeMeter4						FgColor		"255 000 255 255"					Linear 	3.6		0.8
 
-	RunEvent HudMedicChargedLoop				3.4
+
+	RunEvent HudMedicChargedLoop				1.6
 }
 
 event HudMedicChargedLoop
@@ -162,7 +129,7 @@ event HudMedicChargedStop
 	StopEvent HudMedicChargedLoop 				0.0
 
 	Animate	ChargeLabel 						FgColor		"Ubercharge"						Linear 	0.0 	0.0001
-
+	
 	Animate	ChargeMeter 						FgColor		"Ubercharge"						Linear 	0.0		0.0001
 }
 

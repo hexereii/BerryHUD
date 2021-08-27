@@ -102,11 +102,11 @@
 	{
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter"
-		"font"						"Default"
-		"xpos"						"c-105"
-		"ypos"						"r110"
+		"font"						"Quake"
+		"xpos"						"c-430"
+		"ypos"						"c237"
 		"zpos"						"2"
-		"wide"						"210"
+		"wide"						"880"
 		"tall"						"4"
 		"autoResize"				"0"
 		"pinCorner"					"0"
@@ -122,7 +122,7 @@
 	{
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter1"
-		"font"						"Default"
+		"font"						"Quake"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"2"
@@ -144,7 +144,7 @@
 	{
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter2"
-		"font"						"Default"
+		"font"						"Quake"
 		"xpos"						"2"
 		"ypos"						"0"
 		"zpos"						"2"
@@ -167,7 +167,7 @@
 	{
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter3"
-		"font"						"Default"
+		"font"						"Quake"
 		"xpos"						"2"
 		"ypos"						"0"
 		"zpos"						"2"
@@ -191,7 +191,7 @@
 	{
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ChargeMeter4"
-		"font"						"Default"
+		"font"						"Quake"
 		"xpos"						"2"
 		"ypos"						"0"
 		"zpos"						"2"

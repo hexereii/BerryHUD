@@ -791,7 +791,7 @@
       "ControlName"  "CExButton"
       "fieldName"    "SixesButton"
       "xpos_minmode"         "c100"
-      "ypos_minmode"         "c70"
+      "ypos_minmode"         "c75"
 	  "ypos"							"9999"
       "zpos_minmode"         "7"
       "wide_minmode"         "74"

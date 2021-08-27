@@ -232,7 +232,7 @@
 		"bgcolor_override"						"Blank"
 		"disabledFgColor_override" 				"White"
 		"disabledBgColor_override" 				"Blank"
-		"selectionColor_override" 				"NeonGreen"
+		"selectionColor_override" 				"Blank"
 		"selectionTextColor_override" 			"White"
 		"defaultSelectionBG2Color_override" 	"Blank"
 
@@ -283,7 +283,7 @@
 		"bgcolor_override"						"Blank"
 		"disabledFgColor_override" 				"White"
 		"disabledBgColor_override" 				"Blank"
-		"selectionColor_override" 				"NeonGreen"
+		"selectionColor_override" 				"Blank"
 		"selectionTextColor_override" 			"White"
 		"defaultSelectionBG2Color_override" 	"Blank"
 
