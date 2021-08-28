@@ -12,9 +12,9 @@
 		"visible"									"0"
 		"enabled"									"1"
 		"image"										"../hud/health_over_bg"
-		"scaleImage"								"1"	
+		"scaleImage"								"1"
 	}
-	
+
 	"PlayerStatusHealthValueTarget"
 	{
 		"ControlName"				"Label"
@@ -26,12 +26,12 @@
 		"tall"						"16"
 		"visible"					"1"
 		"enabled"					"1"
-		"textAlignment"				"center"	
+		"textAlignment"				"center"
 		"labeltext"					"%Health%"
 		"font"						"Quake16"
-		"fgcolor_override"  		"Health"
+		"fgcolor_override"  		"White"
 	}
-	
+
 	"PlayerStatusHealthValueTargetShadow"
 	{
 		"ControlName"				"Label"
@@ -43,20 +43,20 @@
 		"tall"						"16"
 		"visible"					"1"
 		"enabled"					"1"
-		"textAlignment"				"center"	
+		"textAlignment"				"center"
 		"labeltext"					"%Health%"
 		"font"						"Quake16"
-		"fgcolor_override"			"Shadows"
+		"fgcolor_override"			"BlackTransparent"
 		"pin_to_sibling"			"PlayerStatusHealthValueTarget"
 	}
-	
+
 	"PlayerStatusHealthImage"
 	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"PlayerStatusHealthImage"
 		"xpos"						"9999"
 		"tall"						"0"
-		
+
 	}
 	"PlayerStatusHealthImageBG"
 	{
@@ -72,7 +72,7 @@
 		"xpos"						"9999"
 		"tall"						"0"
 	}
-	
+
 	"PlayerStatusPlayerLevel"		//I legit can't remember what this is HELP
 	{
 		"ControlName"				"CExLabel"
@@ -84,7 +84,7 @@
 		"tall"						"12"
 		"visible"					"0"
 		"enabled"					"1"
-		"textAlignment"				"center"	
+		"textAlignment"				"center"
 		"font"						"ScoreboardVerySmall"
 		"fgcolor"					"TFOrange"
 	}

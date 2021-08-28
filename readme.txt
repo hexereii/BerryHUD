@@ -138,3 +138,8 @@ Fixed animations related to ready up tournament & ubercharge meter (hudanimation
 
 berryhud b7.1
 Fixed the CloseCaptions to not overload/flood targetid
+
+berryhud b8
+Added a second number for uber % next to crosshair (hudmediccharge.res)
+Made the background for the heal/targetid overheal buff the same as the normal one (hudanimations_hex.txt)
+Added alternative Spy menu (disguise_menu folder, in alternatives)

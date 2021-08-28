@@ -259,7 +259,7 @@
 		"ypos"		"285"
 		"wide"	 	"252"
 		"tall"	 	"35"
-		//"tall_minmode"	 	"28"
+		"bgcolor_override" "Blank"
 		"priority"	"40"
 		"priority_lodef"	"5"
 
@@ -279,7 +279,7 @@
 		"ypos"		"250"
 		"wide"	 	"252"
 		"tall"	 	"35"
-		//"tall_minmode"	 	"28"
+		"bgcolor_override" "Blank"
 		"priority"	"40"
 		"priority_lodef" "35"
 
@@ -296,6 +296,7 @@
 		"ypos"		"335"
 		"wide"	 	"252"
 		"tall"	 	"35"
+		"bgcolor_override" "Blank"
 		//"tall_minmode"	 	"28"
 		"priority"	"35"
 

@@ -26,6 +26,9 @@ Just drag the resource folder into your main directory to the main folder & it w
 16 by 10 version 
 Just drag the resource & scripts folders into your main directory to the main folder & it will fix the main menu for you!!
 
+Spy Menu alternative 
+Just drag the disguise_menu into resource/ui 
+
 Galaxy backgrounds
 ***Drag the folders out of Galaxy Backgrounds!!***
 Credits to Ellie (@address.astro on insta)
