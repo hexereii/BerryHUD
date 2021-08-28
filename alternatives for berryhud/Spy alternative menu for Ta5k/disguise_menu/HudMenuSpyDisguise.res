@@ -10,7 +10,7 @@
 		"tall"			"66"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"RoyalBluTransparent"
+		"fillcolor"		"BlackTransparent"
 	}
 
 	"TitleLabel"
