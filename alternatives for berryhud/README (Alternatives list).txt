@@ -16,9 +16,6 @@ CatEnjoyer Edits - resource\ui\hudammoweapons
 **Moves ammo & HP towards the crosshair, changes some fonts, moves Player model to the right side of the screen rather than left****
 To implement properly, take the folders out of 'FatKitten Edition' & drag them into your main 'hexhud' folder. It will ask if you want to replace files, say Yes!
 
-HL version - customizations, resource/ui/alternative/Scoreboard_12v12
-STILL WIP, NOT FUNCTIONAL IN THIS VERSION!
-
 4 by 3 version 
 **If you don't use widescreen, this is for you!!**
 Just drag the resource folder into your main directory to the main folder & it will fix the main menu for you!!
@@ -26,7 +23,7 @@ Just drag the resource folder into your main directory to the main folder & it w
 16 by 10 version 
 Just drag the resource & scripts folders into your main directory to the main folder & it will fix the main menu for you!!
 
-Spy Menu alternative 
+Spy Menu alternative for Ta5k
 Just drag the disguise_menu into resource/ui 
 
 Galaxy backgrounds
