@@ -26,6 +26,7 @@ event HudHealthBonusPulseStop
     Animate PlayerStatusHealthValueShadow             FgColor        "0 0 0 245"                     Linear      0.0        0.0
     StopEvent HudHealthBonusPulse 0.0
     StopEvent HudHealthBonusPulseLoop 0.0
+	StopEvent PlayerStatusHealthValueTargetShadow 0.0
 }
 
 //====================================================================================================================

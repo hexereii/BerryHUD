@@ -56,7 +56,41 @@
 				"sound_released"	"UI/buttonclickrelease.wav"
 			}
 		}
+  "Background"
+    {
+        "ControlName"    "ScalableImagePanel"
+        "fieldName"        "Background"
+        "xpos"            "cs-0.5"
+        "ypos"            "0"
+        "zpos"            "-200"
+        "wide"            "o1.6"
+        "tall"            "f0"
+        "visible"        "0"
+        "enabled"        "1"
+        "image"            ""
+        "scaleImage"    "1"
+        "proportionaltoparent"    "1"
 
+        if_wider
+        {
+            "wide"            "o1.777"
+            "tall"            "f0"
+        }
+
+        if_taller
+        {
+            "wide"            "o1.777"
+            "tall"            "f0"
+        }
+        if_fullmoon
+        {
+            "image"        "../console/title_fullmoon_widescreen"
+        }
+		   if_halloween_0
+        {
+            "image"        "../console/title_fullmoon_widescreen"
+        }
+    }
 		"SaxxySettings"
 		{
 			"xpos"					"0"

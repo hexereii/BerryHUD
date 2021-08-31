@@ -6,4 +6,3 @@
     {
            1       "background_upward"
     }
-

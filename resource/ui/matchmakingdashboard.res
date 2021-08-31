@@ -300,7 +300,7 @@
 				"enabled"					"1"
 				"tabPosition"				"0"
 				"labeltext"					""
-				"font"						"Quake12"
+				"font"						"Symbols 26"
 				"textAlignment"				"center"
 				"dulltext"					"0"
 				"brighttext"				"0"
@@ -343,7 +343,7 @@
 				"tall"						"f0"
 				"visible"					"1"
 				"enabled"					"1"
-				"font"						"Default"
+				"font"						"Quake"
 				"fgcolor_override"			"White"
 				"textAlignment"				"west"
 				"labelText"					"%queue_state%"
@@ -355,15 +355,15 @@
 				{
 					"0"
 					{
-						"font"				"Quake11" // TF2 Build 11
+						"font"				"Quake"
 					}
 					"1"
 					{
-						"font"				"Quake9" // TF2 Build 10
+						"font"				"Quake"
 					}
 					"2"
 					{
-						"font"				"Quake8" // TF2 Build 9
+						"font"				"Quake" // TF2 Build 9
 					}
 				}
 			}
@@ -486,7 +486,7 @@
 				"tall"						"f0"
 				"visible"					"1"
 				"enabled"					"1"
-				"font"						"Quake12"
+				"font"						"Quake"
 				"fgcolor_override"			"White"
 				"textAlignment"				"west"
 				"labelText"					"#TF_MM_JoinPartyLobby_Prompt"
@@ -515,7 +515,7 @@
 				"visible"					"1"
 				"enabled"					"1"
 				"tabPosition"				"0"
-				"font"						"Quake12"
+				"font"						"Quake"
 				"textAlignment"				"center"
 				"AllCaps"					"1"
 				"dulltext"					"0"

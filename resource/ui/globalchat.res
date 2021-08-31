@@ -97,7 +97,7 @@
 		"bgcolor_override"							"BlackTransparent"
 		"paintbackgroundtype"						"2"
 		"RoundedCorners"							"0"
-		"font"										"Quake12"
+		"font"										"Quake"
 		"alpha"										"0"
 		"mouseinputenabled"							"0"
 

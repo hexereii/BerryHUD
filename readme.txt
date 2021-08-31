@@ -141,5 +141,10 @@ Fixed the CloseCaptions to not overload/flood targetid
 
 berryhud b8
 Added a second number for uber % next to crosshair (hudmediccharge.res)
-Made the background for the heal/targetid overheal buff the same as the normal one (hudanimations_hex.txt)
-Added alternative Spy menu (disguise_menu folder, in alternatives)
+Made the background for the heal/targetid overheal buff the same as the normal one (hudanimations_hex.txt, spectatorguihealth.res, 
+Added alternative Spy menu (disguise_menu folder, in 'alternatives for berryhud')
+
+berryhud b9
+Moved the uber counter over towards the HP for easier accessibility (hudmediccharge.res)
+Made the meter at the bottom of the screen as Medic slightly smaller (hudmediccharge.res)
+Fixed overheal loop so that the colours don't linger after overheal (hudanimations_hex.txt) 
