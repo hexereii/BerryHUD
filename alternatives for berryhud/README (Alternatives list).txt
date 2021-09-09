@@ -26,6 +26,9 @@ Just drag the resource & scripts folders into your main directory to the main fo
 Spy Menu alternative for Ta5k
 Just drag the disguise_menu into resource/ui 
 
+Wild West Theme (for Nate)
+Just drag the folders inside "Wild West Theme" & put them into the main folder directory
+
 Galaxy backgrounds
 ***Drag the folders out of Galaxy Backgrounds!!***
 Credits to Ellie (@address.astro on insta)
