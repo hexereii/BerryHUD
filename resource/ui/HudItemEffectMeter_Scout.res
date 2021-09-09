@@ -42,7 +42,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"			"#TF_Ball"
-		"fgcolor_override" "Garm3nBlack"
+		"fgcolor_override" "BlackTransparent"
 		"textAlignment"			"center"
 		"font"				"Quake"
 	}
@@ -62,7 +62,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
-		"bgcolor_override" "0 0 0 175"
+		"bgcolor_override" "BlackTransparent"
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}

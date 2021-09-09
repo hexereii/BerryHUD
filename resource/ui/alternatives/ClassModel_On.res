@@ -2,69 +2,101 @@
 {
 	"HudPlayerClass"
 	{
-		"ControlName"			"EditablePanel"
-		"fieldName"				"HudPlayerClass"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"1"
-		"wide"					"f0"
-		"tall"					"480"
-		"visible"				"1"
-		"enabled"				"1"		
+		"ControlName"								"EditablePanel"
+		"fieldName"									"HudPlayerClass"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"1"
+		"wide"										"f0"
+		"tall"										"480"
+		"visible"									"1"
+		"enabled"									"1"
 	}
 	
 	"PlayerStatusClassImage"
 	{
-		"ControlName"			"CTFClassImage"
-		"fieldName"				"PlayerStatusClassImage"
-		"xpos"					"0"
-		"ypos"					"r48"
-		"zpos"					"2"
-		"wide"					"48"
-		"tall"					"48"
-		"visible"				"1"
-		"enabled"				"1"
-		"image"					"../hud/class_scoutred"
-		"scaleImage"			"1"
-		"alpha"					"0"
+		"ControlName"								"CTFClassImage"
+		"fieldName"									"PlayerStatusClassImage"
+		"xpos"										"9999"	//0
+		"ypos"										"rs1"
+		"zpos"										"2"
+		"wide"										"65"
+		"tall"										"65"
+		"visible"									"1"
+		"enabled"									"1"
+		"image"										"../hud/class_scoutred"
+		"scaleImage"								"1"
+	}
+
+	"PlayerStatusSpyImage"
+	{
+		"ControlName"								"CTFImagePanel"
+		"fieldName"									"PlayerStatusSpyImage"
+		"xpos"										"9999"	//0
+		"ypos"										"rs1"
+		"zpos"										"2"
+		"wide"										"65"
+		"tall"										"65"
+		"visible"									"1"
+		"enabled"									"1"
+		"image"										"../hud/class_spyred"
+		"scaleImage"								"1"
+		"teambg_2"									"../hud/class_spyred"
+		"teambg_3"									"../hud/class_spyblue"
 	}
 	
-	"ClassModelPanel"
+	"PlayerStatusSpyOutlineImage"
 	{
-		"ControlName"			"CTFPlayerModelPanel"
-		"fieldName"				"ClassModelPanel"
-		"xpos"					"0"
-		"ypos"					"r120"
-		"zpos"					"2"		
-		"wide"					"88"
-		"tall"					"140"
-		"autoResize"			"0"
-		"pinCorner"				"0"
-		"visible"				"1"
-		"enabled"				"1"
+		"ControlName"								"CTFImagePanel"
+		"fieldName"									"PlayerStatusSpyOutlineImage"
+		"xpos"										"3"
+		"ypos"										"r67"
+		"zpos"										"7"
+		"wide"										"55"
+		"tall"										"55"
+		"visible"									"0"
+		"enabled"									"1"
+		"image"										"../hud/class_spy_outline"
+		"scaleImage"								"1"
+		"alpha"										"0"
+	}
+	
+	"classmodelpanel"
+	{
+		"ControlName"								"CTFPlayerModelPanel"
+		"fieldName"									"classmodelpanel"
 		
-		"render_texture"		"0"
-		"fov"					"27"
-		"allow_rot"				"1"
+		"xpos"										"0"
+		"ypos"										"r120"
+		"zpos"										"2"		
+		"wide"										"120"
+		"tall"										"140"
+		"autoResize"								"0"
+		"pinCorner"									"0"
+		"visible"									"1"
+		"enabled"									"1"
 		
-		"Model"
+		"render_texture"							"0"
+		"fov"										"27"
+		"allow_rot"									"1"
+		
+		"model"
 		{
-			"force_pos"			"1"
+			"force_pos"								"1"
 
-			"angles_x"			"0"
-			"angles_y"			"270"
-			"angles_z"			"0"
-			"origin_x"			"200"
-			"origin_y"			"28"
-			"origin_z"			"-60"
-			"frame_origin_x"	"0"
-			"frame_origin_y"	"0"
-			"frame_origin_z"	"0"
-			"spotlight"			"1"
+			"angles_x" 								"0"
+			"angles_y" 								"270"
+			"angles_z" 								"0"
+			"origin_x" 								"200"
+			"origin_y" 								"28"
+			"origin_z" 								"-60"
+			"frame_origin_x"						"0"
+			"frame_origin_y"						"0"
+			"frame_origin_z"						"0"
+			"spotlight"								"1"
 		
-			"modelname"			""
+			"modelname"								""
 		}
-
 		"CustomClassData"
 		{
 			"Undefined"
@@ -164,44 +196,96 @@
 	}
 	
 	
-	
-	
-	"ClassModelPanelBG"
+	"CarryingWeapon"
 	{
-		"ControlName"			"CTFImagePanel"
-		"fieldName"				"classmodelpanelBG"
-		"xpos"					"9999"
+		"ControlName"								"EditablePanel"
+		"fieldName"									"CarryingWeapon"
+		"xpos"										"0"
+		"ypos"										"r25"
+		"zpos"										"100"
+		"wide"										"500"
+		"tall"	 									"28"
+
+		"CarryingBackground"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"CarryingBackground"
+			"xpos"									"0"
+			"ypos"									"0"
+			"zpos"									"0"
+			"wide"									"f0"
+			"tall"	 								"f0"
+			"visible"								"0"
+			"enabled"								"0"
+			"image"									"replay/thumbnails/panels/flat_background"
+			"scaleImage"							"1"
+			"teambg_1"								"replay/thumbnails/panels/flat_background"
+			"teambg_2"								"replay/thumbnails/panels/flat_red"
+			"teambg_3"								"replay/thumbnails/panels/flat_blue"
+			"proportionaltoparent"					"1"
+		}
+
+		"CarryingLabel"
+		{	
+			"ControlName"							"CExLabel"
+			"fieldName"								"CarryingLabel"
+			"font"									"Quake11"
+			"xpos"									"3"
+			"ypos"									"0"
+			"zpos"									"1"
+			"wide"									"200"
+			"tall"	 								"f0"
+			"autoResize"							"0"
+			"pinCorner"								"0"
+			"visible"								"1"
+			"enabled"								"1"
+			"textAlignment"							"North-West"
+			"dulltext"								"0"
+			"brighttext"							"0"
+			"proportionaltoparent"					"1"
+			"auto_wide_tocontents"					"1"
+			"labelText"								"%carrying%"
+		}
+		
+		"OwnerLabel"
+		{	
+			"ControlName"							"Label"
+			"fieldName"								"OwnerLabel"
+			"font"									"Quake9"
+			"xpos"									"3"
+			"ypos"									"10"
+			"zpos"									"0"
+			"wide"									"200"
+			"tall"	 								"f0"
+			"visible"								"1"
+			"enabled"								"1"
+			"textAlignment"							"North-West"
+			"dulltext"								"0"
+			"brighttext"							"0"
+			"proportionaltoparent"					"1"
+			"auto_wide_tocontents"					"1"
+			"alpha"									"255"
+		}
+		
+		"CarryingLabelDropShadow"
+		{	
+			"ControlName"							"CExLabel"
+			"fieldName"								"CarryingLabelDropShadow"
+			"xpos"									"9999"
+		}
 	}
-	"PlayerStatusSpyImage"
+	
+	//REMOVED
+	"classmodelpanelBG"
 	{
-		"ControlName"			"CTFImagePanel"
-		"fieldName"				"PlayerStatusSpyImage"
-		"xpos"					"9999"
-	}	
-	"PlayerStatusSpyOutlineImage"
-	{
-		"ControlName"			"CTFImagePanel"
-		"fieldName"				"PlayerStatusSpyOutlineImage"
-		"xpos"					"9999"
-	}		
+		"ControlName"								"CTFImagePanel"
+		"fieldName"									"classmodelpanelBG"
+		"xpos"										"9999"
+	}
 	"PlayerStatusClassImageBG"
 	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"PlayerStatusClassImageBG"
-		"xpos"			"9"	
-		"ypos"			"r60"
-		"zpos"			"1"		
-		"wide"			"100"
-		"tall"			"50"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"../hud/character_red_bg"
-		"scaleImage"	"1"	
-		"teambg_2"		"../hud/character_red_bg"
-		"teambg_2_lodef"	"../hud/character_red_bg_lodef"
-		"teambg_3"		"../hud/character_blue_bg"
-		"teambg_3_lodef"	"../hud/character_blue_bg_lodef"
-		"Alpha"				"0"
+		"ControlName"								"CTFImagePanel"
+		"fieldName"									"PlayerStatusClassImageBG"
+		"xpos"										"9999"
 	}
-	
 }

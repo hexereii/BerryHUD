@@ -25,9 +25,7 @@
 	HudMedicCharge
 	{
 		"xpos"						"0"
-		//"xpos_minmode"				"0"
 		"ypos"						"0"
-		//"xpos_minmode"				"0"
 		"wide"						"f0"
 		"tall"						"480"
 	}
@@ -83,7 +81,6 @@
 	{
 		"xpos"						"0"
 		"ypos"						"0"
-		//"xpos_minmode"				"0"
 		"wide"						"f0"
 		"tall"						"480"
 	}
@@ -118,9 +115,7 @@
 	CHealthAccountPanel
 	{
 		"xpos"						"c-162"
-		//"xpos_minmode"				"c-183"
 		"ypos"						"r115"
-		//"xpos_minmode"				"r54"
 		"wide"						"f0"
 		"tall"  					"20"
 	}
@@ -147,9 +142,8 @@
 
 	CMainTargetID
 	{
-		"ypos"						"285"
+		"ypos"						"245"
 		"tall"	 					"28"
-		//"tall_minmode"	 			"28"
 	}
 
 	CSpectatorTargetID

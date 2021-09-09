@@ -80,7 +80,7 @@
 
 	"AdvancedOptions"
 	{
-		"label"			"I"
+		"label"			"t"
 		"command"		"opentf2options"
 		"tooltip"		"ADVANCED OPTIONS"
 		"OnlyAtMenu"	"1"

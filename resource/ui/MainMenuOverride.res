@@ -735,7 +735,7 @@
 			"proportionaltoparent"		"1"
 		}
 	}
-
+	
 	"MOTD_ShowButtonPanel"
 	{
 		"ControlName"	"EditablePanel"

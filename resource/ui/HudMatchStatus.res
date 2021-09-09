@@ -586,7 +586,7 @@
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"enabled"		"1"
-				"visible"		"1"
+				"visible"		"0"
 				"labelText"		"%playername%"
 			}
 			"classimage"

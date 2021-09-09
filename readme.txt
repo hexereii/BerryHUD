@@ -1,4 +1,4 @@
-Welcome to HexHUD!!
+Welcome to BerryHUD!!
 made by Hexereii
 
 special thanks to Millie, Peaches, Sammy, Kynsum, Sirc, huds.tf discord, & more for the help in making this possible <3
@@ -148,3 +148,9 @@ berryhud b9
 Moved the uber counter over towards the HP for easier accessibility (hudmediccharge.res)
 Made the meter at the bottom of the screen as Medic slightly smaller (hudmediccharge.res)
 Fixed overheal loop so that the colours don't linger after overheal (hudanimations_hex.txt) 
+
+berryhud b10
+Made an alternate option to turn off viewmodels (HUDPlayerClass.res)
+Fixed/added back in Advanced Options to main menu (MainMenuOverride.res/GameMenu.res)
+Moved targetid so that it's easier & more obvious for Medic with Solemn Vow to see the other medic's uber % when looking at them (hudlayout_hex.res)
+Removed uber counter from HUD 
