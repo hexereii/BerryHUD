@@ -12,6 +12,10 @@ event HudHealthBonusPulse
   	Animate PlayerStatusHealthValueTargetShadow 			FgColor		"BlackTransparent"					Linear 	11.6		0.8
   	Animate PlayerStatusHealthValueTargetShadow 			FgColor		"BlueLight"					Linear 	2.4 	0.8
 
+	Animate Health_Spectator					FgColor 	"White" 			Linear 	0.0		0.0
+	Animate Health_Spectator_Bar_Buff			Alpha		"255"								Linear 	0.0 	0.0
+	Animate Health_Spectator_BG					BgColor 	"0 207 210 255" 						Linear 	0.0		0.0
+	
     RunEvent HudHealthBonusPulseLoop    1.6
 }
 
@@ -28,7 +32,6 @@ event HudHealthBonusPulseStop
 	StopEvent PlayerStatusHealthValueTargetShadow 0.0
     StopEvent HudHealthBonusPulse 0.0
     StopEvent HudHealthBonusPulseLoop 0.0
-	
 }
 
 //====================================================================================================================
@@ -41,7 +44,9 @@ event HudHealthDyingPulse
 
 	Animate PlayerStatusHealthValueTarget		FgColor 	"WhiteTransparent" 				Linear 	0.0		0.0
 
-	Animate PlayerStatusHealthValueSpectator	FgColor 	"WhiteTransparent" 					Linear 	0.0		0.0
+	Animate Health_Spectator					FgColor 	"White" 			Linear 	0.0		0.0
+	Animate Health_Spectator_Bar_Buff			Alpha		"255"								Linear 	0.0 	0.0
+	Animate Health_Spectator_BG					BgColor 	"255 94 0 255" 						Linear 	0.0		0.0
 
 	RunEvent HudHealthDyingPulseLoop			0.4
 }
@@ -60,7 +65,9 @@ event HudHealthDyingPulseStop
 
 	Animate PlayerStatusHealthValueTarget 		FgColor 	"Health" 							Linear 	0.0 	0.0
 
-	Animate PlayerStatusHealthValueSpectator 	FgColor 	"Health" 							Linear 	0.0 	0.0
+	Animate Health_Spectator					FgColor 	"White" 					Linear 	0.0		0.0
+	Animate Health_Spectator_Bar_Buff			Alpha		"0"									Linear 	0.0 	0.0
+	Animate Health_Spectator_BG					BgColor 	"Black" 			Linear 	0.0		0.0
 }
 
 //====================================================================================================================

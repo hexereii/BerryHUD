@@ -2,20 +2,31 @@ Welcome to BerryHUD!!
 made by Hexereii
 
 special thanks to Millie, Peaches, Sammy, Kynsum, Sirc, huds.tf discord, & more for the help in making this possible <3
+
+MORE CREDITS:
+HExHUD - for the toolbar & spectatorUI
+GlitchHUD - for the class select idea
+PeachHUD - for the basis of this HUD entirely 
+PhouHUD - for the scoreboard
+swissolo's Custom Match HUD
+Clovervidia's ClosedCaptions
+Arcadia, Rahmed for Med UI advice
+Catberg, Cart, Jynacci, CharlesMingus, Xhon & anyone else who helped me playtest this
+
 also check out my Medic Config;
 tinyurl.com/hexmedcfg
 
 
 TODO LIST;
 - Maybe add mat_antialias button?
-- Center the current-on-wearer atributes label
-- Fix up the backpack a bit more; more distinguished colours
+- Add HP on Spy disguise
+- 
 
 Patch Notes:
 
 hexhud_a1.2
 Fixed background (weird clipping in Loading screen)
-Moved friends list to right side of the screen [mainmenuoverride.res, steamfriendpanel.res)
+Moved friends list to right side of the screen (mainmenuoverride.res, steamfriendpanel.res)
 Changed colour & font of "Find Game" (matchmakingdashboard.res)
 
 hexhud_a2
@@ -154,3 +165,7 @@ Made an alternate option to turn off viewmodels (HUDPlayerClass.res)
 Fixed/added back in Advanced Options to main menu (MainMenuOverride.res/GameMenu.res)
 Moved targetid so that it's easier & more obvious for Medic with Solemn Vow to see the other medic's uber % when looking at them (hudlayout_hex.res)
 Removed uber counter from HUD 
+
+berryhud b11
+Changed the Spectator UI (spectatortournamentguihealth.res, spectatortournament.res, hudanimations_hex.txt)
+Disabled showing Killstreak count actively (huditemeffectmeter_killstreak.res)

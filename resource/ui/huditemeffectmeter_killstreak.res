@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-204"	[$WIN32]
-		"ypos"			"c120"	[$WIN32]
+		"xpos"			"c-385"	[$WIN32]
+		"ypos"			"c175"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -64,7 +64,7 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		"visible"				"0"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"Frags"
@@ -85,7 +85,7 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		"visible"				"0"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"Frags"
@@ -126,7 +126,7 @@
 		"wide"					"40"
 		"tall"					"20"	
 		"pinCorner"				"2"
-		"visible"				"1"
+		"visible"				"0"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
@@ -145,7 +145,7 @@
 		"wide"					"40"
 		"tall"					"25"
 		"pinCorner"				"2"
-		"visible"				"1"
+		"visible"				"0"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
