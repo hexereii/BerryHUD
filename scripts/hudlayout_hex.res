@@ -274,10 +274,17 @@
 
 	"HudMenuSpyDisguise"
 	{
-		"xpos"						"c-400"
-		"ypos"						"c-80"
-		"wide"						"800"
-		"tall"						"500"
+		"fieldName" 	"HudMenuSpyDisguise"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c-235"
+		"ypos"			"c-52"
+		"ypos_hidef"	"c-42"
+		"ypos_lodef"	"c-42"
+		"wide"			"470"
+		"tall"			"200"	[$WIN32]
+		"tall"			"180"	[$X360]
+		"PaintBackgroundType"	"0"
 	}
 
 	"HudMenuTauntSelection"

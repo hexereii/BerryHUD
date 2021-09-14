@@ -19,12 +19,11 @@ tinyurl.com/hexmedcfg
 
 TODO LIST;
 - Maybe add mat_antialias button?
-- Add HP on Spy disguise
-- 
+
 
 Patch Notes:
 
-hexhud_a1.2
+hexhud_a1.1
 Fixed background (weird clipping in Loading screen)
 Moved friends list to right side of the screen (mainmenuoverride.res, steamfriendpanel.res)
 Changed colour & font of "Find Game" (matchmakingdashboard.res)
@@ -169,3 +168,8 @@ Removed uber counter from HUD
 berryhud b11
 Changed the Spectator UI (spectatortournamentguihealth.res, spectatortournament.res, hudanimations_hex.txt)
 Disabled showing Killstreak count actively (huditemeffectmeter_killstreak.res)
+
+berryhud b12
+Added HP to Spy disguise (disguisestatuspanel.res)
+Modified the class select text slightly (chat_english.txt)
+Made the bars for active items thinner (huditemeffectmeter.res, huditemeffectmeter_cleaver.res)
