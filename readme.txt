@@ -13,9 +13,11 @@ Clovervidia's ClosedCaptions
 Arcadia, Rahmed for Med UI advice
 Catberg, Cart, Jynacci, CharlesMingus, Xhon & anyone else who helped me playtest this
 
-also check out my Medic Config;
+also check out my Medic Config
 tinyurl.com/hexmedcfg
 
+Screenshot album
+imgur.com/a/ldt9NXv 
 
 TODO LIST;
 - Maybe add mat_antialias button?
