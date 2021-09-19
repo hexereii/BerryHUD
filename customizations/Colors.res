@@ -1,16 +1,3 @@
-//////////////////////////////////////////////////////////////////////////////////////////////////
-//*****************************************INSTRUCTIONS*****************************************//
-//																								//
-//				HERE YOU CAN EDIT ALL THE MAIN COLORS BY CHANGING THE RGBA CODE					//
-//																								//
-//	THE FIRST 3 NUMBERS ARE THE R(red) G(green) B(blu) VALUES THE LAST ONE IS THE TRANSPARENCY	//
-//																								//
-//																								//
-//		YOU CAN FIND THE REST OF THE USED COLORS INSIDE THE RESOURCE/SCHEME/COLORS.RES FILE		//
-//			BUT I WOULD RECOMMED TO ONLY EDIT THAT FILE IF YOU KNOW WHAT YOU ARE DOING!			//
-//																								//
-//////////////////////////////////////////////////////////////////////////////////////////////////
-
 Scheme
 {
 	Colors
@@ -46,7 +33,3 @@ Scheme
 		"Last Damage Done"						"235 235 235 255"
 	}
 }
-
-//////////////////////////////////////////////////////////////////////////////////////////////////
-//  CROSSHAIR RELATED COLORS HAVE BEEN MOVED TO THE CROSSHAIR FILES FOR THE SAKE OF SIMPLICITY  //
-//////////////////////////////////////////////////////////////////////////////////////////////////

@@ -110,7 +110,7 @@
 			"depressedBgColor_override" 			"Black"
 			
 			"defaultFgColor_override" 				"Black"
-			"armedFgColor_override" 				"204 17 0 255"
+			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"204 17 0 255"
 		}
 		

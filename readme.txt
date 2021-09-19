@@ -175,3 +175,10 @@ berryhud b12
 Added HP to Spy disguise (disguisestatuspanel.res)
 Modified the class select text slightly (chat_english.txt)
 Made the bars for active items thinner (huditemeffectmeter.res, huditemeffectmeter_cleaver.res)
+
+berryhud b13
+Re-did the team select menu, mod of kbnHUD (teammenu.res)
+Removed DemoUI button on main menu & replaced it with reload menu button (MainMenuOverride,res/GameMenu.res)
+Made the icons in the matchhud slightly smaller (HudMatchStatus.res)
+Fixed organization of the Class Select HL (classelection_hl.res)
+Created an alternative version of the targetid so Ubercharge is more visible (targetid.res)

@@ -5,9 +5,9 @@
 		"label" 		"BERRYHUD"
 		"command" 		"engine clear
 				echo; echo; echo ---------;
-				echo BerryHUD | Current release: September 14, 2021;
+				echo BerryHUD | Current release: September 16, 2021;
 				echo BerryHUD | First release: May 30, 2021;
-				echo BerryHUD | Version: Beta 12
+				echo BerryHUD | Version: Beta 13
 				echo Made by Hexereii;
 				echo Twitter	   | twitter.com/hexereiitf2;
 				echo Updates | github.com/hexereii/HexHUD;
@@ -45,8 +45,8 @@
 
 	"Demoui"
 	{
-		"label" 		"DEMOUI"
-		"command" 		"engine demoui"
+		"label" 		"RELOAD MENU"
+		"command" 		"engine toggle mat_antialias 0 1"
 		"OnlyAtMenu" 	"1"
 	}
 	"Quit"

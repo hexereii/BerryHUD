@@ -238,35 +238,3 @@
 		"fieldName"					"HealthClusterIcon"
 		"xpos"						"99999"
 	}
-
-	"ResistIconAnchor"
-	{
-		"ControlName"				"EditablePanel"
-		"fieldName"					"ResistIconAnchor"
-		"xpos"						"-22"
-		"ypos"						"-14"
-		"wide"						"1"
-		"tall"						"50"
-		"visible"					"1"
-		"enabled"					"1"
-
-		"pin_to_sibling"			"IndividualChargesLabel"
-		"pin_corner_to_sibling"		"PIN_TOPLEFT"
-		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
-	}
-
-	"ResistIcon"
-	{
-		"ControlName"				"ImagePanel"
-		"fieldName"					"ResistIcon"
-		"xpos"						"0"
-		"ypos"						"0"
-		"wide"						"22"
-		"tall"						"22"
-		"visible"					"1"
-		"enabled"					"1"
-		"image"						"../HUD/defense_buff_bullet_blue"
-		"scaleImage"				"1"
-
-		"pin_to_sibling"			"ResistIconAnchor"
-	}
