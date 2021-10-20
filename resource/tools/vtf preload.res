@@ -109,7 +109,7 @@
 		"enabled"			"1"
 		"image"				"../sprites/obj_icons/icon_obj_neutral_locked"
 	}
-	
+
 	"CPIconBlu1"
 	{
 		"ControlName"	"ImagePanel"
@@ -119,7 +119,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_blu"
 	}
-	
+
 	"CPIconBlu1Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -129,7 +129,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_blu_locked"
 	}
-	
+
 	"CPIconRed1"
 	{
 		"ControlName"	"ImagePanel"
@@ -139,7 +139,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_red"
 	}
-	
+
 	"CPIconRed1Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -148,8 +148,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_red_locked"
-	}	
-	
+	}
+
 	"CPIconNeutral1"
 	{
 		"ControlName"	"ImagePanel"
@@ -158,8 +158,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_neutral"
-	}	
-	
+	}
+
 	"CPIconNeutral1Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -169,7 +169,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_neutral_locked"
 	}
-	
+
 	"CPIconBlu2"
 	{
 		"ControlName"	"ImagePanel"
@@ -179,7 +179,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_blu"
 	}
-	
+
 	"CPIconBlu2Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -189,7 +189,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_blu_locked"
 	}
-	
+
 	"CPIconRed2"
 	{
 		"ControlName"	"ImagePanel"
@@ -199,7 +199,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_red"
 	}
-	
+
 	"CPIconRed2Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -208,8 +208,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_red_locked"
-	}	
-	
+	}
+
 	"CPIconNeutral2"
 	{
 		"ControlName"	"ImagePanel"
@@ -218,8 +218,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_neutral"
-	}	
-	
+	}
+
 	"CPIconNeutral2Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -229,7 +229,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_neutral_locked"
 	}
-	
+
 	"CPIconBlu3"
 	{
 		"ControlName"	"ImagePanel"
@@ -239,7 +239,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_blu"
 	}
-	
+
 	"CPIconBlu3Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -249,7 +249,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_blu_locked"
 	}
-	
+
 	"CPIconRed3"
 	{
 		"ControlName"	"ImagePanel"
@@ -259,7 +259,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_red"
 	}
-	
+
 	"CPIconRed3Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -268,8 +268,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_red_locked"
-	}	
-	
+	}
+
 	"CPIconNeutral3"
 	{
 		"ControlName"	"ImagePanel"
@@ -278,8 +278,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_neutral"
-	}	
-	
+	}
+
 	"CPIconNeutral3Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -289,7 +289,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_neutral_locked"
 	}
-	
+
 	"CPIconBlu4"
 	{
 		"ControlName"	"ImagePanel"
@@ -299,7 +299,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_blu"
 	}
-	
+
 	"CPIconBlu4Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -309,7 +309,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_blu_locked"
 	}
-	
+
 	"CPIconRed4"
 	{
 		"ControlName"	"ImagePanel"
@@ -319,7 +319,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_red"
 	}
-	
+
 	"CPIconRed4Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -328,8 +328,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_red_locked"
-	}	
-	
+	}
+
 	"CPIconNeutral4"
 	{
 		"ControlName"	"ImagePanel"
@@ -338,8 +338,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_neutral"
-	}	
-	
+	}
+
 	"CPIconNeutral4Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -349,7 +349,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_neutral_locked"
 	}
-	
+
 	"CPIconBlu5"
 	{
 		"ControlName"	"ImagePanel"
@@ -359,7 +359,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_blu"
 	}
-	
+
 	"CPIconBlu5Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -369,7 +369,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_blu_locked"
 	}
-	
+
 	"CPIconRed5"
 	{
 		"ControlName"	"ImagePanel"
@@ -379,7 +379,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_red"
 	}
-	
+
 	"CPIconRed5Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -388,8 +388,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_red_locked"
-	}	
-	
+	}
+
 	"CPIconNeutral5"
 	{
 		"ControlName"	"ImagePanel"
@@ -398,8 +398,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_neutral"
-	}	
-	
+	}
+
 	"CPIconNeutral5Locked"
 	{
 		"ControlName"	"ImagePanel"
@@ -409,7 +409,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_neutral_locked"
 	}
-	
+
 	"CPIconA"
 	{
 		"ControlName"	"ImagePanel"
@@ -491,7 +491,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_timer"
 	}
-	
+
 	///CART POINT ICONS///
 	"CartAlert"
 	{
@@ -700,7 +700,7 @@
 		"enabled"			"1"
 		"image"				"../hud/cart_red_bottom"
 	}
-	
+
 	///CAPTURE THE FLAG ICONS///
 	"CTFCompassBlue"
 	{
@@ -837,7 +837,7 @@
 		"enabled"			"1"
 		"image"				"../hud/objectives_flagpanel_ico_flag_moving_alt"
 	}
-	
+
 	///TIMER CLOCK///
 	"TimerRed"
 	{

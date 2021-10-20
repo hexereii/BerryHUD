@@ -3,14 +3,14 @@
 event HudHealthBonusPulse
 {
     Animate PlayerStatusHealthValueShadow             FgColor        "BlackTransparent"                       Linear      0.0        0.8
-    Animate PlayerStatusHealthValueShadow             FgColor        "BlueLight"                              Linear      0.8        0.8
+    Animate PlayerStatusHealthValueShadow             FgColor        "86 133 201 255"                              Linear      0.8        0.8
     Animate PlayerStatusHealthValueShadow             FgColor        "BlackTransparent"                          Linear      1.6        0.8
     Animate PlayerStatusHealthValueShadowExtra       Alpha         "255"                                Accel     0.0     0.0
 
     Animate PlayerStatusHealthValueTargetShadow 			FgColor		"BlackTransparent"					Linear 	0.0		0.8
-  	Animate PlayerStatusHealthValueTargetShadow 			FgColor		"BlueLight"					Linear 	0.8		0.8
+  	Animate PlayerStatusHealthValueTargetShadow 			FgColor		"86 133 201 255"					Linear 	0.8		0.8
   	Animate PlayerStatusHealthValueTargetShadow 			FgColor		"BlackTransparent"					Linear 	11.6		0.8
-  	Animate PlayerStatusHealthValueTargetShadow 			FgColor		"BlueLight"					Linear 	2.4 	0.8
+  	Animate PlayerStatusHealthValueTargetShadow 			FgColor		"86 133 201 255"					Linear 	2.4 	0.8
 
 	Animate Health_Spectator					FgColor 	"White" 			Linear 	0.0		0.0
 	Animate Health_Spectator_Bar_Buff			Alpha		"255"								Linear 	0.0 	0.0

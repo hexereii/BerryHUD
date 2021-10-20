@@ -20,7 +20,7 @@
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"RELOAD SCHEME"
-		"font"				"Astral"
+		"font"				"Qurany"
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"

@@ -182,3 +182,9 @@ Removed DemoUI button on main menu & replaced it with reload menu button (MainMe
 Made the icons in the matchhud slightly smaller (HudMatchStatus.res)
 Fixed organization of the Class Select HL (classelection_hl.res)
 Created an alternative version of the targetid so Ubercharge is more visible (targetid.res)
+
+berryhud b14
+Fixed some item effect meters to not overlap (anything with 'huditemeffectmeter.res')
+Changed the mainmenu font to fit the HUD better (MainMenuOverride.res/GameMenu.res)
+Changed the cp icons (cpicon)
+Fixed the matchmaking menus by turning them to default HUDs with my font

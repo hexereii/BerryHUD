@@ -1,1 +1,1 @@
-#base "../resource/ui/alternatives/Damage_Off.res"			// DAMAGE DISABLED
+#base "../resource/ui/alternatives/Damage_Off.res"

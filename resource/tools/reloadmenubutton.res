@@ -17,7 +17,7 @@
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"RELOAD MENU"
-		"font"				"Astral12"
+		"font"				"Qurany12"
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"

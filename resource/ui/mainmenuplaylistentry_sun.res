@@ -14,7 +14,7 @@
 		"labelText"								"%button_token%"
 		"textinsetx"							"0"
 		"use_proportional_insets" 				"1"
-		"font"									"Astral18"
+		"font"									"Qurany18"
 		"textAlignment"							"center"
 		"wrap"									"1"
 		"centerwrap"							"1"

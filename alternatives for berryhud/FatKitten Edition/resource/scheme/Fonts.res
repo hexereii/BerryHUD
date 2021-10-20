@@ -10,99 +10,99 @@ Scheme
 	{
 	////////////////////// MainMenu Fonts /////////////////////
 		
-		Astral
+		Qurany
 		{
 			"1"
 			{
-				"name"		"Astral Delight Upright"
+				"name"		"Qurany"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
-		Astral11
+		Qurany11
 		{
 			"1"
 			{
-				"name"		"Astral Delight Upright"
+				"name"		"Qurany"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
-		Astral12
+		Qurany12
 		{
 			"1"
 			{
-				"name"		"Astral Delight Upright"
+				"name"		"Qurany"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
-		Astral13
+		Qurany13
 		{
 			"1"
 			{
-				"name"		"Astral Delight Upright"
+				"name"		"Qurany"
 				"tall"		"13"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
-			Astral14
+			Qurany14
 		{
 			"1"
 			{
-				"name"		"Astral Delight Upright"
+				"name"		"Qurany"
 				"tall"		"13"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
-			Astral15
+			Qurany15
 		{
 			"1"
 			{
-				"name"		"Astral Delight Upright"
+				"name"		"Qurany"
 				"tall"		"15"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
-					Astral18
+					Qurany18
 		{
 			"1"
 			{
-				"name"		"Astral Delight Upright"
+				"name"		"Qurany"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
-					Astral24
+					Qurany24
 		{
 			"1"
 			{
-				"name"		"Astral Delight Upright"
+				"name"		"Qurany"
 				"tall"		"15"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
-			Astral36
+			Qurany36
 		{
 			"1"
 			{
-				"name"		"Astral Delight Upright"
+				"name"		"Qurany"
 				"tall"		"15"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -3142,8 +3142,8 @@ Scheme
 		}
 		"5"
 		{
-		"font"  "resource/scheme/fonts/Astral Delight Upright.ttf"
-		"name" "Astral Delight Upright"
+		"font"  "resource/scheme/fonts/Qurany.ttf"
+		"name" "Qurany"
 		}
 	}
 }

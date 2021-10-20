@@ -30,7 +30,7 @@
 	{
 		"ControlName"				"CAutoFittingLabel"
 		"fieldName"					"Text"
-		
+
 
 		if_incoming
 		{
@@ -51,21 +51,20 @@
 		{
 			"1"
 			{
-				"font"				"Quake11"
+				"font"				"Quake"
 			}
-
 			"2"
 			{
-				"font"				"Quake9"
+				"font"				"Quake"
 			}
 			"3"
 			{
-				"font"				"Quake8"
+				"font"				"Quake"
 			}
 
 			"4"
 			{
-				"font"				"Quake7"
+				"font"				"Quake"
 			}
 		}
 
@@ -92,7 +91,7 @@
 			"visible"				"0"
 		}
 
-		
+
 		"proportionaltoparent"		"1"
 		"mouseinputenabled"			"0"
 		"alpha"						"200"
@@ -111,12 +110,12 @@
 		"wide"						"80"
 		"zpos"						"100"
 		"tall"						"18"
-		
+
 		"visible"					"1"
 
 		"enabled"					"1"
 		"tabPosition"				"0"
-		"font"						"Quake11"
+		"font"						"Quake"
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"
@@ -130,22 +129,22 @@
 
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"			"0"
-		
+
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
-		
-		"border_default"			"GreenTransparent50"
-		"border_armed"				"OrangeTransparent50"
+
+		"border_default"			"BlackTransparent70"
+		"border_armed"				"NeonGreen"
 	}
 
 	"DeclineButton"
 	{
 		"ControlName"				"CExButton"
 		"fieldName"					"DeclineButton"
-		
+
 		if_incoming
 		{
 			"xpos"					"rs1-5"
@@ -157,12 +156,12 @@
 		"wide"						"60"
 		"zpos"						"100"
 		"tall"						"18"
-		
+
 		"visible"					"1"
 
 		"enabled"					"1"
 		"tabPosition"				"0"
-		"font"						"Quake11"
+		"font"						"Quake"
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"
@@ -173,17 +172,17 @@
 		"mouseinputenabled"			"1"
 		"keyboardinputenabled"		"0"
 		"actionsignallevel"			"1"
-		
+
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"			"0"
-		
+
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
-		
-		"border_default"			"RedTransparent50"
-		"border_armed"				"OrangeTransparent50"
+
+		"border_default"			"BlackTransparent70"
+		"border_armed"				"NeonGreen"
 	}
 }

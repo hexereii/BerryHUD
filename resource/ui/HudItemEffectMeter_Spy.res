@@ -17,9 +17,9 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"12"
-		"ypos"			"0"
-		"zpos"			"0"
+		"xpos"					"9999"
+		"ypos"					"9999"
+		"zpos"					"2"
 		"wide"			"76"
 		"tall"			"44"
 		"visible"		"1"
@@ -90,7 +90,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"		"255 255 255 255"
-		"font"				"m0refont24"
+		"font"				"Quake"
 	}
 
 	"ItemEffectMeterCountShadow"
@@ -111,6 +111,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"		"0 0 0 255"
-		"font"				"m0refont24"
+		"font"				"Quake"
 	}
 }
