@@ -104,8 +104,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 
-			"border_default"			"BlueSolid"
-			"border_armed"				"OrangeSolid"
+			"border_default"			"RoyalBluTransparent"
+			"border_armed"				"NeonGreen"
 
 			"proportionaltoparent"		"1"
 		}
@@ -157,8 +157,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 
-			"border_default"			"BlueSolid"
-			"border_armed"				"OrangeSolid"
+			"border_default"			"RoyalBluTransparent"
+			"border_armed"				"NeonGreen"
 
 			"proportionaltoparent"		"1"
 		}
@@ -210,8 +210,8 @@
 			"armedFgColor_override"		"White"
 			"depressedFgColor_override"	"White"
 
-			"border_default"			"BlueSolid"
-			"border_armed"				"OrangeSolid"
+			"border_default"			"RoyalBluTransparent"
+			"border_armed"				"NeonGreen"
 
 			"proportionaltoparent"		"1"
 		}

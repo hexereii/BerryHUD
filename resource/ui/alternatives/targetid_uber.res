@@ -103,7 +103,7 @@
 		"ControlName"		             			"EditablePanel"
 		"fieldName"		               				"SpectatorGUIHealth"
 		"xpos"			                 			"10"
-		"ypos"			                 			"-7"
+		"ypos"			                 			"2"
 		"wide"			                 			"45"
 		"tall"			                 			"40"
 		"visible"		                 			"1"

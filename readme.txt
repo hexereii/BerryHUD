@@ -188,3 +188,8 @@ Fixed some item effect meters to not overlap (anything with 'huditemeffectmeter.
 Changed the mainmenu font to fit the HUD better (MainMenuOverride.res/GameMenu.res)
 Changed the cp icons (cpicon)
 Fixed the matchmaking menus by turning them to default HUDs with my font
+
+berryhud f1
+Modified the Medic UI to be more accessible to uber % (hudmediccharge.res)
+Added new buttons to the in-game tools bar (tools.res)
+Adding linux support!

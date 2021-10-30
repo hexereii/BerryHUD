@@ -31,7 +31,7 @@
 			"paintborder"							"0"
 			"paintbackground"						"0"
 		}
-		
+
 		"SubButton"
 		{
 			"ControlName"							"CExImageButton"
@@ -52,12 +52,12 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"0"
 			"paintbackgroundtype"					"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"GrayBlue"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
 		}
@@ -71,12 +71,12 @@
 		"ypos"										"rs1-1"
 		"zpos"										"100"
 		"wide"										"f0"
-		"tall"										"20"
+		"tall"										"50"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
 		"PaintBackgroundType"						"0"
 		"PaintBackground"							"1"
-		"bgcolor_override"							"62 61 83 255"
+		"bgcolor_override"							"BlackTransparent"
 
 		"CloseButton"
 		{
@@ -101,19 +101,19 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
-			"defaultBgColor_override" 				"GrayBlue"
-			"armedBgColor_override" 				"Black"
+			"defaultBgColor_override" 				"Black"
+			"armedBgColor_override" 				"NeonGreen"
 			"depressedBgColor_override" 			"Black"
-			
-			"defaultFgColor_override" 				"Black"
-			"armedFgColor_override" 				"NeonGreen"
+
+			"defaultFgColor_override" 				"Red"
+			"armedFgColor_override" 				"White"
 			"depressedFgColor_override" 			"204 17 0 255"
 		}
-		
+
 		"Fix Invisible Players"
 		{
 			"ControlName"							"CExImageButton"
@@ -121,14 +121,14 @@
 			"xpos"									"0"
 			"ypos"									"0"
 			"zpos"									"2"
-			"wide"									"125"
-			"tall"									"f4"
+			"wide"									"100"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany"
+			"font"									"Qurany6"
 			"textAlignment"							"west"
-			"textinsetX"							"20"
+			"textinsetX"							"22"
 			"labeltext"								"Fix Invis Players"
 			"AllCaps"								"1"
 			"dulltext"								"0"
@@ -138,14 +138,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
-			"defaultBgColor_override" 				"WhiteTransparent"
+			"defaultBgColor_override" 				"White"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -165,10 +165,10 @@
 			"ypos"									"0"
 			"zpos"									"3"
 			"wide"									"o1"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor_override"						"GrayBlue"
+			"fgcolor_override"						"RoyalBluTransparent"
 			"proportionaltoparent"					"1"
 			"mouseinputenabled"						"0"
 			"paintbackground"						"1"
@@ -177,7 +177,7 @@
 
 			"pin_to_sibling" 						"Fix Invisible Players"
 		}
-		
+
 		"Reload Sound"
 		{
 			"ControlName"							"CExImageButton"
@@ -186,11 +186,11 @@
 			"ypos"									"0"
 			"zpos"									"2"
 			"wide"									"100"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany"
+			"font"									"Qurany6"
 			"textAlignment"							"west"
 			"textinsetX"							"20"
 			"labeltext"								"Fix Sound"
@@ -202,14 +202,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
-			"defaultBgColor_override" 				"WhiteTransparent"
+			"defaultBgColor_override" 				"White"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -229,10 +229,10 @@
 			"ypos"									"0"
 			"zpos"									"3"
 			"wide"									"o1"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor_override"						"GrayBlue"
+			"fgcolor_override"						"RoyalBluTransparent"
 			"proportionaltoparent"					"1"
 			"mouseinputenabled"						"0"
 			"paintbackground"						"1"
@@ -248,12 +248,12 @@
 			"xpos"									"5"
 			"ypos"									"0"
 			"zpos"									"2"
-			"wide"									"73"
-			"tall"									"f4"
+			"wide"									"80"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany"
+			"font"									"Qurany6"
 			"textAlignment"							"west"
 			"textinsetX"							"20"
 			"labeltext"								"Reload HUD"
@@ -265,14 +265,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
-			"defaultBgColor_override" 				"WhiteTransparent"
+			"defaultBgColor_override" 				"White"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -292,10 +292,10 @@
 			"ypos"									"0"
 			"zpos"									"3"
 			"wide"									"o1"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor_override"						"GrayBlue"
+			"fgcolor_override"						"RoyalBluTransparent"
 			"proportionaltoparent"					"1"
 			"mouseinputenabled"						"0"
 			"paintbackground"						"1"
@@ -304,68 +304,6 @@
 			"pin_to_sibling" 						"Reload HUD"
 		}
 
-		"Reload HUD"
-		{
-			"ControlName"							"CExImageButton"
-			"fieldName"								"Reload HUD"
-			"xpos"									"5"
-			"ypos"									"0"
-			"zpos"									"2"
-			"wide"									"73"
-			"tall"									"f4"
-			"visible"								"1"
-			"enabled"								"1"
-			"use_proportional_insets" 				"1"
-			"font"									"Qurany"
-			"textAlignment"							"west"
-			"textinsetX"							"20"
-			"labeltext"								"Reload HUD"
-			"AllCaps"								"1"
-			"dulltext"								"0"
-			"brighttext"							"0"
-			"default"								"1"
-			"Command"								"engine vgui_cache_res_files 0;hud_reloadscheme"
-			"actionsignallevel"						"2"
-			"proportionaltoparent"					"1"
-			"sound_depressed"						"UI/buttonclick.wav"
-			
-			"paintbackground"						"1"
-			"paintbackgroundtype"					"0"
-
-			"defaultBgColor_override" 				"WhiteTransparent"
-			"armedBgColor_override" 				"Black"
-			"depressedBgColor_override" 			"Black"
-			
-			"defaultFgColor_override" 				"Black"
-			"armedFgColor_override" 				"NeonGreen"
-			"depressedFgColor_override" 			"NeonGreen"
-
-			"pin_to_sibling" 						"Reload Sound"
-			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
-			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
-		}
-		"Reload HUD Icon"
-		{
-			"ControlName"							"CExLabel"
-			"fieldName"								"Reload HUD Icon"
-			"font"									"Symbols 10"
-			"labelText"								"/"
-			"textAlignment"							"center"
-			"xpos"									"0"
-			"ypos"									"0"
-			"zpos"									"3"
-			"wide"									"o1"
-			"tall"									"f4"
-			"visible"								"1"
-			"enabled"								"1"
-			"fgcolor_override"						"GrayBlue"
-			"proportionaltoparent"					"1"
-			"mouseinputenabled"						"0"
-			"paintbackground"						"1"
-			"paintbackgroundtype"					"0"
-			"BgColor_override" 						"Black"
-			"pin_to_sibling" 						"Reload HUD"
-		}
 
 		"Toggle NetGraph"
 		{
@@ -375,11 +313,11 @@
 			"ypos"									"0"
 			"zpos"									"2"
 			"wide"									"100"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany"
+			"font"									"Qurany66"
 			"textAlignment"							"west"
 			"textinsetX"							"20"
 			"labeltext"								"Toggle NetGraph"
@@ -391,14 +329,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
-			"defaultBgColor_override" 				"WhiteTransparent"
+			"defaultBgColor_override" 				"White"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -418,10 +356,10 @@
 			"ypos"									"0"
 			"zpos"									"3"
 			"wide"									"o1"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor_override"						"GrayBlue"
+			"fgcolor_override"						"RoyalBluTransparent"
 			"proportionaltoparent"					"1"
 			"mouseinputenabled"						"0"
 			"paintbackground"						"1"
@@ -438,11 +376,11 @@
 			"ypos"									"0"
 			"zpos"									"2"
 			"wide"									"115"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany"
+			"font"									"Qurany66"
 			"textAlignment"							"west"
 			"textinsetX"							"20"
 			"labeltext"								"Toggle MatchStatus"
@@ -454,14 +392,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
-			"defaultBgColor_override" 				"WhiteTransparent"
+			"defaultBgColor_override" 				"White"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -481,10 +419,10 @@
 			"ypos"									"0"
 			"zpos"									"3"
 			"wide"									"o1"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor_override"						"GrayBlue"
+			"fgcolor_override"						"RoyalBluTransparent"
 			"proportionaltoparent"					"1"
 			"mouseinputenabled"						"0"
 			"paintbackground"						"1"
@@ -501,11 +439,11 @@
 			"ypos"									"0"
 			"zpos"									"2"
 			"wide"									"80"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany"
+			"font"									"Qurany66"
 			"textAlignment"							"west"
 			"textinsetX"							"20"
 			"labeltext"								"Toggle Chat"
@@ -517,14 +455,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
-			"defaultBgColor_override" 				"WhiteTransparent"
+			"defaultBgColor_override" 				"White"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -544,10 +482,10 @@
 			"ypos"									"0"
 			"zpos"									"3"
 			"wide"									"o1"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor_override"						"GrayBlue"
+			"fgcolor_override"						"RoyalBluTransparent"
 			"proportionaltoparent"					"1"
 			"mouseinputenabled"						"0"
 			"paintbackground"						"1"
@@ -567,16 +505,16 @@
 			"ypos"									"0"
 			"zpos"									"3"
 			"wide"									"o1"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor_override"						"GrayBlue"
+			"fgcolor_override"						"RoyalBluTransparent"
 			"proportionaltoparent"					"1"
 			"mouseinputenabled"						"0"
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 			"BgColor_override" 						"Black"
-			
+
 			"pin_to_sibling" 						"Toggle Chat"
 			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
 			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
@@ -589,12 +527,12 @@
 			"ypos"									"0"
 			"zpos"									"2"
 			"wide"									"120"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"Qurany"
+			"font"									"Qurany6"
 			"textAlignment"							"west"
-			"textinsetx"							"6"
+			"textinsetx"							"2"
 			"labeltext"								"Closed Captions"
 			"AllCaps"								"1"
 			"dulltext"								"0"
@@ -602,34 +540,34 @@
 			"proportionaltoparent"					"1"
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
-			"BgColor_override" 						"WhiteTransparent"
+			"BgColor_override" 						"White"
 			"FgColor_override" 						"Black"
-			"defaultBgColor_override" 				"WhiteTransparent"
+			"defaultBgColor_override" 				"White"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"FgColor_override" 				"Black"
 			"FgColor_override" 				"NeonGreen"
 			"FgColor_override" 			"NeonGreen"
-			
+
 			"pin_to_sibling" 						"CC Icon"
 			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
 			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
 		}
-		
+
 		"CC ON"
 		{
 			"ControlName"							"CExImageButton"
 			"fieldName"								"CC ON"
-			"xpos"									"-25"
+			"xpos"									"-20"
 			"ypos"									"0"
 			"zpos"									"3"
 			"wide"									"o1"
-			"tall"									"f4"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany"
+			"font"									"Qurany6"
 			"textAlignment"							"center"
 			"labeltext"								"ON"
 			"AllCaps"								"1"
@@ -640,14 +578,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
-			"defaultBgColor_override" 				"WhiteTransparent"
+			"defaultBgColor_override" 				"White"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -663,12 +601,12 @@
 			"xpos"									"0"
 			"ypos"									"0"
 			"zpos"									"3"
-			"wide"									"o1.5"
-			"tall"									"f4"
+			"wide"									"o1"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany"
+			"font"									"Qurany6"
 			"textAlignment"							"center"
 			"labeltext"								"OFF"
 			"AllCaps"								"1"
@@ -679,14 +617,14 @@
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
 			"sound_depressed"						"UI/buttonclick.wav"
-			
+
 			"paintbackground"						"1"
 			"paintbackgroundtype"					"0"
 
-			"defaultBgColor_override" 				"WhiteTransparent"
+			"defaultBgColor_override" 				"White"
 			"armedBgColor_override" 				"Black"
 			"depressedBgColor_override" 			"Black"
-			
+
 			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"NeonGreen"
 			"depressedFgColor_override" 			"NeonGreen"
@@ -695,5 +633,340 @@
 			"pin_corner_to_sibling" 				"PIN_TOPRIGHT"
 			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
 		}
-	}	
+		
+			"5cp"
+		{
+			"ControlName"							"CExImageButton"
+			"fieldName"								"5cp"
+			"xpos"									"0"
+			"ypos"									"-25"
+			"zpos"									"2"
+			"wide"									"100"
+			"tall"									"20"
+			"visible"								"1"
+			"enabled"								"1"
+			"use_proportional_insets" 				"1"
+			"font"									"Qurany6"
+			"textAlignment"							"west"
+			"textinsetX"							"20"
+			"labeltext"								"Config: 5CP"
+			"AllCaps"								"1"
+			"dulltext"								"0"
+			"brighttext"							"0"
+			"default"								"1"
+			"Command"								"engine rcon exec rgl_6s_5cp_scrim.cfg"
+			"actionsignallevel"						"2"
+			"proportionaltoparent"					"1"
+			"sound_depressed"						"UI/buttonclick.wav"
+
+			"paintbackground"						"1"
+			"paintbackgroundtype"					"0"
+
+			"defaultBgColor_override" 				"White"
+			"armedBgColor_override" 				"Black"
+			"depressedBgColor_override" 			"Black"
+
+			"defaultFgColor_override" 				"Black"
+			"armedFgColor_override" 				"NeonGreen"
+			"depressedFgColor_override" 			"NeonGreen"
+
+			"pin_to_sibling" 						"CloseButton"
+			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
+			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
+		}
+		"5cp Icon"
+		{
+			"ControlName"							"CExLabel"
+			"fieldName"								"5cp Icon"
+			"font"									"Hypnotize"
+			"labelText"								"U"
+			"textAlignment"							"center"
+			"xpos"									"0"
+			"ypos"									"-25"
+			"zpos"									"3"
+			"wide"									"o1"
+			"tall"									"20"
+			"visible"								"1"
+			"enabled"								"1"
+			"fgcolor_override"						"RoyalBluTransparent"
+			"proportionaltoparent"					"1"
+			"mouseinputenabled"						"0"
+			"paintbackground"						"1"
+			"paintbackgroundtype"					"0"
+			"BgColor_override" 						"Black"
+
+			"pin_to_sibling" 						"Fix Invisible Players"
+		}
+	"KotH"
+		{
+			"ControlName"							"CExImageButton"
+			"fieldName"								"KotH"
+			"xpos"									"5"
+			"ypos"									"-25"
+			"zpos"									"2"
+			"wide"									"100"
+			"tall"									"20"
+			"visible"								"1"
+			"enabled"								"1"
+			"use_proportional_insets" 				"1"
+			"font"									"Qurany6"
+			"textAlignment"							"west"
+			"textinsetX"							"20"
+			"labeltext"								"Config: KotH"
+			"AllCaps"								"1"
+			"dulltext"								"0"
+			"brighttext"							"0"
+			"default"								"1"
+			"Command"								"engine rcon exec rgl_6s_koth_scrim.cfg"
+			"actionsignallevel"						"2"
+			"proportionaltoparent"					"1"
+			"sound_depressed"						"UI/buttonclick.wav"
+
+			"paintbackground"						"1"
+			"paintbackgroundtype"					"0"
+
+			"defaultBgColor_override" 				"White"
+			"armedBgColor_override" 				"Black"
+			"depressedBgColor_override" 			"Black"
+
+			"defaultFgColor_override" 				"Black"
+			"armedFgColor_override" 				"NeonGreen"
+			"depressedFgColor_override" 			"NeonGreen"
+
+			"pin_to_sibling" 						"Fix Invisible Players"
+			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
+			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
+		}
+		"KotH Icon"
+		{
+			"ControlName"							"CExLabel"
+			"fieldName"								"KotH Icon"
+			"font"									"Hypnotize"
+			"labelText"								"U"
+			"textAlignment"							"center"
+			"xpos"									"0"
+			"ypos"									"0"
+			"zpos"									"3"
+			"wide"									"o1"
+			"tall"									"20"
+			"visible"								"1"
+			"enabled"								"1"
+			"fgcolor_override"						"RoyalBluTransparent"
+			"proportionaltoparent"					"1"
+			"mouseinputenabled"						"0"
+			"paintbackground"						"1"
+			"paintbackgroundtype"					"0"
+			"BgColor_override" 						"Black"
+			"pin_to_sibling" 						"KotH"
+		}
+				"Payload"
+		{
+			"ControlName"							"CExImageButton"
+			"fieldName"								"Payload"
+			"xpos"									"5"
+			"ypos"									"-25"
+			"zpos"									"2"
+			"wide"									"80"
+			"tall"									"20"
+			"visible"								"1"
+			"enabled"								"1"
+			"use_proportional_insets" 				"1"
+			"font"									"Qurany6"
+			"textAlignment"							"west"
+			"textinsetX"							"20"
+			"labeltext"								"Config: PL"
+			"AllCaps"								"1"
+			"dulltext"								"0"
+			"brighttext"							"0"
+			"default"								"1"
+			"Command"								"engine rcon exec rgl_stopwatch"
+			"actionsignallevel"						"2"
+			"proportionaltoparent"					"1"
+			"sound_depressed"						"UI/buttonclick.wav"
+
+			"paintbackground"						"1"
+			"paintbackgroundtype"					"0"
+
+			"defaultBgColor_override" 				"White"
+			"armedBgColor_override" 				"Black"
+			"depressedBgColor_override" 			"Black"
+
+			"defaultFgColor_override" 				"Black"
+			"armedFgColor_override" 				"NeonGreen"
+			"depressedFgColor_override" 			"NeonGreen"
+
+			"pin_to_sibling" 						"Reload Sound"
+			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
+			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
+		}
+		"Payload Icon"
+		{
+			"ControlName"							"CExLabel"
+			"fieldName"								"Payload Icon"
+			"font"									"Hypnotize"
+			"labelText"								"U"
+			"textAlignment"							"center"
+			"xpos"									"0"
+			"ypos"									"0"
+			"zpos"									"3"
+			"wide"									"o1"
+			"tall"									"20"
+			"visible"								"1"
+			"enabled"								"1"
+			"fgcolor_override"						"RoyalBluTransparent"
+			"proportionaltoparent"					"1"
+			"mouseinputenabled"						"0"
+			"paintbackground"						"1"
+			"paintbackgroundtype"					"0"
+			"BgColor_override" 						"Black"
+			"pin_to_sibling" 						"Payload"
+		}
+			"Maps List"
+		{
+			"ControlName"							"CExImageButton"
+			"fieldName"								"Maps List"
+			"xpos"									"5"
+			"ypos"									"-25"
+			"zpos"									"2"
+			"wide"									"100"
+			"tall"									"20"
+			"visible"								"1"
+			"enabled"								"1"
+			"use_proportional_insets" 				"1"
+			"font"									"Qurany66"
+			"textAlignment"							"west"
+			"textinsetX"							"20"
+			"labeltext"								"Maps List"
+			"AllCaps"								"1"
+			"dulltext"								"0"
+			"brighttext"							"0"
+			"default"								"1"
+			"Command"								"engine clear
+				echo; echo; echo ---------;
+				echo 5CP Maps in RGL 6's Season 7
+				echo rcon changelevel cp_metalworks
+				echo rcon changelevel cp_process_f9
+				echo rcon changelevel cp_snakewater_final1
+				echo rcon changelevel cp_sunshine
+				echo rcon changelevel cp_reckoner_rc6
+				echo rcon changelevel cp_granary_pro_rc2
+				echo ---------
+				echo KotH Maps in RGL 6's Season 7 & HL Season 10
+				echo rcon changelevel koth_bagel_rc4a
+				echo rcon changelevel koth_clearcut_b15d
+				echo rcon changelevel koth_lakeside_r2
+				echo rcon changelevel koth_product_final
+				echo rcon changelevel koth_asheville_rc2d
+				echo rcon changelevel koth_cascade_rc2
+				echo ---------
+				echo Payload Maps in RGL HL Season 10
+				echo rcon changelevel pl_swiftwater_final
+				echo rcon changelevel pl_upward
+				echo rcon changelevel pl_vigil_rc7
+				echo ---------
+				showconsole"
+			"actionsignallevel"						"2"
+			"proportionaltoparent"					"1"
+			"sound_depressed"						"UI/buttonclick.wav"
+
+			"paintbackground"						"1"
+			"paintbackgroundtype"					"0"
+
+			"defaultBgColor_override" 				"White"
+			"armedBgColor_override" 				"Black"
+			"depressedBgColor_override" 			"Black"
+
+			"defaultFgColor_override" 				"Black"
+			"armedFgColor_override" 				"NeonGreen"
+			"depressedFgColor_override" 			"NeonGreen"
+
+			"pin_to_sibling" 						"Reload HUD"
+			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
+			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
+		}
+		"Maps List Icon"
+		{
+			"ControlName"							"CExLabel"
+			"fieldName"								"Maps List Icon"
+			"font"									"Hypnotize"
+			"labelText"								"U"
+			"textAlignment"							"center"
+			"xpos"									"0"
+			"ypos"									"0"
+			"zpos"									"3"
+			"wide"									"o1"
+			"tall"									"20"
+			"visible"								"1"
+			"enabled"								"1"
+			"fgcolor_override"						"RoyalBluTransparent"
+			"proportionaltoparent"					"1"
+			"mouseinputenabled"						"0"
+			"paintbackground"						"1"
+			"paintbackgroundtype"					"0"
+			"BgColor_override" 						"Black"
+			"pin_to_sibling" 						"Maps List"
+		}
+			"Adv Options"
+		{
+			"ControlName"							"CExImageButton"
+			"fieldName"								"Adv Options"
+			"xpos"									"5"
+			"ypos"									"-25"
+			"zpos"									"2"
+			"wide"									"115"
+			"tall"									"20"
+			"visible"								"1"
+			"enabled"								"1"
+			"use_proportional_insets" 				"1"
+			"font"									"Qurany66"
+			"textAlignment"							"west"
+			"textinsetX"							"20"
+			"labeltext"								"Adv Options"
+			"AllCaps"								"1"
+			"dulltext"								"0"
+			"brighttext"							"0"
+			"default"								"1"
+			"Command"								"engine opentf2options"
+			"actionsignallevel"						"2"
+			"proportionaltoparent"					"1"
+			"sound_depressed"						"UI/buttonclick.wav"
+
+			"paintbackground"						"1"
+			"paintbackgroundtype"					"0"
+
+			"defaultBgColor_override" 				"White"
+			"armedBgColor_override" 				"Black"
+			"depressedBgColor_override" 			"Black"
+
+			"defaultFgColor_override" 				"Black"
+			"armedFgColor_override" 				"NeonGreen"
+			"depressedFgColor_override" 			"NeonGreen"
+
+			"pin_to_sibling" 						"Toggle NetGraph"
+			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
+			"pin_to_sibling_corner" 				"PIN_TOPRIGHT"
+		}
+		"Adv Options Icon"
+		{
+			"ControlName"							"CExLabel"
+			"fieldName"								"Adv Options Icon"
+			"font"									"Hypnotize"
+			"labelText"								"U"
+			"textAlignment"							"center"
+			"xpos"									"0"
+			"ypos"									"0"
+			"zpos"									"3"
+			"wide"									"o1"
+			"tall"									"20"
+			"visible"								"1"
+			"enabled"								"1"
+			"fgcolor_override"						"RoyalBluTransparent"
+			"proportionaltoparent"					"1"
+			"mouseinputenabled"						"0"
+			"paintbackground"						"1"
+			"paintbackgroundtype"					"0"
+			"BgColor_override" 						"Black"
+			"pin_to_sibling" 						"Adv Options"
+		}
+	}
 }

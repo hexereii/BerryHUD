@@ -9,6 +9,17 @@ Scheme
 	Fonts
 	{
 	////////////////////// MainMenu Fonts /////////////////////
+		Qurany6
+		{
+			"1"
+			{
+				"name"		"Qurany"
+				"tall"		"6"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}
 
 		Qurany
 		{
