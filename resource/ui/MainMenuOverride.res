@@ -800,7 +800,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_depressed"	"UI/nyan.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"paintbackground"			"0"

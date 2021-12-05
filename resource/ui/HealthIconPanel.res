@@ -6,7 +6,7 @@
 		"fieldName"		"HealthIcon"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"30"
+		"wide"			"50"
 		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"	

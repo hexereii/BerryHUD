@@ -473,7 +473,33 @@ Scheme
 			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
-		}
+			
+		      RedTransparent
+        {
+            "bordertype"            "scalable_image"
+            "backgroundtype"        "2"
+            "color"                    "RedTransparent"
+
+            "image"                    "replay/thumbnails/panels/Material_Transparent_Red"
+            "src_corner_height"        "32"
+            "src_corner_width"        "32"
+            "draw_corner_width"        "8"
+            "draw_corner_height"     "8"
+        }
+        
+            RoyalBluTransparent
+        {
+            "bordertype"            "scalable_image"
+            "backgroundtype"        "2"
+            "color"                    "RoyalBluTransparent"
+
+            "image"                    "replay/thumbnails/panels/Material_Transparent_Blue"
+            "src_corner_height"        "32"
+            "src_corner_width"        "32"
+            "draw_corner_width"        "8"
+            "draw_corner_height"     "8"
+        }
+		
 		GrayBluBorderDark
 		{
 			"bordertype"			"scalable_image"

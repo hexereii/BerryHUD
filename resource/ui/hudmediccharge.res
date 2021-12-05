@@ -16,7 +16,7 @@
 		"zpos"						"0"
 		"wide"						"2"
 		"tall"						"50"
-		"visible"					"0"
+		"visible"					"1"
 		"enabled"					"1"
 	}
 
@@ -24,7 +24,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ChargeLabel"
-		"xpos"						"9999"
+		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"2"
 		"wide"						"100"
@@ -39,7 +39,7 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"font"						"Quake33"
-		"fgcolor"					"Ubercharge"
+		"fgcolor"					"White"
 
 		"pin_to_sibling"			"UberAnchor"
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"

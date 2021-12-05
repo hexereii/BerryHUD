@@ -190,6 +190,11 @@ Changed the cp icons (cpicon)
 Fixed the matchmaking menus by turning them to default HUDs with my font
 
 berryhud f1
+Changed backgrounds to swap during different seasons
 Modified the Medic UI to be more accessible to uber % (hudmediccharge.res)
 Added new buttons to the in-game tools bar (tools.res)
 Adding linux support!
+
+berryhud f2
+Added Nyan Cat sounds when pressing "BerryHUD" (mainmenuoverride.res)
+Did some editing to the Medic UI (hudmeddicharge.res & targetid.res)
