@@ -217,11 +217,11 @@
 			"tall"	 								"f0"
 			"visible"								"0"
 			"enabled"								"0"
-			"image"									"replay/thumbnails/panels/flat_background"
+			"image"									"replay/thumbnails/panels/panel_gray"
 			"scaleImage"							"1"
-			"teambg_1"								"replay/thumbnails/panels/flat_background"
-			"teambg_2"								"replay/thumbnails/panels/flat_red"
-			"teambg_3"								"replay/thumbnails/panels/flat_blue"
+			"teambg_1"								"replay/thumbnails/panels/panel_gray"
+			"teambg_2"								"replay/thumbnails/panels/panel_red"
+			"teambg_3"								"replay/thumbnails/panels/panel_blue"
 			"proportionaltoparent"					"1"
 		}
 

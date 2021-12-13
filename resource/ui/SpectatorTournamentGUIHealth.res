@@ -31,7 +31,7 @@
 		"proportionaltoparent"						"1"
 		"textAlignment"								"center"
 		"labeltext"		 							"%Health%"
-		"font"										"Quake11"
+		"font"										"Quake8"
 		"fgcolor"		    						"WhiteTransparent"
 	}
 	"Health_Spectator_Shadow"

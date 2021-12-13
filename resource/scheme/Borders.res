@@ -11,7 +11,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 
-			"image"					"replay/thumbnails/panels/material_transparent50"
+			"image"					"replay/thumbnails/panels/material_transparent_black_50"
 			"src_corner_height"		"24"
 			"src_corner_width"		"24"
 			"draw_corner_width"		"8"
@@ -473,8 +473,8 @@ Scheme
 			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
-			
-		      RedTransparent
+		}			
+		RedTransparent
         {
             "bordertype"            "scalable_image"
             "backgroundtype"        "2"
@@ -486,8 +486,7 @@ Scheme
             "draw_corner_width"        "8"
             "draw_corner_height"     "8"
         }
-        
-            RoyalBluTransparent
+        RoyalBluTransparent
         {
             "bordertype"            "scalable_image"
             "backgroundtype"        "2"

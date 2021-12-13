@@ -1,2 +1,2 @@
-//#base "../../resource/ui/alternatives/targetid.res" // Normal targetID
-#base "../../resource/ui/alternatives/targetid_uber.res" // Uber is ontop & bigger of the targetID; easier for Meds who use solemn vow
+#base "../../resource/ui/alternatives/targetid_default.res" // Normal targetID
+//#base "../../resource/ui/alternatives/targetid_uber.res" // Uber is ontop & bigger of the targetID; easier for Meds who use solemn vow

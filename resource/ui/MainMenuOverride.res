@@ -217,7 +217,7 @@
 		"tall"			"300"
 		"visible"		"1"
 
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"0 0 0 180"
 
 		"TitleLabel"
 		{

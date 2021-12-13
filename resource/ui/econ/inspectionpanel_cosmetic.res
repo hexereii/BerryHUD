@@ -61,7 +61,7 @@
 				"tall"							"f0"
 				"visible"						"1"
 				"enabled"						"1"
-				"image"							"replay/thumbnails/menu/Sunset_Blur"
+				"image"							"replay/thumbnails/menu/Mountain_Blur"
 				"scaleimage"					"1"
 			}
 

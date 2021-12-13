@@ -7,11 +7,12 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"50"
-		"tall"			"32"
+		"tall"			"40"
 		"visible"		"1"
 		"enabled"		"1"	
 		"TFFont"		"Quake"
 		"TextColor"		"HudOffWhite"
+		"HealthBonusPosAdj" "1"
 		"autoResize"	"1"
 	}
 	"SpectatorGUIHealth"

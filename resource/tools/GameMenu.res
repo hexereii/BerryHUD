@@ -1,17 +1,17 @@
 "GameMenu" [$WIN32]
 {
-
 	"VersionNumber"
 	{
 		"label" 		"BERRYHUD"
 		"command" 		"engine clear
 				echo; echo; echo ---------;
-				echo BerryHUD | Current release: August 15, 2021;
+				echo BerryHUD | Current release: November 25, 2021;
 				echo BerryHUD | First release: May 30, 2021;
-				echo BerryHUD | Version: Beta 3
+				echo BerryHUD | Version: Final v. 2
 				echo Made by Hexereii;
 				echo Twitter	   | twitter.com/hexereiitf2;
 				echo Updates | github.com/hexereii/HexHUD;
+				echo Discord Support | discord.gg/GvDrJp9sZ6
 				echo ---------
 				showconsole"
 		"OnlyAtMenu" 	"1"
@@ -46,8 +46,8 @@
 
 	"Demoui"
 	{
-		"label" 		"DEMOUI"
-		"command" 		"engine demoui"
+		"label" 		"RELOAD MENU"
+		"command" 		"engine toggle mat_antialias 0 1"
 		"OnlyAtMenu" 	"1"
 	}
 	"Quit"
@@ -81,7 +81,7 @@
 
 	"AdvancedOptions"
 	{
-		"label"			"I"
+		"label"			"t"
 		"command"		"opentf2options"
 		"tooltip"		"ADVANCED OPTIONS"
 		"OnlyAtMenu"	"1"
@@ -135,7 +135,6 @@
 		"OnlyInGame"	"1"
 		"tooltip"		"ACHIEVEMENTS"
 	}
-
 	"ToolsOpenButton"
 	{
 		"label"										"Tools"

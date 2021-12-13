@@ -1,4 +1,5 @@
 #base "../../customizations/ClassSelection_HL.res"
+
 "Resource/UI/ClassSelection.res"
 {
    "class"
@@ -84,7 +85,7 @@
       "ControlName"  "CExLabel"
       "fieldName"    "OffclassLabel"
       "xpos"         "c100"
-	  "xpos_minmode"         "99999" 
+	   "xpos_minmode" "99999" 
       "ypos"         "c10"
       "zpos"         "2"
       "wide"         "70"

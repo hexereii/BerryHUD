@@ -24,7 +24,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"paintbackground"		"0"
-			"border"				"BlueTransparent70"
+			"border"				"RoyalBluTransparent"
 		}
 
 		"RedScoreBG2"
@@ -40,7 +40,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"paintbackground"		"0"
-			"border"				"RedTransparent70"
+			"border"				"RedTransparent"
 		}
 
 		"BlueTeamLabel"
