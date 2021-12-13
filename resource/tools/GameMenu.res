@@ -5,9 +5,9 @@
 		"label" 		"BERRYHUD"
 		"command" 		"engine clear
 				echo; echo; echo ---------;
-				echo BerryHUD | Current release: November 25, 2021;
+				echo BerryHUD | Current release: December 13, 2021;
 				echo BerryHUD | First release: May 30, 2021;
-				echo BerryHUD | Version: Final v. 2
+				echo BerryHUD | Version: Final v. 3
 				echo Made by Hexereii;
 				echo Twitter	   | twitter.com/hexereiitf2;
 				echo Updates | github.com/hexereii/HexHUD;
