@@ -1,27 +1,10 @@
 "Resource/UI/SpectatorTournamentGUIHealth.res"
-{
-	"Health_Spectator_BG"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"Health_Spectator_BG"
-		"xpos"			   							"0"
-		"ypos"			    						"0"
-		"zpos"			    						"5"
-		"wide"			    						"f0"
-		"tall"			    						"f0"
-		"visible"		    						"1"
-		"enabled"		   						 	"1"
-		"proportionaltoparent"						"1"
-		"paintbackground"							"1"
-		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"Black"
-	}
-	
+{	
 	"Health_Spectator"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"Health_Spectator"
-		"xpos"			   							"0"
+		"xpos"			   							"57"
 		"ypos"			    						"0"
 		"zpos"			    						"10"
 		"wide"			    						"f0"
@@ -31,7 +14,7 @@
 		"proportionaltoparent"						"1"
 		"textAlignment"								"center"
 		"labeltext"		 							"%Health%"
-		"font"										"Quake8"
+		"font"										"Quake"
 		"fgcolor"		    						"WhiteTransparent"
 	}
 	"Health_Spectator_Shadow"
@@ -48,7 +31,7 @@
 		"proportionaltoparent"						"1"
 		"textAlignment"								"center"
 		"labeltext"		 							"%Health%"
-		"font"										"Quake11"
+		"font"										"Quake"
 		"fgcolor"		    						"BlackTransparent"
 		"pin_to_sibling" 							"Health_Spectator"
 	}

@@ -92,7 +92,6 @@
 		"labelText"					"%Health%"
 		"textAlignment"				"center"
 		"font"						"Quake36"
-		//"font_minmode"				"Health Minmode"
 		"fgcolor"					"Black"
 
 		"pin_to_sibling" 			"PlayerStatusHealthValue"

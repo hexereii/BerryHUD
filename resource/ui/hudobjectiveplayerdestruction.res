@@ -74,7 +74,7 @@
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"AllCaps"									"1"
-		"font"										"Quake11"
+		"font"										"Quake7"
 		"fgcolor"									"WhiteTransparent"
 
 		"pin_to_sibling"							"WhiteBackground"
@@ -91,7 +91,7 @@
 		"tall"										"24"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"BlueTransparent70"
+		"border"									"BlackTransparent70"
 
 		"pin_to_sibling"							"WhiteBackground"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -109,7 +109,7 @@
 		"tall"										"6"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"BlackTransparent70"
+		"border"									"BlueTransparent70"
 
 		"pin_to_sibling"							"BlueScoreBG"
 	}
@@ -598,7 +598,7 @@
 				"enabled"							"1"
 				"textAlignment"						"center"
 				"labelText"							"%score%"
-				"font"								"Quake22"
+				"font"								"Quake18"
 				"fgcolor"							"WhiteTransparent"
 				"proportionalToParent"				"1"
 			}
@@ -651,7 +651,7 @@
 				"enabled"							"1"
 				"textAlignment"						"center"
 				"labelText"							"%score%"
-				"font"								"Quake22"
+				"font"								"Quake18"
 				"fgcolor"							"WhiteTransparent"
 				"proportionalToParent"				"1"
 			}

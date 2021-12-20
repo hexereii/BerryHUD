@@ -1,1 +1,0 @@
-#base "../resource/ui/alternatives/Damage_Off.res"
