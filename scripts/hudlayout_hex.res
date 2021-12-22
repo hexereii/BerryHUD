@@ -117,7 +117,7 @@
 		"xpos"						"c-162"
 		"ypos"						"r115"
 		"wide"						"f0"
-		"tall"  					"20"
+		"tall"  					"50"
 	}
 
 	HudDamageIndicator

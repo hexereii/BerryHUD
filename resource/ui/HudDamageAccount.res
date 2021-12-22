@@ -13,6 +13,19 @@
 		"delta_item_font"	  	"Runescape20"
 		"delta_item_font_big"	"Runescape20"
 	}
+		"CDamageAccountPanel2"
+	{
+		"PositiveColor"	  	"255 255 255 255"
+		"NegativeColor"	  	"255 255 255 255"
+
+		"fieldName"		    		"CDamageAccountPanel2"
+		"text_x"			      	"2"
+		"text_y"			      	"0"
+		"delta_item_end_y"		"0"
+		"delta_lifetime"	  	"1.6"
+		"delta_item_font"	  	"Runescape20"
+		"delta_item_font_big"	"Runescape20"
+	}
 	"DamageAccountValue"
 	{
 		"ControlName"	"ceXLabel"
@@ -33,7 +46,7 @@
 	{
 		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValueShadow"
-		"xpos"			"c-200"
+		"xpos"			"c-199"
 		"ypos"			"c80"
 		"zpos"			"2"
 		"wide"			"150"
@@ -43,6 +56,6 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
 		"font"			"Runescape20"
-		"fgcolor"		"0 0 0 255"
+		"fgcolor"		"BlackTransparent"
 	}
 }
