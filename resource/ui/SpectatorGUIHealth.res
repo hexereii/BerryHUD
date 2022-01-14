@@ -7,11 +7,11 @@
 		"xpos"										"10"
 		"ypos"										"5"
 		"zpos"										"-10"
-		"wide"										"15"
+		"wide"										"17"
 		"tall"										"16"
 		"visible"									"1"
 		"enabled"									"1"
-		"image"										"../hud/health_over_bg"
+		"image"										"replay\thumbnails\health\health_over_bg"
 		"scaleImage"								"1"
 	}
 

@@ -1,5 +1,5 @@
 "Resource/UI/SpectatorTournamentGUIHealth.res"
-{	
+{
 	"Health_Spectator"
 	{
 		"ControlName"								"CExLabel"
@@ -35,7 +35,7 @@
 		"fgcolor"		    						"BlackTransparent"
 		"pin_to_sibling" 							"Health_Spectator"
 	}
-	
+
 	//REMOVED STUFF
 	"PlayerStatusHealthImage"
 	{

@@ -492,6 +492,17 @@ Scheme
 				"outline"	"0"
 			}
 		}
+			Quake33S
+		{
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"33"
+				"additive"	"0"
+				"antialias" "1"
+				"dropshadow"	"1"
+			}
+		}
 			Quake36
 		{
 			"1"

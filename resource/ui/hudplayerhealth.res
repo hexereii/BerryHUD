@@ -48,7 +48,7 @@
 		//"tall_minmode"				"61"
 		"visible"					"0"
 		"enabled"					"1"
-		"image"						"../hud/health_over_bg"
+		"image"						"replay\thumbnails\health\health_over_bg"
 		"scaleImage"				"1"
 	}
 
@@ -69,7 +69,7 @@
 		"textAlignment"				"center"
 		"font"						"Quake36"
 		//"font_minmode"				"Health Minmode"
-		"fgcolor"					"Health"
+		"fgcolor"					"White"
 
 		"pin_to_sibling"			"HealthAnchor"
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"

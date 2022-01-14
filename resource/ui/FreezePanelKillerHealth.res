@@ -52,7 +52,7 @@
 		"tall"			"22"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/health_over_bg"
+		"image"			"replay\thumbnails\health\health_over_bg"
 		"scaleImage"	"1"
 	}
 	"PlayerStatusHealthValue"

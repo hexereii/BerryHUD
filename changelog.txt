@@ -137,7 +137,7 @@ Made the meter at the bottom of the screen as Medic slightly smaller (hudmedicch
 Fixed overheal loop so that the colours don't linger after overheal (hudanimations_hex.txt) 
 
 berryhud b10
-Made an alternate option to turn off viewmodels (HUDPlayerClass.res)
+Made an alternate option to turn off viewmodels (HUDPlayerClass.res) 
 Fixed/added back in Advanced Options to main menu (MainMenuOverride.res/GameMenu.res)
 Moved targetid so that it's easier & more obvious for Medic with Solemn Vow to see the other medic's uber % when looking at them (hudlayout_hex.res)
 Removed uber counter from HUD 
@@ -184,3 +184,12 @@ Fixed Player Destruction panels (hudobjectiveplayerdestruction)
 Re-did the whole spectate so that uber would be more visible (spectatortournament.res, spectatortournamentguihealth.res)
 Fixed dueling mini-game from not working 
 Reworked 4:3 menu & 16:10 menus
+
+berryhud f4
+Cleaned up the Vaccinator UI, not perfect but looking to erase the shadow (hudmeddiccharge.res)
+Also, changed the uber % number to a light blue for thematic purposes (hudmeddicharge.res)
+Fixed blue cross to work in tournament & casual servers
+
+berryhud f5
+Changed the shadows on ammo (hudammoweapons.res) 
+Did some cleanups to fix menus 

@@ -31,7 +31,7 @@
 		"fieldName"		"BottomBar"
 		"xpos"			"0"
 		"ypos"			"r0"	[$WIN32]
-		"tall"			"0"	[$WIN32]	
+		"tall"			"0"	[$WIN32]
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -58,7 +58,7 @@
 		"fieldName"		"ReinforcementsLabel"
 		"xpos"			"c-300"
 		"ypos"			"50"
-		"wide"			"600"  
+		"wide"			"600"
 		"tall"			"15"
 		"tall_hidef"		"23"
 		"autoResize"		"0"
@@ -68,7 +68,7 @@
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
 		"font"			"default"
-		"fgcolor_override"   "255 255 255 255"
+		"fgcolor_override"   "WhiteTransparent"
 	}
 	"MapLabel"
 	{
@@ -123,7 +123,7 @@
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
-		
+
 	}
 	"SwitchCamModeLabel"
 	{
@@ -237,31 +237,31 @@
 		"visible"		"0"
 		"bgcolor_override"		"255 255 255 0"
 		"PaintBackgroundType"	"0"
-		
+
 		"model_ypos"		"10"
 		"model_center_x"	"1"
 		"model_wide"		"90"
 		"model_tall"		"60"
-		
+
 		"text_xpos"		"10"
 		"text_ypos"		"10"
 		"text_wide"		"170"
 		"text_center"	"1"
-		
+
 		"max_text_height"	"100"
 		"padding_height"	"10"
 		"resize_to_text"	"1"
 		"text_forceQuake"	"2"
-		
+
 		"itemmodelpanel"
 		{
 			"fieldName"		"itemmodelpanel"
 			"use_item_rendertarget" "0"
 			"useparentbg"		"1"
 		}
-		
+
 		"ItemLabel"
-		{	
+		{
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
 			"font"			"DefaultSmall"
@@ -279,7 +279,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
-	}	
+	}
 	"spectator_extras"
 	{
 		"ControlName"	"EditablePanel"
@@ -292,5 +292,5 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-	}		
+	}
 }
