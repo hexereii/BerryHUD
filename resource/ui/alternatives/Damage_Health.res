@@ -32,7 +32,7 @@
 		"labelText"						"%metal%"
 		"textAlignment"					"center"
 		"fgcolor"						"Last Damage Done"
-		"font"							"Runescape20"
+		"font"							"Quake20"
 		//"font_minmode"					"Quake24"
 	}
 
@@ -51,7 +51,7 @@
 		"labelText"						"%metal%"
 		"textAlignment"					"center"
 		"fgcolor"						"Shadows"
-		"font"							"Runescape20"
+		"font"							"Quake20"
 		//"font_minmode"					"Quake24"
 
 		"pin_to_sibling"				"DamageAccountValue"

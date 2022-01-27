@@ -64,36 +64,6 @@ Scheme
 		"UberGreen"							"70 148 243 200"
 		"UberRed"							"249 84 84 200"
 		
-		//TransPride Flag Colours
-		"MayaBlue"								"85 205 252 255"
-		"MayaInverse"							"170 50 3 255"
-
-		"Pink" 											"248 139 194 255"
-		"PinkInverse"								"7 116 61 255"
-		"PinkTransp" 								"248 139 194 80"
-
-		"PictonPurple"								"71 169 250 255"
-		"PurpleInverse"								"184 86 5 255"
-
-		"PastelViolet"								"202 147 202 80"
-		"VioletInverse"								"53 108 53 255"
-
-
-		//LesbianPride Flag Colours
-
-		"Sinopia" 											"214 41 0 255"
-		"SinopiaInvert"									"41 214 255 255"
-
-		"Tangerine"										"255 155 85 255"
-		"TangerineInvert"								"0 100 170 255"
-
-		"SuperPink" 										"212 97 166 255"
-		"SuperPinkInvert"								"43 158 89 255"
-
-		"Flirt" 												"165 0 98 255"
-		"FlirtInvert"										"90 255 157 255"
-
-
 //Menu colours from HealingSentry   
 		"MenuDefault"						            "20 30 40 255"
 		"MenuLighter"						            "25 35 50 255"

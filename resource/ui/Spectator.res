@@ -67,8 +67,8 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"default"
-		"fgcolor_override"   "WhiteTransparent"
+		"font"			"Quake"
+		"fgcolor_override"   "White"
 	}
 	"MapLabel"
 	{

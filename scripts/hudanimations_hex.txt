@@ -15,7 +15,7 @@ event HudHealthBonusPulse
 	Animate Health_Spectator					FgColor 	"White" 			Linear 	0.0		0.0
 	Animate Health_Spectator_Bar_Buff			Alpha		"255"								Linear 	0.0 	0.0
 	Animate Health_Spectator_BG					BgColor 	"0 207 210 255" 						Linear 	0.0		0.0
-	
+
     RunEvent HudHealthBonusPulseLoop    1.6
 }
 
@@ -80,9 +80,9 @@ event HudLowAmmoPulse
 	Animate AmmoInReserve     				FgColor     "WhiteTransparent"     				Linear 0.0 0.3
 	Animate AmmoInReserve    					FgColor     "RedLight"									Linear 0.3 0.6
 
-	Animate AmmoNoClip 							FgColor 	"Ammo No Clip Low" 					Linear 	0.0 	0.1
-
-
+  Animate AmmoNoClip     				FgColor     "WhiteTransparent"     				Linear 0.0 0.3
+  Animate AmmoNoClip    					FgColor     "RedLight"									Linear 0.3 0.6
+  
 	RunEvent HudLowAmmoPulseLoop				0.9
 }
 
@@ -143,9 +143,9 @@ event HudMedicChargedStop
 	StopEvent HudMedicCharged 					0.0
 	StopEvent HudMedicChargedLoop 				0.0
 
-	Animate	ChargeLabel 						FgColor		"Ubercharge"						Linear 	0.0 	0.0001
+	Animate	ChargeLabel 						FgColor		"200 220 243 200"						Linear 	0.0 	0.0001
 
-	Animate	ChargeMeter 						FgColor		"Ubercharge"						Linear 	0.0		0.0001
+	Animate	ChargeMeter 						FgColor		"200 220 243 200"						Linear 	0.0		0.0001
 }
 
 //====================================================================================================================
@@ -184,10 +184,10 @@ event FlagOutline
 event HudSpyDisguiseChanged
 {
 	Animate PlayerStatusSpyOutlineImage		Alpha		"255"		Linear 0.0 0.2
-	
-	Animate PlayerStatusSpyOutlineImage		Position	"c-284 r125"	Linear 0.0 0.2	
+
+	Animate PlayerStatusSpyOutlineImage		Position	"c-284 r125"	Linear 0.0 0.2
 	Animate PlayerStatusSpyOutlineImage		Size		"130 130"	Linear 0.0 0.2
-	
+
 	RunEvent HudSpyDisguiseHide	0.7
 }
 
@@ -195,7 +195,7 @@ event HudSpyDisguiseHide
 {
 	Animate PlayerStatusSpyOutlineImage		Position	"c-190 r36"	Linear 0.0 0.2
 	Animate PlayerStatusSpyOutlineImage		Size		"37 37"		Linear 0.0 0.2
-	
+
 	Animate PlayerStatusSpyOutlineImage		Alpha		"0"		Linear 0.2 0.1
 }
 

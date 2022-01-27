@@ -28,3 +28,5 @@
 ///////////////////////////////////////////
 
 #base "../customizations/Crosshair_Scheme.res"
+
+"#base"		"clientscheme_kbnhud-master.res"

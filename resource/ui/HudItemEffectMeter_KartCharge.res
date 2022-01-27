@@ -51,7 +51,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"m0refont24"
+		"font"					"Quake24"
 	}
 
 	"ItemEffectMeter"
@@ -91,7 +91,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"m0refont16"
+		"font"					"Quake16"
 		
 	}
 

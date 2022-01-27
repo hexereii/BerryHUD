@@ -12,7 +12,7 @@
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
-	
+
 	"ItemEffectMeterBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -25,13 +25,13 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_blue"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"teambg_2"		"../hud/misc_ammo_area_red"
 		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
 		"teambg_3"		"../hud/misc_ammo_area_blue"
-		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"
 	}
-	
+
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"			"CExLabel"
@@ -58,16 +58,16 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabelnew"
 		"xpos"					"25"
-		"ypos"					"27"
+		"ypos"					"35"
 		"zpos"					"2"
 		"wide"					"60"
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"0"
+		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"Frags"
+		"labelText"				"Frags:"
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
@@ -79,25 +79,25 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabelnew"
 		"xpos"					"26"
-		"ypos"					"27"
+		"ypos"					"36"
 		"zpos"					"2"
 		"wide"					"60"
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"0"
+		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"Frags"
+		"labelText"				"Frags:"
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Quake14"
 		"fgcolor_override"      "0 0 0 255"
 	}
-	
+
 	"ItemEffectMeter"
-	{	
+	{
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
@@ -105,7 +105,7 @@
 		"ypos"					"23"
 		"zpos"					"2"
 		"wide"					"40"
-		"tall"					"6"				
+		"tall"					"6"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"0"
@@ -114,47 +114,47 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 
-	}					
-	
+	}
+
 	"ItemEffectMeterCount1"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount1"
 		"xpos"					"76"
-		"ypos"					"24"
+		"ypos"					"33"
 		"zpos"					"2"
 		"wide"					"40"
-		"tall"					"20"	
+		"tall"					"20"
 		"pinCorner"				"2"
-		"visible"				"0"
+		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
 		"textAlignment"			"left"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Quake14"
-		"fgcolor_override"      "255 255 255 255"
+		"font"					"Quake18"
+		"fgcolor_override"      "White"
 	}
 		"ItemEffectMeterCount2"
 	{
 		"ControlName"			"CExLabel"
 		"xpos"					"-1"
-		"ypos"					"2"
+		"ypos"					"-1"
 		"zpos"					"1"
 		"wide"					"40"
-		"tall"					"25"
+		"tall"					"20"
 		"pinCorner"				"2"
-		"visible"				"0"
+		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Quake14"
-		"fgcolor"				"Shadows"
+		"font"					"Quake18"
+		"fgcolor"				"Black"
 		"pin_to_sibling"		"ItemEffectMeterCount1"
 	}
-	
+
 }

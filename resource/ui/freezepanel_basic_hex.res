@@ -71,7 +71,7 @@
 			"textAlignment"					"center"	
 			"labeltext"						"%killername%"
 			"font"							"Quake14"
-			"fgcolor_override"				"Shadows"
+			"fgcolor_override"				"Black"
 		
 			"pin_to_sibling"				"FreezeLabelKiller"
 		}

@@ -17,9 +17,9 @@
 		"bgcolor_override"							"BlackTransparent"
 		"paintborder"								"0"
 
-		"log_font_small"							"Quake22"
-		"log_font_medium"							"Quake22"
-		"log_font_large"							"Quake22"
+		"log_font_small"							"Quake20"
+		"log_font_medium"							"Quake20"
+		"log_font_large"							"Quake20"
 
 		"chat_color_default"						"White"
 		"chat_color_player_name"					"BlueLight"
@@ -44,7 +44,7 @@
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"RoundedCorners"							"0"
-		"font"										"Quake22"
+		"font"										"Quake20"
 
 		"paintbackground"							"0"
 
@@ -97,7 +97,7 @@
 		"bgcolor_override"							"BlackTransparent"
 		"paintbackgroundtype"						"2"
 		"RoundedCorners"							"0"
-		"font"										"Quake"
+		"font"										"Quake20"
 		"alpha"										"0"
 		"mouseinputenabled"							"0"
 

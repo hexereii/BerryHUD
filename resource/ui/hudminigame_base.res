@@ -14,7 +14,7 @@
 		"image"			"../hud/objectives_flagpanel_bg_left"
 		"scaleImage"	"1"
 	}
-		
+
 	"RightSideBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -29,7 +29,7 @@
 		"image"			"../hud/objectives_flagpanel_bg_right"
 		"scaleImage"	"1"
 	}
-		
+
 	"OutlineBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -45,7 +45,7 @@
 		"image"			"../hud/objectives_flagpanel_bg_outline"
 		"scaleImage"	"1"
 	}
-	
+
 	"BlueScore"
 	{
 		"ControlName"	"CExLabel"
@@ -57,12 +57,12 @@
 		"tall"			"35"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"east"	
+		"textAlignment"	"east"
 		"labelText"		"%bluescore%"
-		"font"			"M0refont48"
+		"font"			"Quake48"
 		"fgcolor"		"255 255 255 255"
-	}	
-		
+	}
+
 	"BlueScoreShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -74,12 +74,12 @@
 		"tall"			"35"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"east"	
+		"textAlignment"	"east"
 		"labelText"		"%bluescore%"
-		"font"			"M0refont48"
+		"font"			"Quake48"
 		"fgcolor"		"0 0 0 255"
-	}	
-	
+	}
+
 	"RedScore"
 	{
 		"ControlName"	"CExLabel"
@@ -91,12 +91,12 @@
 		"tall"			"35"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"west"	
+		"textAlignment"	"west"
 		"labelText"		"%redscore%"
-		"font"			"M0refont48"
+		"font"			"Quake48"
 		"fgcolor"		"255 255 255 255"
-	}	
-		
+	}
+
 	"RedScoreShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -108,12 +108,12 @@
 		"tall"			"35"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"west"	
+		"textAlignment"	"west"
 		"labelText"		"%redscore%"
-		"font"			"M0refont48"
+		"font"			"Quake48"
 		"fgcolor"		"0 0 0 255"
-	}	
-	
+	}
+
 	"OutlineImage"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -126,9 +126,9 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"image"			"../hud/objectives_flagpanel_carried_outline"
-		"scaleImage"	"1"	
-	}		
-	
+		"scaleImage"	"1"
+	}
+
 	"CarriedImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -142,8 +142,8 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_carried_red"
 		"scaleImage"	"1"
-	}		
-	
+	}
+
 	"PlayingTo"
 	{
 		"ControlName"	"CExLabel"
@@ -161,8 +161,8 @@
 		"brighttext"	"0"
 		"font"			"defaultverysmall"
 		"fgcolor"		"255 255 255 255"
-	}	
-	
+	}
+
 	"PlayingToBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -191,6 +191,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			""
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 	}
 }

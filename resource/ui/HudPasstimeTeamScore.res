@@ -26,7 +26,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%bluescore%"
-		"font"			"m0refont28"
+		"font"			"Quake28"
 		"fgcolor"		"255 255 255 255"
 	}	
 		
@@ -43,7 +43,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%bluescore%"
-		"font"			"m0refont28"
+		"font"			"Quake28"
 		"fgcolor"		"0 0 0 255"
 		
 		"pin_to_sibling"		"BlueScore"
@@ -64,7 +64,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%redscore%"
-		"font"			"m0refont28"
+		"font"			"Quake28"
 		"fgcolor"		"255 255 255 255"	
 	}	
 		
@@ -81,7 +81,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%redscore%"
-		"font"			"m0refont28"
+		"font"			"Quake28"
 		"fgcolor"		"0 0 0 255"
 		
 		"pin_to_sibling"		"RedScore"

@@ -144,19 +144,6 @@ Scheme
 			}
 		}
 
-//Runescape Fonts
-		"Runescape20"
-		{
-			"1"
-			{
-				"name"		"Runescape UF Regular"
-				"tall"		"20"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-
 	//Other stuff
 		"MatchPlayerName"
 		{
@@ -180,173 +167,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		M0refont10_outline
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
-		M0refont10
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"0"
-			}
-		}
-		M0refont12
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"12"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		M0refont14_outline
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"14"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
-		M0refont15
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"15"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		M0refont16
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"16"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		M0refont16o
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"16"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
-		M0refont18
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"18"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		M0refont18Outline
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"18"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
-		M0refont24
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"24"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		M0refont24Outline
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"24"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
-			}
-		}
-		M0refont28
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"28"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"0"
-			}
-		}
-		M0refont36
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"36"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-
-		M0refont48
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"48"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		M0refont72
-		{
-			"1"
-			{
-				"name"		"AlternateGothicEF-NoThree"
-				"tall"		"72"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-
+		
 		//QuakeFonts
 
 		Quake8
@@ -437,17 +258,40 @@ Scheme
 				"outline"	"0"
 			}
 		}
+				Quake18S
+		{
+			"1"
+			{
+				"name"	"Handel Gothic Hollow"
+				"tall"	"18"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"0"
+			}
+		}	
 		Quake20
 		{
 			"1"
 			{
 				"name"	"HandelGothic BT"
-				"tall"	"20"
+				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
 				"outline"	"0"
 			}
 		}
+		Quake20S
+		{
+			"1"
+			{
+				"name"	"Handel Gothic Hollow"
+				"tall"	"20"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"0"
+			}
+		}	
+
 		Quake22
 		{
 			"1"
@@ -3171,8 +3015,8 @@ Scheme
 		}
 		"3"
 		{
-			"font" "resource/scheme/fonts/Runescape.ttf"
-			"name" "Runescape UF Regular"
+			"font" "resource/scheme/fonts/quake 3.ttf"
+			"name" "Handel Gothic Hollow"
 		}
 		"4"
 		{
@@ -3191,7 +3035,7 @@ Scheme
 		}
 		"7"
 		{
-			"font" "resource/scheme/fonts/hypnotize icons HEx5.ttf"
+			"font" "resource/scheme/fonts/hypnotize icons hex5.ttf"
 			"name" "Hypnotize Icons HEx5"
 		}
 	}

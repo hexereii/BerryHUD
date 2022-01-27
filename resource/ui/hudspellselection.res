@@ -81,7 +81,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CountTextShadow"
-		"font"			"m0refont24"
+		"font"			"Quake24"
 		"labelText"		"%counttext%"
 		"textAlignment" "center"
 		"xpos"			"c26"
@@ -95,7 +95,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CountText"
-		"font"			"m0refont24"
+		"font"			"Quake24"
 		"labelText"		"%counttext%"
 		"textAlignment" "center"
 		"xpos"			"c24"

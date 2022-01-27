@@ -19,7 +19,7 @@
 	{
 		"ControlName"				"Label"
 		"fieldName"					"PlayerStatusHealthValueTarget"
-		"xpos"						"-3"
+		"xpos"						"-2"
 		"ypos"						"4"
 		"zpos"						"150"
 		"wide"						"40"
@@ -28,7 +28,7 @@
 		"enabled"					"1"
 		"textAlignment"				"center"
 		"labeltext"					"%Health%"
-		"font"						"Quake18"
+		"font"						"Quake16"
 		"fgcolor_override"  		"White"
 	}
 
@@ -36,7 +36,7 @@
 	{
 		"ControlName"				"Label"
 		"fieldName"					"PlayerStatusHealthValueTargetShadow"
-		"xpos"						"-1"
+		"xpos"						"0"
 		"ypos"						"-1"
 		"zpos"						"150"
 		"wide"						"40"
@@ -45,7 +45,7 @@
 		"enabled"					"1"
 		"textAlignment"				"center"
 		"labeltext"					"%Health%"
-		"font"						"Quake18"
+		"font"						"Quake16"
 		"fgcolor_override"			"BlackTransparent"
 		"pin_to_sibling"			"PlayerStatusHealthValueTarget"
 	}

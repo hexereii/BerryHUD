@@ -120,7 +120,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%bluescore%"
-		"font"			"M0refont48"
+		"font"			"Quake48"
 		"fgcolor"		"255 255 255 255"
 		
 		"if_hybrid"
@@ -151,7 +151,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%bluescore%"
-		"font"			"M0refont48"
+		"font"			"Quake48"
 		"fgcolor"		"0 0 0 255"
 		
 		"if_hybrid"
@@ -182,7 +182,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%redscore%"
-		"font"			"M0refont48"
+		"font"			"Quake48"
 		"fgcolor"		"255 255 255 255"		
 		
 		"if_hybrid"
@@ -213,7 +213,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%redscore%"
-		"font"			"M0refont48"
+		"font"			"Quake48"
 		"fgcolor"		"0 0 0 255"		
 		
 		"if_hybrid"

@@ -57,7 +57,7 @@
 		"ControlName"				"CExLabel"
 		"fieldName"					"AmmoInReserve"
 		"font"						"Quake18"
-		"fgcolor"					"White"
+		"fgcolor"					"WhiteTransparent"
 		"xpos"						"0"
 		"ypos"						"-7"
 		"zpos"						"7"
@@ -95,11 +95,11 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"AmmoNoClip"
-		"font"						"Quake40"
-		"fgcolor"					"Ammo No Clip"
+		"font"						"Quake36"
+		"fgcolor"					"White"
 		"xpos"						"0"
 		"ypos"						"0"
-		"zpos"						"5"
+		"zpos"						"8"
 		"wide"						"80"
 		"tall"						"50"
 		"visible"					"1"
@@ -116,11 +116,11 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"AmmoNoClipShadow"
-		"font"						"Quake40"
+		"font"						"Quake36"
 		"fgcolor"					"Black"
-		"xpos"						"-2"
+		"xpos"						"2"
 		"ypos"						"-2"
-		"zpos"						"5"
+		"zpos"						"8"
 		"wide"						"80"
 		"tall"						"50"
 		"visible"					"1"
@@ -128,6 +128,8 @@
 		"textAlignment"				"center"
 		"labelText"					"%Ammo%"
 		"pin_to_sibling"			"AmmoNoClip"
+		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"		"PIN_CENTER_TOP"
 	}
 
 

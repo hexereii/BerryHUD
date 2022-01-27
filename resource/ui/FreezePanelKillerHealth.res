@@ -68,8 +68,8 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labeltext"		"%Health%"
-		"font"			"M0refont24"
-		"fgcolor_override"  "255 255 255 255"
+		"font"			"Quake16"
+		"fgcolor_override"  "White"
 	}
 	"PlayerStatusHealthValueShadow"
 	{
@@ -80,11 +80,11 @@
 		"zpos"			"20"
 		"wide"			"40"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"textAlignment"	"center"
 		"labeltext"		"%Health%"
-		"font"			"M0refont24"
-		"fgcolor_override"  "0 0 0 255"
+		"font"			"Quake16"
+		"fgcolor_override"  "Black"
 	}
 }

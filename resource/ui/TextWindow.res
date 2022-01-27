@@ -33,7 +33,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"M0refont24"
+		"font"			"Quake24"
 		"fgcolor"		"255 255 255 255"
 	}
 

@@ -90,7 +90,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"		"255 255 255 255"
-		"font"				"m0refont24"
+		"font"				"Quake24"
 	}
 
 	"ItemEffectMeterCountShadow"
@@ -111,6 +111,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"		"0 0 0 255"
-		"font"				"m0refont24"
+		"font"				"Quake24"
 	}
 }

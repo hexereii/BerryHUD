@@ -22,7 +22,7 @@ Scheme
 		"Ammo No Clip Low"						"245 70 70 255"
 
 
-		"Ubercharge"							"235 235 235 255"
+		"Ubercharge"							"200 220 243 200"
 		"Ubercharge Full"						"224 255 255 180"
 
 

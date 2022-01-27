@@ -193,3 +193,13 @@ Fixed blue cross to work in tournament & casual servers
 berryhud f5
 Changed the shadows on ammo (hudammoweapons.res) 
 Did some cleanups to fix menus 
+
+berryhud f6
+Changed ammo in reserve to transparent white instead (hudammoweapons.res)
+Fixed some fonts to match the theme
+Fixed ammo to be consistent (hudammoweapons.res)
+Removed shadows from kill-name (freezepanelkillerhealth.res)
+Changed payload icons all around (objectivestatusescort.res)
+Changed the damage number to be white instead (hudammoweapons.res)
+Added killstreak counter back in the HUD 
+Fixed chat on mainmenu, finally 

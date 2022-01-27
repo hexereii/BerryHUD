@@ -103,7 +103,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"m0refont24"
+		"font"					"Quake24"
 	}
 	
 	"ItemEffectMeterCountShadow"
@@ -123,7 +123,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"m0refont24"
+		"font"					"Quake24"
 		"fgcolor_override"		"0 0 0 255"
 	}
 }
