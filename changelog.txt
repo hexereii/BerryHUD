@@ -203,3 +203,7 @@ Changed payload icons all around (objectivestatusescort.res)
 Changed the damage number to be white instead (hudammoweapons.res)
 Added killstreak counter back in the HUD 
 Fixed chat on mainmenu, finally 
+
+berryhud f6.1
+Moved the killstreak to the top right for less clutter
+Fixed diamondback crits 
