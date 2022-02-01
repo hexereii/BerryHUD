@@ -32,3 +32,6 @@ Just drag the folders inside "Wild West Theme" & put them into the main folder d
 Galaxy backgrounds
 ***Drag the folders out of Galaxy Backgrounds!!***
 Credits to Ellie (@address.astro on insta)
+
+Alt Damage Numbers
+Drag the folders inside "Alt Damage Numbers" & it will change your numbers to the alt font!
