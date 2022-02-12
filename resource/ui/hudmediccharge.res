@@ -83,7 +83,7 @@
 		"tall"						"50"
 		"autoResize"				"1"
 		"pinCorner"					"2"
-		"visible"					"1"
+		"visible"					"0"
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"#TF_UberchargeMinHUD"

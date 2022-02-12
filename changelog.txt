@@ -207,4 +207,6 @@ Fixed chat on mainmenu, finally
 berryhud f6.1
 Moved the killstreak to the top right for less clutter
 Fixed diamondback crits 
-Fixed class loadout screen buttons to be easier to read (charinfopanel.res)
+
+berryhud f6.2 
+Fixed respawn timers to be consistent 

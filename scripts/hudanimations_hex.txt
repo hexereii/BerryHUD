@@ -82,7 +82,7 @@ event HudLowAmmoPulse
 
   Animate AmmoNoClip     				FgColor     "WhiteTransparent"     				Linear 0.0 0.3
   Animate AmmoNoClip    					FgColor     "RedLight"									Linear 0.3 0.6
-  
+
 	RunEvent HudLowAmmoPulseLoop				0.9
 }
 
@@ -220,7 +220,7 @@ event ActiveTimerHighlight
 	Animate TimePanelValue 						FgColor		"WhiteTransparent"					Linear 	0.1 	0.1
 	Animate TimePanelValue 						FgColor		"WhiteTransparent"					Linear 	0.3 	0.1
 
-	Animate TimePanelValue						FgColor		"WhiteTransparent"					Linear 	0.5 	0.1
+	Animate TimePanelValue							FgColor		"WhiteTransparent"					Linear 	0.5 	0.1
 	Animate TimePanelValue 						FgColor		"WhiteTransparent"					Linear 	0.7 	0.1
 
 	Animate TimePanelValue 						FgColor		"WhiteTransparent"					Linear 	0.9 	0.1
@@ -242,13 +242,13 @@ event ActiveTimerDim
 		SetVisible			respawntime														1 0
 
 		Animate 			SkullPanel							ypos						20 							Accel 0 0.2
-		Animate 			respawntime							ypos 						21							Accel 0 0.2
+		Animate 			respawntime							ypos 					0 							Accel 0 0.2
 	}
 
 	event TeamStatus_PlayerAlive
 	{
-		Animate 			SkullPanel							ypos 						15 							Accel 0 0.2
-		Animate 			respawntime							ypos 						0 							Accel 0 0.2
+		Animate 			SkullPanel								ypos 					15 							Accel 0 0.2
+		Animate 			respawntime							ypos 					0 							Accel 0 0.2
 
 		SetVisible 			SkullPanel														0 0.2
 		SetVisible 			respawntime														0 0.2
