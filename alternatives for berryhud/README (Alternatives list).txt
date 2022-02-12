@@ -35,3 +35,6 @@ Credits to Ellie (@address.astro on insta)
 
 Alt Damage Numbers
 Drag the folders inside "Alt Damage Numbers" & it will change your numbers to the alt font!
+
+Yellow Respawn Numbers
+Drag the folders inside "Yellow Respawn Numbers" into your main folder to change the color of your respawn numbers!
