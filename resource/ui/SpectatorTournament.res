@@ -230,9 +230,9 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"respawntime"
-				"font"		"Quake9"		//9
+				"font"		"Quake9"
 				"xpos"			"2"
-				"ypos"			"0"
+				"ypos"			"20"
 				"zpos"			"5"
 				"wide"			"23"
 				"tall"			"13"
@@ -340,7 +340,7 @@
 	"ControlName"		"CExLabel"
 	"fieldName"		"ReinforcementsLabel"
 	"xpos"			"c-300"
-	"ypos"			"0"
+	"ypos"			"25"
 	"wide"			"600"
 	"tall"			"15"
 	"tall_hidef"		"23"
