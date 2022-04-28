@@ -846,48 +846,59 @@
 				echo 5CP Maps in RGL 6's Season 7
 				echo ---------;
 				echo rcon changelevel cp_metalworks
+				echo  -
 				echo rcon changelevel cp_process_f9
-				echo rcon changelevel cp_snakewater_final1
-				echo rcon changelevel cp_sunshine
+				echo  -
+				echo rcon changelevel cp_snakewater_final1		
+				echo  -
+				echo rcon changelevel cp_sunshine 		
+				echo  -
 				echo rcon changelevel cp_reckoner_rc6
+				echo  -
 				echo rcon changelevel cp_granary_pro_rc2
 				echo; echo; echo ---------;
 				echo KotH Maps in RGL 6's Season 7 & HL Season 10
 				echo ---------;
 				echo rcon changelevel koth_bagel_rc4a
+				echo  -
 				echo rcon changelevel koth_clearcut_b15d
+				echo  -
 				echo rcon changelevel koth_lakeside_r2
+				echo  -
 				echo rcon changelevel koth_product_final
+				echo  -
 				echo rcon changelevel koth_asheville_rc2d
+				echo  -
 				echo rcon changelevel koth_cascade_rc2
 				echo; echo; echo ---------;
 				echo Payload Maps in RGL HL Season 10
 				echo ---------;
 				echo rcon changelevel pl_swiftwater_final
+				echo  -
 				echo rcon changelevel pl_upward
+				echo  -
 				echo rcon changelevel pl_vigil_rc7
 				echo; echo; echo ---------;		
-				echo Random maps
-				echo rcon changelevel cp_propaganda_b18
-				echo rcon changelevel cp_reckoner_rc2
-				echo rcon changelevel cp_badlands
-				echo rcon changelevel cp_granary
-				echo rcon changelevel cp_logjam_rc10a
-				echo rcon changelevel cp_gravelpit
-			echo; echo; echo ---------;
 			echo Ultiduo Maps
 			echo ---------;
 			echo rcon changelevel ultiduo_baloo_v2
-			echo rcon changelevel ultiduo_grove_b4
+			echo  -
+			echo rcon changelevel ultiduo_grove_b4		
+			echo  -
 			echo rcon changelevel ultiduo_gullywash_b2
+			echo  -
 			echo rcon changelevel ultiduo_lookout_b1
+			echo  -
 			echo rcon changelevel  ultiduo_noodle
+			echo  -
 			echo rcon changelevel ultiduo_obsidiian_a10
+			echo  -
 			echo rcon changelevel  ultiduo_raksha_beta7
 				echo ---------
 			echo MGE 
 			echo; echo; echo ---------;
 			echo rcon changelevel mge_training_v8_beta4b
+			echo  -
 			echo rcon changelevel mge_chillypunch_final4_fix
 				echo ---------
 				showconsole"
