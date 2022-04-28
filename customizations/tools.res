@@ -843,44 +843,33 @@
 			"default"								"1"
 			"Command"								"engine clear
 				echo; echo; echo ---------;
-				echo 5CP Maps in RGL 6's Season 7
+				echo 6's 5CP 
 				echo ---------;
-				echo rcon changelevel cp_metalworks
+								echo; echo; echo ---------;		
+				echo rcon changelevel cp_metalworks_f4
 				echo  -
-				echo rcon changelevel cp_process_f9
+				echo rcon changelevel cp_process_f9a
 				echo  -
 				echo rcon changelevel cp_snakewater_final1		
 				echo  -
 				echo rcon changelevel cp_sunshine 		
 				echo  -
-				echo rcon changelevel cp_reckoner_rc6
+				echo rcon changelevel cp_reckoner_f6
 				echo  -
-				echo rcon changelevel cp_granary_pro_rc2
+				echo rcon changelevel cp_gullywash_f6
 				echo; echo; echo ---------;
-				echo KotH Maps in RGL 6's Season 7 & HL Season 10
+				echo 6's King of the Hill
 				echo ---------;
-				echo rcon changelevel koth_bagel_rc4a
+											echo; echo; echo ---------;		
+				echo rcon changelevel koth_bagel_rc5
 				echo  -
 				echo rcon changelevel koth_clearcut_b15d
-				echo  -
-				echo rcon changelevel koth_lakeside_r2
-				echo  -
+				echo - 
 				echo rcon changelevel koth_product_final
-				echo  -
-				echo rcon changelevel koth_asheville_rc2d
-				echo  -
-				echo rcon changelevel koth_cascade_rc2
 				echo; echo; echo ---------;
-				echo Payload Maps in RGL HL Season 10
-				echo ---------;
-				echo rcon changelevel pl_swiftwater_final
-				echo  -
-				echo rcon changelevel pl_upward
-				echo  -
-				echo rcon changelevel pl_vigil_rc7
-				echo; echo; echo ---------;		
 			echo Ultiduo Maps
 			echo ---------;
+										echo; echo; echo ---------;		
 			echo rcon changelevel ultiduo_baloo_v2
 			echo  -
 			echo rcon changelevel ultiduo_grove_b4		
@@ -894,13 +883,37 @@
 			echo rcon changelevel ultiduo_obsidiian_a10
 			echo  -
 			echo rcon changelevel  ultiduo_raksha_beta7
-				echo; echo; echo ---------;		
+				echo; echo; echo ---------;	
+				echo Highlander King of the Hill
+				echo ---------;
+					echo; echo; echo ---------;		
+				echo rcon changelevel koth_lakeside_r2
+				echo  -
+				echo rcon changelevel koth_product_final
+				echo  -
+				echo rcon changelevel koth_asheville_rc2d
+				echo  -
+				echo rcon changelevel koth_cascade 
+						echo; echo; echo ---------;
+				echo Highlander Payload Maps
+				echo ---------;
+						echo; echo; echo ---------;		
+				echo rcon changelevel pl_swiftwater_final
+				echo  -
+				echo rcon changelevel pl_upward_f5
+				echo  -
+				echo rcon changelevel pl_vigil_rc9
+				echo - 
+				echo rcon changelevel cp_steel_f9
+				echo - 
+				echo rcon changelevel pl_swiftwater_final1
+					echo; echo; echo ---------;						
 			echo MGE Maps
 			echo ---------;
+							echo; echo; echo ---------;		
 			echo rcon changelevel mge_training_v8_beta4b
 			echo  -
 			echo rcon changelevel mge_chillypunch_final4_fix
-				echo ---------
 				showconsole"
 			"actionsignallevel"						"2"
 			"proportionaltoparent"					"1"
