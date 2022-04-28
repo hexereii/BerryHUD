@@ -894,9 +894,9 @@
 			echo rcon changelevel ultiduo_obsidiian_a10
 			echo  -
 			echo rcon changelevel  ultiduo_raksha_beta7
-				echo ---------
-			echo MGE 
-			echo; echo; echo ---------;
+				echo; echo; echo ---------;		
+			echo MGE Maps
+			echo ---------;
 			echo rcon changelevel mge_training_v8_beta4b
 			echo  -
 			echo rcon changelevel mge_chillypunch_final4_fix
