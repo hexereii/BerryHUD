@@ -210,6 +210,3 @@ Fixed diamondback crits
 
 berryhud f6.2 
 Fixed respawn timers to be consistent 
-
-berryhud f7
-Fixed the map command tool to be easier to read/less glitchy
