@@ -210,3 +210,7 @@ Fixed diamondback crits
 
 berryhud f6.2 
 Fixed respawn timers to be consistent 
+
+berryhud f7 
+Cleaned up the tool fontsizes & maps (tools.res)
+Added spedometer option

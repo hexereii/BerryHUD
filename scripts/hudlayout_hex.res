@@ -337,4 +337,96 @@
 	{
 		"xpos"						"9999"
 	}
+	/////////////////////////////////////////////////////////////
+	////////////////////////SPEDOMETER////////////////////////
+	/////////////////////////////////////////////////////////////
+	"speed1"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed1"
+		"visible" "1"
+		"enabled" "1"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c16"
+		"ypos" "c195"
+		"zpos" "0"
+		"wide" "16"
+		"tall" "14"
+
+		"alpha" "180"
+		"image" "replay/thumbnails/funnyd1"
+		"scaleimage" "1"
+	}
+	"speed2"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed1"
+		"visible" "1"
+		"enabled" "1"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c0"
+		"ypos" "c195"
+		"zpos" "0"
+		"wide" "16"
+		"tall" "14"
+
+		"alpha" "180"
+		"image" "replay/thumbnails/funnyd2"
+		"scaleimage" "1"
+	}
+	"speed3"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed1"
+		"visible" "1"
+		"enabled" "1"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c-16"
+		"ypos" "c195"
+		"zpos" "0"
+		"wide" "16"
+		"tall" "14"
+
+		"alpha" "180"
+		"image" "replay/thumbnails/funnyd3"
+		"scaleimage" "1"
+	}
+	"speed4"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed1"
+		"visible" "1"
+		"enabled" "1"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c-32"
+		"ypos" "c195"
+		"zpos" "0"
+		"wide" "16"
+		"tall" "14"
+
+		"alpha" "180"
+		"image" "replay/thumbnails/funnyd4"
+		"scaleimage" "1"
+	}
+		"SpedometerLabel"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"SpedometerLabel"
+		"xpos" "c32"
+		"ypos" "c195"
+		"zpos" "0"
+		"wide" "70"
+		"tall" "14"
+		"visible"				"1"
+		"enabled"				"1"
+		"labelText"				"U/PS"
+		"textAlignment"			"west"
+		"AllCaps"				"0"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"font"					"Quake12"
 }
