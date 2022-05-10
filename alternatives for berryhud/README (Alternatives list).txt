@@ -41,3 +41,6 @@ Drag the folders inside "Yellow Respawn Numbers" into your main folder to change
 
 Spedometer
 Drag the folders inside "Spedometer" into your main folder to add a spedometer at the bottom of your screen, above cap points!
+
+Chronos edition (Custom for my friend)
+Drag the folders inside "Chronos edition" into your main folder to change some fonts
