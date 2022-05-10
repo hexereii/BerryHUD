@@ -38,3 +38,6 @@ Drag the folders inside "Alt Damage Numbers" & it will change your numbers to th
 
 Yellow Respawn Numbers
 Drag the folders inside "Yellow Respawn Numbers" into your main folder to change the color of your respawn numbers!
+
+Spedometer
+Drag the folders inside "Spedometer" into your main folder to add a spedometer at the bottom of your screen, above cap points!
