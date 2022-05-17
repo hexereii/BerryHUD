@@ -423,7 +423,7 @@
 		"tall" "14"
 		"visible"				"1"
 		"enabled"				"1"
-		"labelText"				"U/PS"
+		"labelText"				"ups"
 		"textAlignment"			"west"
 		"AllCaps"				"0"
 		"dulltext"				"0"
