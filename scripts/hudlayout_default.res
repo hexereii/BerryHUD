@@ -491,29 +491,22 @@
 		"BaseBackgroundColor"	"32 32 32 255"		[$X360]
 		"LocalBackgroundColor"	"0 0 0 255"		[$X360]
 	}
-	
-	
-	HudCloseCaption
+HudCloseCaption
 	{
-		"fieldName" "HudCloseCaption"
-		"visible"	"1"
-		"enabled"	"1"
-		"xpos"		"c-250"
-		"ypos"		"276"	[$WIN32]
-		"ypos"		"236"	[$X360]
-		"wide"		"500"
-		"tall"		"100"	[$WIN32]
-		"tall"		"176"	[$X360]
-
-		"BgAlpha"	"128"
-
-		"GrowTime"		"0.25"
-		"ItemHiddenTime"	"0.2"  // Nearly same as grow time so that the item doesn't start to show until growth is finished
-		"ItemFadeInTime"	"0.15"	// Once ItemHiddenTime is finished, takes this much longer to fade in
-		"ItemFadeOutTime"	"0.3"
-		"topoffset"		"0"
+		"fieldName" 				"HudCloseCaption"
+		"visible"					"1"
+		"enabled"					"1"
+		"xpos"						"320"
+		"ypos"						"325"
+		"wide"						"500"
+		"tall"						"50"
+		"BgAlpha"					"0"
+		"GrowTime"					"0.2"
+		"ItemHiddenTime"			"0.2"
+		"ItemFadeInTime"			"0.15"
+		"ItemFadeOutTime"			"0.15"
+		"topoffset"					"0"
 	}
-
 	HudVehicle
 	{
 		"fieldName" "HudVehicle"
@@ -1487,5 +1480,3 @@
 		"alpha"					"100"
 	}
 }
-
-	
