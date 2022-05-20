@@ -5,12 +5,12 @@
 		"label" 		"BERRYHUD"
 		"command" 		"engine clear
 				echo; echo; echo ---------;
-				echo BerryHUD | Current release: May 10th, 2022;
+				echo BerryHUD | Current release: February 3rd, 2021;
 				echo BerryHUD | First release: May 30, 2021;
-				echo BerryHUD | Version: Final v. 8
-				echo BerryHUD | Made by Hexereii;
+				echo BerryHUD | Version: Final v. 6.1
+				echo Made by Hexereii;
 				echo Twitter	 | twitter.com/hexereiitf2;
-				echo Updates | github.com/hexereii/BerryHUD;
+				echo Updates | https://github.com/hexereii/BerryHUD;
 				echo Discord Support | discord.gg/GvDrJp9sZ6
 				echo ---------
 				showconsole"
