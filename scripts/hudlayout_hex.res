@@ -1,528 +1,433 @@
-//====================================================================================================================
-
-event HudHealthBonusPulse
+"Resource/HudLayout.res"
 {
-    Animate PlayerStatusHealthValueShadow             FgColor        "BlackTransparent"                       Linear      0.0        0.8
-    Animate PlayerStatusHealthValueShadow             FgColor        "86 133 201 255"                              Linear      0.8        0.8
-    Animate PlayerStatusHealthValueShadow             FgColor        "BlackTransparent"                          Linear      1.6        0.8
-    Animate PlayerStatusHealthValueShadowExtra       Alpha         "255"                                Accel     0.0     0.0
+	HudWeaponAmmo
+	{
+		"xpos"						"0"
+		//"xpos_minmode"				"0"
+		"ypos"						"0"
+		//"xpos_minmode"				"0"
+		"wide"						"f0"
+		"tall"						"480"
+	}
 
-    Animate PlayerStatusHealthValueTargetShadow 			FgColor		"BlackTransparent"					Linear 	0.0		0.8
-  	Animate PlayerStatusHealthValueTargetShadow 			FgColor		"86 133 201 255"					Linear 	0.8		0.8
-  	Animate PlayerStatusHealthValueTargetShadow 			FgColor		"BlackTransparent"					Linear 	11.6		0.8
-  	Animate PlayerStatusHealthValueTargetShadow 			FgColor		"86 133 201 255"					Linear 	2.4 	0.8
+	HudKothTimeStatus
+	{
+		"xpos"						"c-80"
+		"ypos"						"-5"
+		"wide"						"160"
+		"tall"						"30"
 
-	Animate Health_Spectator					FgColor 	"White" 			Linear 	0.0		0.0
-	Animate Health_Spectator_Bar_Buff			Alpha		"255"								Linear 	0.0 	0.0
-	Animate Health_Spectator_BG					BgColor 	"0 207 210 255" 						Linear 	0.0		0.0
+		"blue_active_xpos"			"36"
 
-    RunEvent HudHealthBonusPulseLoop    1.6
+		"red_active_xpos"			"85"
+	}
+
+	HudMedicCharge
+	{
+		"xpos"						"0"
+		"ypos"						"0"
+		"wide"						"f0"
+		"tall"						"480"
+	}
+
+	HudDemomanCharge
+	{
+		"xpos"						"0"
+		//"xpos_minmode"				"0"
+		"ypos"						"0"
+		//"xpos_minmode"				"0"
+		"wide"						"f0"
+		//"wide_minmode"				"f0"
+		"tall"						"480"
+	}
+
+	HudBossHealth
+	{
+		"xpos"						"c-84"
+		"ypos"						"40"
+	}
+
+	HudDemomanPipes
+	{
+		"xpos"						"0"
+		//"xpos_minmode"				"0"
+		"ypos"						"0"
+		//"xpos_minmode"				"0"
+		"wide"						"f0"
+		"tall"						"480"
+	}
+
+	HudArenaCapPointCountdown
+	{
+		"xpos"						"c-15"
+		"ypos"						"449"
+	}
+
+	HudTournament
+	{
+		"xpos"						"0"
+		"ypos"						"0"
+		"wide"						"f0"
+		"tall"						"480"
+	}
+
+	HudTournamentSetup
+	{
+		"wide"						"100"
+		"tall"						"100"
+	}
+
+	HudStopWatch
+	{
+		"xpos"						"0"
+		"ypos"						"0"
+		"wide"						"f0"
+		"tall"						"480"
+	}
+
+	HudArenaClassLayout
+	{
+		"xpos"						"0"
+		"ypos"						"r200"
+		"zpos"						"20"
+	}
+
+	ItemQuickSwitchPanel
+	{
+		"xpos"						"r245"
+		"ypos"						"r125"
+		"wide"						"250"
+		"tall"						"120"
+	}
+
+	CHudAccountPanel
+	{
+		"fieldName"				"CHudAccountPanel"
+		"xpos"					"c-50"
+		"ypos"					"c25"
+		"wide"					"100"
+		"tall"  				"100"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
+	}
+
+	CHealthAccountPanel
+	{
+		"xpos"						"c-162"
+		"ypos"						"r115"
+		"wide"						"f0"
+		"tall"  					"50"
+	}
+
+	HudDamageIndicator
+	{
+		"MinimumWidth"				"12"
+		"MaximumWidth"				"12"
+		"StartRadius"				"80"
+		"EndRadius"					"80"
+		"MinimumHeight"				"30"
+		"MaximumHeight"				"60"
+		"MinimumTime"				"1"
+	}
+
+	DisguiseStatus
+	{
+		"xpos"						"0"
+		"ypos"						"r25"
+		"zpos"						"100"
+		"wide"						"500"
+		"tall"						"30"
+	}
+
+	CMainTargetID
+	{
+		"ypos"						"245"
+		"tall"	 					"28"
+	}
+
+	CSpectatorTargetID
+	{
+		"ypos"						"285"
+		"tall"	 					"28"
+	}
+
+	CSecondaryTargetID
+	{
+		"ypos"						"310"	//340
+		"tall"	 					"28"
+		//"tall_minmode"	 			"28"
+	}
+
+	"BuildingAnchor"
+	{
+		"ControlName"				"EditablePanel"
+		"fieldName"					"BuildingAnchor"
+		"xpos"						"-15"
+		"ypos"						"102"
+		"zpos"						"0"
+		"wide"						"100"
+		"tall"						"0"
+		"visible"					"1"
+		"enabled"					"1"
+		"bgcolor_override"			"Blank"
+	}
+
+	BuildingStatus_Engineer
+	{
+		"pin_to_sibling"			"BuildingAnchor"
+	}
+
+	HudDeathNotice
+	{
+		"xpos"	 					"r634"
+		"ypos"	 					"20"
+		"wide"						"628"
+		"tall"	 					"468"
+
+		"MaxDeathNotices" 			"7"
+		"IconScale"	  				"0.35"
+		"LineHeight"	 			"12"
+		"LineSpacing"	 			"0"
+		"CornerRadius"	  			"0"
+		"RightJustify"	  			"1"
+
+		"TextFont"					"Quake11"
+
+		"TeamBlue"					"Blue"
+		"TeamRed"					"RedLight"
+		"IconColor"					"WhiteSolid"
+		"LocalPlayerColor"			"BlackSolid"
+
+		"BaseBackgroundColor"		"BlackTransparent"
+		"LocalBackgroundColor"		"WhiteTransparent"
+	}
+
+	HudCloseCaption
+	{
+		"fieldName" 				"HudCloseCaption"
+		"visible"					"1"
+		"enabled"					"1"
+		"xpos"						"320"
+		"ypos"						"325"
+		"wide"						"500"
+		"tall"						"50"
+
+		"BgAlpha"					"0"
+
+		"GrowTime"					"0.2"
+		"ItemHiddenTime"			"0.2"
+		"ItemFadeInTime"			"0.15"
+		"ItemFadeOutTime"			"0.15"
+		"topoffset"					"0"
+	}
+
+	HudControlPointIcons
+	{
+		"separator_width"			"5"
+		"separator_height"			"5"
+		"height_offset"				"0"
+	}
+
+	WinPanel
+	{
+		"xpos"						"c-100"
+		"ypos"						"r71"
+		"wide"						"200"
+		"tall"						"200"
+		"zpos"						"20"
+	}
+
+	ArenaWinPanel
+	{
+		"xpos"						"c-198"
+		"ypos"						"r57"
+		"wide"						"400"
+		"tall"						"62"
+		"zpos"						"20"
+	}
+
+	"HudMenuEngyBuild"
+	{
+		"xpos"						"c-201"
+		"ypos"						"c-56"
+		"wide"						"500"
+		"tall"						"500"
+	}
+
+	"HudMenuEngyDestroy"
+	{
+		"xpos"						"c-201"
+		"ypos"						"c-56"
+		"wide"						"500"
+		"tall"						"500"
+	}
+
+	"HudEurekaEffectTeleportMenu"
+	{
+		"xpos"						"c-201"
+		"ypos"						"c-56"
+		"wide"						"500"
+		"tall"						"500"
+	}
+
+	"HudMenuSpyDisguise"
+	{
+		"fieldName" 	"HudMenuSpyDisguise"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c-235"
+		"ypos"			"c-52"
+		"ypos_hidef"	"c-42"
+		"ypos_lodef"	"c-42"
+		"wide"			"470"
+		"tall"			"200"	[$WIN32]
+		"tall"			"180"	[$X360]
+		"PaintBackgroundType"	"0"
+	}
+
+	"HudMenuTauntSelection"
+	{
+		"xpos"						"c-400"
+		"ypos"						"c0"
+		"wide"						"800"
+		"tall"						"200"
+	}
+
+	FreezePanel
+	{
+		"fieldName"					"FreezePanel"
+		"visible"					"1"
+		"enabled"					"1"
+		"xpos"						"c-200"
+		"ypos"						"0"
+		"wide"						"f0"
+		"tall"						"480"
+	}
+
+	/////////////////////////////////////////////////////////////
+	////////////////////////SPEDOMETER////////////////////////
+	/////////////////////////////////////////////////////////////
+	"speed1"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed1"
+		"visible" "1"
+		"enabled" "1"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c16"
+		"ypos" "c195"
+		"zpos" "0"
+		"wide" "16"
+		"tall" "14"
+
+		"alpha" "180"
+		"image" "replay/thumbnails/funnyd1"
+		"scaleimage" "1"
+	}
+	"speed2"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed1"
+		"visible" "1"
+		"enabled" "1"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c0"
+		"ypos" "c195"
+		"zpos" "0"
+		"wide" "16"
+		"tall" "14"
+
+		"alpha" "180"
+		"image" "replay/thumbnails/funnyd2"
+		"scaleimage" "1"
+	}
+	"speed3"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed1"
+		"visible" "1"
+		"enabled" "1"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c-16"
+		"ypos" "c195"
+		"zpos" "0"
+		"wide" "16"
+		"tall" "14"
+
+		"alpha" "180"
+		"image" "replay/thumbnails/funnyd3"
+		"scaleimage" "1"
+	}
+	"speed4"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed1"
+		"visible" "1"
+		"enabled" "1"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c-32"
+		"ypos" "c195"
+		"zpos" "0"
+		"wide" "16"
+		"tall" "14"
+
+		"alpha" "180"
+		"image" "replay/thumbnails/funnyd4"
+		"scaleimage" "1"
+	}
+		"SpedometerLabel"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"SpedometerLabel"
+		"xpos" "c32"
+		"ypos" "c195"
+		"zpos" "0"
+		"wide" "70"
+		"tall" "14"
+		"visible"				"1"
+		"enabled"				"1"
+		"labelText"				"ups"
+		"textAlignment"			"west"
+		"AllCaps"				"0"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"font"					"Quake12"
+	}
+	/////////////////////////////////////////////////////////////
+	////////////////////////REMOVED STUFF////////////////////////
+	/////////////////////////////////////////////////////////////
+
+	HudBowCharge
+	{
+		"xpos"						"9999"
+	}
+	HudTeamGoal
+	{
+		"xpos"						"9999"
+	}
+	HudTeamGoalTournament
+	{
+		"xpos"						"9999"
+	}
+	StatPanel
+	{
+		"xpos"						"9999"
+	}
+	FreezePanelCallout
+	{
+		"xpos"						"9999"
+	}
+	HudArenaNotification
+	{
+		"xpos"						"9999"
+	}
+	HudArenaVsPanel
+	{
+		"xpos"						"9999"
+	}
 }
-
-// call to loop HudHealthBonusPulse
-event HudHealthBonusPulseLoop
-{
-    RunEvent HudHealthBonusPulse 0.0
-}
-
-event HudHealthBonusPulseStop
-{
-    Animate PlayerStatusHealthValueShadow             FgColor        "0 0 0 245"                     Linear      0.0        0.0
-	Animate PlayerStatusHealthValueTargetShadow             FgColor        "0 0 0 245"                     Linear      0.0        0.0
-	StopEvent PlayerStatusHealthValueTargetShadow 0.0
-    StopEvent HudHealthBonusPulse 0.0
-    StopEvent HudHealthBonusPulseLoop 0.0
-}
-
-//====================================================================================================================
-
-event HudHealthDyingPulse
-{
-	Animate PlayerStatusHealthBonusImage   Alpha   "235"   Linear   0.0    0.2
-
-	Animate PlayerStatusHealthBonusImage   Alpha    "50"   Linear   0.2   0.2
-
-	Animate PlayerStatusHealthValueTarget		FgColor 	"WhiteTransparent" 				Linear 	0.0		0.0
-
-	Animate Health_Spectator					FgColor 	"White" 			Linear 	0.0		0.0
-	Animate Health_Spectator_Bar_Buff			Alpha		"255"								Linear 	0.0 	0.0
-	Animate Health_Spectator_BG					BgColor 	"255 94 0 255" 						Linear 	0.0		0.0
-
-	RunEvent HudHealthDyingPulseLoop			0.4
-}
-
-event HudHealthDyingPulseLoop
-{
-	RunEvent HudHealthDyingPulse				0.0
-}
-
-event HudHealthDyingPulseStop
-{
-	StopEvent HudHealthDyingPulse				0.0
-	StopEvent HudHealthDyingPulseLoop 			0.0
-
-	Animate PlayerStatusHealthValue 			FgColor 	"Health" 							Linear 	0.0 	0.0
-
-	Animate PlayerStatusHealthValueTarget 		FgColor 	"Health" 							Linear 	0.0 	0.0
-
-	Animate Health_Spectator					FgColor 	"White" 					Linear 	0.0		0.0
-	Animate Health_Spectator_Bar_Buff			Alpha		"0"									Linear 	0.0 	0.0
-	Animate Health_Spectator_BG					BgColor 	"Black" 			Linear 	0.0		0.0
-}
-
-//====================================================================================================================
-
-event HudLowAmmoPulse
-{
-	Animate AmmoInClip     				FgColor     "WhiteTransparent"     				Linear 0.0 0.3
-	Animate AmmoInClip    					FgColor     "RedLight"									Linear 0.3 0.6
-
-	Animate AmmoInReserve     				FgColor     "WhiteTransparent"     				Linear 0.0 0.3
-	Animate AmmoInReserve    					FgColor     "RedLight"									Linear 0.3 0.6
-
-  Animate AmmoNoClip     				FgColor     "WhiteTransparent"     				Linear 0.0 0.3
-  Animate AmmoNoClip    					FgColor     "RedLight"									Linear 0.3 0.6
-
-	RunEvent HudLowAmmoPulseLoop				0.9
-}
-
-event HudLowAmmoPulseLoop
-{
-	RunEvent HudLowAmmoPulse					0.1
-}
-
-event HudLowAmmoPulseStop
-{
-	StopEvent HudLowAmmoPulse 					0.0
-	StopEvent HudLowAmmoPulseLoop 				0.0
-
-	Animate AmmoInClip 							FgColor 	"Ammo In Clip" 						Linear 	0.0 	0.0
-
-	Animate AmmoInReserve 					FgColor 	"Ammo In Reserve" 					Linear 	0.0 	0.0
-
-	Animate AmmoNoClip 							FgColor 	"Ammo No Clip" 						Linear 	0.0 	0.0
-}
-
-//====================================================================================================================
-event HudMedicCharged
-{
-	Animate ChargeLabel 						FgColor 	"UberBlue" 					Linear 	0.0 	0.8
-	Animate ChargeLabel						FgColor 	"UberGreen" 					Linear 	0.8 	0.8
-
-	Animate	ChargeMeter 						FgColor		"UberBlue"							Linear 	0.0		0.8
-	Animate	ChargeMeter 						FgColor		"UberGreen"						Linear 	0.8		0.8
-
-	//Vaccinator
-	Animate	ChargeMeter1 						FgColor		"255 000 000 255"					Linear 	0.0		0.8
-	Animate	ChargeMeter1 						FgColor		"255 255 000 255"					Linear 	0.8		0.8
-	Animate	ChargeMeter1 						FgColor		"000 255 000 255"					Linear 	1.6		0.8
-
-	Animate	ChargeMeter2 						FgColor		"255 000 000 255"					Linear 	0.0		0.8
-	Animate	ChargeMeter2 						FgColor		"255 255 000 255"					Linear 	0.8		0.8
-	Animate	ChargeMeter2 						FgColor		"000 255 000 255"					Linear 	1.6		0.8
-
-	Animate	ChargeMeter3 						FgColor		"255 000 000 255"					Linear 	0.0		0.8
-	Animate	ChargeMeter3 						FgColor		"255 255 000 255"					Linear 	0.8		0.8
-	Animate	ChargeMeter3 						FgColor		"000 255 000 255"					Linear 	1.6		0.8
-
-	Animate	ChargeMeter4 						FgColor		"255 000 000 255"					Linear 	0.0		0.8
-	Animate	ChargeMeter4 						FgColor		"255 255 000 255"					Linear 	0.8		0.8
-	Animate	ChargeMeter4 						FgColor		"000 255 000 255"					Linear 	1.6		0.8
-
-
-	RunEvent HudMedicChargedLoop				1.6
-}
-
-event HudMedicChargedLoop
-{
-	RunEvent HudMedicCharged 					0.0
-}
-
-event HudMedicChargedStop
-{
-	StopEvent HudMedicCharged 					0.0
-	StopEvent HudMedicChargedLoop 				0.0
-
-	Animate	ChargeLabel 						FgColor		"200 220 243 200"						Linear 	0.0 	0.0001
-
-	Animate	ChargeMeter 						FgColor		"200 220 243 200"						Linear 	0.0		0.0001
-}
-
-//====================================================================================================================
-
-event HudTournamentSetupPanelOpen
-{
-	Animate HudTournamentSetup					Position	"c-41 -100"							Linear 	0.0 	0.001
-	Animate HudTournamentSetup					Position	"c-41 35"							Spline 	0.001 	0.2
-}
-
-event HudTournamentSetupPanelClose
-{
-	Animate HudTournamentSetup					Position	"c-41 35"							Linear 	0.0 	0.001
-	Animate HudTournamentSetup					Position	"c-41 -100"							Spline 	0.001 	0.2
-}
-
-//====================================================================================================================
-
-event FlagOutline
-{
-	RunEvent FlagOutlineHide 					0.0
-	Animate OutlineImage						Alpha		"0"									Linear 	0.1 	0.2
-
-	Animate OutlineImage						Position	"c-200 140"							Linear 	0.1 	0.2
-	Animate OutlineImage						Size		"400 200"							Linear 	0.1 	0.2
-
-	Animate OutlineImage						Position	"c-50 r137"							Linear 	0.7 	0.2
-	Animate OutlineImage						Position	"c-50 r158"							Linear 	0.7 	0.2
-	Animate OutlineImage						Size		"100 50"							Linear 	0.7 	0.2
-
-	Animate OutlineImage						Alpha		"0"									Linear 	0.9 	0.1
-}
-
-//====================================================================================================================
-
-event HudSpyDisguiseChanged
-{
-	Animate PlayerStatusSpyOutlineImage		Alpha		"255"		Linear 0.0 0.2
-
-	Animate PlayerStatusSpyOutlineImage		Position	"c-284 r125"	Linear 0.0 0.2
-	Animate PlayerStatusSpyOutlineImage		Size		"130 130"	Linear 0.0 0.2
-
-	RunEvent HudSpyDisguiseHide	0.7
-}
-
-event HudSpyDisguiseHide
-{
-	Animate PlayerStatusSpyOutlineImage		Position	"c-190 r36"	Linear 0.0 0.2
-	Animate PlayerStatusSpyOutlineImage		Size		"37 37"		Linear 0.0 0.2
-
-	Animate PlayerStatusSpyOutlineImage		Alpha		"0"		Linear 0.2 0.1
-}
-
-event HudSpyDisguiseFadeIn
-{
-	RunEvent HudSpyDisguiseChanged	0
-	Animate PlayerStatusSpyImage			Alpha		"255"			Linear 0.9 0.1
-
-}
-
-event HudSpyDisguiseFadeOut
-{
-	RunEvent HudSpyDisguiseChanged	0
-	Animate PlayerStatusSpyImage			Alpha		"0"				Linear 0.9 0.1
-}
-
-//===========================================
-//====================================================================================================================
-
-event ActiveTimerHighlight
-{
-	Animate TimePanelValue 						FgColor		"WhiteTransparent"					Linear 	0.1 	0.1
-	Animate TimePanelValue 						FgColor		"WhiteTransparent"					Linear 	0.3 	0.1
-
-	Animate TimePanelValue							FgColor		"WhiteTransparent"					Linear 	0.5 	0.1
-	Animate TimePanelValue 						FgColor		"WhiteTransparent"					Linear 	0.7 	0.1
-
-	Animate TimePanelValue 						FgColor		"WhiteTransparent"					Linear 	0.9 	0.1
-	Animate TimePanelValue 						FgColor		"WhiteTransparent"					Linear 	1.1 	0.1
-
-	Animate TimePanelValue 						FgColor		"WhiteTransparent"					Linear 	1.3 	0.3
-}
-
-event ActiveTimerDim
-{
-	Animate TimePanelValue 						FgColor		"WhiteTransparent"					Linear 	0.0 	0.4
-}
-event QuestMap_Start
-{
-	FireCommand	0.0 "switch_off"
-	FireCommand	0.4 "switch_on"
-
-	StopEvent QuestMap_StaticBarOverlayLoop 0
-	StopEvent QuestMap_StaticBarOverlayBrighten 0
-	StopEvent QuestMap_StaticBarOverlayDarken 0
-	StopEvent QuestMap_StaticFadeOut 0
-	StopEvent QuestMap_StaticBar1Loop 0
-	StopEvent QuestMap_StaticBar2Loop 0
-
-	// Reset
-	Animate StaticBar1		ypos -50 Linear 0 0
-	Animate StaticBar2		ypos -10 Linear 0 0
-	Animate StaticOverlay	alpha 255 Linear 0 0
-	Animate StaticOverlay	xpos 270 Linear 0 0
-	Animate StaticOverlay	ypos 160 Linear 0 0
-	Animate StaticOverlay	wide 0 Linear 0 0
-	Animate StaticOverlay	tall 0 Linear 0 0
-	Animate BlackOverlay	alpha 255 Linear 0 0
-	
-
-	// Grow full wide, and a little tall
-	Animate StaticOverlay ypos 155	Accel 0.01 0.25
-	Animate StaticOverlay tall 10	Accel 0.01 0.25
-	Animate StaticOverlay wide 540	Accel 0.01 0.25
-	Animate StaticOverlay xpos 0	Accel 0.01 0.25
-
-	// Grow full tall
-	Animate StaticOverlay tall 320	Accel 0.3 0.15
-	Animate StaticOverlay ypos 0	Accel 0.3 0.15
-
-	Animate BlackOverlay	alpha 0 Linear 0.6 0
-	
-	// Start mostly staticy, then reduce to the loop
-	RunEvent QuestMap_StaticBarOverlayLoop 2
-	RunEvent QuestMap_StaticBar1Loop 0.7
-	RunEvent QuestMap_StaticBar2Loop 0.7
-}
-
-event QuestMap_MapLoaded
-{
-	// Remove the black and fade out
-	Animate DisconnetedContainer alpha 0 Linear 0.2 0
-	Animate BlackOverlay	alpha 0 Linear 0.6 0
-	Animate StaticOverlay	alpha	20	Deaccel 0.6 1.2
-}
-
-event QuestMap_LoadingLoop
-{
-	Animate DisconnetedContainer alpha 255 Linear 0 0
-}
-
-event QuestMap_StaticFadeOut
-{
-	RunEvent QuestMap_StaticBar1Loop 0
-	RunEvent QuestMap_StaticBar2Loop 0
-	// Start mostly staticy, then reduce to the loop
-	Animate StaticOverlay	alpha	255	Linear 0 0
-	Animate StaticOverlay	alpha	20	Deaccel 0 0.4
-	RunEvent QuestMap_StaticBarOverlayLoop 1
-}
-
-event QuestMap_StaticBar1Loop
-{
-	Animate StaticBar1	ypos	-50	Linear 0 0 // Reset
-	Animate StaticBar1	ypos	r0	Linear 0 5 
-	RunEvent QuestMap_StaticBar1Loop 5
-}
-
-event QuestMap_StaticBar2Loop
-{
-	Animate StaticBar2	ypos	-10	Linear 0 0 // Reset
-	Animate StaticBar2	ypos	r0	Linear 0 15 
-	RunEvent QuestMap_StaticBar2Loop 15
-}
-
-event QuestMap_StaticBarOverlayLoop
-{
-	RunEvent QuestMap_StaticBarOverlayBrighten 0
-	RunEvent QuestMap_StaticBarOverlayDarken 1
-}
-
-event QuestMap_StaticBarOverlayBrighten
-{
-	Animate StaticOverlay	alpha	30	Linear 0 3 
-	RunEvent QuestMap_StaticBarOverlayBrighten 3
-}
-
-event QuestMap_StaticBarOverlayDarken
-{
-	Animate StaticOverlay	alpha	1	Linear 0 2
-	RunEvent QuestMap_StaticBarOverlayDarken 5
-}
-
-event QuestNodeView_PinTipHighlight
-{
-	Animate PinTipLabel fgcolor TanDark Linear 1	0.2
-	Animate PinTipLabel fgcolor TanLight		Linear 1.2	0.2
-
-	Animate PinTipLabel fgcolor TanDark Linear 1.4	0.2
-	Animate PinTipLabel fgcolor TanLight		Linear 1.6	0.2
-}
-
-event QuestMapIntro_StageReveal
-{
-	Animate StageDesc	xpos	300 Linear 0 0 
-	Animate StageDesc	Alpha	0 Linear 0 0 
-	Animate StageDesc	fgcolor	TanDark Linear 0 0
-
-	Animate StageDesc	xpos	270  Deaccel	0 0.4
-	Animate StageDesc	Alpha	255 Bias 0.3 0 0.4 
-	Animate StageDesc	fgcolor	TanLight Linear 0.4 0.4
-}
-
-event QuestMapIntro_ShowStage
-{
-	Animate IntroDesc	fgcolor	TanDark	Linear 0 0.4
-}
-
-event QuestMapIntro_ClearStage
-{
-	Animate IntroDesc	fgcolor	TanLight	Linear 0 0.4
-}
-
-event QuestNodeView_QuestPurchased
-{
-	FireCommand 2 "show_items"
-}
-
-event QuestViewSubPanel_QuestPurchased
-{
-	Animate ActivationFlash	Alpha 255 Linear 0 0
-	Animate ActivationFlash	wide f0 Linear 0 0
-	Animate ActivationFlash	ypos 0 Linear 0 0
-	Animate ActivationFlash	tall 46 Linear 0 0
-
-	Animate ActivationFlash	Alpha 0 Deaccel 0.2 0.5
-	Animate ActivationFlash	wide f0 Deaccel 0 0.5
-	Animate ActivationFlash	ypos 46 Linear 0 0.5
-	Animate ActivationFlash	tall 0 Linear 0 0.5
-	FireCommand 0 "playsoundentry CYOA.OrangePanelCollapse"
-
-	FireCommand 1 "toggle_expand"
-	FireCommand 1 "playsoundentry CYOA.objectivepanelexpand"
-
-	SetVisible AcceptButton 0 0 
-}
-
-event QuestViewSubPanel_SelectMouseOver
-{
-	Animate BGImageDarkener Alpha 0 Linear 0 0.1
-}
-
-event QuestViewSubPanel_SelectMouseExit
-{
-	Animate BGImageDarkener Alpha 150 Linear 0 0.1
-}
-
-event QuestMap_ShowLegend
-{
-	Animate Legend ypos 240 Bias 0.6 0 0.2
-	Animate Legend Alpha 255 Linear 0.1 0.1
-}
-
-event QuestMap_HideLegend
-{
-	Animate Legend ypos 290 Bias 0.6 0 0.2
-	Animate Legend Alpha 0 Linear 0 0.1
-}
-
-event QuestMap_CreditNotificationAcknowledge
-{
-	RunEventChild CreditNotification QuestMap_CreditHideAnim 0
-	SetVisible CreditNotification 0 3
-}
-
-event QuestMap_CreditHideAnim
-{
-	SetVisible Body 0 0
-	SetVisible OkButton 0 0
-	Animate CreditImage xpos 14 Spline 0 1.5
-	Animate CreditImage ypos 293 Spline 0 1.5
-	Animate CreditImage wide 15 Spline 0 1.5
-	Animate CreditImage tall 15 Spline 0 1.5
-
-	Animate StaticBG Alpha 0 Bias 0.7 2 1
-	Animate StaticDarken Alpha 0 Bias 0.7 2 1
-}
-
-event QuestMap_CreditNotificationShow
-{
-	RunEventChild CreditNotification QuestMap_CreditShowAnim 0
-	SetVisible CreditNotification 1 0
-}
-
-event QuestMap_CreditShowAnim
-{
-	// Reset everything
-	Animate CreditImage xpos 245 Linear 0 0
-	Animate CreditImage ypos 130 Linear 0 0
-	Animate CreditImage wide 50 Linear 0 0
-	Animate CreditImage tall 50 Linear 0 0
-	Animate CreditImage alpha 255 Linear 0 0
-	Animate StaticBG Alpha 255 Linear 0 0
-	Animate StaticDarken Alpha 255 Linear 0 0
-	SetVisible Body 1 0
-	SetVisible OkButton 1 0 
-}
-
-event ObjectiveCompletedByUser
-{
-	Animate ScorerLabel xpos -20 Bias 0.8 0 0.4
-	Animate ScorerLabel alpha 0 Linear 1.8 0.2
-
-	Animate ScorerLabelBlur xpos -20 Bias 0.8 0 0.4
-	Animate ScorerLabelBlur alpha 0 Linear 1.8 0.2
-}
-
-event QuestReport_ContractComplete
-{
-	RunEventChild QuestCompletionContainer ObjectiveCompletionFanfare 0
-	firecommand				3.2 "soundentry plng_contract_fully_completed" 
-}
-
-event QuestReport_ContractProgress
-{
-	RunEventChild QuestCompletionContainer ObjectiveCompletionFanfare 0
-	firecommand				3.2 "soundentry plng_contract_partially_completed" 
-}
-
-//====================================================================================================================
-
-	// REMOVED
-	event TeamStatus_PlayerDead{}
-	event TeamStatus_PlayerAlive{}
-
-//====================================================================================================================
-
-event RDPositiveScorePulse
-{
-	Animate Score 								FgColor		"WhiteTransparent"					Linear 	0.0 	0.0
-	Animate Score 								FgColor		"WhiteTransparent"					Linear 	0.1 	0.2
-}
-
-event RDNegativeScorePulse
-{
-	Animate Score 								FgColor		"WhiteTransparent"					Linear	0.0 	0.0
-	Animate Score 								FgColor		"WhiteTransparent"					Linear 	0.1 	0.2
-}
-
-//====================================================================================================================
-
-event HudSnapShotReminderIn
-{
-    RunEvent HudHealthDyingPulseStop 			10.0
-    RunEvent HudHealthBonusPulseStop 			10.0
-    RunEvent HudLowAmmoPulseStop 				10.0
-    RunEvent HudMedicChargedStop 				10.0
-}
-
-//====================================================================================================================
-event HudSpyDisguiseChanged
-{
-	Animate PlayerStatusSpyOutlineImage		Alpha		"255"			Linear 0.0 0.2
-
-	Animate PlayerStatusSpyOutlineImage		Position	"c-200 c-200"	Linear 0.0 0.2
-	Animate PlayerStatusSpyOutlineImage		Size		"400 400"		Linear 0.0 0.2
-
-	RunEvent HudSpyDisguiseHide	0.7
-}
-
-event HudSpyDisguiseHide
-{
-	Animate PlayerStatusSpyOutlineImage		Position	"3 413"			Linear 0.0 0.2
-	Animate PlayerStatusSpyOutlineImage		Size		"55 55"			Linear 0.0 0.2
-
-	Animate PlayerStatusSpyOutlineImage		Alpha		"0"				Linear 0.2 0.1
-}
-
-event HudSpyDisguiseFadeIn
-{
-	RunEvent HudSpyDisguiseChanged	0
-	Animate PlayerStatusSpyImage			Alpha		"255"			Linear 0.9 0.1
-}
-
-event HudSpyDisguiseFadeOut
-{
-	RunEvent HudSpyDisguiseChanged	0
-	Animate PlayerStatusSpyImage			Alpha		"0"				Linear 0.9 0.1
-}
-//====================================================================================================================
