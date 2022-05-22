@@ -42,7 +42,7 @@ event HudHealthDyingPulse
 
 	Animate PlayerStatusHealthBonusImage   Alpha    "50"   Linear   0.2   0.2
 
-	Animate PlayerStatusHealthValueTarget		FgColor 	"WhiteTransparent" 				Linear 	0.0		0.0
+	Animate PlayerStatusHealthValueTarget		FgColor 	"RedTransparent" 				Linear 	0.0		0.0
 
 	Animate Health_Spectator					FgColor 	"White" 			Linear 	0.0		0.0
 	Animate Health_Spectator_Bar_Buff			Alpha		"255"								Linear 	0.0 	0.0
