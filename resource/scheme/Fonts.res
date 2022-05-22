@@ -450,7 +450,7 @@ Scheme
 			"1"
 			{
 				"name"								"Hypnotize Icons V3s"
-				"tall"								"72"
+				"tall"								"11"
 				"additive"  						"0"
 				"antialias"							"1"
 			}

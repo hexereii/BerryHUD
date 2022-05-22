@@ -15,7 +15,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"Arrow"
-			"font"									"Symbols 16"
+			"font"									"Hypnotize"
 			"labelText"								"~"
 			"textAlignment"							"center"
 			"xpos"									"0"
@@ -317,10 +317,10 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany66"
+			"font"									"Qurany6"
 			"textAlignment"							"west"
 			"textinsetX"							"20"
-			"labeltext"								"Toggle NetGraph"
+			"labeltext"								"Netgraph"
 			"AllCaps"								"1"
 			"dulltext"								"0"
 			"brighttext"							"0"
@@ -380,10 +380,10 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany66"
+			"font"									"Qurany6"
 			"textAlignment"							"west"
 			"textinsetX"							"20"
-			"labeltext"								"Toggle MatchStatus"
+			"labeltext"								"MatchStatus"
 			"AllCaps"								"1"
 			"dulltext"								"0"
 			"brighttext"							"0"
@@ -443,7 +443,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany66"
+			"font"									"Qurany6"
 			"textAlignment"							"west"
 			"textinsetX"							"20"
 			"labeltext"								"Toggle Chat"
@@ -475,8 +475,8 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"Chat Icon"
-			"font"									"Symbols 10"
-			"labelText"								"\"
+			"font"									"Hypnotize"
+			"labelText"								"E"
 			"textAlignment"							"center"
 			"xpos"									"0"
 			"ypos"									"0"
@@ -678,8 +678,8 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"5cp Icon"
-			"font"									"Hypnotize"
-			"labelText"								"M"
+			"font"									"Quake"
+			"labelText"								">"
 			"textAlignment"							"center"
 			"xpos"									"0"
 			"ypos"									"-25"
@@ -741,8 +741,8 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"KotH Icon"
-			"font"									"Hypnotize"
-			"labelText"								"U"
+			"font"									"Quake"
+			"labelText"								">"
 			"textAlignment"							"center"
 			"xpos"									"0"
 			"ypos"									"0"
@@ -803,8 +803,8 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"Payload Icon"
-			"font"									"Hypnotize"
-			"labelText"								"U"
+			"font"									"Quake"
+			"labelText"								">"
 			"textAlignment"							"center"
 			"xpos"									"0"
 			"ypos"									"0"
@@ -833,7 +833,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany66"
+			"font"									"Qurany6"
 			"textAlignment"							"west"
 			"textinsetX"							"20"
 			"labeltext"								"Maps List"
@@ -907,6 +907,8 @@
 				echo rcon changelevel cp_steel_f9
 				echo - 
 				echo rcon changelevel pl_swiftwater_final1
+					echo; echo; echo ---------;			
+				echo To confirm up-to-date map options, check out rgl.gg/?a=1467&r=40
 					echo; echo; echo ---------;						
 			echo MGE Maps
 			echo ---------;
@@ -938,8 +940,8 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"Maps List Icon"
-			"font"									"Hypnotize"
-			"labelText"								"t"
+			"font"									"Hyp 72"
+			"labelText"								"e"
 			"textAlignment"							"center"
 			"xpos"									"0"
 			"ypos"									"0"
@@ -968,7 +970,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"use_proportional_insets" 				"1"
-			"font"									"Qurany66"
+			"font"									"Qurany6"
 			"textAlignment"							"west"
 			"textinsetX"							"20"
 			"labeltext"								"Adv Options"
@@ -1000,7 +1002,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"Adv Options Icon"
-			"font"									"Symbols 20"
+			"font"									"Hypnotize"
 			"labelText"								"t"
 			"textAlignment"							"center"
 			"xpos"									"0"
