@@ -44,6 +44,6 @@
 		"depressedFgColor_override"			"White"
 		
 		"border_default"					"GreenTransparent70"
-		"border_armed"						"OrangeTransparent70"
+		"border_armed"						"GreenTransparent70"
 	}
 }

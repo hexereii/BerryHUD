@@ -49,7 +49,7 @@
 		"Command"					"delete"
 
 		"border_default"			"RedTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"GreenTransparent70"
 		"paintbackground"			"0"
 
 		"defaultFgColor_override" 	"White"
@@ -88,7 +88,7 @@
 		"Command"					"trigger"
 
 		"border_default"			"GreenTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"GreenTransparent70"
 		"paintbackground"			"0"
 
 		"defaultFgColor_override"	"White"
@@ -127,7 +127,7 @@
 		"Command"					"accept"
 
 		"border_default"			"GreenTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"GreenTransparent70"
 		"paintbackground"			"0"
 
 		"defaultFgColor_override"	"White"
@@ -160,7 +160,7 @@
 		"Command"					"decline"
 
 		"border_default"			"RedTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"GreenTransparent70"
 		"paintbackground"			"0"
 
 		"defaultFgColor_override" 	"White"

@@ -155,7 +155,7 @@
 				"paintborder"			"1"
 
 				"border_default"		"BlackTransparent70"
-				"border_armed"			"OrangeTransparent70"
+				"border_armed"			"GreenTransparent70"
 
 				"image_drawcolor"		"200 200 200 255"
 				"image_armedcolor"		"255 255 255 255"
@@ -239,7 +239,7 @@
 				"paintborder"			"1"
 
 				"border_default"		"BlackTransparent70"
-				"border_armed"			"OrangeTransparent70"
+				"border_armed"			"GreenTransparent70"
 
 				"image_drawcolor"		"200 200 200 255"
 				"image_armedcolor"		"255 255 255 255"
@@ -342,7 +342,7 @@
 				"paintborder"			"1"
 
 				"border_default"		"BlackTransparent70"
-				"border_armed"			"OrangeTransparent70"
+				"border_armed"			"GreenTransparent70"
 
 				"image_drawcolor"		"200 200 200 255"
 				"image_armedcolor"		"255 255 255 255"

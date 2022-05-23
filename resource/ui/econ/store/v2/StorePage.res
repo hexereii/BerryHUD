@@ -264,7 +264,7 @@
 		"depressedFgColor_override"			"White"
 
 		"border_default"					"BlackTransparent70"
-		"border_armed"						"OrangeTransparent70"
+		"border_armed"						"GreenTransparent70"
 
 		"pin_to_sibling" 					"ItemsBG"
 		"pin_corner_to_sibling" 			"PIN_CENTER_RIGHT"
@@ -336,7 +336,7 @@
 		"depressedFgColor_override"			"White"
 
 		"border_default"					"BlackTransparent70"
-		"border_armed"						"OrangeTransparent70"
+		"border_armed"						"GreenTransparent70"
 
 		"pin_to_sibling" 					"ItemsBG"
 		"pin_corner_to_sibling" 			"PIN_CENTER_LEFT"
@@ -832,7 +832,7 @@
 		"depressedFgColor_override"			"White"
 
 		"border_default"					"BlackTransparent50"
-		"border_armed"						"OrangeTransparent50"
+		"border_armed"						"GreenTransparent50"
 
 		"pin_to_sibling" 					"CartBG"
 		"pin_corner_to_sibling" 			"PIN_CENTER_LEFT"

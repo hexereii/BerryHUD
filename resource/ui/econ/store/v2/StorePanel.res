@@ -136,7 +136,7 @@
 		"paintbackground" 					"0"
 		
 		"border_default"					"BlackTransparent70"
-		"border_armed"						"OrangeTransparent70"
+		"border_armed"						"GreenTransparent70"
 	}
 	
 	"CheckoutButton"
@@ -169,7 +169,7 @@
 		"paintbackground" 					"0"
 		
 		"border_default"					"BlackTransparent70"
-		"border_armed"						"OrangeTransparent70"
+		"border_armed"						"GreenTransparent70"
 	}
 	
 	"NotificationsPresentPanel"

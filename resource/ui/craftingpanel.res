@@ -115,7 +115,7 @@
 			"sound_released"				"UI/buttonclickrelease.wav"
 			
 			"border_default"				"BlackTransparent70"
-			"border_armed"					"OrangeTransparent70"
+			"border_armed"					"GreenTransparent70"
 			
 			"defaultFgColor_override" 		"White"
 			"armedFgColor_override" 		"White"
@@ -302,7 +302,7 @@
 			"sound_released"				"UI/buttonclickrelease.wav"
 			
 			"border_default"				"BlackTransparent70"
-			"border_armed"					"OrangeTransparent70"
+			"border_armed"					"GreenTransparent70"
 			
 			"defaultFgColor_override" 		"White"
 			"armedFgColor_override" 		"White"
@@ -359,7 +359,7 @@
 			"sound_released"				"UI/buttonclickrelease.wav"
 			
 			"border_default"				"RedTransparent70"
-			"border_armed"					"OrangeTransparent70"
+			"border_armed"					"GreenTransparent70"
 			
 			"defaultFgColor_override" 		"White"
 			"armedFgColor_override" 		"White"

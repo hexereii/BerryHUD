@@ -150,7 +150,7 @@
 				"depressedFgColor_override"		"White"
 				
 				"border_default"				"BlackTransparent70"
-				"border_armed"					"OrangeTransparent70"
+				"border_armed"					"GreenTransparent70"
 			}
 		}
 	}
@@ -488,7 +488,7 @@
 					"depressedFgColor_override"		"White"
 					
 					"border_default"				"BlackTransparent70"
-					"border_armed"					"OrangeTransparent70"
+					"border_armed"					"GreenTransparent70"
 				}
 			}
 		}
@@ -751,7 +751,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}		
 	
 	"IconsMoveRightButton"
@@ -784,7 +784,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}	
 	
 	"ClassUsageMouseoverLabel"
@@ -841,7 +841,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}
 
 	"OptionsButton"
@@ -875,7 +875,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}
 	
 	"TeamNavPanel"
@@ -1077,7 +1077,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"RedTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}
 
 	"mouseoveritempanel"

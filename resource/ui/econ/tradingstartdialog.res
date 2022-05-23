@@ -45,7 +45,7 @@
 				"paintbackground" 			"0"
 				
 				"border_default"			"BlackTransparent70"
-				"border_armed"				"OrangeTransparent70"
+				"border_armed"				"GreenTransparent70"
 			}
 			
 			"avatar"
@@ -174,7 +174,7 @@
 			"depressedFgColor_override"		"White"
 			
 			"border_default"				"BlackTransparent70"
-			"border_armed"					"OrangeTransparent70"
+			"border_armed"					"GreenTransparent70"
 		}
 		
 		"subbutton1"
@@ -209,7 +209,7 @@
 			"depressedFgColor_override"		"White"
 			
 			"border_default"				"BlackTransparent70"
-			"border_armed"					"OrangeTransparent70"
+			"border_armed"					"GreenTransparent70"
 		}
 		
 		"subbutton2"
@@ -245,7 +245,7 @@
 			"depressedFgColor_override"		"White"
 			
 			"border_default"				"BlackTransparent70"
-			"border_armed"					"OrangeTransparent70"
+			"border_armed"					"GreenTransparent70"
 		}
 	}
 	
@@ -507,7 +507,7 @@
 			"depressedFgColor_override"		"White"
 			
 			"border_default"				"BlackTransparent70"
-			"border_armed"					"OrangeTransparent70"
+			"border_armed"					"GreenTransparent70"
 		}
 	}
 	
@@ -543,6 +543,6 @@
 		"depressedFgColor_override"			"White"
 			
 		"border_default"					"BlackTransparent70"
-		"border_armed"						"OrangeTransparent70"
+		"border_armed"						"GreenTransparent70"
 	}
 }

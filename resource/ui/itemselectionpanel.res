@@ -230,7 +230,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 		
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -270,7 +270,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 		
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -333,7 +333,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 		
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_CENTER_RIGHT"
@@ -382,7 +382,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 		
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_CENTER_LEFT"

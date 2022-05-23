@@ -660,7 +660,7 @@
 			"paintborder" 							"1"
 			
 			"border_default"						"BlackTransparent70"
-			"border_armed"							"OrangeTransparent70"
+			"border_armed"							"GreenTransparent70"
 		}
 		
 		"NewSeedButtonFix"
@@ -711,7 +711,7 @@
 			"paintbackground" 						"0"
 			
 			"border_default"						"BlackTransparent70"
-			"border_armed"							"OrangeTransparent70"
+			"border_armed"							"GreenTransparent70"
 		}
 		
 		"SeedTextEntry"
@@ -814,7 +814,7 @@
 			"paintbackground" 						"0"
 			
 			"border_default"						"GreenTransparent70"
-			"border_armed"							"OrangeTransparent70"
+			"border_armed"							"GreenTransparent70"
 		}
 		
 		"MarketButtonFix"
@@ -864,7 +864,7 @@
 			"paintborder" 							"1"
 			
 			"border_default"						"GreenTransparent70"
-			"border_armed"							"OrangeTransparent70"
+			"border_armed"							"GreenTransparent70"
 		}
 	}
 	

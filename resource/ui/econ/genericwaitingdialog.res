@@ -113,6 +113,6 @@
 		"depressedFgColor_override"	"White"
 		
 		"border_default"			"BlackTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"GreenTransparent70"
 	}
 }

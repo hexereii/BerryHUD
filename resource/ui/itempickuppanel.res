@@ -252,7 +252,7 @@
 		"paintbackground" 				"0"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}
 	
 	"OpenLoadoutButton"
@@ -282,7 +282,7 @@
 		"paintbackground" 				"0"
 		
 		"border_default"				"WhiteTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 		
 		"FgColor"						"BlueLight"
 		"defaultFgColor_override"		"BlueLight"
@@ -316,7 +316,7 @@
 		"paintbackground" 				"0"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}
 	
 	"DiscardButtonTooltip"

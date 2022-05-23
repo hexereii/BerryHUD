@@ -402,7 +402,7 @@
 			"depressedFgColor_override"	"White"
 			
 			"border_default"			"BlackTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_armed"				"GreenTransparent70"
 		}
 		"RemoveItemButton0"
 		{
@@ -436,7 +436,7 @@
 			"depressedFgColor_override"	"White"
 			
 			"border_default"			"RedTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_armed"				"GreenTransparent70"
 		}
 		"TestingHeadgearLabel"
 		{
@@ -510,7 +510,7 @@
 			"depressedFgColor_override"	"White"
 			
 			"border_default"			"BlackTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_armed"				"GreenTransparent70"
 		}
 		"RemoveItemButton1"
 		{
@@ -544,7 +544,7 @@
 			"depressedFgColor_override"	"White"
 			
 			"border_default"			"RedTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_armed"				"GreenTransparent70"
 		}
 		"TestingMisc1Label"
 		{
@@ -618,7 +618,7 @@
 			"depressedFgColor_override"	"White"
 			
 			"border_default"			"BlackTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_armed"				"GreenTransparent70"
 		}
 		"RemoveItemButton2"
 		{
@@ -652,7 +652,7 @@
 			"depressedFgColor_override"	"White"
 			
 			"border_default"			"RedTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_armed"				"GreenTransparent70"
 		}
 		"TestingMisc2Label"
 		{
@@ -726,7 +726,7 @@
 			"depressedFgColor_override"	"White"
 			
 			"border_default"			"BlackTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_armed"				"GreenTransparent70"
 		}
 		"RemoveItemButton3"
 		{
@@ -760,7 +760,7 @@
 			"depressedFgColor_override"	"White"
 			
 			"border_default"			"RedTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_armed"				"GreenTransparent70"
 		}
 	}
 	
@@ -874,7 +874,7 @@
 			"depressedFgColor_override"	"White"
 			
 			"border_default"			"BlackTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_armed"				"GreenTransparent70"
 		}
 	
 		"BotSelectionComboBox"
@@ -941,7 +941,7 @@
 			"depressedFgColor_override"	"White"
 			
 			"border_default"			"BlackTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_armed"				"GreenTransparent70"
 		}
 	}
 	
@@ -993,7 +993,7 @@
 		"depressedFgColor_override"	"White"
 		
 		"border_default"			"BlackTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"GreenTransparent70"
 	}
 	"ImportButton"
 	{
@@ -1028,7 +1028,7 @@
 		"depressedFgColor_override"	"White"
 		
 		"border_default"			"BlackTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"GreenTransparent70"
 	}
 	"ImportRecentButton"
 	{
@@ -1063,7 +1063,7 @@
 		"depressedFgColor_override"	"White"
 		
 		"border_default"			"BlackTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"GreenTransparent70"
 	}
 	
 	"CancelButton"
@@ -1099,7 +1099,7 @@
 		"depressedFgColor_override"	"White"
 		
 		"border_default"			"BlackTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"GreenTransparent70"
 	}
 	"OkButton"
 	{
@@ -1134,7 +1134,7 @@
 		"depressedFgColor_override"	"White"
 		
 		"border_default"			"BlackTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"GreenTransparent70"
 	}
 
 	"SteamWorkshopButton"
@@ -1185,7 +1185,7 @@
 			"depressedFgColor_override"	"White"
 			
 			"border_default"			"BlackTransparent70"
-			"border_armed"				"OrangeTransparent70"
+			"border_armed"				"GreenTransparent70"
 			
 			"image_armedcolor"	"White"
 			"image_drawcolor"	"White"

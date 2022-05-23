@@ -180,7 +180,7 @@
 		"visible"								"1"
 		"enabled"								"1"
 		"paintbackground"						"0"
-		"border"								"GrayTransparent"
+		"border"								"BlackTransparent70"
 	}
 
 	"ClassLabel"
@@ -391,7 +391,7 @@
 		"depressedFgColor_override"				"White"
 
 		"border_default"						"BlackTransparent70"
-		"border_armed"							"OrangeTransparent70"
+		"border_armed"							"BlueTransparent70"
 
 		"pin_to_sibling" 						"BackpackBG"
 		"pin_corner_to_sibling" 				"PIN_CENTER_RIGHT"
@@ -440,7 +440,7 @@
 		"depressedFgColor_override"				"White"
 
 		"border_default"						"BlackTransparent70"
-		"border_armed"							"OrangeTransparent70"
+		"border_armed"							"BlueTransparent70"
 
 		"pin_to_sibling" 						"BackpackBG"
 		"pin_corner_to_sibling" 				"PIN_CENTER_LEFT"

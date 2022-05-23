@@ -375,7 +375,7 @@
 					"depressedFgColor_override"		"White"
 					
 					"border_default"				"BlackTransparent70"
-					"border_armed"					"OrangeTransparent70"
+					"border_armed"					"GreenTransparent70"
 				}		
 				
 				"TradableLabel"
@@ -994,7 +994,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}		
 	
 	"IconsMoveRightButton"
@@ -1027,7 +1027,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}
 	
 	"ClassUsageMouseoverLabel"
@@ -1085,7 +1085,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}		
 	
 	"RotRightButton"
@@ -1120,7 +1120,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}	
 	
 	"NextWeaponButton"
@@ -1175,7 +1175,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}
 	
 	"ZoomButton"
@@ -1209,7 +1209,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}
 
 	"OptionsButton"
@@ -1243,7 +1243,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}
 	
 	"TeamNavPanel"
@@ -1445,7 +1445,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"RedTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}
 	
 	"BackButton"
@@ -1479,7 +1479,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}		
 	
 	"TryItOutButton"
@@ -1512,7 +1512,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"BlackTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}	
 	
 	"AddToCartButton"
@@ -1546,7 +1546,7 @@
 		"depressedFgColor_override"		"White"
 		
 		"border_default"				"GreenTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_armed"					"GreenTransparent70"
 	}
 	
 	"mouseoveritempanel"

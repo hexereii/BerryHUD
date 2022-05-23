@@ -13,7 +13,7 @@
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	"1"
 	}
-	
+
 	"TitleLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -35,7 +35,7 @@
 	}
 
 	"preview_model"
-	{		
+	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"preview_model"
 		"xpos"			"20"
@@ -58,7 +58,7 @@
 		"text_center"	"1"
 		"name_only"		"1"
 		"paint_icon_hide" "0"
-		
+
 		"itemmodelpanel"
 		{
 			"force_use_model"		"1"
@@ -88,7 +88,7 @@
 		"maxchars"			"-1"
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
-		
+
 		"fgcolor_override"	"White"
 		"bgcolor_override"	"0 0 0 50"
 		"disabledFgColor_override" "Black"
@@ -97,7 +97,7 @@
 		"selectionTextColor_override" "White"
 		"defaultSelectionBG2Color_override" "White"
 	}
-	
+
 	"CancelButton"
 	{
 		"ControlName"	"CExButton"
@@ -120,20 +120,20 @@
 		"brighttext"	"0"
 		"default"		"0"
 		"Command"		"cancel"
-		
+
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"			"0"
-		
+
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
-		
+
 		"border_default"			"BlackTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"GreenTransparent70"
 	}
-	
+
 	"OkButton"
 	{
 		"ControlName"	"CExButton"
@@ -156,17 +156,17 @@
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"apply"
-		
+
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"			"0"
-		
+
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override"	"White"
-		
+
 		"border_default"			"BlackTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"GreenTransparent70"
 	}
 }
