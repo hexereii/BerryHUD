@@ -82,7 +82,7 @@
 			"brighttext"					"0"
 			"Command"						"toggle_chat"
 			"proportionaltoparent"			"1"
-			"labeltext"						"d"
+			"labeltext"						"Z"
 			"mouseinputenabled"				"1"
 			"keyboardinputenabled"			"0"
 			"actionsignallevel"				"2"
@@ -95,8 +95,8 @@
 
 			"FgColor"						"WhiteTransparent"
 			"defaultFgColor_override"		"WhiteTransparent"
-			"armedFgColor_override"			"OrangeLight"
-			"depressedFgColor_override"		"OrangeLight"
+			"armedFgColor_override"			"NeonGreen"
+			"depressedFgColor_override"		"NeonGreen"
 
 			"pin_to_sibling" 				"PartyAnchor"
 		}

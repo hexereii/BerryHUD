@@ -56,7 +56,7 @@
 				"sound_released"	"UI/buttonclickrelease.wav"
 			}
 		}
-  
+
 		"SaxxySettings"
 		{
 			"xpos"					"0"
@@ -140,7 +140,7 @@
 			"centerwrap"			"1"
 		}
 	}
-	
+
 	"Background"
     {
         "ControlName"    "ScalableImagePanel"
@@ -167,7 +167,7 @@
             "wide"            "o1.6"
             "tall"            "f0"
         }
-        
+
         if_halloween_0
         {
             "image"        "../console/title_team_halloween2015"
@@ -185,11 +185,11 @@
             "image"        "../console/title_team_halloween2015"
         }
         if_halloween_4
-        {    
+        {
             "image"        "../console/title_team_halloween2015"
         }
         if_halloween_5
-        {    
+        {
             "image"        "../console/title_team_halloween2015"
         }
         if_fullmoon
@@ -199,7 +199,7 @@
         if_christmas
         {
             "image"        "../console/background_xmas2011_widescreen"
-        }        
+        }
     }
 
 	/////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -400,7 +400,7 @@
 		"xpos"							"c-250"
 		"ypos"							"102"
 		"zpos"							"10"
-		"wide"							"100"
+		"wide"							"120"
 		"tall"							"24"
 		"autoResize"					"0"
 		"pinCorner"						"3"
@@ -414,7 +414,7 @@
 			"fieldName"					"Icon"
 			"font"						"Symbols 16"
 			"textAlignment"				"center"
-			"labelText"					"U"
+			"labelText"					"8"
 			"xpos"						"5"
 			"ypos"						"3"
 			"zpos"						"1"
@@ -434,7 +434,7 @@
 			"xpos"						"2"
 			"ypos"						"3"
 			"zpos"						"4"
-			"wide"						"96"
+			"wide"						"115"
 			"tall"						"17"
 			"autoResize"				"0"
 			"pinCorner"					"3"
@@ -512,7 +512,7 @@
 			"paintbackground"			"0"
 
 			"defaultFgColor_override"	"White"
-			"armedFgColor_override"		"White"
+			"armedFgColor_override"		"BlackTransparent70"
 			"depressedFgColor_override"	"White"
 
 			"border_default"			"BlackTransparent70"
@@ -762,7 +762,7 @@
 			"proportionaltoparent"		"1"
 		}
 	}
-	
+
 	"MOTD_ShowButtonPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -933,53 +933,12 @@
 		}
 	}
 
-	"Store"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldname"			"Store"
-		"xpos"				"c-417"
-		"ypos"				"153"
-		"zpos"				"15"
-		"wide"				"150"
-		"tall"				"14"
-		"visible"			"0"
-
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"SubButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"150"
-			"tall"			"14"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"use_proportional_insets"	"1"
-			"font"			"Qurany12"
-			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-
-			"paintbackground"			"0"
-
-			"defaultFgColor_override" 	"255 255 255 255"
-			"armedFgColor_override" 	"0 255 144 80"
-			"depressedFgColor_override" "0 255 144 80"
-		}
-	}
-
 	"Settings"
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Settings"
 		"xpos"				"c-417"
-		"ypos"				"170"
+		"ypos"				"153"
 		"zpos"				"15"
 		"wide"				"150"
 		"tall"				"14"
@@ -1021,7 +980,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Demoui"
 		"xpos"				"c-417"
-		"ypos"				"187"
+		"ypos"				"170"
 		"zpos"				"15"
 		"wide"				"150"
 		"tall"				"14"
@@ -1062,7 +1021,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Quit"
 		"xpos"				"c-417"
-		"ypos"				"204"
+		"ypos"				"187"
 		"zpos"				"15"
 		"wide"				"150"
 		"tall"				"14"
@@ -1144,7 +1103,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Disconnect"
 		"xpos"				"c-417"
-		"ypos"				"187"
+		"ypos"				"170"
 		"zpos"				"15"
 		"wide"				"150"
 		"tall"				"14"

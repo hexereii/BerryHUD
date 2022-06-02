@@ -12,12 +12,12 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"border"					"BlackTransparent70"
-		
+
 		"if_high_priority"
 		{
 			"border"				"BlackTransparent70"
 		}
-		
+
 		"paintborder"				"1"
 		"paintbackground"			"0"
 		"PaintBackgroundType"		"0"
@@ -38,7 +38,7 @@
 		"visible"					"0"
 		"enabled"					"1"
 		"tabPosition"				"0"
-		"labeltext"					"W"
+		"labeltext"					"-"
 		"font"						"Symbols 22"
 		"textAlignment"				"center"
 		"dulltext"					"0"
@@ -49,7 +49,7 @@
 		"Command"					"delete"
 
 		"border_default"			"RedTransparent70"
-		"border_armed"				"GreenTransparent70"
+		"border_armed"				"WhiteTransparent70"
 		"paintbackground"			"0"
 
 		"defaultFgColor_override" 	"White"
@@ -62,12 +62,12 @@
 		"ControlName"				"CExImageButton"
 		"fieldName"					"TriggerButton"
 		"xpos"						"140"
-		
+
 		"if_one_button"
 		{
 			"xpos"					"163"
 		}
-		
+
 		"ypos"						"4"
 		"zpos"						"10"
 		"wide"						"24"
@@ -77,7 +77,7 @@
 		"visible"					"0"
 		"enabled"					"1"
 		"tabPosition"				"0"
-		"labeltext"					"("
+		"labeltext"					"+"
 		"font"						"Symbols 20"
 		"textAlignment"				"center"
 		"dulltext"					"0"
@@ -88,7 +88,7 @@
 		"Command"					"trigger"
 
 		"border_default"			"GreenTransparent70"
-		"border_armed"				"GreenTransparent70"
+		"border_armed"				"WhiteTransparent70"
 		"paintbackground"			"0"
 
 		"defaultFgColor_override"	"White"
@@ -101,12 +101,12 @@
 		"ControlName"				"CExImageButton"
 		"fieldName"					"AcceptButton"
 		"xpos"						"140"
-		
+
 		"if_one_button"
 		{
 			"xpos"					"163"
 		}
-		
+
 		"ypos"						"4"
 		"zpos"						"10"
 		"wide"						"24"
@@ -127,7 +127,7 @@
 		"Command"					"accept"
 
 		"border_default"			"GreenTransparent70"
-		"border_armed"				"GreenTransparent70"
+		"border_armed"				"WhiteTransparent70"
 		"paintbackground"			"0"
 
 		"defaultFgColor_override"	"White"

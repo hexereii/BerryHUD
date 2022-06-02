@@ -16,7 +16,7 @@
 		"tabPosition"					"0"
 		"settitlebarvisible"			"0"
 		"bgcolor_override"				"Blank"
-		
+
 		"item_ypos"						"77"
 		"item_ydelta"					"80"
 		"item_backpack_offcenter_x"		"-285"
@@ -40,7 +40,7 @@
 			"deferred_description"		"1"
 			"deferred_icon"				"1"
 		}
-		
+
 		"modelpanels_kv"
 		{
 			"ControlName"				"CItemModelPanel"
@@ -54,30 +54,30 @@
 			"noitem_textcolor"			"117 107 94 255"
 			"PaintBackgroundType"		"2"
 			"paintborder"				"1"
-			
+
 			"model_xpos"				"2"
-			"model_ypos"				"5" 
+			"model_ypos"				"5"
 			"model_wide"				"50"
 			"model_tall"				"35"
 			"text_ypos"					"60"
 			"text_center"				"1"
 			"name_only"					"1"
-			
+
 			"inset_eq_x"				"4"
 			"inset_eq_y"				"2"
 
 			"deferred_description"		"1"
-			
+
 			"itemmodelpanel"
 			{
 				"use_item_rendertarget" "0"
 				"inventory_image_type"	"1"
 				"allow_rot"				"0"
 			}
-			
+
 			"use_item_sounds"			"1"
 		}
-		
+
 		"duplicatelabels_kv"
 		{
 			"font"						"Quake11"
@@ -91,7 +91,7 @@
 			"fgcolor"					"White"
 		}
 	}
-	
+
 	"Mountain"							//needed as a cover
 	{
 		"ControlName"					"ImagePanel"
@@ -106,7 +106,7 @@
 		"image"							"replay/thumbnails/menu/Mountain_Blur"
 		"scaleimage"					"1"
 	}
-	
+
 	"SelectionBG"
 	{
 		"ControlName"					"EditablePanel"
@@ -121,7 +121,7 @@
 		"paintbackground"				"0"
 		"border"						"BlackTransparent30"
 	}
-	
+
 	"ItemSlotLabel"
 	{
 		"ControlName"					"CExLabel"
@@ -140,12 +140,12 @@
 		"enabled"						"1"
 		"AllCaps"						"1"
 		"alpha"							"125"
-		
+
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner" 		"PIN_TOPLEFT"
 	}
-	
+
 	"NameFilterTextEntry"
 	{
 		"ControlName"					"TextEntry"
@@ -167,12 +167,12 @@
 		"bgcolor_override"				"Blank"
 		"paintbackgroundtype" 			"2"
 		"font"							"Quake12"
-		
+
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_BOTTOMRIGHT"
 		"pin_to_sibling_corner" 		"PIN_TOPRIGHT"
 	}
-	
+
 	"NameFilterBG"
 	{
 		"ControlName"					"CExLabel"
@@ -191,12 +191,12 @@
 		"textinsetx"					"10"
 		"labeltext"						"Q"
 		"fgcolor_override"				"White"
-		
+
 		"border"						"BlackTransparent70"
-		
+
 		"pin_to_sibling" 				"NameFilterTextEntry"
 	}
-	
+
 	"ShowBackpack"
 	{
 		"ControlName"					"CExButton"
@@ -219,24 +219,24 @@
 		"dulltext"						"0"
 		"brighttext"					"0"
 		"Command"						"show_backpack"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent70"
 		"border_armed"					"GreenTransparent70"
-		
+
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 		"PIN_BOTTOMLEFT"
 	}
-	
+
 	"ShowSelection"
 	{
 		"ControlName"					"CExButton"
@@ -259,24 +259,24 @@
 		"dulltext"						"0"
 		"brighttext"					"0"
 		"Command"						"show_selection"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent70"
 		"border_armed"					"GreenTransparent70"
-		
+
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 		"PIN_BOTTOMLEFT"
 	}
-	
+
 	"OnlyAllowUniqueQuality"
 	{
 		"ControlName"					"CheckButton"
@@ -295,12 +295,12 @@
 		"enabled"						"1"
 		"dulltext"						"0"
 		"brighttext"					"0"
-		
+
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner" 		"PIN_TOPLEFT"
 	}
-	
+
 	"PrevPageButton"
 	{
 		"ControlName"					"CExButton"
@@ -315,31 +315,31 @@
 		"visible"						"1"
 		"enabled"						"1"
 		"tabPosition"					"0"
-		"labelText"						"]"
-		"font"							"Symbols 16"
+		"labelText"						"<"
+		"font"							"Quarany"
 		"textAlignment"					"center"
 		"textinsety"					"3"
 		"dulltext"						"0"
 		"brighttext"					"0"
 		"Command"						"prevpage"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent70"
 		"border_armed"					"GreenTransparent70"
-		
+
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_CENTER_RIGHT"
 		"pin_to_sibling_corner" 		"PIN_CENTER_LEFT"
 	}
-	
+
 	"PrevPageShortCut"
 	{
 		"ControlName"					"CExButton"
@@ -349,7 +349,7 @@
 		"Command"						"prevpage"
 		"visible"						"1"
 	}
-	
+
 	"NextPageButton"
 	{
 		"ControlName"					"CExButton"
@@ -364,31 +364,31 @@
 		"visible"						"1"
 		"enabled"						"1"
 		"tabPosition"					"0"
-		"labelText"						"H"
-		"font"							"Symbols 16"
+		"labelText"						">"
+		"font"							"Quarany"
 		"textAlignment"					"center"
 		"textinsety"					"3"
 		"dulltext"						"0"
 		"brighttext"					"0"
 		"Command"						"nextpage"
-		
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
-		
+
 		"paintbackground"				"0"
-		
+
 		"defaultFgColor_override"		"White"
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
-		
+
 		"border_default"				"BlackTransparent70"
 		"border_armed"					"GreenTransparent70"
-		
+
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_CENTER_LEFT"
 		"pin_to_sibling_corner" 		"PIN_CENTER_RIGHT"
 	}
-	
+
 	"NextPageShortCut"
 	{
 		"ControlName"					"CExButton"
@@ -398,7 +398,7 @@
 		"Command"						"nextpage"
 		"visible"						"1"
 	}
-	
+
 	"NoItemsLabel"
 	{
 		"ControlName"					"CExLabel"
@@ -418,7 +418,7 @@
 		"AllCaps"						"1"
 		"fgcolor_override" 				"WhiteTransparent"
 	}
-	
+
 	"mouseoveritempanel"
 	{
 		"ControlName"					"CItemModelPanel"
@@ -433,13 +433,13 @@
 		"noitem_textcolor"				"117 107 94 255"
 		"PaintBackgroundType"			"2"
 		"paintborder"					"1"
-		
+
 		"text_ypos"						"20"
 		"text_center"					"1"
 		"model_hide"					"1"
 		"resize_to_text"				"1"
 		"padding_height"				"15"
-		
+
 		"attriblabel"
 		{
 			"font"						"ItemFontAttribLarge"
@@ -458,7 +458,7 @@
 			"centerwrap"				"1"
 		}
 	}
-	
+
 	"CaratLabel"
 	{
 		"ControlName"					"CExLabel"
@@ -476,7 +476,7 @@
 		"ControlName"					"ImagePanel"
 		"fieldName"						"TopLine"
 		"xpos"							"9999"
-	}				
+	}
 	"BottomLine"
 	{
 		"ControlName"					"ImagePanel"

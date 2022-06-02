@@ -44,3 +44,6 @@ Drag the folders inside "Spedometer" into your main folder to add a spedometer a
 
 Chronos edition (Custom for my friend)
 Drag the folders inside "Chronos edition" into your main folder to change some fonts
+
+berryhud after dark
+Drag the folders inside "berryhud after dark" into your main folder, and it will change all your backgrounds!

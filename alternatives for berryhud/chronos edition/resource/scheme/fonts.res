@@ -1,14 +1,7 @@
 Scheme
 {
-	BitmapFontFiles
-	{
-		"Buttons"	"materials/vgui/fonts/buttons_32.vbf"
-		"ButtonsSC"	"materials/vgui/fonts/buttons_sc.vbf"
-	}
-
 	Fonts
 	{
-	////////////////////// MainMenu Fonts /////////////////////
 		Qurany6
 		{
 			"1"
@@ -20,7 +13,6 @@ Scheme
 				"outline"	"0"
 			}
 		}
-
 		Qurany
 		{
 			"1"
@@ -144,43 +136,6 @@ Scheme
 			}
 		}
 
-	//Other stuff
-	
-	"Chronos"
-			{
-			"1"
-			{
-				"name"		"Product Sans Bold"
-				"tall"		"36"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
-	
-		"MatchPlayerName"
-		{
-			"1"
-			{
-				"name"		"HandelGothic BT"
-				"tall"		"8"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
-		"MatchPlayerDeath"
-		{
-			"1"
-			{
-				"name"		"HandelGothic BT"
-				"tall"		"14"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
-		
 		//QuakeFonts
 
 		Quake8
@@ -281,7 +236,7 @@ Scheme
 				"antialias" "1"
 				"outline"	"0"
 			}
-		}	
+		}
 		Quake20
 		{
 			"1"
@@ -303,7 +258,7 @@ Scheme
 				"antialias" "1"
 				"outline"	"0"
 			}
-		}	
+		}
 
 		Quake22
 		{
@@ -426,49 +381,6 @@ Scheme
 				"outline"	"0"
 			}
 		}
-	//Hypnotize Icons
-			Hypnotize
-		{
-			"1"
-			{
-				"name"		"Hypnotize Icons"
-				"tall"		"12"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"0"
-			}
-		}
-				"Symbols 10"
-		{
-			"1"
-			{
-				"name"								"Hypnotize Icons HEx5"
-				"tall"								"10"
-				"additive"  						"0"
-				"antialias"							"1"
-			}
-		}
-						"Symbols 72"
-		{
-			"1"
-			{
-				"name"								"Hypnotize Icons HEx5"
-				"tall"								"72"
-				"additive"  						"0"
-				"antialias"							"1"
-			}
-		}
-					"Hyp 72"
-		{
-			"1"
-			{
-				"name"								"Hypnotize Icons V3s"
-				"tall"								"72"
-				"additive"  						"0"
-				"antialias"							"1"
-			}
-		}
-
 		///////////////////////////////////////////////////////////////////////////////
 		////////////////////////////////DEFAULT FONTS//////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////
@@ -528,24 +440,7 @@ Scheme
 
 
 		}
-		"DefaultUnderline"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"12"
-				"weight"	"500"
-				"underline" "1"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-			}
-			"2"
-			{
-				"name"		"Arial"
-				"tall"		"11"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"800"
-			}
-		}
+
 		"DefaultSmall"
 		{
 			"1"
@@ -707,19 +602,6 @@ Scheme
 				"weight"		"800"
 			}
 		}
-		CenterPrintText
-		{
-			// note that this scales with the screen resolution
-			"1"
-			{
-				"name"		"Trebuchet MS" [!$OSX]
-				"name"		"Helvetica" [$OSX]
-				"tall"		"18"
-				"weight"	"900"
-				"antialias" "1"
-				"additive"	"1"
-			}
-		}
 
 		"PlayerPanelPlayerName"
 		{
@@ -732,95 +614,8 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		HudHintText
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"12"
-				"weight"	"700"
-				"yres"	"480 599"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"13"	[$WIN32]
-				"tall"		"23"	[$X360]
-				"weight"	"700"
-				"yres"	"600 767"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"700"
-				"yres"	"768 1023"
-			}
-			"4"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"20"
-				"weight"	"700"
-				"yres"	"1024 1199"
-			}
-			"5"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"24"
-				"weight"	"700"
-				"yres"	"1200 10000"
-			}
-		}
-		"HudFontGiant"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"24"
-				"tall_lodef"	"80"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-				"yres"		"480 599"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"32"
-				"tall_hidef"	"120"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-				"yres"		"600 767"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"44"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-				"yres"		"768 1023"
-			}
-			"4"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"48"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-				"yres"		"1024 1199"
-			}
-			"5"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"52"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-				"yres"		"1200 10000"
-			}
-		}
+
+
 		"HudFontGiantBold"
 		{
 			"1"
@@ -893,28 +688,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"HudFontMediumSecondary"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"24"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"HudFontMediumBold"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"24"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
 		"HudFontMediumSmallBold"
 		{
 			"1"
@@ -939,19 +712,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"HudFontMediumSmallSecondary"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"18"
-				"tall_hidef"	"24"
-				"tall_lodef"	"20"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
 		"HudFontSmall"
 		{
 			"1"
@@ -964,17 +724,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		"HudFontSmallishBold"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"16"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
+
 		"HudFontSmallBold"
 		{
 			"1"
@@ -986,18 +736,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"HudFontSmallBoldShadow"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-				"dropshadow"	"1"
-			}
-		}
+
 		"HudFontSmallest"
 		{
 			"1"
@@ -1007,18 +746,6 @@ Scheme
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
-			}
-		}
-		"HudFontSmallestShadow"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"11"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"1"
 			}
 		}
 		"HudFontSmallestBold"
@@ -1032,17 +759,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"PerformanceModeSmall"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"4"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
+
 		"StorePromotionsTitle"
 		{
 			"1"
@@ -1054,17 +771,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"FontCartPrice"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"16"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
+
 		"FontStorePrice"
 		{
 			"1"
@@ -1076,142 +783,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"FontStoreOriginalPrice"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"9"
-				"weight"	"0"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"FontStorePriceSmall"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"6"
-				"weight"	"0"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"FontStorePromotion"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"12"
-				"tall_hidef"	"14"
-				"tall_lodef"	"16"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"TextTooltipFont"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"11"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		GameUIButtons
-		{
-			"1"	//[$X360]
-			{
-				"bitmap"	"1"
-				"name"		"Buttons"
-				"scalex"	"0.5"
-				"scalex_lodef"		"0.75"
-				"scaley"	"0.5"
-				"scaley_lodef"		"0.75"
-			}
-		}
-		GameUIButtonsSmall
-		{
-			"1"	[$X360]
-			{
-				"bitmap"	"1"
-				"name"		"Buttons"
-				"scalex"	"0.5"
-				"scaley"	"0.5"
-			}
-		}
-		GameUIButtonsSmallest
-		{
-			"1"	[$X360]
-			{
-				"bitmap"	"1"
-				"name"		"Buttons"
-				"scalex"	"0.4"
-				"scaley"	"0.4"
-			}
-		}
-		GameUIButtonsSteamController
-		{
-			"1"
-			{
-				"bitmap"	"1"
-				"name"		"ButtonsSC"
-				"scalex"	"0.5"
-				"scalex_lodef"		"0.75"
-				"scaley"	"0.5"
-				"scaley_lodef"		"0.75"
-			}
-		}
-		GameUIButtonsSteamControllerSmall
-		{
-			"1"
-			{
-				"bitmap"	"1"
-				"name"		"ButtonsSC"
-				"scalex"	"0.25"
-				"scaley"	"0.25"
-			}
-		}
-		GameUIButtonsSteamControllerSmallest
-		{
-			"1"
-			{
-				"bitmap"	"1"
-				"name"		"ButtonsSC"
-				"scalex"	"0.15"
-				"scaley"	"0.15"
-			}
-		}
-		"GameUIButtonText"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"18"
-				"tall_hidef"	"24"
-				"tall_lodef"	"18"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"HudClassHealth"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"16"
-				"tall_hidef"	"22"
-				"tall_lodef"	"22"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
+
 		"SpectatorKeyHints"
 		{
 			"1"
@@ -1223,42 +795,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"ClockSubText"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"9"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"ClockSubTextSuddenDeath"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"8"
-				"tall_hidef"	"9"
-				"tall_lodef"	"10"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"ClockSubTextTiny"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"8"
-				"tall_hidef"	"7"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
+
 		"HudSelectionText"
 		{
 			"1"
@@ -1310,24 +847,7 @@ Scheme
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
-		DebugOverlay
-		{
-			"1"	[$WIN32]
-			{
-				"name"		"Courier New"
-				"tall"		"14"
-				"weight"	"400"
-				"outline"	"1"
-				"range"		"0x0000 0x017F" // Basic Latin, Latin-1 Supplement, Latin Extended-A
-			}
-			"1"	[$X360]
-			{
-				"name"		"Renogare Soft"
-				"tall"		"18"
-				"weight"	"200"
-				"outline"	"1"
-			}
-		}
+
 		TFTypeDeath
 		{
 			"1"
@@ -1351,38 +871,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		"BetaFont"
-		{
-			"1"
-			{
-				"name"		"Courier New"
-				"tall"		"90"
-				"weight"	"900"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
 
-		HudNumbers
-		{
-			"1"
-			{
-				"name"  "Team Fortress" // tf.ttf
-				"tall"  "28"
-				"weight" "0"
-				"additive" "1"
-				"antialias" "1"
-			}
-			"2"
-			{
-				"name"  "Renogare Soft"
-				"tall"  "28"
-				"weight" "0"
-				"additive" "1"
-				"antialias" "1"
-			}
-		}
 		"CloseCaption_Normal"
 		{
 			"1"
@@ -1462,27 +951,7 @@ Scheme
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
-		"MenuMainTitle"
-		{
-			"1"
-			{
-				"name"		"Faithfont24"
-				"tall"		"24"
-				"antialias" "1"
-				"weight"	"500"
-			}
-		}
-		"MenuClassBuckets"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"11"
-				"tall_lodef"	"14"
-				"antialias" "1"
-				"weight"	"500"
-			}
-		}
+
 		"MenuKeys"
 		{
 			"1"
@@ -1493,21 +962,6 @@ Scheme
 				"weight"	"500"
 			}
 		}
-
-		"GoalText"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"13"
-				"tall_hidef"	"14"
-				"tall_lodef"	"17"
-				"weight"	"800"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
-
 		"ChalkboardTitle"
 		{
 			"1"
@@ -1523,34 +977,7 @@ Scheme
 				"weight_hidef"	"1000"
 			}
 		}
-		"ChalkboardTitleBig"
-		{
-			"1"
-			{
-				"name"			"Renogare Soft"
-				"tall"			"40"
-				"tall_lodef"	"48"
-				"tall_hidef"	"48"
-				"antialias"		"1"
-				"custom"		"1" [$OSX]
-				"weight"		"500"
-				"weight_lodef"	"800"
-				"weight_hidef"	"1000"
-			}
-		}
-		"ChalkboardTitleMedium"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"24"
-				"tall_lodef"	"36"
-				"tall_hidef"	"36"
-				"antialias" "1"
-				"custom"		"1" [$OSX]
-				"weight"	"500"
-			}
-		}
+
 		"ChalkboardText"
 		{
 			"1"
@@ -1563,17 +990,6 @@ Scheme
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
 				"weight"		"500"
-			}
-		}
-		"ScoreboardSmallest"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"6"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
 			}
 		}
 		"ScoreboardVerySmall"
@@ -1602,190 +1018,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"ScoreboardMediumSmall"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"500"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"ScoreboardMedium"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"20"
-				"weight"	"500"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"ScoreboardTeamName"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"20"
-				"tall_hidef"	"24"
-				"tall_lodef"	"24"
-				"weight"	"500"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"ScoreboardTeamCountNew"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"500"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"ScoreboardTeamNameNew"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"20"
-				"weight"	"500"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"ScoreboardTeamNameLarge"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"34"
-				"tall_hidef"	"38"
-				"tall_lodef"	"38"
-				"weight"	"500"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
 
-		"ScoreboardTeamScoreNew"
- 		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"36"
-				"tall_hidef"	"48"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"ScoreboardTeamScore"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"52"
-				"tall_lodef"		"80"
-				"range" 	"0x0000 0x00FF"
-				"weight"	"400"
-				"yres"		"1 599"
-				"antialias" "1"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"72"
-				"tall_hidef"	"120"
-				"range" 	"0x0000 0x00FF"
-				"weight"	"400"
-				"yres"		"600 767"
-				"antialias" "1"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"100"
-				"range" 	"0x0000 0x00FF"
-				"weight"	"400"
-				"yres"		"768 1023"
-				"antialias" "1"
-			}
-			"4"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"140"
-				"range" 	"0x0000 0x00FF"
-				"weight"	"400"
-				"yres"		"1024 1199"
-				"antialias" "1"
-			}
-			"5"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"180"
-				"range" 	"0x0000 0x00FF"
-				"weight"	"400"
-				"yres"		"1200 10000"
-				"antialias" "1"
-			}
-		}
-		"MatchSummaryTeamScores"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"36"
-				"weight"	"500"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"MatchSummaryStatsAndMedals"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"MatchSummaryWinner"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"20"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"CompMatchStartTeamNames"
-		{
-			"1"
-			{
-				"name"		"Quake"
-				"tall"		"14"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
 		"ControlPointTimer"
 		{
 			"1"
@@ -1797,75 +1030,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"ControlPointTimerSmaller"
-		{
-			"1"
-			{
-				"name"		"Quake"
-				"tall"		"7"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
 
-		"Link"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"tall_hidef"	"12"
-				"tall_lodef"	"14"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-
-		"TargetID"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"12"
-				"weight"	"700"
-				"yres"		"480 599"
-				"dropshadow"	"0"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"13"
-				"weight"	"700"
-				"yres"		"600 767"
-				"dropshadow"	"0"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"700"
-				"yres"		"768 1023"
-				"dropshadow"	"0"
-			}
-			"4"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"20"
-				"weight"	"700"
-				"yres"		"1024 1199"
-				"dropshadow"	"0"
-			}
-			"5"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"24"
-				"weight"	"700"
-				"yres"		"1200 10000"
-				"dropshadow"	"0"
-			}
-		}
 		"ChatFont"
 		{
 			"1"
@@ -1909,49 +1074,6 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
-		"ChatMiniFont"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"weight"	"700"
-				"yres"		"480 599"
-				"dropshadow"	"1"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"weight"	"700"
-				"yres"		"600 767"
-				"dropshadow"	"1"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"13"
-				"weight"	"700"
-				"yres"		"768 1023"
-				"dropshadow"	"1"
-			}
-			"4"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"700"
-				"yres"		"1024 1199"
-				"dropshadow"	"1"
-			}
-			"5"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"15"
-				"weight"	"700"
-				"yres"		"1200 10000"
-				"dropshadow"	"1"
-			}
-		}
 
 		MenuSmallestFont
 		{
@@ -1979,30 +1101,6 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		CapPlayerFont
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"12"
-				"weight"	"500"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"TextColor"	"Black"
-				"antialias" 	"1"
-			}
-		}
-		CapPlayerFontSmall
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"8"
-				"weight"	"500"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"TextColor"	"Black"
-				"antialias" 	"1"
-			}
-		}
 
 		TFFontSmall
 		{
@@ -2017,53 +1115,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		TFFontMedium
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"9"
-				"tall_hidef"	"10"
-				"tall_lodef"	"16"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
 
-		InstructionalText
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"11"  [!$OSX]
-				"tall"		"9"  [$OSX]
-				"weight"	"800"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
-
-		MatchmakingDialogTitle
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"36"
-				"tall_lodef"		"28"
-				"weight"	"500"
-			}
-		}
-		MatchmakingDialogSessionOptionsTitle
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"30"
-				"tall_lodef"		"22"
-				"weight"	"500"
-			}
-		}
 		MatchmakingDialogMenuLarge
 		{
 			"1"
@@ -2074,42 +1126,7 @@ Scheme
 				"weight"	"500"
 			}
 		}
-		MatchmakingDialogMenuBrowserHostname
-		{
-			"1"			// brower item hostname
-			{
-				"name"		"Trebuchet MS"
-				"tall"		"22"
-				"weight"	"900"
-			}
-		}
-		MatchmakingDialogMenuBrowserDetails
-		{
-			"1"			// browser item players and map name
-			{
-				"name"		"Trebuchet MS"
-				"tall"		"18"
-				"weight"	"900"
-			}
-		}
-		MatchmakingDialogMenuMedium
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"22"
-				"weight"	"500"
-			}
-		}
-		MatchmakingDialogMenuMediumSmall
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"18"
-				"weight"	"500"
-			}
-		}
+
 		MatchmakingDialogMenuSmall
 		{
 			"1"
@@ -2120,37 +1137,6 @@ Scheme
 				"weight"	"900"
 			}
 		}
-		MatchmakingDialogMenuSmallest
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"18"
-				"tall_lodef"		"18"
-				"weight"	"900"
-			}
-		}
-		RankingDialogHeaders
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"15"
-				"weight"	"900"
-			}
-		}
-
-		"TeamMenuBold"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"36"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
 		"TeamMenu"
 		{
 			"1"
@@ -2158,17 +1144,6 @@ Scheme
 				"name"		"Renogare Soft"
 				"tall"		"11"
 				"weight"	"600"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
-		"IntroMenuCaption"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"18"
-				"weight"	"400"
 				"additive"	"0"
 				"antialias" 	"1"
 			}
@@ -2183,70 +1158,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"ImportToolSmallestBold"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"weight"	"600"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
-		"ImportToolSmallest"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
-		"SpectatorVerySmall"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"7"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		// Used by scoreboard and spectator UI for names which don't map in the normal fashion
-		"DefaultVerySmallFallBack"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"		"480 599"
-				"antialias"	"1"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"12"
-				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"		"600 1199"
-				"antialias"	"1"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"15"
-				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"		"1200 6000"
-				"antialias"	"1"
-			}
-		}
 
 		"ItemFontNameSmallest"
 		{
@@ -2254,17 +1165,6 @@ Scheme
 			{
 				"name"		"Renogare Soft"
 				"tall"		"8"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"ItemFontNameSmall"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2279,38 +1179,6 @@ Scheme
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
-			}
-		}
-		"ItemFontNameLarger"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"18"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"ItemFontAttribSmallest"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"7"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
-		ItemFontAttribSmallv2
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"8"
-				"antialias" "1"
-				"weight"	"500"
 			}
 		}
 		"ItemFontAttribSmall"
@@ -2335,18 +1203,6 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		"ItemFontAttribLarger"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
-
 		"AchievementTracker_Name"
 		{
 			"1"
@@ -2358,29 +1214,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		"AchievementTracker_NameGlow"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"9"
-				"weight"	"500"
-				"blur"		"3"
-				"additive"	"1"
-				"antialias" 	"1"
-			}
-		}
-		"AchievementTracker_Desc"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"7"
-				"weight"	"0"
-				"additive"	"1"
-				"antialias" 	"1"
-			}
-		}
+
 		"QuestObjectiveTracker_Desc"
 		{
 			"1"
@@ -2392,268 +1226,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		"QuestObjectiveTracker_DescGlow"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"7"
-				"weight"	"0"
-				"antialias" 	"1"
-			}
-		}
-		"QuestObjectiveTracker_DescBlur"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"7"
-				"weight"	"0"
-				"blur"		"3"
-				"additive"	"1"
-				"antialias" 	"1"
-			}
-		}
-		"ItemTrackerScore_InGame"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"7"
-				"weight"	"0"
-				"antialias" 	"1"
-			}
-		}
 
-		"QuestFlavorText"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"weight"	"400"
-				"yres"		"480 599"
-				"additive"	"0"
-				"antialias"	"1"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"400"
-				"additive"	"0"
-				"yres"		"600 1023"
-				"antialias"	"1"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"18"
-				"weight"	"400"
-				"additive"	"0"
-				"yres"		"1024 6000"
-				"antialias"	"1"
-			}
-		}
-
-		"QuestObjectiveText"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"weight"	"800"
-				"yres"		"480 599"
-				"additive"	"0"
-				"antialias"	"1"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"800"
-				"additive"	"0"
-				"yres"		"600 1023"
-				"antialias"	"1"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"18"
-				"weight"	"800"
-				"additive"	"0"
-				"yres"		"1024 6000"
-				"antialias"	"1"
-			}
-		}
-
-		"QuestLargeText"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"16"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-
-		"QuestStickyText"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"20"
-				"antialias" "1"
-				"custom"		"1" [$OSX]
-				"weight"	"500"
-			}
-		}
-
-		"QuestInstructionText_Merasmus"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"weight"	"400"
-				"yres"		"480 599"
-				"additive"	"0"
-				"antialias"	"1"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"400"
-				"additive"	"0"
-				"yres"		"600 1023"
-				"antialias"	"1"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"22"
-				"weight"	"400"
-				"additive"	"0"
-				"yres"		"1024 6000"
-				"antialias"	"1"
-			}
-		}
-
-		"QuestFlavorText_Merasmus"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"weight"	"400"
-				"yres"		"480 599"
-				"additive"	"0"
-				"antialias"	"1"
-				"italic"	"1"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"400"
-				"additive"	"0"
-				"yres"		"600 1023"
-				"antialias"	"1"
-				"italic"	"1"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"22"
-				"weight"	"400"
-				"additive"	"0"
-				"yres"		"1024 6000"
-				"antialias"	"1"
-				"italic"	"1"
-			}
-		}
-
-		"QuestObjectiveText_Merasmus"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"weight"	"800"
-				"yres"		"480 599"
-				"additive"	"0"
-				"antialias"	"1"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"800"
-				"additive"	"0"
-				"yres"		"600 1023"
-				"antialias"	"1"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"18"
-				"weight"	"800"
-				"additive"	"0"
-				"yres"		"1024 6000"
-				"antialias"	"1"
-			}
-		}
-
-		"QuestMediumText_Merasmus"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"13"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-
-		"QuestLargeText_Merasmus"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"16"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-
-		"AdFont_ItemName"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-
-		"AdFont_AdText"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"8"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
 		"AdFont_PurchaseButton"
 		{
 			"1"
@@ -2665,242 +1238,7 @@ Scheme
 			}
 		}
 
-		"TradeUp_Text"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"8"
-				"weight"	"400"
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-
-		"TradeUp_Quote"
-		{
-			"1"
-			{
-				"name"		"Trebuchet MS"
-				"tall"		"9"
-				"weight"	"400"
-				"antialias" "1"
-				"additive"	"0"
-				"italic"	"1"
-			}
-		}
-
-		//
-		//////////////////// REPLAY FONTS //////////////////////////////
-		//
-		"ReplayVerySmall"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"12"
-				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"480 599"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"12"
-				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"600 767"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"12"
-				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"768 1023"
-				"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1024 1199"
-				"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"16"
-				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
-				"antialias"	"1"
-			}
-		}
-		"ReplayBrowserSmallest"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"11"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
-		"ReplaySmaller"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"12"
-				"weight"	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"480 599"
-			}
-			"2"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"13"
-				"weight"	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"600 767"
-			}
-			"3"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"768 1023"
-				"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"20"
-				"weight"	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"1024 1199"
-				"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"22"
-				"weight"	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"1200 6000"
-				"antialias"	"1"
-			}
-			"6"
-			{
-				"name"		"Arial"
-				"tall"		"12"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"0"
-			}
-		}
-		"ReplayMediumSmall"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"11"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"ReplayMedium"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"ReplayMediumBig"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"18"
-				"tall_hidef"	"24"
-				"tall_lodef"	"18"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"ReplayBrowserTab"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"24"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"ReplayLarger"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"18"
-				"tall_hidef"	"24"
-				"tall_lodef"	"20"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-
-		//
 		//////////////////// ECON FONTS //////////////////////////////
-		//
-		"EconFontSmall"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"EconFontMedium"
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"24"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-
-		ControllerHintText
-		{
-			"1"
-			{
-				"name"		"Renogare Soft"
-				"tall"		"15"
-				"weight"	"500"
-				"range"		"0x0000 0x007F"
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
 
 		"MMenuPlayListDesc"
 		{
@@ -2913,148 +1251,450 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-
-		"XPSource"
+		"Symbols 10"
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
-				"tall"		"11"
-				"weight"	"500"
-				"antialias" 	"1"
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"10"
+				"additive"  	"0"
+				"antialias"		"1"
 			}
 		}
 
-		"XPSource_Glow"
+		"Symbols 12"
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
-				"tall"		"11"
-				"weight"	"500"
-				"blur"		"3"
-				"additive"	"1"
-				"antialias" 	"1"
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"12"
+				"additive"  	"0"
+				"antialias"		"1"
 			}
 		}
 
-		"MapVotesPercentage"
+		"Symbols 14"
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
-				"tall"		"12"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-				"dropshadow"	"1"
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"14"
+				"additive"  	"0"
+				"antialias"		"1"
 			}
 		}
 
-		"QuestMap_Small_Blur"
+		"Symbols 16"
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
-				"tall"		"7"
-				"weight"	"0"
-				"blur"		"3"
-				"additive"	"1"
-				"antialias" 	"1"
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"16"
+				"additive"  	"0"
+				"antialias"		"1"
 			}
 		}
 
-		"QuestMap_Small"
+		"Symbols 18"
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
-				"tall"		"7"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"18"
+				"additive"  	"0"
+				"antialias"		"1"
 			}
 		}
 
-		"QuestMap_Medium"
+		"Symbols 20"
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
-				"tall"		"10"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"20"
+				"additive"  	"0"
+				"antialias"		"1"
 			}
 		}
 
-		"QuestMap_Large"
+		"Symbols 22"
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
-				"tall"		"14"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"22"
+				"additive"  	"0"
+				"antialias"		"1"
 			}
 		}
 
-		"QuestMap_Huge"
+		"Symbols 24"
 		{
 			"1"
 			{
-				"name"		"Renogare Soft"
-				"tall"		"30"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias" "1"
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"24"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 26"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"26"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 28"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"28"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 30"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"30"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 34"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"34"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 38"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"38"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 40"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"40"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 46"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"46"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 48"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"48"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 50"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"50"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 54"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"54"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 58"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"58"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 60"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"60"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 64"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"64"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 68"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"68"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 70"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"70"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 72"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3s"
+				"tall"			"72"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Class Symbols 40"
+		{
+			"1"
+			{
+				"name"			"TF2 Class Icons"
+				"tall"			"40"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Class Symbols 48"
+		{
+			"1"
+			{
+				"name"			"TF2 Class Icons"
+				"tall"			"48"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Class Symbols 72"
+		{
+			"1"
+			{
+				"name"			"TF2 Class Icons"
+				"tall"			"72"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Dot 46"
+		{
+			"1"
+			{
+				"name"			"TF2 Class Icons"
+				"tall"			"46"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Dot 50"
+		{
+			"1"
+			{
+				"name"			"TF2 Class Icons"
+				"tall"			"50"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"ReadyUp 20"
+		{
+			"1"
+			{
+				"name"			"ReadyUp Symbols"
+				"tall"			"20"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+			"Symbol 10"
+		{
+			"1"
+			{
+				"name"								"Hypnotize Icons HEx5"
+				"tall"								"10"
+				"additive"  						"0"
+				"antialias"							"1"
+			}
+		}
+
+			"Symbol 16"
+		{
+			"1"
+			{
+				"name"								"Hypnotize Icons HEx5"
+				"tall"								"16"
+				"additive"  						"0"
+				"antialias"							"1"
+			}
+		}
+			"Symbol 72"
+		{
+			"1"
+			{
+				"name"								"Hypnotize Icons HEx5"
+				"tall"								"72"
+				"additive"  						"0"
+				"antialias"							"1"
+			}
+		}
+			"Hyp 72"
+		{
+			"1"
+			{
+				"name"								"Hypnotize Icons V3s"
+				"tall"								"11"
+				"additive"  						"0"
+				"antialias"							"1"
 			}
 		}
 	}
-
+	
+	"Chronos"
+			{
+			"1"
+			{
+				"name"		"Product Sans Bold"
+				"tall"		"36"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+	
 	CustomFontFiles
-	{
-
+		{
 		"1"
-		{
-			"font" "resource/scheme/fonts/Renogare.ttf"
+			{
+			"font" "resource/scheme/fonts/renogare.ttf"
 			"name" "Renogare Soft"
-		}
+			}
+
 		"2"
-		{
-			"font" "resource/scheme/fonts/Quake.ttf"
+			{
+			"font" "resource/scheme/fonts/quake.ttf"
 			"name" "HandelGothic BT"
-		}
+			}
+
 		"3"
-		{
+			{
 			"font" "resource/scheme/fonts/quake 3.ttf"
 			"name" "Handel Gothic Hollow"
-		}
+			}
+
 		"4"
-		{
-			"font" "resource/scheme/fonts/Nyan.ttf"
+			{
+			"font" "resource/scheme/fonts/nyan.ttf"
 			"name" "Visitor TT1 BRK"
-		}
+			}
+
 		"5"
-		{
-		"font"  "resource/scheme/fonts/Qurany.ttf"
+			{
+		"font"  "resource/scheme/fonts/qurany.ttf"
 		"name" "Qurany"
-		}
-		"6"
+			}
+			
+		"20"
 		{
-		"font" "resource/scheme/fonts/Hypnotize Icons.ttf"
-		"name" "Hypnotize Icons V3s"
+			"font" "resource/scheme/fonts/hypnotize icons v3s.ttf"
+			"name" "Hypnotize Icons V3s"
 		}
+
+		"21"
+		{
+			"font" "resource/scheme/fonts/tf2 class icons.otf"
+			"name" "TF2 Class Icons"
+		}
+
+		"22"
+		{
+			"font" "resource/scheme/fonts/readyup symbols.otf"
+			"name" "ReadyUp Symbols"
+		}
+		
 		"7"
 		{
 			"font" "resource/scheme/fonts/hypnotize icons hex5.ttf"
 			"name" "Hypnotize Icons HEx5"
-			"8"
+		}
+
+		"8"
 		{
 			"font" "resource/scheme/fonts/product_sans_bold.ttf"
 			"name" "Product Sans Bold"
-		}
 		}
 	}
 }

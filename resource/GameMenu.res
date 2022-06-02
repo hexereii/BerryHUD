@@ -5,21 +5,22 @@
 		"label" 		"BERRYHUD"
 		"command" 		"engine clear
 				echo; echo; echo ---------;
-				echo BerryHUD | Current release: May 22, 2022;
+				echo BerryHUD | Current release: June, 2, 2022;
 				echo BerryHUD | First release: May 30, 2021;
-				echo BerryHUD | Version: Final v. 8
+				echo BerryHUD | Version: Final v. 9
 				echo Made by Hexereii;
-				echo Twitter	 | twitter.com/hexereiitf2;
-				echo Updates | https://github.com/hexereii/BerryHUD;
+				echo Twitter	| twitter.com/hexereiitf2;
+				echo Updates | github.com/hexereii/BerryHUD;
 				echo Discord Support | discord.gg/GvDrJp9sZ6
 				echo ---------
 				showconsole"
+		"tooltip" 	"BerryHUD Final v.9"
 		"OnlyAtMenu" 	"1"
 	}
 	"SubwaySandwich"
 	{
-		"label" 		"TEMPUS CHICAGO"
-		"command" 		"engine connect chicago.tempus.xyz:27025"
+		"label" 		"MGE CHILLYPUNCH"
+		"command" 		"engine connect 172.107.202.62:27215"
 		"OnlyAtMenu" 	"1"
 	}
 	"Servers"
@@ -33,11 +34,7 @@
 		"label" 		"LOADOUTS"
 		"command" 		"engine open_charinfo"
 	}
-	"Store"
-	{
-		"label" 		"STORE"
-		"command" 		"engine open_store"
-	}
+
 	"Settings"
 	{
 		"label" 		"SETTINGS"
@@ -57,7 +54,7 @@
 	}
 	"Stream"
 	{
-		"label"			"`"
+		"label"			"0"
 		"command"		"watch_stream"
 		"tooltip"		"STREAMS"
 		"OnlyAtMenu"	"1"
@@ -65,7 +62,7 @@
 
 	"Contracker"
 	{
-		"label"			"1"
+		"label"			"I"
 		"command"		"questlog"
 		"tooltip"		"CONTRACKER"
 		"OnlyAtMenu"	"1"
@@ -73,7 +70,7 @@
 
 	"Console"
 	{
-		"label"			"}"
+		"label"			"("
 		"command"		"engine con_enable 1;toggleconsole"
 		"tooltip"		"OPEN CONSOLE"
 		"OnlyAtMenu"	"1"
@@ -81,7 +78,7 @@
 
 	"AdvancedOptions"
 	{
-		"label"			"t"
+		"label"			"}"
 		"command"		"opentf2options"
 		"tooltip"		"ADVANCED OPTIONS"
 		"OnlyAtMenu"	"1"

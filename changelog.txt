@@ -213,3 +213,9 @@ Fixed respawn timers to be consistent
 
 berryhud f7
 Fixed the map command tool to be easier to read/less glitchy
+
+berryhud f9
+Full Menus Rework!! 
+Deleted unneeded fonts, redid the symbols (fonts.res)
+Added alt version for dark-mode
+Reworked symbols in: CharInfoLoadoutSubPanel.res, Itemmodelpanel.res, Notificationtoastcontrol.res, MainMenuOverride.res, and many more!
