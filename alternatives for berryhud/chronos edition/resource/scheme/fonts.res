@@ -1621,9 +1621,7 @@ Scheme
 				"antialias"							"1"
 			}
 		}
-	}
-	
-	"Chronos"
+		"Chronos"
 			{
 			"1"
 			{
@@ -1634,6 +1632,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
+	}
 	
 	CustomFontFiles
 		{

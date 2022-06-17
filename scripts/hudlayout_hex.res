@@ -304,7 +304,7 @@
 		"wide"						"f0"
 		"tall"						"480"
 	}
-
+	
 	/////////////////////////////////////////////////////////////
 	////////////////////////SPEDOMETER////////////////////////
 	/////////////////////////////////////////////////////////////
@@ -316,12 +316,11 @@
 		"enabled" "1"
 		"visible_minmode" "1"
 		"enabled_minmode" "1"
-		"xpos" "c16"
-		"ypos" "c195"
+		"xpos" "c-58"
+		"ypos" "c140"
 		"zpos" "0"
 		"wide" "16"
-		"tall" "14"
-
+		"tall" "12"
 		"alpha" "180"
 		"image" "replay/thumbnails/funnyd1"
 		"scaleimage" "1"
@@ -334,11 +333,11 @@
 		"enabled" "1"
 		"visible_minmode" "1"
 		"enabled_minmode" "1"
-		"xpos" "c0"
-		"ypos" "c195"
+		"xpos" "c-72"
+		"ypos" "c140"
 		"zpos" "0"
 		"wide" "16"
-		"tall" "14"
+		"tall" "12"
 
 		"alpha" "180"
 		"image" "replay/thumbnails/funnyd2"
@@ -352,11 +351,11 @@
 		"enabled" "1"
 		"visible_minmode" "1"
 		"enabled_minmode" "1"
-		"xpos" "c-16"
-		"ypos" "c195"
+		"xpos" "c-86"
+		"ypos" "c140"
 		"zpos" "0"
 		"wide" "16"
-		"tall" "14"
+		"tall" "12"
 
 		"alpha" "180"
 		"image" "replay/thumbnails/funnyd3"
@@ -370,11 +369,11 @@
 		"enabled" "1"
 		"visible_minmode" "1"
 		"enabled_minmode" "1"
-		"xpos" "c-32"
-		"ypos" "c195"
+		"xpos" "c-100"
+		"ypos" "c140"
 		"zpos" "0"
 		"wide" "16"
-		"tall" "14"
+		"tall" "12"
 
 		"alpha" "180"
 		"image" "replay/thumbnails/funnyd4"
@@ -384,20 +383,22 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"SpedometerLabel"
-		"xpos" "c32"
-		"ypos" "c195"
+		"xpos" "c-40"
+		"ypos" "c144"
 		"zpos" "0"
 		"wide" "70"
-		"tall" "14"
+		"tall" "8"
 		"visible"				"1"
 		"enabled"				"1"
-		"labelText"				"ups"
+		"labelText"				"U/PS"
+		"fgcolor" 					"255 255 255 140"
 		"textAlignment"			"west"
 		"AllCaps"				"0"
 		"dulltext"				"0"
-		"brighttext"			"0"
-		"font"					"Quake12"
-	}
+		"brighttext"			"1"
+		"font"					"Quake10"
+}
+
 	/////////////////////////////////////////////////////////////
 	////////////////////////REMOVED STUFF////////////////////////
 	/////////////////////////////////////////////////////////////
@@ -430,4 +431,4 @@
 	{
 		"xpos"						"9999"
 	}
-}
+	

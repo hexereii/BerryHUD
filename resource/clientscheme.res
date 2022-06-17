@@ -23,10 +23,3 @@
 
 #base "../resource/scheme/Borders.res"
 
-///////////////////////////////////////////
-////////////////CROSSHAIRS/////////////////
-///////////////////////////////////////////
-
-#base "../customizations/Crosshair_Scheme.res"
-
-"#base"		"clientscheme_kbnhud-master.res"

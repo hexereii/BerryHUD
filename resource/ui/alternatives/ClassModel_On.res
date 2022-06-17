@@ -144,7 +144,7 @@
 			}
 			"Medic"
 			{
-				"fov"			"24"
+				"fov"			"27"
 				"angles_x"		"0"
 				"angles_y"		"205"
 				"angles_z"		"0"

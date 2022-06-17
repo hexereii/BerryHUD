@@ -105,7 +105,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
-		"command"		"continue"
+		"command"		"Continue"
 		"default"		"1"
 		"font"			"default"
 		"defaultbgColor_override"	"Black"

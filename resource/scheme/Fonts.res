@@ -1514,6 +1514,16 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+				"Class Symbols"
+		{
+			"1"
+			{
+				"name"			"TF2 Class Icons"
+				"tall"			"16"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
 
 		"Class Symbols 40"
 		{
