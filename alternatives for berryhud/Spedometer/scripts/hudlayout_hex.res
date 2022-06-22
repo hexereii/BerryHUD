@@ -50,11 +50,10 @@
 	HudDemomanPipes
 	{
 		"xpos"						"0"
-		//"xpos_minmode"				"0"
 		"ypos"						"0"
-		//"xpos_minmode"				"0"
 		"wide"						"f0"
 		"tall"						"480"
+		"bgcolor_override" "Blank"
 	}
 
 	HudArenaCapPointCountdown
@@ -304,7 +303,7 @@
 		"wide"						"f0"
 		"tall"						"480"
 	}
-	
+
 	/////////////////////////////////////////////////////////////
 	////////////////////////SPEDOMETER////////////////////////
 	/////////////////////////////////////////////////////////////
@@ -316,8 +315,8 @@
 		"enabled" "1"
 		"visible_minmode" "1"
 		"enabled_minmode" "1"
-		"xpos" "c-38"
-		"ypos" "c150"
+		"xpos" "c11"
+		"ypos" "c140"
 		"zpos" "0"
 		"wide" "16"
 		"tall" "12"
@@ -333,8 +332,8 @@
 		"enabled" "1"
 		"visible_minmode" "1"
 		"enabled_minmode" "1"
-		"xpos" "c-52"
-		"ypos" "c150"
+		"xpos" "c-2"
+		"ypos" "c140"
 		"zpos" "0"
 		"wide" "16"
 		"tall" "12"
@@ -351,8 +350,8 @@
 		"enabled" "1"
 		"visible_minmode" "1"
 		"enabled_minmode" "1"
-		"xpos" "c-66"
-		"ypos" "c150"
+		"xpos" "c-15"
+		"ypos" "c140"
 		"zpos" "0"
 		"wide" "16"
 		"tall" "12"
@@ -369,8 +368,8 @@
 		"enabled" "1"
 		"visible_minmode" "1"
 		"enabled_minmode" "1"
-		"xpos" "c-80"
-		"ypos" "c150"
+		"xpos" "c-28"
+		"ypos" "c140"
 		"zpos" "0"
 		"wide" "16"
 		"tall" "12"
@@ -383,10 +382,10 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"SpedometerLabel"
-		"xpos" "c-20"
+		"xpos" "c-8"
 		"ypos" "c153"
 		"zpos" "0"
-		"wide" "70"
+		"wide" "85"
 		"tall" "8"
 		"visible"				"1"
 		"enabled"				"1"
@@ -432,4 +431,3 @@
 	{
 		"xpos"						"9999"
 	}
-	

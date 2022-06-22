@@ -104,7 +104,7 @@ Got & modified Hypnotize's tool selection (tools.res, gamemenu.res, mainmenuover
 Made the ammo & health slightly smaller (HudAmmoWeapons.res, HudPlayerHealth.res)
 Made the change between 6s & HL versions on the Class Select (ClassSelection.res, ClassSelection_HL.res)
 
-hexhud b5.1 
+hexhud b5.1
 Changed tall value on CC in hopes to not let it clutter the screen (hudlayout.res)
 Moved Engi metal (HudAccountValue.res, hudlayout.res)
 Decided to make the button for the server-connect to Tempus Chicago (GameMenu.res)
@@ -114,7 +114,7 @@ Changed HUD name!!
 Changed the uber animation up a bit (hudanimations_hex.txt) will change the colours next patch!!
 FIXED THE FONTS, IF IT DOESN'T WORK I SWEAR- (fonts.res)
 
-berryhud b6.1 
+berryhud b6.1
 Added colour changes to full Uber % (hudanimations_hex.txt)
 Fixed the background on picked-up weapon (HudPlayerClass.res)
 
@@ -134,13 +134,13 @@ Added alternative Spy menu (disguise_menu folder, in 'alternatives for berryhud'
 berryhud b9
 Moved the uber counter over towards the HP for easier accessibility (hudmediccharge.res)
 Made the meter at the bottom of the screen as Medic slightly smaller (hudmediccharge.res)
-Fixed overheal loop so that the colours don't linger after overheal (hudanimations_hex.txt) 
+Fixed overheal loop so that the colours don't linger after overheal (hudanimations_hex.txt)
 
 berryhud b10
-Made an alternate option to turn off viewmodels (HUDPlayerClass.res) 
+Made an alternate option to turn off viewmodels (HUDPlayerClass.res)
 Fixed/added back in Advanced Options to main menu (MainMenuOverride.res/GameMenu.res)
 Moved targetid so that it's easier & more obvious for Medic with Solemn Vow to see the other medic's uber % when looking at them (hudlayout_hex.res)
-Removed uber counter from HUD 
+Removed uber counter from HUD
 
 berryhud b11
 Changed the Spectator UI (spectatortournamentguihealth.res, spectatortournament.res, hudanimations_hex.txt)
@@ -176,13 +176,13 @@ Did some editing to the Medic UI (hudmeddicharge.res & targetid.res)
 
 berryhud f3
 Fixed the background so it's a quality level of detail for everyone
-Changed the colour for overheal cross (spectatorguihealth.res) 
+Changed the colour for overheal cross (spectatorguihealth.res)
 
-berryhud f3.1 
-Fixed some panels being invisible on backpack 
+berryhud f3.1
+Fixed some panels being invisible on backpack
 Fixed Player Destruction panels (hudobjectiveplayerdestruction)
 Re-did the whole spectate so that uber would be more visible (spectatortournament.res, spectatortournamentguihealth.res)
-Fixed dueling mini-game from not working 
+Fixed dueling mini-game from not working
 Reworked 4:3 menu & 16:10 menus
 
 berryhud f4
@@ -191,8 +191,8 @@ Also, changed the uber % number to a light blue for thematic purposes (hudmeddic
 Fixed blue cross to work in tournament & casual servers
 
 berryhud f5
-Changed the shadows on ammo (hudammoweapons.res) 
-Did some cleanups to fix menus 
+Changed the shadows on ammo (hudammoweapons.res)
+Did some cleanups to fix menus
 
 berryhud f6
 Changed ammo in reserve to transparent white instead (hudammoweapons.res)
@@ -201,15 +201,34 @@ Fixed ammo to be consistent (hudammoweapons.res)
 Removed shadows from kill-name (freezepanelkillerhealth.res)
 Changed payload icons all around (objectivestatusescort.res)
 Changed the damage number to be white instead (hudammoweapons.res)
-Added killstreak counter back in the HUD 
-Fixed chat on mainmenu, finally 
+Added killstreak counter back in the HUD
+Fixed chat on mainmenu, finally
 
 berryhud f6.1
 Moved the killstreak to the top right for less clutter
-Fixed diamondback crits 
+Fixed diamondback crits
 
-berryhud f6.2 
-Fixed respawn timers to be consistent 
+berryhud f6.2
+Fixed respawn timers to be consistent
 
 berryhud f7
 Fixed the map command tool to be easier to read/less glitchy
+
+berryhud f8
+Changed the class select
+Added a few new versions
+Moved spedometer (hudlayout_hex.res)
+
+berryhud f9
+Full Menus Rework!!
+Deleted unneeded fonts, redid the symbols (fonts.res)
+Added alt version for dark-mode
+Reworked symbols in: CharInfoLoadoutSubPanel.res, Itemmodelpanel.res, Notificationtoastcontrol.res, MainMenuOverride.res, and many more!
+
+berryhud f10
+Bug fixes;
+Fixed Frag counter cutting off (huditemeffectmeter_killstreak)
+Fixed 200 hp cutting off (spectatorguihealth)
+Fixed a ton of item effect meters; the hud was intended to be used in competitive play, and I just never saw them or got complaints
+Changed position of the spedometer alt mod
+Changed position of the Demoman's stickybomb meter, and sticky count 
