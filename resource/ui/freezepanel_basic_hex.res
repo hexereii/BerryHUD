@@ -7,17 +7,17 @@
 
 		"screenshot_move_panel_to_corner"	"0"
 	}
-	
+
 	"FreezePanelBase"
 	{
 		"ControlName"						"EditablePanel"
 		"fieldName"							"FreezePanelBase"
 		"xpos"								"0"
-		"ypos"								"280"		
-		"wide"								"f0"		
-		"tall"								"f0"		
+		"ypos"								"280"
+		"wide"								"f0"
+		"tall"								"f0"
 		"visible"							"1"
-		
+
 		"FreezePanelHealth"
 		{
 			"ControlName"					"CTFFreezePanelHealth"
@@ -28,16 +28,16 @@
 			"wide"							"f0"
 			"tall"							"f0"
 			"visible"						"1"
-			"enabled"						"1"	
+			"enabled"						"1"
 			"HealthBonusPosAdj"				"9"
 			"HealthDeathWarning"			"0.49"
 			"TFFont"						"HudFontSmall"
 			"HealthDeathWarningColor"		"HUDDeathWarning"
 			"TextColor"						"HudOffWhite"
-		}	
-	
+		}
+
 		"FreezeLabelKiller"
-		{	
+		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"FreezeLabelKiller"
 			"font"							"Quake14"
@@ -54,7 +54,7 @@
 			"textAlignment"					"center"
 			"fgcolor_override"				"White"
 		}
-		
+
 		"FreezeLabelKillerShadow"
 		{
 			"ControlName"					"CExLabel"
@@ -68,11 +68,11 @@
 			"pinCorner"						"0"
 			"visible"						"1"
 			"enabled"						"1"
-			"textAlignment"					"center"	
+			"textAlignment"					"center"
 			"labeltext"						"%killername%"
 			"font"							"Quake14"
 			"fgcolor_override"				"Black"
-		
+
 			"pin_to_sibling"				"FreezeLabelKiller"
 		}
 
@@ -88,14 +88,14 @@
 			"visible"						"0"
 			"enabled"						"1"
 			"bgcolor_override"				"RedLight"
-			
+
 			"pin_to_sibling" 				"FreezeLabelKiller"
 			"pin_corner_to_sibling" 		"PIN_CENTER_TOP"
 			"pin_to_sibling_corner" 		"PIN_CENTER_TOP"
-		}	
-		
+		}
+
 		"FreezeLabel"
-		{	
+		{
 			"ControlName"							"Label"
 			"fieldName"								"FreezeLabel"
 			"wide"									"0"
@@ -120,7 +120,7 @@
 			"tall"									"0"
 			"visible"								"0"
 			"enabled"								"0"
-		}		
+		}
 		"NemesisSubPanel"
 		{
 			"ControlName"							"EditablePanel"
@@ -131,7 +131,7 @@
 			"enabled"								"0"
 		}
 	}
-	
+
 	"itempanel"
 	{
 		"ControlName"						"CItemModelPanel"
@@ -145,22 +145,22 @@
 		"PaintBackground"					"0"
 		"PaintBorder"						"1"
 		"border"							"BlackTransparent50"
-		
+
 		"model_ypos"						"10"
 		"model_center_x"					"1"
 		"model_wide"						"90"
 		"model_tall"						"60"
-		
+
 		"text_xpos"							"10"
 		"text_ypos"							"10"
 		"text_wide"							"170"
 		"text_center"						"1"
-		
+
 		"max_text_height"					"100"
 		"padding_height"					"10"
 		"resize_to_text"					"1"
 		"text_forceQuake"					"2"
-		
+
 		"itemmodelpanel"
 		{
 			"fieldName"						"itemmodelpanel"
@@ -168,9 +168,9 @@
 			"inventory_image_type"			"1"
 			"useparentbg"					"1"
 		}
-		
+
 		"ItemLabel"
-		{	
+		{
 			"ControlName"					"Label"
 			"fieldName"						"ItemLabel"
 			"font"							"DefaultSmall"
@@ -189,11 +189,11 @@
 			"brighttext"					"0"
 		}
 	}
-		
+
 	"ScreenshotPanel"
 	{
 		"ControlName"						"EditablePanel"
 		"fieldName"							"ScreenshotPanel"
 		"xpos"								"9999"
-	}	
+	}
 }

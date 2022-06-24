@@ -271,7 +271,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"chargeamount"
-				"font"		"Bold9"
+				"font"		"Quake9"
 				"xpos"			"1"
 				"ypos"			"1"
 				"zpos"			"6"
@@ -280,7 +280,7 @@
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"center"
-				"fgcolor"		"Blue"
+				"fgcolor"		"NeonGreen"
 			}
 
 			"specindex"

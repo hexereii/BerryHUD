@@ -10,7 +10,7 @@
 		"delta_lifetime"		"1"
 		"delta_item_font"		"Quake18"
 	}
-	
+
 	"AccountBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -29,8 +29,8 @@
 		"teambg_3"		"../hud/misc_ammo_area_blue"
 		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"
 	}
-	
-	"MetalIcon"	
+
+	"MetalIcon"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MetalIcon"
@@ -45,11 +45,11 @@
 		"tall_lodef"	"15"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_metal"
 		"iconColor"		"ProgressOffWhite"
 	}
-	
+
 	"AccountValue"
 	{
 		"ControlName"	"CExLabel"

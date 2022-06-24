@@ -232,3 +232,6 @@ Fixed 200 hp cutting off (spectatorguihealth)
 Fixed a ton of item effect meters; the hud was intended to be used in competitive play, and I just never saw them or got complaints
 Changed position of the spedometer alt mod
 Changed position of the Demoman's stickybomb meter, and sticky count 
+
+berryhud f10.2
+Fixed Killcam animations (freezepanel_basic_hex.res)

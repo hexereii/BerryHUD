@@ -107,6 +107,9 @@ event HudLowAmmoPulseStop
 //====================================================================================================================
 event HudMedicCharged
 {
+	Animate chargeamount 						FgColor 	"UberBlue" 					Linear 	0.0 	0.8
+	Animate chargeamount						FgColor 	"UberGreen" 					Linear 	0.8 	0.8
+	
 	Animate ChargeLabel 						FgColor 	"UberBlue" 					Linear 	0.0 	0.8
 	Animate ChargeLabel						FgColor 	"UberGreen" 					Linear 	0.8 	0.8
 
