@@ -816,7 +816,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"SubwaySandwich"
-		"xpos"				"c-320"
+		"xpos"				"0"
 		"ypos"				"102"
 		"zpos"				"15"
 		"wide"				"150"
@@ -856,7 +856,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Servers"
-		"xpos"				"c-320"
+		"xpos"				"0"
 		"ypos"				"119"
 		"zpos"				"15"
 		"wide"				"150"
@@ -897,7 +897,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Items"
-		"xpos"				"c-320"
+		"xpos"				"0"
 		"ypos"				"136"
 		"zpos"				"15"
 		"wide"				"150"
@@ -938,7 +938,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Store"
-		"xpos"				"c-320"
+		"xpos"				"0"
 		"ypos"				"153"
 		"zpos"				"15"
 		"wide"				"150"
@@ -979,7 +979,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Settings"
-		"xpos"				"c-320"
+		"xpos"				"0"
 		"ypos"				"170"
 		"zpos"				"15"
 		"wide"				"150"
@@ -1021,7 +1021,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Demoui"
-		"xpos"				"c-320"
+		"xpos"				"0"
 		"ypos"				"187"
 		"zpos"				"15"
 		"wide"				"150"
@@ -1062,7 +1062,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Quit"
-		"xpos"				"c-320"
+		"xpos"				"0"
 		"ypos"				"204"
 		"zpos"				"15"
 		"wide"				"150"
@@ -1144,7 +1144,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"			"Disconnect"
-		"xpos"				"c-320"
+		"xpos"				"0"
 		"ypos"				"187"
 		"zpos"				"15"
 		"wide"				"150"
