@@ -14,7 +14,7 @@
 				echo Discord Support | discord.gg/GvDrJp9sZ6
 				echo ---------
 				showconsole"
-		"tooltip" 	"BerryHUD Final v.9"
+		"tooltip" 	"BerryHUD Final Final v. 10.1"
 		"OnlyAtMenu" 	"1"
 	}
 	"SubwaySandwich"

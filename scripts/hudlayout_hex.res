@@ -275,7 +275,7 @@
 		"fieldName" 	"HudMenuSpyDisguise"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-235"
+		"xpos"			"c0"
 		"ypos"			"c-52"
 		"ypos_hidef"	"c-42"
 		"ypos_lodef"	"c-42"
@@ -311,7 +311,7 @@
 	{
 		"controlName" "CTFImagePanel"
 		"fieldName" "speed1"
-		"visible" "1"
+		"visible" "0"
 		"enabled" "1"
 		"visible_minmode" "1"
 		"enabled_minmode" "1"
@@ -328,7 +328,7 @@
 	{
 		"controlName" "CTFImagePanel"
 		"fieldName" "speed1"
-		"visible" "1"
+		"visible" "0"
 		"enabled" "1"
 		"visible_minmode" "1"
 		"enabled_minmode" "1"
@@ -346,7 +346,7 @@
 	{
 		"controlName" "CTFImagePanel"
 		"fieldName" "speed1"
-		"visible" "1"
+		"visible" "0"
 		"enabled" "1"
 		"visible_minmode" "1"
 		"enabled_minmode" "1"
@@ -364,7 +364,7 @@
 	{
 		"controlName" "CTFImagePanel"
 		"fieldName" "speed1"
-		"visible" "1"
+		"visible" "0"
 		"enabled" "1"
 		"visible_minmode" "1"
 		"enabled_minmode" "1"
@@ -387,7 +387,7 @@
 		"zpos" "0"
 		"wide" "85"
 		"tall" "8"
-		"visible"				"1"
+		"visible"				"0"
 		"enabled"				"1"
 		"labelText"				"U/PS"
 		"fgcolor" 					"255 255 255 140"
