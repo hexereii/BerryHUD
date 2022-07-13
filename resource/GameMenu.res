@@ -5,16 +5,16 @@
 		"label" 		"BERRYHUD"
 		"command" 		"engine clear
 				echo; echo; echo ---------;
-				echo BerryHUD | Current release: June, 24, 2022;
+				echo BerryHUD | Current release: July, 13, 2022;
 				echo BerryHUD | First release: May 30, 2021;
-				echo BerryHUD | Version: Final v. 10.1
+				echo BerryHUD | Version: Final v. 10.3
 				echo Made by Hexereii;
 				echo Twitter	| twitter.com/hexereiitf2;
 				echo Updates | github.com/hexereii/BerryHUD;
 				echo Discord Support | discord.gg/GvDrJp9sZ6
 				echo ---------
 				showconsole"
-		"tooltip" 	"BerryHUD Final Final v. 10.1"
+		"tooltip" 	"BerryHUD Final Final v. 10.3"
 		"OnlyAtMenu" 	"1"
 	}
 	"SubwaySandwich"

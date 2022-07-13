@@ -235,3 +235,6 @@ Changed position of the Demoman's stickybomb meter, and sticky count
 
 berryhud f10.2
 Fixed Killcam animations (freezepanel_basic_hex.res)
+
+berryhud f10.3
+Fixed MGE text not showing (fonts.res)

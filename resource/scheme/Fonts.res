@@ -385,6 +385,19 @@ Scheme
 		////////////////////////////////DEFAULT FONTS//////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////
 
+		CenterPrintText
+		{
+			// note that this scales with the screen resolution
+			"1"
+			{
+				"name"		"HandelGothic BT"
+				"tall"		"18"
+				"weight"	"900"
+				"antialias" "1"
+				"additive"	"1"
+			}
+		}
+
 		"Default"
 		{
 			"1"
