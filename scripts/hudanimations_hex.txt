@@ -78,10 +78,10 @@ event HudLowAmmoPulse
 	Animate AmmoInClip     				FgColor     "WhiteTransparent"     				Linear 0.0 0.3
 	Animate AmmoInClip    					FgColor     "RedLight"									Linear 0.3 0.6
 
-	Animate AmmoInReserve     				FgColor     "WhiteTransparent"     				Linear 0.0 0.3
+	Animate AmmoInReserve     				FgColor     "NeonGreen"     				Linear 0.0 0.3
 	Animate AmmoInReserve    					FgColor     "RedLight"									Linear 0.3 0.6
 
-  Animate AmmoNoClip     				FgColor     "WhiteTransparent"     				Linear 0.0 0.3
+  Animate AmmoNoClip     				FgColor     "NeonGreen"     				Linear 0.0 0.3
   Animate AmmoNoClip    					FgColor     "RedLight"									Linear 0.3 0.6
 
 	RunEvent HudLowAmmoPulseLoop				0.9
@@ -97,11 +97,11 @@ event HudLowAmmoPulseStop
 	StopEvent HudLowAmmoPulse 					0.0
 	StopEvent HudLowAmmoPulseLoop 				0.0
 
-	Animate AmmoInClip 							FgColor 	"Ammo In Clip" 						Linear 	0.0 	0.0
+	Animate AmmoInClip 							FgColor 	"WhiteTransparent" 						Linear 	0.0 	0.0
 
-	Animate AmmoInReserve 					FgColor 	"Ammo In Reserve" 					Linear 	0.0 	0.0
+	Animate AmmoInReserve 					FgColor 	"NeonGreen" 					Linear 	0.0 	0.0
 
-	Animate AmmoNoClip 							FgColor 	"Ammo No Clip" 						Linear 	0.0 	0.0
+	Animate AmmoNoClip 							FgColor 	"WhiteTransparent" 						Linear 	0.0 	0.0
 }
 
 //====================================================================================================================

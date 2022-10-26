@@ -238,3 +238,8 @@ Fixed Killcam animations (freezepanel_basic_hex.res)
 
 berryhud f10.3
 Fixed MGE text not showing (fonts.res)
+
+berryhud f11
+Made it so spedometer is just default on minmode (sourcescheme.res)
+Changed colour of reserve ammo (HudAmmoWeapons.res, HudAnimations_Hex.res)
+Still trying to find what happened to the text in HUDHint..
