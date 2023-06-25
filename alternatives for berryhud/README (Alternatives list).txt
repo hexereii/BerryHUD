@@ -47,3 +47,6 @@ Drag the folders inside "Chronos edition" into your main folder to change some f
 
 berryhud after dark
 Drag the folders inside "berryhud after dark" into your main folder, and it will change all your backgrounds!
+
+Transparent Viewmodels
+Make a copy of your regular scripts/hudlayout.res, Drag the folders inside "Transparent Viewmodels" into your main folder, and add 'exec enable_transparency' to your autoexec.cfg. To revert, overwrite scripts/hudlayout.res with the copy.
