@@ -1,0 +1,57 @@
+{
+  "name": "FlawHUD",
+  "author": "CriticalFlaw",
+  "social": {
+    "steam_profile": "76561198041892999",
+    "steam_group": "flawhud",
+    "twitter": "CriticalFlaw_",
+    "discord": "hTdtK9vBhE",
+    "album": "https://imgur.com/a/0whDjXr"
+  },
+  "flags": [
+    "customization",
+    "crosshairs",
+    "streamer-mode"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ]
+  },
+  "repo": "https://github.com/CriticalFlaw/flawhud",
+  "hash": "955234cba39e32b7bbcba8a20e2f3f5b7777e494",
+  "resources": [
+    "banner",
+    "hud",
+    "scoreboard",
+    "spectator",
+    "menu",
+    "loadout"
+  ]
+}

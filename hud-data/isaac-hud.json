@@ -1,0 +1,13 @@
+{
+  "name": "Isaac HUD",
+  "author": "Xeletron",
+  "social": {
+    "steam_group": "IsaacHud",
+    "album": "https://imgur.com/a/6vY5W"
+  },
+  "repo": "https://github.com/Xeletron/Isaac-Hud",
+  "hash": "b5c9b965cf01cea964899683188f88f12e51f10b",
+  "resources": [
+    "isaac-hud-banner"
+  ]
+}

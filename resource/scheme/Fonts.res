@@ -142,7 +142,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -153,7 +153,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -164,7 +164,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -175,7 +175,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" "1"
@@ -186,7 +186,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -197,7 +197,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"HandelGothic BT"
+				"name"	"NexaBold"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -208,7 +208,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"HandelGothic BT"
+				"name"	"NexaBold"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -219,7 +219,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"HandelGothic BT"
+				"name"	"NexaBold"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -241,7 +241,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"HandelGothic BT"
+				"name"	"NexaBold"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -264,7 +264,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -275,7 +275,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -286,7 +286,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -297,7 +297,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"33"
 				"additive"	"0"
 				"antialias" "1"
@@ -308,7 +308,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"33"
 				"additive"	"0"
 				"antialias" "1"
@@ -319,7 +319,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -330,7 +330,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"38"
 				"additive"	"0"
 				"antialias" "1"
@@ -341,7 +341,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"40"
 				"additive"	"0"
 				"antialias" "1"
@@ -352,7 +352,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"42"
 				"additive"	"0"
 				"antialias" "1"
@@ -363,7 +363,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"50"
 				"additive"	"0"
 				"antialias" "1"
@@ -374,7 +374,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"56"
 				"additive"	"0"
 				"antialias" "1"
@@ -390,7 +390,7 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"HandelGothic BT"
+				"name"		"NexaBold"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" "1"
@@ -802,13 +802,35 @@ Scheme
 			"1"
 			{
 				"name"		"Renogare Soft"
-				"tall"		"8"
+				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-
+		HudHintTextLarge
+		{
+			"1"	
+			{
+				"name"		"Verdana" 
+				"tall"		"14"
+				"weight"	"1000"
+				"antialias" "1"
+				"additive"	"1"
+			}
+		}
+		HudHintTextSmall
+		{
+			"1"
+			{
+				"name"		"Verdana" 
+				"tall"		"11"
+				"weight"	"0"
+				"antialias" "1"
+				"additive"	"1"
+			}
+		}
+		
 		"HudSelectionText"
 		{
 			"1"
@@ -860,45 +882,7 @@ Scheme
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
-		HudHintText
-		{
-			"1"
-			{
-				"name"		"NexaBold"
-				"tall"		"12"
-				"weight"	"700"
-				"yres"	"480 599"
-			}
-			"2"
-			{
-				"name"		"NexaBold"
-				"tall"		"13"	[$WIN32]
-				"tall"		"23"	[$X360]
-				"weight"	"700"
-				"yres"	"600 767"
-			}
-			"3"
-			{
-				"name"		"NexaBold"
-				"tall"		"14"
-				"weight"	"700"
-				"yres"	"768 1023"
-			}
-			"4"
-			{
-				"name"		"NexaBold"
-				"tall"		"20"
-				"weight"	"700"
-				"yres"	"1024 1199"
-			}
-			"5"
-			{
-				"name"		"NexaBold"
-				"tall"		"24"
-				"weight"	"700"
-				"yres"	"1200 10000"
-			}
-		}
+
 		TFTypeDeath
 		{
 			"1"
@@ -1694,8 +1678,8 @@ Scheme
 
 		"2"
 			{
-			"font" "resource/scheme/fonts/quake.ttf"
-			"name" "HandelGothic BT"
+			"font" "resource/scheme/fonts/quake.otf"
+			"name" "NexaBold"
 			}
 
 		"3"

@@ -1,0 +1,78 @@
+{
+  "name": "PeachHUD",
+  "author": "Peaches",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "social": {
+    "support": "https://ko-fi.com/peachestv",
+    "discord": "HyZRVtp",
+    "youtube": "@PeachesFPS",
+    "twitch": "peachestv",
+    "album": "https://imgur.com/a/j6d9TjP"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9"
+    ],
+    "position": [
+      "center",
+      "corners"
+    ],
+    "lang": [
+      "en"
+    ]
+  },
+  "tags": [
+    "minimal"
+  ],
+  "repo": "https://github.com/PapaPeach/PeachHUD",
+  "hash": "9747ed5aa5184c75d4bd2b84cac2b6fcfc3114d7",
+  "resources": [
+    "PeachHUD-banner",
+    "ingame",
+    "ingame-low",
+    "scoreboard",
+    "loadout",
+    "darkmode"
+  ]
+}

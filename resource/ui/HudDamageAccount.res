@@ -10,8 +10,8 @@
 		"text_y"			      	"0"
 		"delta_item_end_y"		"0"
 		"delta_lifetime"	  	"1.6"
-		"delta_item_font"	  	"Quake20"
-		"delta_item_font_big"	"Quake20"
+		"delta_item_font"	  	"Quake20S"
+		"delta_item_font_big"	"Quake20S"
 		"dropshadow" "1"
 	}
 	"DamageAccountValue"

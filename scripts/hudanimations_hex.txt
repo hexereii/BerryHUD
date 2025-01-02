@@ -530,3 +530,8 @@ event HudSpyDisguiseFadeOut
 	Animate PlayerStatusSpyImage			Alpha		"0"				Linear 0.9 0.1
 }
 //====================================================================================================================
+event HudMatchSummary_SlideInPanels
+{
+	Animate BlueTeamPanel xpos 0 Accel 0.25 0.25
+	Animate RedTeamPanel xpos 0 Accel 0.25 0.25
+}
